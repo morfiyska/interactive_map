@@ -1,0 +1,4979 @@
+{
+  "type": "FeatureCollection",
+  "name": "Заправочные станции",
+  "style": {
+    "color": "#0000ff",
+    "radius": 11,
+    "icon": "gasoline-svgrepo-com.svg"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "ec16d1cf-84d1-4b05-8c41-99c51237d1fa",
+      "properties": {
+        "name": "Омни, АЗС",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "4.0",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.26476,
+          52.251407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96bc9063-0230-4011-918a-c8289a365777",
+      "properties": {
+        "name": "Омни, АЗС",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "4.1",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.292178,
+          52.238009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c418c4a4-5eef-460f-a401-74463bb4b7f4",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.6",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.265569,
+          52.326199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2690c5ba-49b9-48a9-ba96-e51dfaefeea6",
+      "properties": {
+        "name": "Омни, АЗС №16",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "3.1",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.257403,
+          52.325975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5c4088fb-b2a5-4532-8b5a-2580e6c27aac",
+      "properties": {
+        "name": "Омни, АЗС №18",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "3.7",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.244608,
+          52.301002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35fe0b2e-71ec-4cd3-9cff-7460584b100b",
+      "properties": {
+        "name": "Омни, АЗС",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "3.6",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.194168,
+          52.260794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4287e6de-262b-46f6-9719-704e15bc250a",
+      "properties": {
+        "name": "Омни, АЗС",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "3.9",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.233847,
+          52.336449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26cb75d1-8779-42e3-8b13-a02c703147d6",
+      "properties": {
+        "name": "Омни, АЗС",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "3.3",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.128037,
+          52.35928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1bc6f0fb-0e7d-4d42-b14a-bba4d20cc2bf",
+      "properties": {
+        "name": "Крайс-транс",
+        "subcategory": "Заправочные станции",
+        "rating": "2.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.384795,
+          52.254849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ef3922f1-aec5-4c11-9350-7c33839a9626",
+      "properties": {
+        "name": "Омни, АЗС",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "2.9",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.355411,
+          52.290667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "09810289-bfd2-42cc-a7fb-9c52d6cafd50",
+      "properties": {
+        "name": "Омни, АЗС",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "4.1",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.345691,
+          52.256676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "51bfe77f-0d51-4ddc-ac43-f912c9fc9d29",
+      "properties": {
+        "name": "Омни, АЗС",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "4.0",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.313182,
+          52.293128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7f45ae8e-5cb0-4959-bd24-7450fea37839",
+      "properties": {
+        "name": "Омни, АЗС",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "4.7",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.297286,
+          52.320179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c8f8e80e-a2c4-42b0-9860-faff95aa982e",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.5",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.342523,
+          52.262882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "23fcfecd-764b-418e-971d-23858cc312ac",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.5",
+        "site": "http://kraisneft.ru",
+        "hours": "Ежедневно с 00:05 до 23:40 (санитарный день: первый пн месяца)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.350934,
+          52.262555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7b419c93-b471-44b6-b378-929221485b3a",
+      "properties": {
+        "name": "Омни, АЗС",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "3.9",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.160676,
+          52.341992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0ff66861-700a-47ce-9ae8-393bfb49e53d",
+      "properties": {
+        "name": "Терра, газовая компания",
+        "subcategory": "Заправочные станции",
+        "rating": "3.7",
+        "site": "http://alvit-bk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.217766,
+          52.367456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "63c18ee7-7d40-42b3-8d02-7156fb9a50a3",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.1",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.269479,
+          52.287445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c79dc455-46b8-4662-aad0-d94dd271dffb",
+      "properties": {
+        "name": "Омни, АЗС",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "4.2",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.213343,
+          52.329225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "44e42d47-fa98-466e-8fd0-4de57aad5c3b",
+      "properties": {
+        "name": "Омни, АЗС",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "3.8",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.307134,
+          52.237744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "29c495bc-13ae-4e6e-86b7-11a806e2f7c7",
+      "properties": {
+        "name": "Омни, АЗС",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "2.8",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.22816,
+          52.265058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1883e6ab-eeec-4476-8bcc-7c70bdbb8bf6",
+      "properties": {
+        "name": "Терра, газовая компания",
+        "subcategory": "Заправочные станции",
+        "rating": "4.3",
+        "site": "http://alvit-bk.ru",
+        "hours": "Круглосуточно (технический перерыв: пн-вс 9:40-10:00; заправка баллонов: пн-вс 7:00-23:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.075746,
+          52.201447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34202ca0-ac1b-406d-baee-675f3484d1da",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.3",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.216648,
+          52.268291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8a348990-18d3-4dd0-8c8a-17423cc67c4e",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.0",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.247113,
+          52.260317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "87fcd886-4fe3-460b-a5ca-4d4cb0f05864",
+      "properties": {
+        "name": "БРК, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.170758,
+          52.33367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2fe9e74e-3b17-40a4-bcee-374889d35b1b",
+      "properties": {
+        "name": "БРК, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.8",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.299699,
+          52.312384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ac5d0f19-3313-4192-836e-4696eeff730e",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.6",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.235151,
+          52.317941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cb6f37d3-044d-4283-ad0c-689fe682b9ad",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.1",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.274966,
+          52.220211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8045764f-cde2-4e0d-9bbe-60eb950e5b83",
+      "properties": {
+        "name": "Газомаркет",
+        "subcategory": "Заправочные станции",
+        "rating": "3.6",
+        "site": "http://gazomarket.ru",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.305609,
+          52.322291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7398b8dd-7044-4530-9990-b0f2964f4bae",
+      "properties": {
+        "name": "Газомаркет",
+        "subcategory": "Заправочные станции",
+        "rating": "2.5",
+        "site": "http://gazomarket.ru",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.358251,
+          52.464967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "25b3b85b-eb50-4e2d-9b7e-8bd30e057432",
+      "properties": {
+        "name": "Роснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "3.0",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.210597,
+          52.351335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4326f885-2d18-42f5-affd-9786e8a4ce47",
+      "properties": {
+        "name": "Роснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "3.4",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.271332,
+          52.34841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "095b8266-83b4-4d55-a228-0fe1fb7ef97b",
+      "properties": {
+        "name": "БРК, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.19199,
+          52.341489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c0bcd6e1-81b1-4116-9204-63f25e049228",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.4",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.343442,
+          52.267349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "440c4973-d15e-4133-9573-4deff78b61c0",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.0",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.447464,
+          52.560815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7e6e85fc-897a-4295-988c-6ee9d2e1987d",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.3",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.457495,
+          52.236732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9099b534-dc75-4760-96ad-a1c503f69ad8",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.6",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.381704,
+          52.275207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d4b810ea-c059-421d-9cb5-b69096a7aa6f",
+      "properties": {
+        "name": "Газпромнефть",
+        "subcategory": "Заправочные станции",
+        "rating": "4.1",
+        "site": "http://gpnbonus.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.340489,
+          52.264708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "72443b9c-4955-4dea-9aa3-b1bfa12c4237",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.2",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.297402,
+          52.328025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d47f1607-bb5f-484c-b579-172dd0e4cefc",
+      "properties": {
+        "name": "БРК, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.337629,
+          52.291036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "151a7cce-55a2-49ce-9cc7-7ce50ea7988b",
+      "properties": {
+        "name": "Роснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "3.2",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.238016,
+          52.284777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "54d62524-10b1-4f6d-a83a-5028579968f0",
+      "properties": {
+        "name": "Роснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "2.6",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.211239,
+          52.266084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "355b5428-d349-4f29-a6f2-0af66133fec0",
+      "properties": {
+        "name": "Роснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "2.9",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.337734,
+          52.253809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ebdeb723-85ce-4ccc-8d79-5eb63b163391",
+      "properties": {
+        "name": "Роснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "3.6",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.175763,
+          52.351555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6ce1adb4-ba78-4fcd-be6f-8193c0e4b99f",
+      "properties": {
+        "name": "Роснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "2.9",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.235331,
+          52.327608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6936e5de-f146-4c9c-a4b6-777787ec2a19",
+      "properties": {
+        "name": "Роснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "2.9",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.31767,
+          52.332142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "357d74f6-d58f-4435-aaa6-515db15ba3e1",
+      "properties": {
+        "name": "Роснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "3.8",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.355303,
+          52.261271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a3e58fea-0310-4346-a6d9-8e6e3a7eebb8",
+      "properties": {
+        "name": "Роснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "3.6",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289753,
+          52.322753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2c627d65-4c68-42e7-b1cd-d03500f358bc",
+      "properties": {
+        "name": "Роснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.2",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.111838,
+          52.21228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "28d2fa09-9b5e-4ccd-8b70-173807947fe7",
+      "properties": {
+        "name": "Роснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "3.9",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.305608,
+          52.323218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d16c74c2-c188-4357-924b-235ea05b486a",
+      "properties": {
+        "name": "Роснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.4",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.316465,
+          52.332568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7d9039aa-79da-442e-ab4a-5a1e3b2c14df",
+      "properties": {
+        "name": "Омни, АЗС",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "3.5",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.015592,
+          52.402063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "587a4fe3-4569-40b6-a08f-d3ba850687c7",
+      "properties": {
+        "name": "Газомаркет",
+        "subcategory": "Заправочные станции",
+        "rating": "2.7",
+        "site": "http://gazomarket.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.240567,
+          52.330403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "602b8620-083d-4fd2-8681-a7b577732681",
+      "properties": {
+        "name": "Омни, АЗС",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "4.1",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.229005,
+          52.271082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6ef959f7-8c9c-4d4c-bdb3-e43f8f1e7da0",
+      "properties": {
+        "name": "Омни, АЗС",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "3.5",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.297396,
+          52.307555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c13d4c00-85e1-43f0-b580-5154c627655a",
+      "properties": {
+        "name": "Омни, АЗС",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "3.6",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.247854,
+          52.324592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26d1ae32-ad93-44b3-b1d9-530e20e8d1f1",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.5",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.294389,
+          52.216565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0417663d-5815-444a-a206-21e5cd770720",
+      "properties": {
+        "name": "БРК, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.199058,
+          52.318308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "338c5539-d217-4a46-ac4e-3d69928188f3",
+      "properties": {
+        "name": "БРК, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.301861,
+          52.228749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b4b7f238-2bb8-4f22-8efb-424b69dc2f53",
+      "properties": {
+        "name": "Энергис, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "2.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.159295,
+          52.252159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ba570f4c-f11c-4fee-9b2a-6c0f45ba5c7f",
+      "properties": {
+        "name": "Альянс нефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "2.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.219052,
+          52.459667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "385585d5-6700-4800-a175-04bf4232a82f",
+      "properties": {
+        "name": "Energy Oil",
+        "subcategory": "Заправочные станции",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.424396,
+          52.23864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "49812d9a-32b5-4d73-b079-b66e4e277800",
+      "properties": {
+        "name": "Роснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "3.6",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.368836,
+          52.475951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37608025-905b-4213-8a15-2dc1b5673a37",
+      "properties": {
+        "name": "БРК, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.8",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.296201,
+          52.268313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0a4f46ca-b3e8-4ea5-9266-040856782a80",
+      "properties": {
+        "name": "Импульс, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.918495,
+          52.060681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d0a0c853-64ec-4193-8fe3-746af916a97b",
+      "properties": {
+        "name": "Роснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.1",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.686614,
+          51.710877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a1df9b48-d2b0-4cd8-b33c-1a608f49685e",
+      "properties": {
+        "name": "Омни, АЗС",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "4.0",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.695891,
+          51.71994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6a0e523f-cae5-43c5-a092-b381e657af46",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.6",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.052886,
+          52.207226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bce02871-5ed1-448f-9269-d16a87151440",
+      "properties": {
+        "name": "Rusнефть",
+        "subcategory": "Заправочные станции",
+        "rating": "2.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.111761,
+          52.198033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a2df4c8e-b2f6-4c33-9353-17e98974b009",
+      "properties": {
+        "name": "Альянс-нефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.338756,
+          52.39843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "748a1cc2-2cad-4464-a4f3-7bdd6663bfc8",
+      "properties": {
+        "name": "Газомаркет",
+        "subcategory": "Заправочные станции",
+        "rating": "4.0",
+        "site": "http://gazomarket.ru",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.339107,
+          52.290108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18802e71-32d8-47d0-8059-edb8ea99b8ad",
+      "properties": {
+        "name": "Газомаркет",
+        "subcategory": "Заправочные станции",
+        "rating": "3.0",
+        "site": "http://gazomarket.ru",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.282344,
+          52.22963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "46647aea-3072-4e19-9f8e-f4095c2b1675",
+      "properties": {
+        "name": "Газомаркет",
+        "subcategory": "Заправочные станции",
+        "rating": "2.0",
+        "site": "http://gazomarket.ru",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.143836,
+          52.361379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2a0a5208-6f0c-4a93-b1a5-c3a3527e10e1",
+      "properties": {
+        "name": "АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "1.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.307486,
+          52.327477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fae31d47-2dbc-4826-ab3a-dfb40908d498",
+      "properties": {
+        "name": "АЗС, ИП Смирнов С.Ю.",
+        "subcategory": "Заправочные станции",
+        "rating": "1.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.618347,
+          52.596119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ccc1a893-5ffc-42ad-af27-c99bfbc5e41e",
+      "properties": {
+        "name": "Чтз-Сервис",
+        "subcategory": "Заправочные станции",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.143653,
+          52.361292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bf171883-2368-4c6e-a66c-68f7f398bb49",
+      "properties": {
+        "name": "Роснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "2.9",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.149843,
+          52.344171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1e2c3c5b-cef3-4dfd-bbad-f4a02529c0d8",
+      "properties": {
+        "name": "Сиб-АвтоТрак",
+        "subcategory": "Заправочные станции",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 07:30 до 17:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.209309,
+          52.275547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3c5e2324-3ac6-4173-909e-a2eab34c9704",
+      "properties": {
+        "name": "БРК, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.299519,
+          52.234558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "090faad8-315c-4b42-9149-1dad7302eeb3",
+      "properties": {
+        "name": "БРК, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.264157,
+          52.253622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1de11bb5-146b-4f55-aeea-190f7c648010",
+      "properties": {
+        "name": "БРК, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.148726,
+          52.241622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "09861cbd-f91c-4a49-8fd5-a3937d0841de",
+      "properties": {
+        "name": "БРК, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.124664,
+          52.215539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1f1d6a31-9029-43c7-ad26-69b1485e9d6b",
+      "properties": {
+        "name": "БРК, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.117476,
+          52.36295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "76e0f26e-8a3c-4825-ad91-232628b89dcf",
+      "properties": {
+        "name": "БРК, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.8",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.26296,
+          52.25332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8eb230ff-41b6-451a-9e12-db577b9d922d",
+      "properties": {
+        "name": "БРК, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "5.0",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.374609,
+          52.425746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "91aababd-da03-4b6f-a258-1912abab8de7",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.1",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.30586,
+          52.223541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3e0546f0-e0b2-44e5-811e-d623eb91d18c",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.4",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.291975,
+          52.2701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6b942dc3-6873-4399-9113-ebd1cb03e38b",
+      "properties": {
+        "name": "Газойл",
+        "subcategory": "Заправочные станции",
+        "rating": "2.9",
+        "site": "http://gk-gazoil.ru",
+        "hours": "Ежедневно с 05:30 до 23:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.185303,
+          52.348534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eb107e94-17e3-439d-9e33-a99c7cc7e857",
+      "properties": {
+        "name": "БРК, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.316432,
+          52.234622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8c30a18d-de28-4833-a458-21c3f2b955e2",
+      "properties": {
+        "name": "Омни, АЗС",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "3.4",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.81721,
+          51.901308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6528fb48-7dd5-4ef7-ac18-cc3fd45bf14b",
+      "properties": {
+        "name": "Восток-нефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.426254,
+          52.248758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eb1b17de-b0a9-4015-bfab-6b8bb140b698",
+      "properties": {
+        "name": "Боково, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "2.4",
+        "site": "nan",
+        "hours": "Ежедневно с 06:30 до 23:59"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.217627,
+          52.367291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14a2d8b5-42a1-409b-a476-26c05727d472",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.6",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.260139,
+          52.254381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "03ad980a-892d-4c06-9fa9-6d1f567bc3ac",
+      "properties": {
+        "name": "Газомаркет",
+        "subcategory": "Заправочные станции",
+        "rating": "4.4",
+        "site": "http://gazomarket.ru",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.134167,
+          52.353097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5e06ea6f-4154-4fdb-834f-3742d7f02aa8",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.6",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.277277,
+          52.248685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1e39d3ec-4321-44a1-a237-faa4bfe20f2d",
+      "properties": {
+        "name": "Газпромнефть",
+        "subcategory": "Заправочные станции",
+        "rating": "4.3",
+        "site": "http://gpnbonus.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.271586,
+          52.25475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "660ea5ca-4d54-44c8-99d5-4b3d0ac5d911",
+      "properties": {
+        "name": "Роснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "2.7",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.382962,
+          52.787666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "408a1d54-d56c-4d1f-9562-edc702f8dd60",
+      "properties": {
+        "name": "АГЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "1.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.380866,
+          52.786405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d6092e47-c673-4162-b305-410e46f4ada2",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.6",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.295271,
+          52.375198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "844bd844-c74f-4b00-84be-b352b2d62c9c",
+      "properties": {
+        "name": "БРК, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.142545,
+          52.360868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5980ca63-f5ce-4983-b256-33e20e036299",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.7",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.133689,
+          52.354143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "73671c8c-177c-42e5-b9c3-e2b30c6f4340",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.6",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.12036,
+          52.215121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "48b180ae-1558-450a-88ad-ee01369dad32",
+      "properties": {
+        "name": "Роснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.5",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.135688,
+          51.516043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4f6d3574-74be-4031-abea-c940ef1e20cb",
+      "properties": {
+        "name": "Терра, газовая компания",
+        "subcategory": "Заправочные станции",
+        "rating": "5.0",
+        "site": "http://alvit-bk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.695063,
+          51.664772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d4e7ee78-099b-4829-8373-7fb7d2a0c3f1",
+      "properties": {
+        "name": "Роснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.1",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.686177,
+          51.675612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c114ec87-4e32-40a2-9a90-518b94ec3adb",
+      "properties": {
+        "name": "Солзан, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "3.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.23282,
+          51.495669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "644219d4-220d-42d1-bb12-ed178c1f511d",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.6",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно (технический перерыв: пн-вс 23:40-00:05)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.363387,
+          52.464107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7d2f78f3-7a0a-454d-b83a-73e4f8d45f9c",
+      "properties": {
+        "name": "Монолит",
+        "subcategory": "Заправочные станции",
+        "rating": "2.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.187028,
+          52.323956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7d92ac52-46f3-49f4-88db-12330eec9e50",
+      "properties": {
+        "name": "Газомаркет",
+        "subcategory": "Заправочные станции",
+        "rating": "3.8",
+        "site": "http://gazomarket.ru",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.152108,
+          52.358681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4e61bcc6-9cc2-4ed7-8572-f072948dcb8f",
+      "properties": {
+        "name": "Дизель, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.259532,
+          52.292518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c01b1599-433c-4ff1-a26d-3b18aa76743a",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.8",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.306554,
+          52.294816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "efc7d0e6-66dd-4d1a-ad88-392bec3a0da2",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.6",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.698348,
+          51.663767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fd635f04-7f19-4224-83a4-f45b8ad67a17",
+      "properties": {
+        "name": "БРК, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.692079,
+          51.684293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "006e7341-f3ae-46de-8718-aaaec8162455",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.3",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.747041,
+          53.002513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12c14e95-86e7-4184-9f4c-cf7539496328",
+      "properties": {
+        "name": "Омни, АЗС",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "3.6",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.129757,
+          51.517166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "84004e4c-7377-4fdf-bed5-9273fb232f7f",
+      "properties": {
+        "name": "Омни, АЗС",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "2.7",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.69283,
+          51.6648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a2f2bd86-60f6-4915-9898-810be27103bb",
+      "properties": {
+        "name": "Крайснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.0",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно (санитарный день: первый пн месяца)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.646301,
+          51.731295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "94f29e83-1fe7-43e8-abcb-f2fc32f3d48e",
+      "properties": {
+        "name": "ТК Сибирь, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.405495,
+          52.050001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ab1f2942-084b-4ede-b6b2-8d3606a8bc73",
+      "properties": {
+        "name": "Газпромнефть, АЗС №421",
+        "subcategory": "Заправочные станции",
+        "rating": "4.1",
+        "site": "http://gpnbonus.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.337188,
+          52.28528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "907a44c0-98a7-4012-bca8-bf6f960663c4",
+      "properties": {
+        "name": "Роснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "nan",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Ежедневно с 08:00 до 12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.270644,
+          52.348961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4333ea84-c5df-41dd-8c0c-42fe85a2ad70",
+      "properties": {
+        "name": "Роснефть, заправочная станция для водного транспорта",
+        "subcategory": "Заправочные станции",
+        "rating": "3.8",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.816071,
+          51.895204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "54c8e8da-c2ec-486e-9d95-ce0cbc86efad",
+      "properties": {
+        "name": "Феникс, заправочная станция",
+        "subcategory": "Заправочные станции",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.441446,
+          51.740194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7aa4200c-4275-496f-88d4-2fd7f21f4ef4",
+      "properties": {
+        "name": "Читаоблгаз, газовая заправка",
+        "subcategory": "Заправочные станции",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.057489,
+          52.435147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6e4e75cf-5b12-418a-aeb0-acd56c105927",
+      "properties": {
+        "name": "Омни, АЗС",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "3.0",
+        "site": "http://omni-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.379339,
+          52.786297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "00e55e7b-dadd-468a-a034-23806857591b",
+      "properties": {
+        "name": "Большелугская, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.10865,
+          52.11038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f04a32a2-804b-4f16-aae0-4132b99ffef7",
+      "properties": {
+        "name": "Sun oil",
+        "subcategory": "Заправочные станции",
+        "rating": "1.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.187138,
+          52.240503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "76343371-386d-4040-b74b-d0196dfcb4b1",
+      "properties": {
+        "name": "АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "1.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.193627,
+          52.325557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b12644cc-8486-4ec9-8cd5-fd763a447eb1",
+      "properties": {
+        "name": "БРК, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.339362,
+          52.291193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f22e7b32-0755-46e5-8752-591dba4397f8",
+      "properties": {
+        "name": "Транскабель",
+        "subcategory": "Заправочные станции",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 17:00, Вт: с 08:00 до 17:00, Ср: с 08:00 до 17:00, Чт: с 08:00 до 17:00, Пт: с 08:00 до 17:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06944,
+          52.192085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3a4e61d3-9f55-4f35-b23e-4d464798d317",
+      "properties": {
+        "name": "БРК, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "5.0",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.292378,
+          52.30774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "28644008-57c4-4e46-8172-4c06372488c9",
+      "properties": {
+        "name": "АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.334147,
+          53.192149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dbce9e3d-bf09-460a-8b3c-0883a412a2b2",
+      "properties": {
+        "name": "Руснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.318958,
+          52.282497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "89e6350a-271e-430e-ad6e-c52986528241",
+      "properties": {
+        "name": "Руснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "3.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.32269,
+          52.324835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f38785d9-d9a0-413e-9630-cfc943a44b92",
+      "properties": {
+        "name": "Руснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "2.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.908748,
+          52.271364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "990eb666-f4ed-48df-ae64-210cf43f9e5a",
+      "properties": {
+        "name": "Руснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.068259,
+          52.199704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7ca54226-ab6e-4fa7-9ebb-76500b2418bd",
+      "properties": {
+        "name": "Роснефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.0",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://t.me/rosneftofficial, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.723801,
+          51.963401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c9e04522-a37b-4a92-aeac-b3eef49f35ea",
+      "properties": {
+        "name": "Газомаркет",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://gazomarket.ru",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.380866,
+          52.786405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ec993b42-7276-4ebd-90a6-984b5458f2c9",
+      "properties": {
+        "name": "Импульс, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.014032,
+          52.400785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "90f2d6c7-1502-4bec-bb38-1869aec8c069",
+      "properties": {
+        "name": "Импульс, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 06:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.334228,
+          53.187531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "107353e5-530d-473d-9f88-428b0d2d651f",
+      "properties": {
+        "name": "Газомаркет",
+        "subcategory": "Заправочные станции",
+        "rating": "4.3",
+        "site": "http://gazomarket.ru",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.286932,
+          52.239788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "50535255-c502-4220-bbe5-f8ba15f04b42",
+      "properties": {
+        "name": "Газомаркет",
+        "subcategory": "Заправочные станции",
+        "rating": "1.0",
+        "site": "http://gazomarket.ru",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.013768,
+          52.400762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f53d0583-b56e-4063-ab00-5d747108a3b0",
+      "properties": {
+        "name": "Терра, газовая компания",
+        "subcategory": "Заправочные станции",
+        "rating": "5.0",
+        "site": "http://alvit-bk.ru",
+        "hours": "Ежедневно с 07:00 до 09:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.346311,
+          52.265761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a8f7b828-c1fc-4e00-861e-c93611936820",
+      "properties": {
+        "name": "Импульс, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "3.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.071263,
+          52.200295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ef52d3eb-1845-4bba-8662-72ddb2f0fb3c",
+      "properties": {
+        "name": "Импульс, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "2.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.055817,
+          52.217936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2cb808d5-6655-407c-b59f-544a2c88821c",
+      "properties": {
+        "name": "Альянс-нефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.450806,
+          52.273027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e8da0470-de0b-4dd8-b518-cc6516a3d2f4",
+      "properties": {
+        "name": "Газомаркет",
+        "subcategory": "Заправочные станции",
+        "rating": "4.4",
+        "site": "http://gazomarket.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.426686,
+          52.248345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "59dfab9b-f559-4d5b-9a60-01742ebbad35",
+      "properties": {
+        "name": "Терра, АГЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "5.0",
+        "site": "http://alvit-bk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.132214,
+          51.517054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "912f41b0-131e-492e-843f-7d12c0270de8",
+      "properties": {
+        "name": "A. zone, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "3.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.238361,
+          52.249066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "851b4254-8e9e-4248-8511-392a823bdf62",
+      "properties": {
+        "name": "Импульс, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "2.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.36159,
+          52.465266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "95e1396e-474b-4c18-bebe-06d3da104142",
+      "properties": {
+        "name": "БРК",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.636525,
+          51.816287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3a43d31d-af4a-46d4-964b-50827801f650",
+      "properties": {
+        "name": "БРК",
+        "subcategory": "Заправочные станции",
+        "rating": "5.0",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.625702,
+          51.842288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "275cecfe-deb4-4cc5-b6d2-dffb39fed8ce",
+      "properties": {
+        "name": "БРК",
+        "subcategory": "Заправочные станции",
+        "rating": "4.8",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.699939,
+          51.816843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "39b827b4-cb07-4fed-ae83-ab8a4cafc8e1",
+      "properties": {
+        "name": "БРК",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.631817,
+          51.836966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f0c92f6c-1562-46a2-a6f8-c2819fc272f0",
+      "properties": {
+        "name": "БРК",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.659283,
+          51.821446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a2e64dcc-fa95-4c4e-a4b0-b5639debc634",
+      "properties": {
+        "name": "БРК",
+        "subcategory": "Заправочные станции",
+        "rating": "4.8",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.654895,
+          51.832725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f926f5e3-c310-4974-85a7-6d314fae42d6",
+      "properties": {
+        "name": "БРК",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.731578,
+          51.863831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13c5d852-24a1-49bf-8013-8814c2459a8e",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "4.2",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.501753,
+          51.813573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dd6ed29d-52fc-4615-9d8a-1b4fa4433d3a",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "3.0",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.709767,
+          51.817027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "adfac1c8-f9a4-495f-99b3-2f2372816113",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "4.2",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.650545,
+          51.840914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "59b548e1-1468-4e41-b5f2-52781e11f86c",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "2.0",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.682669,
+          51.819159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9dbc4d42-a170-4cd8-a07a-04012c3d5662",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "4.4",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.512652,
+          51.835662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22612282-2a99-4e13-a3d0-1fd7edff83e3",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "3.7",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.732187,
+          51.874589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7561d2e3-eebb-4d03-88a9-e01a29183598",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "4.1",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.603913,
+          51.79854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0e3a6924-e3d6-4b2e-9a89-9f1dc4a48240",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "2.5",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.551504,
+          51.858254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6c05d26a-dfa5-4f61-a6e0-f02dba40819f",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "3.7",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.609735,
+          51.824943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "68c79212-5257-487a-b762-c0bfaba3983d",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "4.0",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.653093,
+          51.839245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "202fb80e-077a-4f0c-a9a3-d22f071828a3",
+      "properties": {
+        "name": "Газойл",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "4.5",
+        "site": "http://gkgazoil.ru",
+        "hours": "Ежедневно с 00:15 до 23:45 (заправка газовых баллонов: пн-вс 8:00-20:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.637266,
+          51.841774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4a2108bf-edb4-4812-9770-fca79e4dc99f",
+      "properties": {
+        "name": "ННК-Байкалнефтепродукт",
+        "subcategory": "Заправочные станции",
+        "rating": "2.8",
+        "site": "http://vsegdapoputi.ru",
+        "hours": "Ежедневно с 00:05 до 23:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.507339,
+          51.85152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "38a15349-4d93-4f84-ad3c-61098f6f4a8d",
+      "properties": {
+        "name": "ННК-Байкалнефтепродукт",
+        "subcategory": "Заправочные станции",
+        "rating": "3.8",
+        "site": "http://vsegdapoputi.ru",
+        "hours": "Ежедневно с 00:05 до 23:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.638658,
+          51.841829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "943ce2f6-4aca-4753-b8ee-f6406a292d35",
+      "properties": {
+        "name": "ННК-Байкалнефтепродукт",
+        "subcategory": "Заправочные станции",
+        "rating": "3.6",
+        "site": "http://vsegdapoputi.ru",
+        "hours": "Ежедневно с 00:05 до 23:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.683679,
+          51.845313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d1af7eab-7bcd-4f28-ac94-bec622d3937a",
+      "properties": {
+        "name": "ННК-Байкалнефтепродукт",
+        "subcategory": "Заправочные станции",
+        "rating": "4.2",
+        "site": "http://vsegdapoputi.ru",
+        "hours": "Круглосуточно (технический перерыв: пн-вс 23:45-00:05)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.588084,
+          51.785681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b12e4168-34f6-4e39-a18d-1590d9cbc609",
+      "properties": {
+        "name": "Газойл",
+        "subcategory": "Заправочные станции",
+        "rating": "4.0",
+        "site": "http://gkgazoil.ru",
+        "hours": "Ежедневно с 00:15 до 23:45 (заправка газовых баллонов: пн-вс 8:00-20:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.553483,
+          51.856879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2555a959-e9a0-495e-813d-50f82887a8d0",
+      "properties": {
+        "name": "Газойл",
+        "subcategory": "Заправочные станции",
+        "rating": "4.5",
+        "site": "http://gkgazoil.ru",
+        "hours": "Ежедневно с 00:15 до 23:45 (заправка газовых баллонов: пн-вс 8:00-20:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.510479,
+          51.833525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "354963cf-39b6-47e9-962d-4a021f306e7d",
+      "properties": {
+        "name": "БРК",
+        "subcategory": "Заправочные станции",
+        "rating": "5.0",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.509171,
+          51.849857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8a6a6da1-5e8d-4621-b6ae-437a05364ff8",
+      "properties": {
+        "name": "БРК",
+        "subcategory": "Заправочные станции",
+        "rating": "5.0",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58516,
+          51.783928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1e5ad05a-5625-4254-9ee2-b8bf612bcf2b",
+      "properties": {
+        "name": "БРК",
+        "subcategory": "Заправочные станции",
+        "rating": "4.8",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.692546,
+          51.849569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aa5cb8d0-6b85-4962-bef7-24c7c08f93b8",
+      "properties": {
+        "name": "БРК",
+        "subcategory": "Заправочные станции",
+        "rating": "5.0",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.577536,
+          51.841683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ea0b6fa8-4e09-47b1-92da-b38ece3dfc2b",
+      "properties": {
+        "name": "Газойл",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "3.9",
+        "site": "http://gkgazoil.ru",
+        "hours": "Ежедневно с 00:15 до 23:45 (отдел заправки газовых баллонов: пн-вс 8:00-20:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.580164,
+          51.777531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1f2ad7fa-2566-4f38-82ba-f4356b0a0c7b",
+      "properties": {
+        "name": "АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "2.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.618265,
+          51.827541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "627e7504-6cfc-4971-b672-1bff47391c96",
+      "properties": {
+        "name": "ННК-Байкалнефтепродукт",
+        "subcategory": "Заправочные станции",
+        "rating": "2.8",
+        "site": "http://vsegdapoputi.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.629247,
+          51.806614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "05c87273-9595-4fb3-b0b2-8270385a458e",
+      "properties": {
+        "name": "КрайсНефть",
+        "subcategory": "Заправочные станции",
+        "rating": "4.3",
+        "site": "http://kraisneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.695708,
+          51.851079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "81b2b61e-650d-48d7-b379-072d4fdfe5c3",
+      "properties": {
+        "name": "ННК-Байкалнефтепродукт",
+        "subcategory": "Заправочные станции",
+        "rating": "4.5",
+        "site": "http://vsegdapoputi.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.501596,
+          51.817192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e1e63fee-16f4-4857-b068-d8b36ecadae0",
+      "properties": {
+        "name": "ННК-Байкалнефтепродукт",
+        "subcategory": "Заправочные станции",
+        "rating": "3.3",
+        "site": "http://vsegdapoputi.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.596403,
+          51.813945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "92de9340-8fe3-437f-9922-1700f66573fe",
+      "properties": {
+        "name": "Сибирская топливная компания, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.730958,
+          51.860508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9c2d9f86-96c6-4cfe-b4ed-325dec70597e",
+      "properties": {
+        "name": "БРК",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.621594,
+          51.818552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b163092b-3c18-4b2d-8c95-6dfe6642fb9d",
+      "properties": {
+        "name": "ННК-Байкалнефтепродукт",
+        "subcategory": "Заправочные станции",
+        "rating": "4.3",
+        "site": "http://vsegdapoputi.ru, http://vsegdapoputi.ru/",
+        "hours": "Ежедневно с 00:05 до 23:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.656519,
+          51.831446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0c213936-de9e-4abb-9782-7edc659577d0",
+      "properties": {
+        "name": "ННК-Байкалнефтепродукт",
+        "subcategory": "Заправочные станции",
+        "rating": "4.3",
+        "site": "http://vsegdapoputi.ru",
+        "hours": "Круглосуточно (технический перерыв: пн-вс 23:45-00:05)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.488432,
+          51.866263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1e5936d6-2aa1-4b40-95eb-8aab280955bd",
+      "properties": {
+        "name": "БРК",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.619602,
+          51.803721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "acede2c0-0dff-4061-ab6e-3a979a2d7ad1",
+      "properties": {
+        "name": "БРК",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.559966,
+          51.855159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "21eb2ce9-cf00-44b1-84f0-295e8e2140eb",
+      "properties": {
+        "name": "КЦ У-У ГАТП №3",
+        "subcategory": "Заправочные станции",
+        "rating": "1.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.573491,
+          51.853762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1d80b149-4d41-471c-9917-a35e85abc834",
+      "properties": {
+        "name": "Автозаправочная станция",
+        "subcategory": "Заправочные станции",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.504173,
+          51.858241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c6b81265-cff5-4c08-b04e-12b545345406",
+      "properties": {
+        "name": "Автозаправочная станция",
+        "subcategory": "Заправочные станции",
+        "rating": "2.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.479347,
+          51.957667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f3961af1-83b9-4563-bbc0-436c6497b7d2",
+      "properties": {
+        "name": "БРК",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.505037,
+          51.822608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "56129b8b-52c4-44c7-9b4e-3c49a3f4894e",
+      "properties": {
+        "name": "АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "3.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.636813,
+          51.801689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7967f050-67a1-4276-be10-af28ab5385a6",
+      "properties": {
+        "name": "БРК",
+        "subcategory": "Заправочные станции",
+        "rating": "4.7",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.660112,
+          51.804272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fc01ec8b-f0ba-4962-89e7-f2d02d63e167",
+      "properties": {
+        "name": "БРК",
+        "subcategory": "Заправочные станции",
+        "rating": "4.7",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.591979,
+          51.856429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aca06608-1fa5-4464-8271-2d7a40c915a2",
+      "properties": {
+        "name": "Бурятгаз",
+        "subcategory": "Заправочные станции",
+        "rating": "4.1",
+        "site": "http://buryatgaz.ru",
+        "hours": "Ежедневно с 07:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.634896,
+          51.815177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "723838d8-b6c0-437b-b8ca-4aa1ad50fea6",
+      "properties": {
+        "name": "ННК-Байкалнефтепродукт",
+        "subcategory": "Заправочные станции",
+        "rating": "3.2",
+        "site": "http://vsegdapoputi.ru",
+        "hours": "Круглосуточно (технический перерыв: пн-вс 23:45-00:05 )"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.521922,
+          51.730637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0b144728-0077-46bc-b23f-b6b115f5923c",
+      "properties": {
+        "name": "Топаз oil",
+        "subcategory": "Заправочные станции",
+        "rating": "2.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.803978,
+          51.886199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0380a00c-9efa-42ce-9e9d-ae81db472c6d",
+      "properties": {
+        "name": "Автозаправочная станция",
+        "subcategory": "Заправочные станции",
+        "rating": "1.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.459215,
+          51.758188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b2aecfc3-16e4-4cee-b67f-100c7c4e1a93",
+      "properties": {
+        "name": "БРК",
+        "subcategory": "Заправочные станции",
+        "rating": "4.8",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.45665,
+          51.801392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "08fdaacd-d6b2-4305-91a4-4dcae14fe373",
+      "properties": {
+        "name": "БРК, АЗС №2",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.296412,
+          51.825631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c45e6ea2-a39c-40cb-9ea1-30ef49d4df53",
+      "properties": {
+        "name": "АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.321495,
+          54.338629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9567fe4b-b46c-445e-981b-4a26c3a848ff",
+      "properties": {
+        "name": "Газомаркет",
+        "subcategory": "Заправочные станции",
+        "rating": "3.9",
+        "site": "http://gazomarket.ru",
+        "hours": "Круглосуточно (заправка баллонов: пн-вс 9:00-21:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.694882,
+          51.850498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3cf3b317-8529-449a-876b-6544edd3183b",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "4.3",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.300132,
+          51.751262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2d770b98-e819-4a20-8209-6753c0bfdfc4",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "2.2",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.22947,
+          52.9613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8a8dade3-3ce3-4d42-9ce1-3f12c6fa92fa",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "2.5",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.660058,
+          52.189453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0419b872-e057-4803-8b29-61f89629fd40",
+      "properties": {
+        "name": "Октан Плюс",
+        "subcategory": "Заправочные станции",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.885311,
+          52.364761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "52b638a1-e80b-42a6-8c23-59d33dd0bd21",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "3.2",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.052636,
+          53.406681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "886fe585-79da-4f3c-b4a5-f9a12973bae3",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "4.1",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.252809,
+          52.117116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "81dc456d-3c52-43ed-8df1-5f4ced2f9029",
+      "properties": {
+        "name": "Пит стоп",
+        "subcategory": "Заправочные станции",
+        "rating": "3.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.240857,
+          52.11803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0b6825ca-1a79-49fd-94c5-2c3f705cd279",
+      "properties": {
+        "name": "ННК-Байкалнефтепродукт",
+        "subcategory": "Заправочные станции",
+        "rating": "4.6",
+        "site": "http://vsegdapoputi.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.449401,
+          52.135719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "95b4180c-0f10-47eb-877e-b7bf9f3d4ded",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "3.6",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.66962,
+          52.211508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5946c3f1-e2a1-4149-9b28-dc89e574492d",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "4.1",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.893225,
+          52.045371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b4bba73a-677f-46a3-b973-bcc52959c443",
+      "properties": {
+        "name": "АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "3.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.135394,
+          52.125917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a523a1bd-8889-4368-8b8e-6a65f4e59fec",
+      "properties": {
+        "name": "ННК-Байкалнефтепродукт",
+        "subcategory": "Заправочные станции",
+        "rating": "4.5",
+        "site": "http://vsegdapoputi.ru",
+        "hours": "Круглосуточно (технический перерыв: пн-вс 23:45-00:05)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.746403,
+          52.020437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "05999e48-19a2-426f-9bdc-da3f666d92ca",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "3.5",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.134843,
+          51.558494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "315cc6a0-e851-412f-9f61-53eda5ada699",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "4.5",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.872484,
+          52.002831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8dc7a024-3176-4213-ad4a-c1507489d155",
+      "properties": {
+        "name": "Юникс",
+        "subcategory": "Заправочные станции",
+        "rating": "1.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.840603,
+          52.015836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bab98627-9d3b-473a-82bb-256a87eafd27",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "2.5",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.617976,
+          52.008775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2db17137-ba4d-48e7-9a9a-af096613d08f",
+      "properties": {
+        "name": "Ом Нефть, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "1.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.304381,
+          51.960999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c3d3fd29-9ced-43bf-9e04-867879c7225c",
+      "properties": {
+        "name": "Юникс",
+        "subcategory": "Заправочные станции",
+        "rating": "2.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.635603,
+          52.066767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2c56447d-de4f-404e-82ba-1d4b9ce98f57",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "4.2",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.639732,
+          52.045811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6d6d02f6-9667-4e20-898a-4e8e071cf26f",
+      "properties": {
+        "name": "Компания Газификации Бурятии",
+        "subcategory": "Заправочные станции",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.572631,
+          51.853757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "598d829a-a00e-4e84-bcf0-6bda3f2fca7c",
+      "properties": {
+        "name": "Сибирская топливная компания, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "2.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593195,
+          51.786986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ca445b18-e285-4c97-b641-c1aa043b7f01",
+      "properties": {
+        "name": "Сибирская топливная компания, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "1.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.69149,
+          51.781167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "995d3309-0d27-4f08-ae4d-abe0e7286de8",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "4.5",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.545505,
+          51.288976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a06dee97-68ca-49ca-9612-3189854bfce3",
+      "properties": {
+        "name": "Газойл",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "4.4",
+        "site": "http://gkgazoil.ru",
+        "hours": "Ежедневно с 00:15 до 23:45 (заправка газовых баллонов: пн-вс 8:00-20:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.537612,
+          51.273284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3cef459b-681d-4579-9999-06c9eaab5825",
+      "properties": {
+        "name": "СТК, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "2.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.547721,
+          51.289692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "101ba1a3-ee6a-4050-b251-67f57ca5c84a",
+      "properties": {
+        "name": "Сибирская топливная компания, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.291538,
+          51.747759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "003e7b0e-fcdb-4cdd-bece-ab1841614188",
+      "properties": {
+        "name": "Сибирская топливная компания, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.695008,
+          51.789995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dc4b6104-672f-464d-9171-c0ea599adfa6",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "3.8",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.088339,
+          51.929638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "83b483d7-2789-4608-8ca2-d445c03b9bdf",
+      "properties": {
+        "name": "Сибирская топливная компания, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "2.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.043578,
+          51.915564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36b06a48-7793-4599-9b20-9868bc1f5028",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "4.4",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.363997,
+          51.488009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ef3dd9c5-ddc8-46f1-b1e0-492bc23d609c",
+      "properties": {
+        "name": "Газойл",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "4.5",
+        "site": "http://gkgazoil.ru",
+        "hours": "Ежедневно с 00:15 до 23:45 (заправка баллонов: пн-вс 8:00-20:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.683335,
+          51.819929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4dd79e11-054b-485f-8828-d89b1121bb49",
+      "properties": {
+        "name": "Авм БайкалГаз",
+        "subcategory": "Заправочные станции",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663799,
+          51.802443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "53359b6c-d1f0-4e55-9fb3-9f99e169c73f",
+      "properties": {
+        "name": "ННК-Байкалнефтепродукт",
+        "subcategory": "Заправочные станции",
+        "rating": "3.0",
+        "site": "http://vsegdapoputi.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.660174,
+          52.190652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "68d40082-1718-41f6-bdc4-cbe478a2a50c",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "4.2",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.646831,
+          53.627613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fc263088-a4c4-4f6f-97f3-6e2301642ede",
+      "properties": {
+        "name": "Газомаркет",
+        "subcategory": "Заправочные станции",
+        "rating": "3.3",
+        "site": "http://gazomarket.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.458833,
+          51.758447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "76629972-a1e4-4ebb-8957-c773c890c9f4",
+      "properties": {
+        "name": "Газойл",
+        "subcategory": "Заправочные станции, Онлайн-заправки 2ГИС",
+        "rating": "4.9",
+        "site": "http://gkgazoil.ru",
+        "hours": "Ежедневно с 00:15 до 23:45 (заправка газовых баллонов: пн-вс 8:00-20:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.605321,
+          52.004114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f18fbc6b-2f42-43e0-811c-8f6fc4b0366c",
+      "properties": {
+        "name": "Автодизель, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "3.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.358268,
+          51.509966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "df4771d2-5de2-443c-81f9-9e0b8664f1ab",
+      "properties": {
+        "name": "Сибирская топливная компания, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "2.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.441088,
+          51.767207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "68384132-0bd1-4bb2-9442-90cc26d2f5e7",
+      "properties": {
+        "name": "Сеть автозаправочных станций",
+        "subcategory": "Заправочные станции",
+        "rating": "1.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.047789,
+          53.393921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18c2deb0-9a80-4191-8417-52ce28fdfe2b",
+      "properties": {
+        "name": "ННК-Байкалнефтепродукт",
+        "subcategory": "Заправочные станции",
+        "rating": "2.0",
+        "site": "http://vsegdapoputi.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.749362,
+          51.827859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "354de5e8-e266-432a-a1c9-7005d4a2b8ee",
+      "properties": {
+        "name": "ННК-Байкалнефтепродукт",
+        "subcategory": "Заправочные станции",
+        "rating": "4.4",
+        "site": "http://vsegdapoputi.ru",
+        "hours": "Круглосуточно (технический перерыв: пн-вс 23:45-00:05)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.666505,
+          51.821112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9a7bda3a-504c-4acc-ae1d-4d3096a992da",
+      "properties": {
+        "name": "Газомаркет",
+        "subcategory": "Заправочные станции",
+        "rating": "5.0",
+        "site": "http://gazomarket.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.133461,
+          51.55754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b324f7f4-3e6e-4072-9c56-6b7c574e9211",
+      "properties": {
+        "name": "Газомаркет",
+        "subcategory": "Заправочные станции",
+        "rating": "3.4",
+        "site": "http://gazomarket.ru",
+        "hours": "Круглосуточно (заправка газовых баллонов: пн-вс 12:00-16:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.848586,
+          51.711648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5056dea1-94ca-4ffb-98de-abf05bcde5a2",
+      "properties": {
+        "name": "Роснефть, АЗС №13",
+        "subcategory": "Заправочные станции",
+        "rating": "4.4",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.268496,
+          51.848204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "839e62fe-7a33-4a87-81e2-fb8ef94af34b",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "3.9",
+        "site": "http://rn-card.ru, http://rosneft-azs.ru, http://rosneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.530408,
+          52.051839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eba0ef7b-c8bd-4131-aff2-080fd9ca1ac3",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "2.2",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://rosneft-azs.ru, http://rosneft.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.300405,
+          54.319212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0b131648-e26c-44ba-88e2-a6ff55f8af5e",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "3.6",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.570867,
+          51.734699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "58efdf70-079c-4f5a-b06b-ac46ea318b3d",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "2.8",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.844902,
+          51.710559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "07188820-adef-48f6-a26f-6b00ca9c32ba",
+      "properties": {
+        "name": "Роснефть",
+        "subcategory": "Заправочные станции",
+        "rating": "1.5",
+        "site": "http://komandacard.ru, http://rn-card.ru, http://www.rosneft-azs.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.161585,
+          51.680359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35a91b05-ce8f-411a-8e08-2aee8cdec77c",
+      "properties": {
+        "name": "АГЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "3.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.574236,
+          51.731167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "91723492-25d3-4a4c-b32b-525ae18f0f44",
+      "properties": {
+        "name": "Сибирская топливная компания, АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.489992,
+          51.865562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12e532af-03d9-4588-8b4f-6ce847c4099c",
+      "properties": {
+        "name": "БРК",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.625236,
+          51.815026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ef213401-7092-4437-af23-aac11279fee1",
+      "properties": {
+        "name": "БРК",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.386669,
+          51.610756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "660533c4-f993-40ac-8941-46fc8a7b1ca4",
+      "properties": {
+        "name": "Регионгаз",
+        "subcategory": "Заправочные станции",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.752093,
+          51.83174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "19e717ff-016e-4305-8fd3-5569cd7fb81f",
+      "properties": {
+        "name": "ШведНефть",
+        "subcategory": "Заправочные станции",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.469765,
+          51.706755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f09bee7a-c8f2-4e26-9ded-b5ce8a959ec6",
+      "properties": {
+        "name": "Станция самообслуживания",
+        "subcategory": "Заправочные станции",
+        "rating": "3.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.84649,
+          53.55482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0aeccd97-4018-4f0e-b876-8f475b70bd14",
+      "properties": {
+        "name": "АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.519163,
+          51.284477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f41639eb-a7e6-48ac-8850-60923fdbeb21",
+      "properties": {
+        "name": "Ом Нефть",
+        "subcategory": "Заправочные станции",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.730828,
+          51.686696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c02269d0-453b-4f97-ac6e-aea97953138f",
+      "properties": {
+        "name": "АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "3.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.546311,
+          51.288254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f523ee51-ce8c-4788-b3c3-170c199fc594",
+      "properties": {
+        "name": "Сибирская топливная компания",
+        "subcategory": "Заправочные станции",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.734417,
+          51.683719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8637ca3f-93cf-4d0f-a7bc-eb16b95a9c65",
+      "properties": {
+        "name": "АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.801991,
+          54.683049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "28d146c0-4098-471d-9714-628493bb2b7c",
+      "properties": {
+        "name": "АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.514908,
+          51.734114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "77801382-d6d2-4b6d-8bf0-a0d1e1b3dc0e",
+      "properties": {
+        "name": "АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.056498,
+          51.534922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0491fcc9-affa-42d4-9f9f-5a989d71bf1e",
+      "properties": {
+        "name": "Газомаркет",
+        "subcategory": "Заправочные станции",
+        "rating": "3.2",
+        "site": "http://gazomarket.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.875796,
+          52.038675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8f15c60c-27fa-4094-803b-d722f30e3038",
+      "properties": {
+        "name": "АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.58739,
+          51.995418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "54603c22-d282-4e2c-9fe4-a5da06a2349b",
+      "properties": {
+        "name": "АЗС",
+        "subcategory": "Заправочные станции",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.293419,
+          51.739586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "41d73de1-4ccb-4bf1-8f90-ea0786d69894",
+      "properties": {
+        "name": "ОкатрансНефть",
+        "subcategory": "Заправочные станции",
+        "rating": "1.9",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.084715,
+          51.674903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3586c6c1-465d-4ac6-88b8-766caa74b41c",
+      "properties": {
+        "name": "ОкатрансНефть",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.590512,
+          51.695428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2a2808b8-21a7-48b7-8475-3667c35751fe",
+      "properties": {
+        "name": "Газомаркет",
+        "subcategory": "Заправочные станции",
+        "rating": "nan",
+        "site": "http://gazomarket.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.590665,
+          51.695681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c4a0474a-7cae-46c7-b84d-3656a17431c7",
+      "properties": {
+        "name": "БРК",
+        "subcategory": "Заправочные станции",
+        "rating": "4.9",
+        "site": "http://azsbrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.506511,
+          51.850564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "deb3d657-7626-43ae-98b3-121cd159e1af",
+      "properties": {
+        "name": "Бурятгаз",
+        "subcategory": "Заправочные станции",
+        "rating": "nan",
+        "site": "http://buryatgaz.ru",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.267547,
+          51.835099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "115d4346-092b-4c99-9e48-84093fc469a4",
+      "properties": {
+        "name": "Трастнефть",
+        "subcategory": "Заправочные станции",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.478094,
+          51.906524
+        ]
+      }
+    }
+  ]
+}

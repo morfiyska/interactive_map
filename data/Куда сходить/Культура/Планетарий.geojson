@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "name": "Планетарий",
+  "style": {
+    "color": "#04047c",
+    "radius": 16,
+    "icon": "telescope-svgrepo-com.svg"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "29249e07-0c30-48a2-bba1-3816f7aacc9d",
+      "properties": {
+        "name": "Планетарий Иркутска, академический зал",
+        "subcategory": "Планетарий",
+        "rating": "4.8",
+        "site": "http://irkplanetarium.com, http://neboirk.com",
+        "hours": "Пн: с 09:00 до 17:00, Вт: с 09:00 до 17:00, Ср: с 09:00 до 17:00, Чт: с 09:00 до 17:00, Пт: с 09:00 до 17:00, Сб: с 10:00 до 19:00, Вс: с 10:00 до 19:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.271666,
+          52.248327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a931a12c-2cd0-4b32-8f1b-ed4f8b9a2738",
+      "properties": {
+        "name": "Планетарий Иркутска, центральный зал",
+        "subcategory": "Планетарий",
+        "rating": "4.6",
+        "site": "http://irkplanetarium.com, http://neboirk.com",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28987,
+          52.273766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c1d206de-a2cf-40f6-b615-76936cf79c81",
+      "properties": {
+        "name": "Леопольд, выездной мобильный планетарий",
+        "subcategory": "Планетарий",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:30 до 16:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.646323,
+          51.820042
+        ]
+      }
+    }
+  ]
+}

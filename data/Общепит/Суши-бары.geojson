@@ -1,0 +1,1090 @@
+{
+  "type": "FeatureCollection",
+  "name": "Суши-бары",
+  "style": {
+    "color": "blue",
+    "radius": 6
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "d195cebf-ba85-4aeb-a1cc-e6fff9b1baf2",
+      "properties": {
+        "name": "Киото, ресторан",
+        "subcategory": "Доставка еды, Рестораны, Суши-бары",
+        "rating": "4.5",
+        "site": "http://kyoto-irk.ru",
+        "hours": "Пн: с 10:00 до 02:00, Вт: с 10:00 до 02:00, Ср: с 10:00 до 02:00, Чт: с 10:00 до 02:00, Пт: с 10:00 до 02:00, Сб: с 10:00 до 02:00, Вс: с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.283665,
+          52.282203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d65f612a-0f96-415e-a47a-28fa8438c5ba",
+      "properties": {
+        "name": "Суши Студио, ресторан японской кухни",
+        "subcategory": "Доставка еды, Рестораны, Суши-бары",
+        "rating": "4.8",
+        "site": "http://irkutsk.sushi-studio.ru",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.281414,
+          52.278883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9ac6fb22-d92e-4482-ab56-e2b3ac4efcff",
+      "properties": {
+        "name": "Суши Студио, ресторан японской кухни",
+        "subcategory": "Доставка еды, Рестораны, Суши-бары",
+        "rating": "4.8",
+        "site": "http://irkutsk.sushi-studio.ru",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.300674,
+          52.27953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b0315e4c-3c7c-4b8c-a4e8-4539173ea792",
+      "properties": {
+        "name": "Суши Студио, ресторан японской кухни",
+        "subcategory": "Доставка еды, Рестораны, Суши-бары",
+        "rating": "4.7",
+        "site": "http://irkutsk.sushi-studio.ru",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.335027,
+          52.279707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c598a889-2989-485a-bfba-23e3d3f27205",
+      "properties": {
+        "name": "Суши Студио, ресторан японской кухни",
+        "subcategory": "Доставка еды, Рестораны, Суши-бары",
+        "rating": "4.8",
+        "site": "http://irkutsk.sushi-studio.ru",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.30401,
+          52.22733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5241a75a-95e8-4f5c-acd8-78303d90219d",
+      "properties": {
+        "name": "Степ Суши, магазин",
+        "subcategory": "Быстрое питание, Доставка еды, Суши-бары",
+        "rating": "4.3",
+        "site": "http://www.stepsushi.ru",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.207153,
+          52.265555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c3cea0f7-521e-46b6-b532-42e9b2709542",
+      "properties": {
+        "name": "Суши маркет",
+        "subcategory": "Кафе, Суши-бары",
+        "rating": "4.8",
+        "site": "http://www.sushimarket.club/",
+        "hours": "Ежедневно с 12:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.306397,
+          52.257333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bbb89f16-fd4b-4f00-8e92-50f47dc820e3",
+      "properties": {
+        "name": "Степ Суши, магазин",
+        "subcategory": "Быстрое питание, Доставка еды, Суши-бары",
+        "rating": "4.4",
+        "site": "http://www.stepsushi.ru",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.340368,
+          52.293124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8709f422-58de-462c-a728-5484d5b74740",
+      "properties": {
+        "name": "Kimchi, кафе корейской и азиатской кухни",
+        "subcategory": "Доставка еды, Кафе, Суши-бары",
+        "rating": "4.8",
+        "site": "http://kimchi.ru",
+        "hours": "Пн: с 11:00 до 23:00, Вт: с 11:00 до 23:00, Ср: с 11:00 до 23:00, Чт: с 11:00 до 23:00, Пт: с 11:00 до 24:00, Сб: с 11:00 до 24:00, Вс: с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.281089,
+          52.280529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b9ae2c22-f47a-40ba-a9af-50fdeae6779f",
+      "properties": {
+        "name": "Суши Точка, магазин готовых роллов",
+        "subcategory": "Быстрое питание, Суши-бары",
+        "rating": "4.8",
+        "site": "http://sushitochka.com",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.306843,
+          52.324554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "154d5f74-2a63-4ed2-8ab5-81fef226727c",
+      "properties": {
+        "name": "Суши Точка, магазин готовых роллов",
+        "subcategory": "Быстрое питание, Суши-бары",
+        "rating": "4.8",
+        "site": "http://sushitochka.com",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.291707,
+          52.273022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "79e97800-7463-49f8-8bae-1c6b87049534",
+      "properties": {
+        "name": "Суши Точка, магазин готовых роллов",
+        "subcategory": "Быстрое питание, Суши-бары",
+        "rating": "4.7",
+        "site": "http://sushitochka.com",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28958,
+          52.268429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "06eb2216-3b6b-4636-a0ff-a3b2e1497905",
+      "properties": {
+        "name": "Суши Студио, ресторан японской кухни",
+        "subcategory": "Доставка еды, Рестораны, Суши-бары",
+        "rating": "4.7",
+        "site": "http://irkutsk.sushi-studio.ru",
+        "hours": "Ежедневно с 11:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289087,
+          52.27451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b3a49b9f-b8be-4852-afd1-08b1c5f047dd",
+      "properties": {
+        "name": "Суши Точка, магазин готовых роллов",
+        "subcategory": "Быстрое питание, Суши-бары",
+        "rating": "4.7",
+        "site": "http://sushitochka.com",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.336385,
+          52.254476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "92770063-6dcb-4856-89e3-5338e14b6f98",
+      "properties": {
+        "name": "Kimchi, кафе корейской и азиатской кухни",
+        "subcategory": "Доставка еды, Кафе, Суши-бары",
+        "rating": "4.8",
+        "site": "http://kimchi.ru",
+        "hours": "Пн: с 11:00 до 23:00, Вт: с 11:00 до 23:00, Ср: с 11:00 до 23:00, Чт: с 11:00 до 23:00, Пт: с 11:00 до 24:00, Сб: с 11:00 до 24:00, Вс: с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.301276,
+          52.279392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "44686ad9-66b3-4ebd-9875-aa5e3bc06b78",
+      "properties": {
+        "name": "Суши Точка, магазин готовых роллов",
+        "subcategory": "Быстрое питание, Суши-бары",
+        "rating": "4.7",
+        "site": "http://sushitochka.com",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.24871,
+          52.253896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bcae7252-7ec8-4392-ba81-c3b987798844",
+      "properties": {
+        "name": "Мэси, ресторан доставки японской кухни",
+        "subcategory": "Доставка еды, Кафе, Суши-бары",
+        "rating": "4.6",
+        "site": "http://mesi-sushi.ru",
+        "hours": "Ежедневно с 10:00 до 22:55 (ресторан: пн-пт 11:00-22:55; сб-вс 12:00-22:55)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.210338,
+          52.354279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8578e4be-617c-40bd-829e-cf9f06a9b4dd",
+      "properties": {
+        "name": "Мэси, ресторан доставки японской кухни",
+        "subcategory": "Доставка еды, Кафе, Суши-бары",
+        "rating": "4.7",
+        "site": "http://mesi-sushi.ru",
+        "hours": "Пн: с 11:00 до 22:55, Вт: с 11:00 до 22:55, Ср: с 11:00 до 22:55, Чт: с 11:00 до 22:55, Пт: с 11:00 до 22:55, Сб: с 12:00 до 22:55, Вс: с 12:00 до 22:55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.160251,
+          52.342145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "95a4a8d5-d08f-4de7-bffa-bcd3c8d73f10",
+      "properties": {
+        "name": "Мэси, ресторан доставки японской кухни",
+        "subcategory": "Доставка еды, Суши-бары",
+        "rating": "4.6",
+        "site": "http://mesi-sushi.ru",
+        "hours": "Пн: с 10:00 до 22:55, Вт: с 10:00 до 22:55, Ср: с 10:00 до 22:55, Чт: с 10:00 до 22:55, Пт: с 10:00 до 23:55, Сб: с 10:00 до 23:55, Вс: с 10:00 до 22:55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.088176,
+          52.210793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "48375e1a-bb32-41aa-b159-324d14cdec51",
+      "properties": {
+        "name": "Суши Точка, магазин готовых роллов",
+        "subcategory": "Быстрое питание, Суши-бары",
+        "rating": "4.8",
+        "site": "http://sushitochka.com",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.431623,
+          52.246448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "290d974c-2cb8-4b90-a197-06cb80620772",
+      "properties": {
+        "name": "Tom Yum, гастробар паназиатской кухни",
+        "subcategory": "Доставка еды, Кафе, Суши-бары",
+        "rating": "4.9",
+        "site": "http://menu.tomyum38.ru, http://tomyum38.ru",
+        "hours": "Пн: с 11:00 до 22:00, Вт: с 11:00 до 22:00, Ср: с 11:00 до 22:00, Чт: с 11:00 до 22:00, Пт: с 11:00 до 23:00, Сб: с 11:00 до 23:00, Вс: с 11:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.310779,
+          52.256507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "09a3682f-8f32-4c1f-a3f2-eab9ac6a1abe",
+      "properties": {
+        "name": "Kannam chicken, кафе доставки",
+        "subcategory": "Быстрое питание, Доставка еды, Кафе, Суши-бары",
+        "rating": "4.9",
+        "site": "http://irkutsk.kannam.ru/",
+        "hours": "Ежедневно с 11:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.275886,
+          52.250922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e3c1b5aa-958a-4645-bf13-84039d4a27b3",
+      "properties": {
+        "name": "Суши Точка, магазин готовых роллов",
+        "subcategory": "Суши-бары",
+        "rating": "4.8",
+        "site": "http://sushitochka.com",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.149952,
+          52.351297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "08a737f2-7f2b-416b-9d82-fc595c4be3c2",
+      "properties": {
+        "name": "Kannam chicken, кафе доставки",
+        "subcategory": "Быстрое питание, Доставка еды, Кафе, Суши-бары",
+        "rating": "4.9",
+        "site": "http://irkutsk.kannam.ru/",
+        "hours": "Ежедневно с 11:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.345583,
+          52.250302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4048dc8b-7e8c-427c-bac8-564e310205fe",
+      "properties": {
+        "name": "Суши Ям, ресторан доставки паназиатской кухни",
+        "subcategory": "Доставка еды, Кафе, Суши-бары",
+        "rating": "4.7",
+        "site": "http://sushiyum.ru",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.252532,
+          52.277842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2a4d647a-f490-4c48-975a-186a0449fcdc",
+      "properties": {
+        "name": "СушиSell, служба доставки суши",
+        "subcategory": "Быстрое питание, Доставка еды, Суши-бары",
+        "rating": "4.3",
+        "site": "http://xn--e1afka0abm4b.xn--p1ai",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.330566,
+          52.264328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "944a78cf-394a-4b3e-904e-716e7bfab59f",
+      "properties": {
+        "name": "Суши-Вёсла, ресторан доставки",
+        "subcategory": "Доставка еды, Кафе, Суши-бары",
+        "rating": "4.4",
+        "site": "http://delivery-listvianka.ru",
+        "hours": "Ежедневно с 11:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.861396,
+          51.854921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ec276c0f-3803-426c-ae23-644c8437fc39",
+      "properties": {
+        "name": "Суши Точка, магазин готовых роллов",
+        "subcategory": "Суши-бары",
+        "rating": "4.8",
+        "site": "http://sushitochka.com",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.317465,
+          52.278651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d5c2fc2e-9841-4932-8d46-1bf7238cfe30",
+      "properties": {
+        "name": "Суши Студио, ресторан японской кухни",
+        "subcategory": "Доставка еды, Рестораны, Суши-бары",
+        "rating": "4.8",
+        "site": "http://irkutsk.sushi-studio.ru",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.225957,
+          52.265302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cf6b7cb3-d33c-4c53-b92e-710106e2b5a6",
+      "properties": {
+        "name": "СушиSell",
+        "subcategory": "Быстрое питание, Доставка еды, Суши-бары",
+        "rating": "4.7",
+        "site": "http://xn--e1afka0abm4b.xn--p1ai",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.094395,
+          52.210746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ecc2cb1d-b2da-4f4d-bc56-1337744c94d5",
+      "properties": {
+        "name": "Уют, кафе",
+        "subcategory": "Доставка еды, Кафе, Суши-бары",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 21:00, Вт: с 09:00 до 21:00, Ср: с 09:00 до 21:00, Чт: с 09:00 до 21:00, Пт: с 09:00 до 21:00, Сб: с 09:00 до 21:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.389955,
+          52.276553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "76e308cd-3776-4ea0-899c-5ce62f154a1e",
+      "properties": {
+        "name": "Yuminoko, суши-маркет",
+        "subcategory": "Быстрое питание, Доставка еды, Суши-бары",
+        "rating": "4.1",
+        "site": "http://yuminoko.ru",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289323,
+          52.268507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7fec370c-9afc-4864-9b05-eb057f6b0491",
+      "properties": {
+        "name": "Суши Точка, магазин готовых роллов",
+        "subcategory": "Быстрое питание, Суши-бары",
+        "rating": "4.8",
+        "site": "http://sushitochka.com",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.280807,
+          52.232703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ebd3d6b8-cdd0-4668-a649-cfb9336af0be",
+      "properties": {
+        "name": "Япоша, кафе японской кухни",
+        "subcategory": "Доставка еды, Кафе, Суши-бары",
+        "rating": "4.9",
+        "site": "http://taplink.cc/slyaposha",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.71549,
+          51.657826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2850e420-f88e-4bed-a080-c6c8415de853",
+      "properties": {
+        "name": "НиндзяGo",
+        "subcategory": "Доставка еды, Кафе, Суши-бары",
+        "rating": "4.9",
+        "site": "http://kebabpub.ru/store-ninjago",
+        "hours": "Пн: с 10:00 до 22:00, Вт: с 10:00 до 22:00, Ср: с 10:00 до 22:00, Чт: с 10:00 до 22:00, Пт: с 10:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.257247,
+          52.307732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d04c3ebc-8710-4562-a03e-c0a121ef93fd",
+      "properties": {
+        "name": "Суши-Маркет",
+        "subcategory": "Быстрое питание, Доставка еды, Суши-бары",
+        "rating": "4.3",
+        "site": "http://sushi-market.com",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.357116,
+          52.253737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b2af05e1-361d-491c-a3ca-18c80c0e8d4a",
+      "properties": {
+        "name": "Sushi Holl, ресторан доставки",
+        "subcategory": "Быстрое питание, Доставка еды, Суши-бары",
+        "rating": "4.4",
+        "site": "http://sushi-holl.ru",
+        "hours": "Пн: с 10:00 до 22:00, Вт: с 10:00 до 22:00, Ср: с 10:00 до 22:00, Чт: с 10:00 до 22:00, Пт: с 10:00 до 23:00, Сб: с 11:00 до 23:00, Вс: с 11:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.329665,
+          52.273681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bba10a08-b38e-4317-a7d5-d8c8aadd7958",
+      "properties": {
+        "name": "Суши Точка, магазин готовых роллов",
+        "subcategory": "Быстрое питание, Суши-бары",
+        "rating": "4.9",
+        "site": "http://sushitochka.com",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.365206,
+          52.2525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "71693477-8d9d-4528-b8aa-0da62130f5f7",
+      "properties": {
+        "name": "Nisu sushi",
+        "subcategory": "Быстрое питание, Доставка еды, Суши-бары",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.285947,
+          52.275389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5d8051d5-7e38-4a23-8cbe-954a97cd2bee",
+      "properties": {
+        "name": "Галерея Суши, служба доставки",
+        "subcategory": "Доставка еды, Магазины ингредиентов азиатской кухни, Суши-бары",
+        "rating": "1.0",
+        "site": "http://sushi-gallery.ru",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.319945,
+          52.265849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fe76b237-e55a-4500-8786-b7338d20c3dd",
+      "properties": {
+        "name": "Sushi House, суши-бар",
+        "subcategory": "Доставка еды, Кафе, Суши-бары",
+        "rating": "4.2",
+        "site": "http://uu.sushi-house.online",
+        "hours": "Ежедневно с 11:00 до 23:00 (служба доставки: вс-чт 10:00-23:00; пт-сб 10:00-00:00 )"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.572779,
+          51.849836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e6666db9-99f3-418e-83c3-0cdb1f919b12",
+      "properties": {
+        "name": "Император, суши-бар",
+        "subcategory": "Доставка еды, Рестораны, Суши-бары",
+        "rating": "4.4",
+        "site": "http://imperator03.ru",
+        "hours": "Пн: с 11:00 до 23:00, Вт: с 11:00 до 23:00, Ср: с 11:00 до 23:00, Чт: с 11:00 до 23:00, Пт: с 11:00 до 01:00, Сб: с 11:00 до 01:00, Вс: с 11:00 до 23:00 (служба доставки: пн-чт 10:00-22:00; пт-сб 10:00-23:00; вс 10:00-22:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.577576,
+          51.838655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "00761c4b-b22b-4742-b2bc-b16522976c3f",
+      "properties": {
+        "name": "Roll`n`Roll, суши-бар",
+        "subcategory": "Доставка еды, Кафе, Суши-бары",
+        "rating": "4.1",
+        "site": "http://www.sushibur.ru",
+        "hours": "Пн: с 11:00 до 23:00, Вт: с 11:00 до 23:00, Ср: с 11:00 до 23:00, Чт: с 11:00 до 23:00, Пт: с 11:00 до 01:00, Сб: с 11:00 до 01:00, Вс: с 11:00 до 23:00 (служба доставки: пн-чт, вс 10:00-23:00; пт-сб 10:00-1:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.576769,
+          51.840003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "04365523-15c7-4fa8-bd34-27c9ae9142a6",
+      "properties": {
+        "name": "Sushi House, суши-бар",
+        "subcategory": "Доставка еды, Кафе, Суши-бары",
+        "rating": "4.3",
+        "site": "http://uu.sushi-house.online",
+        "hours": "Пн: с 11:00 до 23:00, Вт: с 11:00 до 23:00, Ср: с 11:00 до 23:00, Чт: с 11:00 до 23:00, Пт: с 11:00 до 24:00, Сб: с 11:00 до 24:00, Вс: с 11:00 до 23:00 (служба доставки: вс-чт 10:00-23:00; пт-сб 10:00-00:00 )"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.576743,
+          51.840232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "68502b42-69a2-40c3-9e86-79b5db9c7c18",
+      "properties": {
+        "name": "Студия Sushi, суши-бар",
+        "subcategory": "Доставка еды, Суши-бары",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60706,
+          51.808582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b1d8922b-77bc-455e-9182-899a5996c60d",
+      "properties": {
+        "name": "TEMAKI, кафе",
+        "subcategory": "Доставка еды, Кафе, Пиццерии, Суши-бары",
+        "rating": "4.4",
+        "site": "http://t.me/temaki03, http://temaki.ru",
+        "hours": "Пн: с 11:00 до 23:00, Вт: с 11:00 до 23:00, Ср: с 11:00 до 23:00, Чт: с 11:00 до 23:00, Пт: с 11:00 до 24:00, Сб: с 11:00 до 24:00, Вс: с 11:00 до 23:00 (служба доставки: пн-чт, вс 10:00-22:30; пт-сб 10:00-23:30)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.632971,
+          51.820845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3a09e8bd-82ed-4b60-92e0-14fedcc14bd5",
+      "properties": {
+        "name": "ЯРоллов, фьюжн-ресторан",
+        "subcategory": "Доставка еды, Кафе, Пиццерии, Рестораны, Суши-бары",
+        "rating": "4.3",
+        "site": "http://yarollov.ru",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.590118,
+          51.82396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "95f4363c-782c-4270-b8d2-8defeb0a049e",
+      "properties": {
+        "name": "ЯРоллов, фьюжн-ресторан",
+        "subcategory": "Доставка еды, Кафе, Пиццерии, Рестораны, Суши-бары",
+        "rating": "4.0",
+        "site": "http://yarollov.ru",
+        "hours": "Ежедневно с 11:00 до 23:00 (служба доставки: пн-вс 10:00-00:30)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.67068,
+          51.813358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6fb8c0aa-5dbd-4843-aa62-75e61d774658",
+      "properties": {
+        "name": "МакиЯки, суши-бар",
+        "subcategory": "Доставка еды, Суши-бары",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.870494,
+          52.002955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dd144c55-8372-4d76-9be0-b8d91d58c06d",
+      "properties": {
+        "name": "ЯРоллов, фьюжн-ресторан",
+        "subcategory": "Доставка еды, Кафе, Пиццерии, Рестораны, Суши-бары",
+        "rating": "4.2",
+        "site": "http://t.me/yarollov, http://yarollov.ru",
+        "hours": "Ежедневно с 11:00 до 23:00 (служба доставки: пн-вс 10:00-00:30)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.591073,
+          51.825369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1b55cc5f-1733-4e72-9e4f-de0d1a092f0d",
+      "properties": {
+        "name": "ЯРоллов, фьюжн-ресторан",
+        "subcategory": "Доставка еды, Кафе, Пиццерии, Рестораны, Суши-бары",
+        "rating": "4.0",
+        "site": "http://yarollov.ru",
+        "hours": "Ежедневно с 11:00 до 23:00 (служба доставки: пн-вс 10:00-00:30)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59755,
+          51.838768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "57206187-1bf7-40a0-962e-45df1327cd33",
+      "properties": {
+        "name": "Васаби, служба доставки готовых блюд",
+        "subcategory": "Доставка еды, Кафе, Суши-бары",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Пн: с 10:00 до 23:00, Вт: с 10:00 до 23:00, Ср: с 10:00 до 23:00, Чт: с 10:00 до 23:00, Пт: с 10:00 до 23:00, Сб: с 10:00 до 23:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.119504,
+          51.678887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d9460439-8235-47bb-9435-4981499e9526",
+      "properties": {
+        "name": "TEMAKI, кафе",
+        "subcategory": "Доставка еды, Кафе, Пиццерии, Суши-бары",
+        "rating": "4.3",
+        "site": "http://temaki.ru",
+        "hours": "Ежедневно с 11:00 до 23:00 (служба доставки: пн-чт, вс 10:00-22:30; пт-сб 10:00-23:30)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59044,
+          51.841237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3679322f-282e-48fd-a65f-137562ca500d",
+      "properties": {
+        "name": "Sushi House, суши-бар",
+        "subcategory": "Доставка еды, Кафе, Суши-бары",
+        "rating": "4.3",
+        "site": "http://uu.sushi-house.online",
+        "hours": "Ежедневно с 10:00 до 21:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.577359,
+          51.778129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4192f32a-abfc-42cd-9204-8fbc8c6b04be",
+      "properties": {
+        "name": "TEMAKI, кафе",
+        "subcategory": "Доставка еды, Кафе, Пиццерии, Суши-бары",
+        "rating": "4.5",
+        "site": "http://temaki.ru",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607848,
+          51.808395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "be551c98-dcdc-45fa-8ab1-a4a3a87a6ae5",
+      "properties": {
+        "name": "Мафия вкуса Якудза, суши-бар",
+        "subcategory": "Быстрое питание, Доставка еды, Суши-бары",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00 (служба доставки: пн-вс 11:00-22:30)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.2817,
+          51.746758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f66513e4-8d53-4464-b183-d2b9400a25b8",
+      "properties": {
+        "name": "Makiso, служба доставки суши, роллов и пиццы",
+        "subcategory": "Быстрое питание, Доставка еды, Суши-бары",
+        "rating": "4.8",
+        "site": "http://t.me/makiso_03, http://www.makiso.ru",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.640471,
+          51.807581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e08abd7c-6cb7-4498-8627-63b087fe2c42",
+      "properties": {
+        "name": "Сытая Черепаха, семейное кафе",
+        "subcategory": "Доставка еды, Кафе, Пиццерии, Суши-бары",
+        "rating": "4.2",
+        "site": "http://sch03.ru",
+        "hours": "Ежедневно с 11:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.653214,
+          51.805947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b1912a24-25f6-4754-892d-795930361a54",
+      "properties": {
+        "name": "TEMAKI, пункт самовывоза",
+        "subcategory": "Доставка еды, Суши-бары",
+        "rating": "4.2",
+        "site": "http://temaki.ru",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.657697,
+          51.810183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a5bee01b-82e5-484e-aaf6-6ffa1e078bb4",
+      "properties": {
+        "name": "Sushi Khan",
+        "subcategory": "Суши-бары",
+        "rating": "3.3",
+        "site": "http://t.me/sushikhankabansk",
+        "hours": "Ежедневно с 11:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.642756,
+          52.046803
+        ]
+      }
+    }
+  ]
+}

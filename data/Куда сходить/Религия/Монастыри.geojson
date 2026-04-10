@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "name": "Монастыри",
+  "style": {
+    "color": "#0a9c07",
+    "radius": 10,
+    "icon": "church-svgrepo-com.svg"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "c773a4ef-2b3d-4697-91b3-67ee1098b07b",
+      "properties": {
+        "name": "Сретенский женский монастырь",
+        "subcategory": "Монастыри",
+        "rating": "4.8",
+        "site": "http://baturino.ru",
+        "hours": "Ежедневно с 07:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.857476,
+          52.334039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e66eed64-80f7-4ac9-bdf6-14b14ff83b6e",
+      "properties": {
+        "name": "Посольский Спасо-Преображенский мужской монастырь",
+        "subcategory": "Монастыри",
+        "rating": "4.9",
+        "site": "http://posolsk-monastery.prihod.ru, http://pravoslavnaya-buryatiya.ru",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.178064,
+          52.017289
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "type": "FeatureCollection",
+  "name": "Приходы",
+  "style": {
+    "color": "#0a9c07",
+    "radius": 11,
+    "icon": "church-svgrepo-com.svg"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "1779af6f-be5d-46e6-948d-0fd5c6d45e9c",
+      "properties": {
+        "name": "Приход Непорочного Сердца Божьей Матери, местная римско-католическая религиозная организация",
+        "subcategory": "Приходы",
+        "rating": "4.7",
+        "site": "http://catholic-irk.ru",
+        "hours": "Ежедневно с 09:00 до 18:00 (администрация: пн-пт 10:00-17:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.257111,
+          52.262795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "04e43e3a-1fc7-4142-a103-9fc5948df927",
+      "properties": {
+        "name": "Христорождественский Приход, местная православная религиозная организация",
+        "subcategory": "Приходы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 08:30 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.213689,
+          52.350776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "de42d956-a5c3-4288-b50f-de1031601c76",
+      "properties": {
+        "name": "Приход Храма Успения Божией Матери",
+        "subcategory": "Приходы",
+        "rating": "5.0",
+        "site": "http://t.me/uspenie38",
+        "hours": "Ежедневно с 08:30 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.267615,
+          52.327677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cbfe52e7-756f-43b0-8f87-9e2d3cf88152",
+      "properties": {
+        "name": "Приход святителя Софрония",
+        "subcategory": "Приходы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Пн: с 10:00 до 17:00, Вт: с 10:00 до 17:00, Ср: с 10:00 до 17:00, Чт: с 10:00 до 17:00, Пт: с 10:00 до 17:00, Сб: с 10:00 до 17:00, Вс: с 07:00 до 17:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.095191,
+          52.21445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "64cd8fbf-8344-4b35-8666-b9f54e38503a",
+      "properties": {
+        "name": "Приход Преподобного Сергия Радонежского",
+        "subcategory": "Приходы",
+        "rating": "4.8",
+        "site": "http://narodrad.ru",
+        "hours": "Ежедневно с 09:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.265368,
+          52.260071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1b393b00-7e42-410d-adae-399d2fb2e345",
+      "properties": {
+        "name": "Приход храма Михаило-Архангельского",
+        "subcategory": "Приходы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.216729,
+          52.332051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31974ebb-da06-4947-95b7-ba3a6adf9807",
+      "properties": {
+        "name": "Храм во Имя Святого пророка царя Давида",
+        "subcategory": "Приходы",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.645008,
+          51.392079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "954a074c-7204-47ec-a489-74c94ed6afe2",
+      "properties": {
+        "name": "Храм святителя Тихона патриарха Московского",
+        "subcategory": "Приходы",
+        "rating": "3.8",
+        "site": "http://t.me/tikhon_irkutsk, http://tikhon-hram.ru",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: с 08:00 до 09:00, Вс: с 08:30 до 13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.241106,
+          52.251739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "98851358-5542-4928-b4fa-de6f37547a7d",
+      "properties": {
+        "name": "Приход Непорочного Сердца Божьей Матери, местная римско-католическая религиозная организация",
+        "subcategory": "Приходы",
+        "rating": "4.7",
+        "site": "http://catholic-irk.ru",
+        "hours": "Ежедневно с 09:00 до 18:00 (администрация: пн-пт 10:00-17:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.257111,
+          52.262795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f66b85da-8d97-4686-b8cd-19ed246656a8",
+      "properties": {
+        "name": "Приход в честь Рождества Христова",
+        "subcategory": "Приходы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 17:00, Вт: с 09:00 до 17:00, Ср: с 09:00 до 17:00, Чт: с 09:00 до 17:00, Пт: с 09:00 до 17:00, Сб: с 08:00 до 17:00, Вс: с 08:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.62087,
+          51.807914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2dcc3068-877f-4e07-9d30-6ecb49d595a2",
+      "properties": {
+        "name": "Римско-католический приход",
+        "subcategory": "Приходы",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.654268,
+          51.811441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "125a18b5-7be5-4113-aafc-ba2022b3f86a",
+      "properties": {
+        "name": "Православный Приход храма Преображения Господня",
+        "subcategory": "Приходы, Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.282805,
+          51.74698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "492fd1a0-821c-4116-a0e1-03279fc7c43e",
+      "properties": {
+        "name": "Приход храма Нерукотворного Образа Христа Спасителя, с. Турунтаево",
+        "subcategory": "Приходы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.635671,
+          52.199363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5e3897cd-e02c-4b09-8494-81314ff3f4d5",
+      "properties": {
+        "name": "Приход храма Богоявления Господня",
+        "subcategory": "Приходы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: с 16:00 до 20:00, Вс: с 09:00 до 15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.289128,
+          52.122468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "43fa1987-db97-4b44-9bf6-ea88eb17bb1b",
+      "properties": {
+        "name": "Приход в честь святителя Николая Архиепископа Мирлийского",
+        "subcategory": "Приходы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 17:00, Вт: с 07:30 до 17:00, Ср: с 07:30 до 17:00, Чт: с 07:30 до 17:00, Пт: с 07:30 до 17:00, Сб: с 08:00 до 20:00, Вс: с 07:30 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.654346,
+          52.050927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0a9dc396-ca4a-4483-8747-491cebe67f60",
+      "properties": {
+        "name": "Приход храма в честь Казанской иконы Божией Матери",
+        "subcategory": "Приходы",
+        "rating": "nan",
+        "site": "http://gusin-hram03.ru",
+        "hours": "Ежедневно с 08:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.536506,
+          51.284207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9722c92b-aa5c-449c-892b-dbe3a0c8f7ff",
+      "properties": {
+        "name": "Приход храма в честь святой блаженной Ксении Петербургской",
+        "subcategory": "Приходы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 10:00 до 17:00, Вт: с 10:00 до 17:00, Ср: с 10:00 до 17:00, Чт: с 10:00 до 17:00, Пт: с 10:00 до 17:00, Сб: с 10:00 до 17:00, Вс: с 10:00 до 15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.069963,
+          51.926932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26b20970-1af0-453a-83c9-120c39f933f6",
+      "properties": {
+        "name": "Приход храма в честь иконы Божией Матери Державная",
+        "subcategory": "Приходы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: выходной, Вс: с 09:00 до 16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.379485,
+          51.477244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f61c5fc6-7e28-4ea5-b309-ea3d23eef77b",
+      "properties": {
+        "name": "Свято Петро-Павловский приход",
+        "subcategory": "Приходы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.394453,
+          51.686018
+        ]
+      }
+    }
+  ]
+}

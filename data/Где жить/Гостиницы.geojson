@@ -1,0 +1,7643 @@
+{
+  "type": "FeatureCollection",
+  "name": "Гостиницы",
+  "style": {
+    "color": "#a6a6a6",
+    "radius": 17,
+    "icon": "hotel-svgrepo-com (2).svg"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "87504ba3-e887-49d5-be8b-fbbdd44f5892",
+      "properties": {
+        "name": "Динамо, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.320737,
+          52.290344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2c80ef15-b58b-4610-9526-3fa76122fb75",
+      "properties": {
+        "name": "Дом Европы, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.304561,
+          52.286396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e9990877-5613-4b2a-b997-0b69fae32c35",
+      "properties": {
+        "name": "Русь, гостиничный комплекс",
+        "subcategory": "Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.7",
+        "site": "http://www.rusbaikal.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.279458,
+          52.284472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6ccdabdf-dfc8-48be-8774-187bf49580a6",
+      "properties": {
+        "name": "Звезда, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.8",
+        "site": "http://zvezdahotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.336548,
+          52.277798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8f159405-9b09-40b7-8281-3409bef121cd",
+      "properties": {
+        "name": "Академическая, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.7",
+        "site": "http://academichotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.271079,
+          52.248818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8164194f-d42e-428c-abe9-677e972e9fbd",
+      "properties": {
+        "name": "Ангара, гостиничный комплекс",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "http://jivo.chat/ngNIW6iJZB, http://www.angarahotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.282226,
+          52.287737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b73a8a31-38b0-4599-9ccc-2c8bce452d5b",
+      "properties": {
+        "name": "Роса, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.313655,
+          52.291728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "23329a99-59ef-4ced-8257-a80aa234e96f",
+      "properties": {
+        "name": "Спорт, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "http://ogau-irk.ru",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.283242,
+          52.276001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "51191dda-d94c-4e3f-b437-f1f165bb437c",
+      "properties": {
+        "name": "Учебный центр профсоюзов, Общежитие гостиничного типа",
+        "subcategory": "Гостиницы",
+        "rating": "4.0",
+        "site": "http://ucp38.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.355387,
+          52.256524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96f4f68a-1393-4722-a8de-148a66982b39",
+      "properties": {
+        "name": "Лазурный берег, ресторанно-гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Банкетные залы, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.5",
+        "site": "http://lbirk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.337477,
+          52.253437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27a197b1-b55c-4356-ad22-b3532c0485cf",
+      "properties": {
+        "name": "Арабеска, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "http://www.arabeska.irkutsk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.835883,
+          51.870523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b198a945-314f-4461-9fb2-8b7f8acb6fba",
+      "properties": {
+        "name": "Солнце, отель",
+        "subcategory": "Бильярдные залы, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.6",
+        "site": "http://www.sunhotel-irkutsk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.358491,
+          52.25717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "743ccc33-927c-41a6-b538-00b21dbe093a",
+      "properties": {
+        "name": "На Култукской, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.1",
+        "site": "http://kultuk-9v.webnode.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.320689,
+          52.28492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8799bb02-68ce-4e8d-97cc-1143b60d2e21",
+      "properties": {
+        "name": "Рыцарский двор, гостиничный комплекс",
+        "subcategory": "Банкетные залы, Гостиницы",
+        "rating": "4.4",
+        "site": "http://xn--80aefpfe6ajbge1d8c.xn--p1ai",
+        "hours": "Ежедневно с 11:00 до 24:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.41527,
+          52.249609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0e3e77fc-ec3a-4c5f-a024-f06d1f98764c",
+      "properties": {
+        "name": "Гостиничный комплекс",
+        "subcategory": "Бильярдные залы, Гостиницы",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Круглосуточно (бильярдный зал: пн-пт 10:00-21:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.249858,
+          52.289739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dc4cec18-99e5-4e24-b68a-7a7a24ec3f44",
+      "properties": {
+        "name": "Отель Иркутск",
+        "subcategory": "Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.5",
+        "site": "http://irkutsk-hotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.273009,
+          52.282279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "566f0f42-f273-40cb-a536-5028ecfc0ad6",
+      "properties": {
+        "name": "Европа, гостиничный комплекс",
+        "subcategory": "Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.7",
+        "site": "http://europehotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.305081,
+          52.274584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6419b933-bf98-493b-bf54-146e44ab9430",
+      "properties": {
+        "name": "Байкальские сезоны, парк-отель",
+        "subcategory": "Аренда беседок, Бани / Сауны, Банкетные залы, Гостиницы",
+        "rating": "4.6",
+        "site": "http://t.me/baikalseasons_best, http://www.baikal-seasons.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.805118,
+          51.907147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d574f32b-ef04-46d5-ba15-dea2a8f30779",
+      "properties": {
+        "name": "Бабр, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "2.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.303829,
+          52.288606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "db9146c4-d69c-4877-9a21-76dcc9bfa2a4",
+      "properties": {
+        "name": "Витим, гостиничный комплекс",
+        "subcategory": "Гостиницы",
+        "rating": "4.0",
+        "site": "http://vitim.hotel2you.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.258851,
+          52.28204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3ec37d85-2e63-4b71-ac5b-edf358423159",
+      "properties": {
+        "name": "Воздушная гавань, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.3",
+        "site": "http://hotel.iktport.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.353875,
+          52.274546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "51885e9b-698f-4297-9f00-ac308f9a67b3",
+      "properties": {
+        "name": "Патрина, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "1.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.329709,
+          52.294746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5ab72256-cfa9-4187-b636-24accde01f3a",
+      "properties": {
+        "name": "Ban & Bass, центр отдыха",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.293687,
+          52.319618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bb3ecb01-8b6b-4381-9c99-b8b13e424c00",
+      "properties": {
+        "name": "Альпари, гостиница",
+        "subcategory": "Бани / Сауны, Банкетные залы, Гостиницы",
+        "rating": "4.5",
+        "site": "http://www.alpari-hotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.308213,
+          52.231942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9643e091-9a88-41b8-9785-c7b327645899",
+      "properties": {
+        "name": "Восток-Запад, мини-гостиница экономкласса",
+        "subcategory": "Гостиницы",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.253564,
+          52.283259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fe1599d5-916e-42c4-b140-efb403565019",
+      "properties": {
+        "name": "Империя, гостиница",
+        "subcategory": "Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.7",
+        "site": "http://empirehotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.283705,
+          52.292031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "83ced316-025a-462c-801e-a638ca82d537",
+      "properties": {
+        "name": "Лотос, гостиница",
+        "subcategory": "Банкетные залы, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.1",
+        "site": "http://hotellotos38.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.29901,
+          52.27892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22d65e97-60cd-4f63-8138-fa3a4a5b4be8",
+      "properties": {
+        "name": "Вега, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "http://vegahotelirk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.266501,
+          52.261977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ab58d56e-c995-4737-8849-da3ab850a0dd",
+      "properties": {
+        "name": "Байкал Бизнес Центр, гостиничный комплекс",
+        "subcategory": "Банкетные залы, Гостиницы, Конференц-залы / Переговорные комнаты, Организация бизнес-мероприятий",
+        "rating": "4.8",
+        "site": "http://bbc.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.353523,
+          52.257764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11efbd52-53e0-4600-8fc2-9f878e84971f",
+      "properties": {
+        "name": "Арена, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.5",
+        "site": "http://circus-irkutsk.ru/gostinitsa-arena.html",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.287005,
+          52.28794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b0da742b-0328-4539-acdf-c2edb511bb24",
+      "properties": {
+        "name": "Ташир, центр отдыха",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.255967,
+          52.265293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ab9c8f8a-adec-475d-a5d3-9f18cd8de216",
+      "properties": {
+        "name": "Альфа плюс, мини-гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "2.8",
+        "site": "http://clck.ru/3EBQKX",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.280528,
+          52.23637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5f81761a-d6e0-4fb0-a421-9636408e5b8e",
+      "properties": {
+        "name": "Sayen, бизнес-отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "http://sayen.ru/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.283852,
+          52.282045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e2dae7a2-6d41-4a6d-81d5-ae9814fb0568",
+      "properties": {
+        "name": "Саяны, гостиница",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "2.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.227417,
+          52.253283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b73565db-4c57-4ca3-92fd-193b7447bbff",
+      "properties": {
+        "name": "Планета, гостиничный комплекс",
+        "subcategory": "Гостиницы",
+        "rating": "3.4",
+        "site": "http://8646.hoteels.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.188004,
+          52.345399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "25ae1800-9eda-490d-a1e1-badf57a7f0e3",
+      "properties": {
+        "name": "Прибайкальская в Листвянке, гостиница",
+        "subcategory": "Аренда беседок, Банкетные залы, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.3",
+        "site": "http://www.pribaikalskaja.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.819051,
+          51.904109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cde0985f-c5fb-4325-a11f-d885b46bac59",
+      "properties": {
+        "name": "Приангарье, гостиница",
+        "subcategory": "Банкетные залы, Гостиницы",
+        "rating": "3.9",
+        "site": "http://priangare.hotel2you.ru/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.108414,
+          52.371821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f67bff17-e98d-4f3c-a7d3-bae690243300",
+      "properties": {
+        "name": "Фрегат, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.8",
+        "site": "http://fregat-hotel.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.32743,
+          52.253356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "620e0176-14cb-488a-85e2-c53c5daf8de2",
+      "properties": {
+        "name": "Лагуна, центр отдыха",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.308227,
+          52.229511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fef9f4df-3b78-4d5c-99b8-84f041bf3ae1",
+      "properties": {
+        "name": "Алания, гостиница",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.5",
+        "site": "http://alania-listvyanka.pro-hotel1.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.841651,
+          51.865483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "776492fc-d3f5-4e6c-9c18-b31d0988426f",
+      "properties": {
+        "name": "Прибой, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.5",
+        "site": "http://hotel-priboy.ru",
+        "hours": "Ежедневно с 09:00 до 23:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.875162,
+          51.845781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d18b0f9f-e6c8-430d-b708-00a6513f588f",
+      "properties": {
+        "name": "Pilot, развлекательный центр",
+        "subcategory": "Авиатакси, Аренда беседок, Аренда коттеджей / гостевых домов, Базы отдыха, Бани / Сауны, Банкетные залы, Бассейны, Гостиницы, Детские игровые залы",
+        "rating": "4.8",
+        "site": "http://pilots7.com, http://www.helicopter38.ru",
+        "hours": "Пн: с 12:00 до 18:00, Вт: с 12:00 до 18:00, Ср: с 12:00 до 18:00, Чт: с 12:00 до 18:00, Пт: с 10:00 до 21:00, Сб: с 10:00 до 21:00, Вс: с 10:00 до 21:00 (по предварительной записи: пн-ср)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.127801,
+          52.256497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aff0e7ad-136c-4533-94b3-44e4de106881",
+      "properties": {
+        "name": "Крестовая падь, гостинично-ресторанный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.9",
+        "site": "http://krestovayapad.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.859941,
+          51.857895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "541a73df-7c13-488f-b7fa-8e9489530929",
+      "properties": {
+        "name": "У Истока, гостиничный комплекс",
+        "subcategory": "Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "3.9",
+        "site": "http://u.istok38.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.363051,
+          52.253114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "541d3de2-3305-480b-8e8e-8db0ee2b8d38",
+      "properties": {
+        "name": "Добрый кот, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://goodcat38.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.252144,
+          52.283802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "42de0e24-77f3-475c-a042-398246004341",
+      "properties": {
+        "name": "Байкал 21, центр отдыха",
+        "subcategory": "Аренда беседок, Бани / Сауны, Гостиницы",
+        "rating": "4.2",
+        "site": "http://baikal21.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.508484,
+          52.186177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bdad8228-5bad-436a-b3a2-f5768dc2da9d",
+      "properties": {
+        "name": "Irkutsk City Center, отель",
+        "subcategory": "Банкетные залы, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.7",
+        "site": "http://eastlandhotels.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.273427,
+          52.288243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fd2a57c3-b460-4608-85d8-71e58918fd72",
+      "properties": {
+        "name": "Иркутск Сити Лодж, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "http://irkutsk-city-lodge.clients.site/",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.309721,
+          52.262689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "81827e97-047c-47f3-8db5-340256061e04",
+      "properties": {
+        "name": "Виктория, гостиница",
+        "subcategory": "Банкетные залы, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.8",
+        "site": "http://victoryhotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.287495,
+          52.283301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7e38a59f-6d9f-4c9c-a86c-5925f7b9e122",
+      "properties": {
+        "name": "Луч, гостиничный комплекс",
+        "subcategory": "Гостиницы",
+        "rating": "2.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.299887,
+          52.225316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1be84663-3fc7-44ae-84e8-91f05a39b7e8",
+      "properties": {
+        "name": "Зенит, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.227639,
+          52.352943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f22688bc-dc53-44d0-8792-ea1e16096623",
+      "properties": {
+        "name": "Даурия, гостиница",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.8",
+        "site": "http://dauriahotel.ru",
+        "hours": "Ежедневно с 08:00 до 22:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.863252,
+          51.859663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bbd0c9dd-e4ce-4947-bd79-b51266d7fe4a",
+      "properties": {
+        "name": "Легенда Байкала, отель",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.4",
+        "site": "http://t.me/legend_of_baikal, http://www.legend-of-baikal.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.828687,
+          51.872729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "049f3995-3f79-4aa2-b6d7-d9aac54bc965",
+      "properties": {
+        "name": "Старый город, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.0",
+        "site": "http://oldcity-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.298947,
+          52.282706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b3abd444-4f09-45a9-abce-3e5efedae831",
+      "properties": {
+        "name": "Ирбол, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.159333,
+          52.348675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aad92177-e53b-45fb-b6cf-56542739bc4b",
+      "properties": {
+        "name": "Купеческий Дворъ, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "http://www.kupecheskyhotel.ru",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288095,
+          52.275042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13155b1d-01d5-4b19-a399-38f498422adf",
+      "properties": {
+        "name": "Маяк, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы, Конференц-залы / Переговорные комнаты, Организация праздников",
+        "rating": "4.6",
+        "site": "http://mayakhotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.873028,
+          51.847404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c32b09b3-71ab-4129-bc44-e12133058eac",
+      "properties": {
+        "name": "Магас, гостиница",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.258291,
+          52.281391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d7d03df5-ae6e-4c5f-919f-f8e532c1b5fd",
+      "properties": {
+        "name": "Marussia, бутик-отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "http://www.marussiahotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288483,
+          52.275107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1551e6b9-c9db-4dae-ab29-9177ed7aa3fc",
+      "properties": {
+        "name": "Дом творчества Байкал, гостиничный комплекс",
+        "subcategory": "Гостиницы, Кейтеринг, Конференц-залы / Переговорные комнаты",
+        "rating": "4.6",
+        "site": "http://dtbaikal.ru",
+        "hours": "Ежедневно с 09:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.832071,
+          51.888204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3838d55c-b07e-4cde-ad7d-ad79991c53cc",
+      "properties": {
+        "name": "У озера, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.3",
+        "site": "http://xn----8sboh8aoq.xn--p1ai",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.844593,
+          51.86445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f63da71d-364d-4c07-8101-21efc5b3e54a",
+      "properties": {
+        "name": "Анастасия, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.4",
+        "site": "http://baikalhotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.824869,
+          51.89176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e42b2b4d-56ce-4199-8c88-6bb9f955346b",
+      "properties": {
+        "name": "Аквамарин, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "http://www.ambaikal.ru",
+        "hours": "Круглосуточно (отдел бронирования: пн-вс 9:00-23:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.878966,
+          51.862498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6561b8b3-96d9-4082-9f24-c459d05f4043",
+      "properties": {
+        "name": "Автовокзал, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.3",
+        "site": "http://clck.ru/3A5Z6r",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.304677,
+          52.289647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "abdc89c5-4723-4381-8e09-5cfd57453e73",
+      "properties": {
+        "name": "Атлас, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "http://atlas-irk.ru",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.327051,
+          52.264589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eda0d7d8-d192-49b6-b177-85e80deea646",
+      "properties": {
+        "name": "Иркут, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "http://clck.ru/3Q8sM7",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.285354,
+          52.288851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6e1f72e9-60ba-434e-8a65-869331331916",
+      "properties": {
+        "name": "Гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.070719,
+          52.200275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "acdf2183-74f2-4cfb-8b92-487dadc42a54",
+      "properties": {
+        "name": "Уютный дом, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "http://cozyhouse.2gis.biz, http://t.me/cozyhouse_foryou, http://t.me/gostevoihome",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.258315,
+          52.280251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c0480be5-b504-461a-bcc3-51cba750bfba",
+      "properties": {
+        "name": "Альбатрос, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.35397,
+          52.26155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7adcc751-91ce-427b-8824-78c32f660c14",
+      "properties": {
+        "name": "Ассоль, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.297744,
+          52.310065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "115f35f6-c780-4cb1-9dd2-608ccf0f2099",
+      "properties": {
+        "name": "Бурдугуз, парк-отель",
+        "subcategory": "Аренда беседок, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.6",
+        "site": "http://burduguz.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.602241,
+          52.057101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fbd76967-e175-47de-9625-b0569bc1da5f",
+      "properties": {
+        "name": "Браво, хостел",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.7",
+        "site": "http://hostelbravo.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.353612,
+          52.274182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a2c0cd1c-60e4-404f-b507-b549240b1dd9",
+      "properties": {
+        "name": "Грин, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.0",
+        "site": "http://greenhotel-irkutsk.ru/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.316651,
+          52.267322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ccb2ba94-5981-402b-9530-178c3a4e8f89",
+      "properties": {
+        "name": "Саяны, гостиница",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.306277,
+          52.21976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c452f7bc-6cb9-468b-880b-867edb5eacb3",
+      "properties": {
+        "name": "Юбилейная, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.4",
+        "site": "http://hotelirk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.295967,
+          52.221936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6f21b08a-6b30-4d9d-939d-df6653a110b1",
+      "properties": {
+        "name": "Павлин, мини-гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.155245,
+          52.35556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "52195c43-fe1a-45b5-b9f3-318ec05e5b18",
+      "properties": {
+        "name": "Гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.349904,
+          52.28113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a142b934-abd8-4193-9c44-b975240310e6",
+      "properties": {
+        "name": "Панда, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.4",
+        "site": "http://clck.ru/3DJxh4",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.256116,
+          52.284082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5eb964de-dd43-4c47-9c39-693b5722c224",
+      "properties": {
+        "name": "Павлин, гостиничный комплекс",
+        "subcategory": "Гостиницы",
+        "rating": "3.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.097924,
+          52.362651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6cbacc4e-1968-43fd-8fc5-d25952d85834",
+      "properties": {
+        "name": "Привокзальная, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.6",
+        "site": "http://privokzalnaia.pro-hotel1.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.259125,
+          52.282116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22691e83-1ab4-4566-b4b6-412d2a21de89",
+      "properties": {
+        "name": "Матрёшка, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "http://mahotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.300481,
+          52.282056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e11a9d50-5791-4371-b5d5-c914b18f8e11",
+      "properties": {
+        "name": "Элит, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.198384,
+          52.328829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e4303239-fe48-43df-92d7-5abc1bdb72cd",
+      "properties": {
+        "name": "Славянка",
+        "subcategory": "Гостиницы",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.870764,
+          51.849436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d2e0fdfe-e82b-4fd6-9eb8-d42c2871471f",
+      "properties": {
+        "name": "София, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "http://70000001018625054.2gis.biz, http://8650.hoteels.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.217206,
+          52.361878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "54096d43-849b-41d0-be9a-be871a8d1871",
+      "properties": {
+        "name": "Аврора, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.6",
+        "site": "http://clck.ru/3CrdEo",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.294619,
+          52.288105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "966f95a4-b09c-4ce8-8946-94f50b846fa4",
+      "properties": {
+        "name": "Аэропорт Сити Лодж",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "http://aircitylodge.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.364596,
+          52.276858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2b4b8bf2-62db-4adb-81bc-c815ffff4dd9",
+      "properties": {
+        "name": "Сатурн, гостиничный комплекс",
+        "subcategory": "Гостиницы",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.213958,
+          52.343108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2d85e75a-be47-43d3-8f21-65d928cff986",
+      "properties": {
+        "name": "Компания по краткосрочному найму жилья",
+        "subcategory": "Гостиницы",
+        "rating": "3.3",
+        "site": "http://8637.hoteels.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.293207,
+          52.278729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e573dc6d-a037-49fc-90d1-6e6ba1f34e3f",
+      "properties": {
+        "name": "7 Дорог, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "http://sevenroads.ru",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.335262,
+          52.274843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9c4357f3-8ead-4972-a53d-db503d522ef6",
+      "properties": {
+        "name": "Байкальский рай, гостиница",
+        "subcategory": "Аренда беседок, Бани / Сауны, Гостиницы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.726362,
+          51.732356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0036bab6-ab95-4167-956d-3830e1919189",
+      "properties": {
+        "name": "Берёзка, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://reservationsteps.ru/rooms/index/54857004-401c-4482-9a14-8deed87e3e9b",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288898,
+          52.274612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9f146cb6-dbc8-439f-bf9f-15a81d700af5",
+      "properties": {
+        "name": "Байкал, гостевой дом",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "http://jivo.chat/A3BUJHsQ13, http://www.baikalguesthouse.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.286173,
+          52.278799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ff346de6-1a92-4ae9-8a8e-82ba9c10405d",
+      "properties": {
+        "name": "Гостевой дом на Звездинской",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "http://gostevoi-dom-na-zvezdinskoi.hotel2you.ru/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.255851,
+          52.273441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e4a94ee9-3a01-43ec-a18f-e72c4335ded1",
+      "properties": {
+        "name": "Байкал-Северное море, гостиничный комплекс",
+        "subcategory": "Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.4",
+        "site": "http://northseahotel.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.321021,
+          52.252181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "566adc0c-7c59-43d7-9d41-7a37803c9632",
+      "properties": {
+        "name": "Созвездие Байкала, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://starbaik.ru",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.887474,
+          51.844043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "42ea5c26-d254-4aa8-b556-56d6b22fbb90",
+      "properties": {
+        "name": "Мечта Байкала, гостиница",
+        "subcategory": "Аренда беседок, Гостиницы",
+        "rating": "4.2",
+        "site": "http://mechta-baikala.hotel2you.ru/, http://xn--80aaaacw5aikc1ezc.xn--p1ai/our-rooms/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.876539,
+          51.845192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cc0fa733-4ea6-4924-80ef-7df4634630c6",
+      "properties": {
+        "name": "Модуль, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "http://modul-hotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.309406,
+          52.273673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "930bf2bf-6bf4-4d19-88bf-2c135d8dfc45",
+      "properties": {
+        "name": "Брутальная матрёшка, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.3",
+        "site": "http://brutalnaia-matrioshka.hotel2you.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.147703,
+          52.363433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c24e83de-aa04-4e94-a446-5c87b185eec5",
+      "properties": {
+        "name": "Михаил Строгов, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.5",
+        "site": "http://Strogovhotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.320633,
+          52.27363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a6d239d9-c1eb-4cf3-a03f-391eec0e0f2d",
+      "properties": {
+        "name": "Тракстоп 38, мотель",
+        "subcategory": "Гостиницы",
+        "rating": "3.6",
+        "site": "http://xn--80aumebide.xn--p1ai",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.687679,
+          51.713428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "361d1504-ef0b-4611-888b-34c510e6ef99",
+      "properties": {
+        "name": "Парус, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.5",
+        "site": "http://parusbaikal.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.875057,
+          51.846246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cdc95de3-132a-4e5c-88ae-78b636b27541",
+      "properties": {
+        "name": "Черепаха, мотель",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.018756,
+          52.398832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6a6d5fbe-99ab-4337-920c-8ba08294040d",
+      "properties": {
+        "name": "Маркс, отель",
+        "subcategory": "Гостиницы",
+        "rating": "3.8",
+        "site": "http://marx-hotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.284492,
+          52.282632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "875d9c05-5656-4507-81de-03f93884a00f",
+      "properties": {
+        "name": "Союз, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "http://hotelsoyuz38.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.256644,
+          52.252332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "584acace-5485-4f88-8747-6760cbedc9ad",
+      "properties": {
+        "name": "Ибис Иркутск центр",
+        "subcategory": "Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.8",
+        "site": "http://ibisirkutsk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.270253,
+          52.287437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1255c360-9d55-453c-9f54-7d9606a785fb",
+      "properties": {
+        "name": "Ochagof, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://ochagofhotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.297745,
+          52.262773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ed1546ea-12cb-4a05-bd7d-64e71b8d0ce4",
+      "properties": {
+        "name": "Порт Байкал, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.3",
+        "site": "http://vokrug-baikala.ru/gostinica-v-portu-baykal",
+        "hours": "Ежедневно с 09:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.809055,
+          51.870222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f6e2f685-4d36-4b2c-914d-4fc9e87c94ff",
+      "properties": {
+        "name": "Аэроотель",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "http://aerohotel-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.354145,
+          52.27384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bae20e11-453b-42cd-a5c0-061c4f82a083",
+      "properties": {
+        "name": "Ева, гостиничный комплекс",
+        "subcategory": "Гостиницы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.219631,
+          52.344016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8554ee24-162d-48ac-a37b-022adde9213f",
+      "properties": {
+        "name": "Business hall, мини-отель",
+        "subcategory": "Гостиницы",
+        "rating": "3.9",
+        "site": "http://bhhotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.276685,
+          52.282649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6b133fc5-c4e9-4331-971c-5be8196f6823",
+      "properties": {
+        "name": "Восточный, гостиничный комплекс",
+        "subcategory": "Гостиницы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.216936,
+          52.333627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ebfeb2ec-3ff0-4192-b887-55c597a3bfa5",
+      "properties": {
+        "name": "Nice people, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "http://38NicePeople.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.305567,
+          52.279831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1cf4e2e4-f4bb-41a0-8067-89a2965a5762",
+      "properties": {
+        "name": "Гранд Байкал, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.5",
+        "site": "http://baikalski.net",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.120076,
+          51.509058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1ba9967a-f28d-4dfa-a913-965e1d01c857",
+      "properties": {
+        "name": "Ski-let, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.8",
+        "site": "http://skilethotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.145859,
+          51.523686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5f44155b-dee3-4fe3-9247-d1d6a377012d",
+      "properties": {
+        "name": "Космос, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.152019,
+          51.521967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ca545d77-613b-4cd0-bc62-dbefd84363b6",
+      "properties": {
+        "name": "Мельница, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "http://melnicabaikal.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.122879,
+          51.51503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0d50a169-c9a5-4162-9756-558b3e33bb41",
+      "properties": {
+        "name": "Маргобай, гостевой дом",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://margobay.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.136665,
+          51.524412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "56d49a79-f53f-46f3-aa53-87192aa3f64f",
+      "properties": {
+        "name": "Уют, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.3",
+        "site": "http://uiut-baykalsk.pro-hotel1.ru",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.132495,
+          51.521634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1eb4f779-7c31-48af-bfdc-7e5b5c167f5e",
+      "properties": {
+        "name": "Байкал Терра, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "http://newbaikal.ru",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.349334,
+          53.200785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2426f39f-fa07-4eec-9d65-ad4709d6360d",
+      "properties": {
+        "name": "Соболинка, парк-отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://baikalski.net, http://t.me/gorasobolinaya_baikal",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.121768,
+          51.513987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "77661ee7-a04b-4803-9eca-0d1282be1911",
+      "properties": {
+        "name": "Куршавель, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "http://kurshavel.10hotels.ru/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.145106,
+          51.505742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e61b866b-de95-43c1-ace1-cb29722ce6e8",
+      "properties": {
+        "name": "Алдартай, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 12:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.3495,
+          53.194031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c940ffd3-da80-453b-ad5c-4be345ff3ca3",
+      "properties": {
+        "name": "Лада, гостиница",
+        "subcategory": "Гостиницы, Турагентства внутреннего туризма",
+        "rating": "5.0",
+        "site": "http://nalade.ru, http://nalade.ru/travel, http://nalade.ru/travel/menu",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.347806,
+          53.189706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "25517e96-9c61-44ed-a398-3d80c867201d",
+      "properties": {
+        "name": "Звезда кочевника, отель",
+        "subcategory": "Бани / Сауны, Гостиницы, Организация активных туров",
+        "rating": "4.5",
+        "site": "http://hotelzvezdakochevnika.com",
+        "hours": "Ежедневно с 09:00 до 20:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.359435,
+          53.197926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e1fcd814-6d06-4aca-850f-5e8a585f86cf",
+      "properties": {
+        "name": "Диана, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.346172,
+          53.193699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c95e701a-19e9-483d-bf8d-351efbafd838",
+      "properties": {
+        "name": "Яковлевъ, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "http://yakovlevhotel.ru",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289035,
+          52.277566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "08c44308-3181-461f-9f8a-45a4079fa2a9",
+      "properties": {
+        "name": "Байкал Кедр, гостевой дом",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "http://baikalcedar.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.877557,
+          51.844944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7b319500-e406-4cb1-9a58-e35963bb4b52",
+      "properties": {
+        "name": "Рандеву, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "2.5",
+        "site": "http://clck.ru/3Q8sQy",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.298886,
+          52.279918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f8d7a82f-52c5-4f94-b168-7e3128874af5",
+      "properties": {
+        "name": "Аристократ, бутик-отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.3",
+        "site": "http://aristoirk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.281679,
+          52.281443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c2c36203-2b09-4146-aacb-c6ccd5088722",
+      "properties": {
+        "name": "Спектр, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.302259,
+          52.32118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fc92f20c-e62b-4ef5-9770-805748f8b1b8",
+      "properties": {
+        "name": "Армат, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://armathotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.346701,
+          52.25658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c7c14355-b002-49c2-b6b5-5603d4f09d91",
+      "properties": {
+        "name": "Астор, Отель",
+        "subcategory": "Гостиницы",
+        "rating": "3.4",
+        "site": "http://oldcity-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.297124,
+          52.279204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "32a7c703-15b6-478b-a110-ebf76efff86e",
+      "properties": {
+        "name": "Никола, отель",
+        "subcategory": "Бани / Сауны, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.8",
+        "site": "http://nicolahotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.824993,
+          51.892196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "220ae016-4a2c-4960-a7e2-b512f0d0b2ba",
+      "properties": {
+        "name": "Централь, исторический отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "http://hotelcentralirkutsk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28516,
+          52.286683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "99ec55fc-f14f-46f8-bc58-fe68cbbe01d7",
+      "properties": {
+        "name": "Хамар Дабан, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.109829,
+          51.518947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "009695b3-7880-431a-96d8-a4e1cff96bc7",
+      "properties": {
+        "name": "Riverside Hotel",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "http://www.rs-hotel.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.324746,
+          52.252269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "92b2c509-c519-4725-ab7e-1d2a148620bb",
+      "properties": {
+        "name": "Соколов, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://otelsokolov.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.315199,
+          52.262748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d7921ef2-7a6c-4230-850b-25525ee7bb3a",
+      "properties": {
+        "name": "Undine, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.4",
+        "site": "http://undina.hotel2you.ru/, http://undine24.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.860334,
+          51.856731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "81911972-8568-4e73-a533-87f533ed195f",
+      "properties": {
+        "name": "Усадьба 50, гостиница",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.8",
+        "site": "http://bookonline24.ru/usadba-50, http://t.me/+PqJueRvyuVMxNjNi",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.29858,
+          52.286432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0c1641a1-76f2-48a7-af71-f069d59e9d8a",
+      "properties": {
+        "name": "Доходный дом М.А. Листратовой, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "http://listratova.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.292694,
+          52.277734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7737900f-d260-42c3-a3cb-3a9479d51723",
+      "properties": {
+        "name": "Амурский, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "http://amurskiyhotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.281819,
+          52.280723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9c1e8ca6-a609-4984-a004-b3f471d97c77",
+      "properties": {
+        "name": "Политехник, база отдыха",
+        "subcategory": "Аренда беседок, Аренда спортивных площадок, Базы отдыха, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.7",
+        "site": "http://sites.google.com/view/politehnik17-irk/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0",
+        "hours": "Ежедневно с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.460623,
+          52.186168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4a00fa46-ff96-4b76-aa5c-34fb8ff22dde",
+      "properties": {
+        "name": "Рояль, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.0",
+        "site": "http://royal.istok38.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.29733,
+          52.289295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "82aa04ef-8628-4dab-b0aa-db4c05b9f893",
+      "properties": {
+        "name": "130 Hotel",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://130hotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290326,
+          52.276374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7a701bd9-520e-4511-9021-2aee08d7e42c",
+      "properties": {
+        "name": "Дом Европы",
+        "subcategory": "Гостиницы, Усадьбы",
+        "rating": "5.0",
+        "site": "http://dom-evropy.10hotels.ru",
+        "hours": "Пн: с 09:00 до 13:00, Вт: с 09:00 до 13:00, Ср: с 09:00 до 13:00, Чт: с 09:00 до 13:00, Пт: с 09:00 до 13:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.304615,
+          52.286116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "971b72b6-7773-4026-a470-b540c264a7ad",
+      "properties": {
+        "name": "Rooms, апарт-отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.293421,
+          52.288609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ae340852-59de-4c33-9967-8a17342a4b02",
+      "properties": {
+        "name": "Авакс, мини-отель",
+        "subcategory": "Гостиницы",
+        "rating": "3.9",
+        "site": "http://avaks.com.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.303311,
+          52.286304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "56249b2a-e160-479c-8102-9718a44feaf7",
+      "properties": {
+        "name": "Перевал, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "2.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.68329,
+          51.672585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "287d6959-8432-413e-843c-dde1c43b5d48",
+      "properties": {
+        "name": "Белый соболь, парк-отель",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.8",
+        "site": "http://wshotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.119657,
+          51.510797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e0852786-b19f-4571-8881-32230557bbd4",
+      "properties": {
+        "name": "History Boutique Hotel&Spa, отель",
+        "subcategory": "Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.9",
+        "site": "http://history38.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290937,
+          52.271256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b22e8e10-b13b-4ef4-bcaa-24e854783385",
+      "properties": {
+        "name": "Тихая Гавань, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.1",
+        "site": "http://t.me/baikal4season",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.72988,
+          51.65647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "66e953b8-dfc3-44a0-bcdb-f6e7a51b680e",
+      "properties": {
+        "name": "Турист, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.728144,
+          51.659935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "766a5f3c-f11f-40e5-9d8a-e58c9d5dde96",
+      "properties": {
+        "name": "Вершина, гостиничный комплекс",
+        "subcategory": "Гостиницы",
+        "rating": "4.4",
+        "site": "http://www.peakbaikal.ru/index.html",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.05046,
+          51.534899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2152b569-0cc6-4276-98b2-3107a971e969",
+      "properties": {
+        "name": "Тайга, отель",
+        "subcategory": "Бани / Сауны, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.8",
+        "site": "http://taigahotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.269776,
+          52.287967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7a59f88e-f82d-480b-b271-1208977dd9a2",
+      "properties": {
+        "name": "Уютный двор, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.0",
+        "site": "http://uiutnyi-dvor-baykalsk.pro-hotels.ru/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.136921,
+          51.515797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6ed9651b-961d-4577-987f-ad6b9918705b",
+      "properties": {
+        "name": "Байкальский транзит, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.820943,
+          51.618707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8c645585-de00-4c9d-891a-4fd8310330ae",
+      "properties": {
+        "name": "Larus, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "http://larushotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.831848,
+          51.876118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f3c39137-ea58-40f6-8ace-ffdd38fb8d3d",
+      "properties": {
+        "name": "Villa Malina, отель",
+        "subcategory": "Бани / Сауны, Гостиницы, Массажист",
+        "rating": "4.3",
+        "site": "http://villamalina.ru",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.350711,
+          53.201151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c0954057-2712-48b5-9782-1f189cec7de1",
+      "properties": {
+        "name": "Khan Olkhon, гостиница",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.8",
+        "site": "http://baikal-khan.com",
+        "hours": "Ежедневно с 08:00 до 23:00 (летний период: пн-вс 9:00-23:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.351262,
+          53.19896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6d5d3003-159a-4875-b064-f0d947de89f8",
+      "properties": {
+        "name": "BaikalWood Hotel&SPA, экоотель",
+        "subcategory": "SPA-процедуры, Бани / Сауны, Гостиницы, Массажист, Организация активных туров",
+        "rating": "4.7",
+        "site": "http://baikalwoodhotel.ru/",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.361617,
+          53.193842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "591f7da6-a805-495d-a8ed-5c5c409c4ba9",
+      "properties": {
+        "name": "Орлинка, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "http://orlinka38.ru",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.146383,
+          51.50726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dd97f336-de27-4a57-8244-37d8c3b6f217",
+      "properties": {
+        "name": "Флагман, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "http://flagman-olkhon.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.356171,
+          53.192467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8d36e725-818c-4ea4-adc3-faf44d6da185",
+      "properties": {
+        "name": "Подлеморье, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://podlemore.hotel2you.ru/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.862611,
+          51.854511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0d6c95b1-e3de-46ce-8e77-9390523f612b",
+      "properties": {
+        "name": "Мелодия Ольхона, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.5",
+        "site": "http://melody-olkhon.ru",
+        "hours": "Ежедневно с 08:00 до 22:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.411731,
+          53.223345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "925c306d-62e4-4635-88d3-0a139d381af0",
+      "properties": {
+        "name": "Гостиный дворик",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "http://gostinyy-dvorik.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.262754,
+          52.265508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1ec22ada-bfdd-414c-9d1c-89ef920c0c40",
+      "properties": {
+        "name": "Веста, гостиница",
+        "subcategory": "Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.0",
+        "site": "http://vestairk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290418,
+          52.312747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "078a2eb4-622c-40ba-ad72-2de6b6887c78",
+      "properties": {
+        "name": "Hotel Heivic House, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "http://xn--b1afkc2dk.xn--p1ai",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.297759,
+          52.285834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bf8414be-df33-4b60-a164-f71730ed297a",
+      "properties": {
+        "name": "Baikal Forest, гостиница",
+        "subcategory": "Банкетные залы, Гостиницы, Конференц-залы / Переговорные комнаты, Концертные залы, Организация бизнес-мероприятий",
+        "rating": "4.4",
+        "site": "http://jivo.chat/3rueweqElT, http://www.baikalforest.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.304538,
+          52.276124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e1c4164b-3f0d-4e7c-a4c8-4f3f504e7d48",
+      "properties": {
+        "name": "Olkhon inn, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.337795,
+          53.193907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e5f93c21-7c18-45c8-90da-8906040532fb",
+      "properties": {
+        "name": "Уютная лиса, гостевой дом",
+        "subcategory": "Аренда коттеджей / гостевых домов, Гостиницы",
+        "rating": "4.8",
+        "site": "http://fox-comfy.clients.site",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.692012,
+          51.668649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7314c6d5-d488-4430-94c2-c12367d1bf36",
+      "properties": {
+        "name": "Байкал-Аляска, парк-отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "http://hotel.baikal-alaska.ru, http://travel.baikal-alaska.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.278098,
+          52.25061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "30884e8c-3c22-469e-9450-9c11347ab1db",
+      "properties": {
+        "name": "Baikal Best Edelweiss, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://baikalbestedelweis.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.124613,
+          51.516895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9adad12a-6a64-4cd9-9707-5747e0ad2b26",
+      "properties": {
+        "name": "Baikal View, отель",
+        "subcategory": "Бассейны, Гостиницы, Прокат спортивного инвентаря / техники",
+        "rating": "4.6",
+        "site": "http://baikalview.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.306712,
+          53.178248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c0210ae1-b594-4fad-bf59-3ba85685591c",
+      "properties": {
+        "name": "Хотэй, гостиница",
+        "subcategory": "Базы отдыха, Гостиницы",
+        "rating": "4.9",
+        "site": "http://hotey38.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.360207,
+          53.194268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9ab553fc-dd4d-4c4f-8d18-0e56ead30d9c",
+      "properties": {
+        "name": "Ольхон, кемпинг-отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.4",
+        "site": "http://bigexplorer.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.353873,
+          53.194176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "58568c41-0a39-4ec8-8e8c-f5435c3dd761",
+      "properties": {
+        "name": "География, бутик-отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "http://geography-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288976,
+          52.274049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c31d012e-8761-4cd6-a286-af42d3d11fe4",
+      "properties": {
+        "name": "Азия-Европа, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "http://asia-europe-hotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.336069,
+          52.279139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2a390e16-7e2f-4bf7-89b1-58da87913b78",
+      "properties": {
+        "name": "Good Hotel",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.302844,
+          52.262399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "07683aec-876d-4bef-8af5-55544550f9c2",
+      "properties": {
+        "name": "Baikal Hill Residence",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "http://baikalhillresidence.ru",
+        "hours": "Ежедневно с 08:00 до 22:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.86208,
+          51.860458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "57588f53-bcc1-4bf2-aa03-862dbe5a7169",
+      "properties": {
+        "name": "Хоромы, хостел",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.9",
+        "site": "http://miniotel-khoromy.hotel2you.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.257687,
+          52.280472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11c9f811-a60e-4965-a349-0b66903f3d61",
+      "properties": {
+        "name": "Siberia, хостел",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.2",
+        "site": "http://siberia-hostel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.293512,
+          52.283952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c646bb1f-4d63-4a9d-a6f4-9c990ad80aa6",
+      "properties": {
+        "name": "Тэнгри, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно (администрация: пн-вс 9:00-22:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.349623,
+          53.197402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4e78a273-7cfb-4bd2-8a29-c7f2a5493647",
+      "properties": {
+        "name": "Байкальский вальс, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.872098,
+          53.022253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e723c6a2-59fc-4ce3-9580-f3ad102dfb12",
+      "properties": {
+        "name": "Байкалов острог, гостиничный комплекс",
+        "subcategory": "Базы отдыха, Гостиницы",
+        "rating": "4.4",
+        "site": "http://baikalovostrog.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.327394,
+          53.190137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a49bb81f-1a5f-4433-b757-991b83a6e587",
+      "properties": {
+        "name": "Ласточка",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://lastochka-baikal.see.ru",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.875799,
+          53.020102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f32f1eef-5b37-409c-bb7c-0b5c1a55566e",
+      "properties": {
+        "name": "Baikal-Holiday",
+        "subcategory": "Гостиницы",
+        "rating": "4.3",
+        "site": "http://aparthotelbaikal.ru",
+        "hours": "Ежедневно с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.408749,
+          52.046755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a6656a9d-588c-48bd-bd43-5877a20f6177",
+      "properties": {
+        "name": "Нерпенок, мини-отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.344178,
+          53.195528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8ebf499f-01a3-4aca-852b-f3fe4c5366e2",
+      "properties": {
+        "name": "Smart Hotel KDO Иркутск",
+        "subcategory": "Гостиницы",
+        "rating": "3.1",
+        "site": "http://hotel-smart.ru/ru/hotels/smart-hotel-kdo-irkutsk/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.259913,
+          52.282621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "57e2ca2f-68e3-4fd1-adc1-dbb753bb84e8",
+      "properties": {
+        "name": "Светлый, апарт-отель",
+        "subcategory": "SPA-процедуры, Аренда коттеджей / гостевых домов, Бани / Сауны, Гостиницы",
+        "rating": "4.7",
+        "site": "http://georgievskiy-irk.ru, http://t.me/+bnupJc4XNN0yZGYy",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.361795,
+          52.260866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "feed680c-b746-4739-a4b8-556ede621f2a",
+      "properties": {
+        "name": "Baikal Archi Apt, апарт-отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "http://baikalarchiapt.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.284103,
+          52.289168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8d153f4c-8338-497a-9392-0a960bb33bc1",
+      "properties": {
+        "name": "Юпитер, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.1",
+        "site": "http://planetahotel.ru/yupiter",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.307142,
+          52.309526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a87110fa-da5d-4dc9-9823-f8b79309ca13",
+      "properties": {
+        "name": "Шамбала, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "http://shambala-hotel.ru",
+        "hours": "Ежедневно с 08:00 до 22:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.352473,
+          53.19928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7f9cdbe8-a92f-487e-b92c-cba31557f86b",
+      "properties": {
+        "name": "Эрси, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.875304,
+          51.857216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9cf88700-8099-4fe0-90a7-d573686077b1",
+      "properties": {
+        "name": "Байкал, отель",
+        "subcategory": "Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.7",
+        "site": "http://eastland-baikal.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.837639,
+          51.867741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "57d85f9f-8446-468e-8a86-6628ca1c835e",
+      "properties": {
+        "name": "Дом барона фон Таубе",
+        "subcategory": "Гостиницы",
+        "rating": "5.0",
+        "site": "http://www.domtaube.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.293279,
+          52.286908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ae96e937-2d24-4e48-8aa2-98a3f4c73776",
+      "properties": {
+        "name": "Rodina Grand Hotel&SPA Irkutsk 5*",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "http://rodinagrandhotel.ru/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.269544,
+          52.289919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4ed86431-be70-4336-a780-d9360a1cc71a",
+      "properties": {
+        "name": "North Star, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://www.nordstarhotel.ru",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.287588,
+          52.275566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6ac38511-e941-48e8-8c99-82d2518cdf96",
+      "properties": {
+        "name": "Гостишка, хостел",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.7",
+        "site": "http://gostishka38.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.281317,
+          52.280506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26987e2f-d33e-43e3-b5e0-32962bd0e704",
+      "properties": {
+        "name": "В сердце Иркутска, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "http://vserdceirkutska.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290601,
+          52.278555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3bde8565-83aa-4b85-928e-6864ccdd467c",
+      "properties": {
+        "name": "Olkhon Hill, загородный отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.349934,
+          53.199652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2ea06331-b587-4944-8f4a-de21e776d9db",
+      "properties": {
+        "name": "Сердце Ольхона, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.343272,
+          53.198622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f5e173a7-2a67-416b-a5e8-a600973fcf5d",
+      "properties": {
+        "name": "На Волжской, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.5",
+        "site": "http://bookonline24.ru/gostinicza-na-volzhskoj, http://gostinitsa-na-volzhskoi.hotel2you.ru/",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.313723,
+          52.263903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "811ed469-fb8a-4ad5-abad-ee52aad55dd4",
+      "properties": {
+        "name": "Пекин, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.409182,
+          52.250535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2e4a53e6-ff3d-4cc2-8278-b61f7591d5df",
+      "properties": {
+        "name": "Мир, гостиница",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.327369,
+          52.294377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31d90a02-0c57-4210-ad42-d38a37d25d43",
+      "properties": {
+        "name": "Иркутский кедр, гостевой дом",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.9",
+        "site": "http://www.irkutskiykedr.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.276531,
+          52.285533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aa65a158-3555-4af7-910a-9cbf4e837572",
+      "properties": {
+        "name": "Проспект, гостиница",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.9",
+        "site": "http://reservationsteps.ru/rooms/index/2194a3ec-ed2d-4955-858c-0a9ecaec8460",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.354152,
+          52.250565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9b623c95-6165-4f4a-bb00-eb6f82f7f807",
+      "properties": {
+        "name": "Автовокзалъ, ​гостевой дом",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.3",
+        "site": "http://oldcity-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.303562,
+          52.289323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17e1a0e5-62ac-4bf6-9e86-5257a2a8bb70",
+      "properties": {
+        "name": "Катанца, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "http://katantsa.ru/, http://t.me/katantsa",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.079775,
+          52.205242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ee6d6d9e-3281-4c68-9670-01b7ef4d72d8",
+      "properties": {
+        "name": "Гавань Листвянка, гостевой дом",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "http://bookonline24.ru/gavan-listvyanka-69",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.881976,
+          51.850154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "74ca8f96-a4b2-46af-bcdb-5a3296729ff3",
+      "properties": {
+        "name": "Точка Байкала, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://tochkabaikala.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.35438,
+          53.194147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "66749eb2-5fdf-42e8-bf1b-2f5620b84403",
+      "properties": {
+        "name": "Пять морей, комплекс апартаментов",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "http://mini-hotel-5-morey.hotel2you.ru/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.335265,
+          52.266871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8bee7f46-e7be-4d46-90e5-ee4113a70850",
+      "properties": {
+        "name": "Спектр 2, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.303493,
+          52.316906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cab73df1-b479-47e4-b44a-fe2dcc889d36",
+      "properties": {
+        "name": "Резиденция Байкальские Холмы",
+        "subcategory": "Гостиницы",
+        "rating": "5.0",
+        "site": "http://xn--80aablebdkjcdknbodrg3ax8azgl9kqa5e.xn--p1ai",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.86208,
+          51.860458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a9255426-b1da-4fec-b886-20c16e7fc92a",
+      "properties": {
+        "name": "Vera Baikal",
+        "subcategory": "Гостиницы",
+        "rating": "4.5",
+        "site": "http://verabaikalhotel.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.87851,
+          51.843483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8e7974c1-50d6-4ec4-900b-63ec3d3add60",
+      "properties": {
+        "name": "Викинг Хаус, гостиный двор",
+        "subcategory": "Гостиницы",
+        "rating": "5.0",
+        "site": "http://www.olkhonvdohnovenie888.ru",
+        "hours": "Ежедневно с 07:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.35386,
+          53.19603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "49e86e48-a2b5-42ce-b6b8-bba2c406c491",
+      "properties": {
+        "name": "Nuur, отель",
+        "subcategory": "Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "5.0",
+        "site": "http://nuurhotel.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.306712,
+          52.281614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8c9c5995-02ac-4486-891f-77914d94d47c",
+      "properties": {
+        "name": "Azimut, отель",
+        "subcategory": "Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.8",
+        "site": "http://azimuthotels.com/ru/irkutsk/azimut-hotel-irkutsk",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.353747,
+          52.273642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e3763e9e-f61f-41a5-b809-12373357966f",
+      "properties": {
+        "name": "Silk Road, бутик-отель",
+        "subcategory": "Гостиницы",
+        "rating": "5.0",
+        "site": "http://silkroadhotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.274802,
+          52.288429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6f0da536-07c7-4817-91a6-383ed5c559a8",
+      "properties": {
+        "name": "Пушкин, премиум отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "http://pushkinirkutsk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.285638,
+          52.28339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e41e4d45-6f1a-46bd-8df4-9e67084a3403",
+      "properties": {
+        "name": "Усадьба Егорова, гостиничный комплекс",
+        "subcategory": "Гостиницы",
+        "rating": "5.0",
+        "site": "http://Usadba-egorova.ru",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.285602,
+          52.281175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5c04cc79-b7bc-4940-8c4d-c5f42e3e8bcb",
+      "properties": {
+        "name": "Визит, отель",
+        "subcategory": "Гостиницы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.301191,
+          52.281558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "514e2822-14a1-4ab8-b518-e8909d00da33",
+      "properties": {
+        "name": "Еstet, апарт-отель",
+        "subcategory": "Гостиницы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.287938,
+          52.283415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "918a47c7-0c6b-4bf3-a4e7-b21215b9e9f1",
+      "properties": {
+        "name": "Азатай, парк-отель",
+        "subcategory": "Базы отдыха, Бани / Сауны, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.9",
+        "site": "http://azatay.ru, http://t.me/azataybaikal",
+        "hours": "Ежедневно с 00:01 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.469773,
+          52.061717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7498b06f-32a2-47bf-b983-df7bb14607e1",
+      "properties": {
+        "name": "Усадьба 1901",
+        "subcategory": "Гостиницы, Усадьбы",
+        "rating": "5.0",
+        "site": "http://usadba1901.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289481,
+          52.276945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dbdf1aa5-8234-44b5-9b49-e2b5872bbfe6",
+      "properties": {
+        "name": "Подушка",
+        "subcategory": "Гостиницы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.296563,
+          52.234793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "39bf10ed-910a-43b7-b3bb-63d9072853ff",
+      "properties": {
+        "name": "555, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.31735,
+          52.295313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f442a9ff-ed9f-4bb8-b1f5-3394ab58a9ff",
+      "properties": {
+        "name": "Усадьба 1901",
+        "subcategory": "Гостиницы, Усадьбы",
+        "rating": "5.0",
+        "site": "http://usadba1901.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289481,
+          52.276945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ec54852a-08f6-4772-b918-859564e4b645",
+      "properties": {
+        "name": "Ласточка",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://lastochka-baikal.see.ru",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.875799,
+          53.020102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c193f35f-cfec-406e-82db-adb0412d5c80",
+      "properties": {
+        "name": "Донай, гостиничный комплекс",
+        "subcategory": "Гостиницы",
+        "rating": "3.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.499873,
+          51.806072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6adb657c-b1e5-4a31-b7cd-684f43b035bc",
+      "properties": {
+        "name": "4 комнаты, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.4",
+        "site": "http://www.4roomshotel.ru/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.582611,
+          51.828361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "07dad498-518a-46ea-b43a-3953b669f503",
+      "properties": {
+        "name": "Аракс, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Бильярдные залы, Гостиницы",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.650832,
+          51.835996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "769d6866-02f3-4eb3-92f7-db14e9ac9ba8",
+      "properties": {
+        "name": "Полёт, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://hotel-polet.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.45144,
+          51.801193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6a87564c-1e92-46d7-addc-ac97fa7ea8b2",
+      "properties": {
+        "name": "Сагаан Морин, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "http://sagaan-morin.10hotels.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593646,
+          51.837873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ba91a53e-e625-4f0a-a31e-868ac2b05ac1",
+      "properties": {
+        "name": "Золотой Колос, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.5",
+        "site": "http://travelbks03.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.590101,
+          51.823915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7d9f880c-c7c1-4173-a0de-901ca374046a",
+      "properties": {
+        "name": "Баргузин, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.6",
+        "site": "http://barguzin-hotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.583045,
+          51.829541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2938926-473d-4613-afe4-586c838d4433",
+      "properties": {
+        "name": "Дулан, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "2.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.587447,
+          51.839739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "89fc0148-0f4c-4a99-8730-f97bdbee6f90",
+      "properties": {
+        "name": "Дулан, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.609695,
+          51.809648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "89cc92e9-0d74-4561-b3d6-f65d9a192521",
+      "properties": {
+        "name": "Одон, гостиничный комплекс",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "http://odon-hotel.ru, http://t.me/odonuu",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.587169,
+          51.843077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2f831212-3f34-4b26-a718-ffca4bb363ea",
+      "properties": {
+        "name": "Профсоюзная, гостиничный комплекс",
+        "subcategory": "Гостиницы",
+        "rating": "4.5",
+        "site": "http://hotel-bk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.602267,
+          51.825335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aecbd5ba-18ea-46cf-95b6-d882549c55e0",
+      "properties": {
+        "name": "Северный Байкал, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.590222,
+          51.842125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "148f324c-c6f2-4026-93cf-cd171115b2df",
+      "properties": {
+        "name": "Сибирь, бизнес-отель",
+        "subcategory": "Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.7",
+        "site": "http://hoteltrk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.586897,
+          51.831142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "81f9c75b-61dc-4937-b886-b95e1501babe",
+      "properties": {
+        "name": "Баянгол, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.599374,
+          51.809929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "660c435d-8dbe-4e0d-9614-accb0568fc4f",
+      "properties": {
+        "name": "Аскольд, мини-гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.577062,
+          51.850532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "221117a5-c39e-4b06-afa8-1fb71628471b",
+      "properties": {
+        "name": "Золотая, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.606228,
+          51.808599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9e176314-d428-4003-8e5e-b8de8c5b628b",
+      "properties": {
+        "name": "Икирес, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.618616,
+          51.818581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "df1bc2f8-c2fa-4539-a29c-683403038cab",
+      "properties": {
+        "name": "Тихая гавань, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.4",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.629222,
+          51.805368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0d1a2a5d-fa17-4ff6-8ef2-5a76831f98c4",
+      "properties": {
+        "name": "Аура, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.592659,
+          51.836329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "152d9f26-f420-445c-859c-ef069eabe016",
+      "properties": {
+        "name": "Шумак, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://shumak.hotel2you.ru, http://xn--80aahuaomfh4alq1b3a.xn--p1ai",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.590912,
+          51.837159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8b8a3f2b-dbea-49ab-9a72-e301cc86cc6f",
+      "properties": {
+        "name": "Юрта, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "http://clck.ru/3PieKF, http://otel-group.com/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.596046,
+          51.8226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dfd0d704-81aa-4691-93ac-b797d36eb02c",
+      "properties": {
+        "name": "Хуторок, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "http://hutorok-group.ru/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.589737,
+          51.821525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e7c41f46-8ba1-4212-9160-5e6509a93cd1",
+      "properties": {
+        "name": "Нью-Йорк, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "3.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.635337,
+          51.80501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "428d1bd5-83e7-496d-874b-3759c358ba4e",
+      "properties": {
+        "name": "Галас, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593905,
+          51.838255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "50a428ad-b3cb-4fa6-81b6-53e6bf7ee33a",
+      "properties": {
+        "name": "Praga, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.5",
+        "site": "http://clck.ru/3PieCM, http://otel-group.com/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.649239,
+          51.805279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c9e5d08f-704e-4c88-b138-50448643ea1a",
+      "properties": {
+        "name": "Байраг, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "2.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.677552,
+          51.814576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2bbb10f-4f23-485a-b5c5-1e73e5837952",
+      "properties": {
+        "name": "Улан, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.601729,
+          51.839399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a410f7c5-0224-4b96-be74-3c40662f817b",
+      "properties": {
+        "name": "Круиз, гостиничный комплекс",
+        "subcategory": "Бильярдные залы, Гостиницы",
+        "rating": "3.1",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.594663,
+          51.812988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e4065c60-fda7-408b-a19b-7d4a5311f45c",
+      "properties": {
+        "name": "Дворянское гнездо, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.488855,
+          51.865592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "58604bfa-1f00-4724-b4c5-4f59793d14ff",
+      "properties": {
+        "name": "Меньшиковъ, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.585256,
+          51.827137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cc0e9429-13c2-4b13-b71d-e64b99485d9b",
+      "properties": {
+        "name": "Marrakesh, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.589868,
+          51.826383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1d1a446e-0bb2-46b0-a084-2ddb4aa4b973",
+      "properties": {
+        "name": "Маркиз, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "2.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.577004,
+          51.850495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ae2162ee-77b8-4300-87fa-0262c0761eff",
+      "properties": {
+        "name": "Восток, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "2.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.580572,
+          51.848123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9982ca61-8c5d-43ca-9ef2-9e53cba280b0",
+      "properties": {
+        "name": "Дулан, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "2.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.583341,
+          51.827282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "05477deb-bf37-4caa-89b8-0d0d9eb10092",
+      "properties": {
+        "name": "Дулан, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.552958,
+          51.843397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "658589ff-ee4f-4864-8d20-ac868fccc968",
+      "properties": {
+        "name": "Проsпект, мини-отель",
+        "subcategory": "Гостиницы",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.592636,
+          51.82879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3890c5d8-09ea-40bd-ae3f-5ad6e3df1292",
+      "properties": {
+        "name": "RED, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.5",
+        "site": "http://redhotel03.ru/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.588658,
+          51.840808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1db93312-83da-4629-9ec3-a48362263668",
+      "properties": {
+        "name": "Cosmos Selection Ulan-Ude, отель",
+        "subcategory": "Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.6",
+        "site": "http://t.me/+SCnOouLjn55jMDMy, http://t.me/cosmosselectionuu, http://ulanude.cosmosgroup.ru/ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.581056,
+          51.83875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "83a68db6-ed98-4830-a20e-38493591ee0a",
+      "properties": {
+        "name": "София, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.9",
+        "site": "http://sofiia-ulan-ude.pro-hotel1.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.572779,
+          51.849836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f61345bc-e479-45fb-908e-4097cd6abea1",
+      "properties": {
+        "name": "Vitaliya, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.581721,
+          51.84375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b4c04737-035a-4777-9ecb-8264ccdb7f15",
+      "properties": {
+        "name": "Ноён-отель, мини-гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.0",
+        "site": "http://hotel-noen.ru/",
+        "hours": "Ежедневно с 12:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.665954,
+          51.883761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5f2b72c1-8485-4832-9168-b8faea39cb71",
+      "properties": {
+        "name": "Кочевник, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.659255,
+          51.806461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ec622396-e4f1-45d2-b9b2-4ba1baa83870",
+      "properties": {
+        "name": "Рубин, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.666312,
+          51.811673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ee3a56f8-1c1f-4b50-b080-d4f33dc27e33",
+      "properties": {
+        "name": "Байкал Плаза, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "http://www.baikalplaza.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.586509,
+          51.833297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "84f07cc3-d4a9-4f0d-9f3f-e7fb7452b864",
+      "properties": {
+        "name": "Бизнес Лайф, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.647118,
+          51.843518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f41e8446-1162-46bb-9073-5d5e7390a8bd",
+      "properties": {
+        "name": "Алеан, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.575263,
+          51.850439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5c37a19c-e4bf-4367-859c-fab3194858d5",
+      "properties": {
+        "name": "Victoria, отель",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.7",
+        "site": "http://myhotelvictoria.ru/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58835,
+          51.83948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "33739cee-be32-44d3-8192-aab42bd372e3",
+      "properties": {
+        "name": "Абрамович, гостиница",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.595524,
+          51.836456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0bb77dfc-5a44-400c-96ef-444cb38f4877",
+      "properties": {
+        "name": "Колобки, придорожный комплекс",
+        "subcategory": "Гостиницы",
+        "rating": "3.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.478438,
+          51.906027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "71662846-a38a-457f-b4ef-6e33ce9b182a",
+      "properties": {
+        "name": "Резиденция, гостиничный комплекс",
+        "subcategory": "Гостиницы",
+        "rating": "4.4",
+        "site": "http://residenceuu.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.580733,
+          51.83177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "08944d90-79d6-4f55-bcd3-18264c623e61",
+      "properties": {
+        "name": "Кочевник, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.616881,
+          51.842201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3bd658f8-0421-474d-b2a7-867ae0196ce5",
+      "properties": {
+        "name": "Бухта, отель",
+        "subcategory": "Гостиницы",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.653956,
+          51.832482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1acca8f6-992e-4c77-9473-fc7d93eb7678",
+      "properties": {
+        "name": "Эндемик, придорожный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.458581,
+          51.731271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2e05b39d-e944-4f2d-a400-3726a84843be",
+      "properties": {
+        "name": "Чарли, отель",
+        "subcategory": "Гостиницы",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.652491,
+          51.821063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bff3da91-0082-4cdc-a7fd-76e40389046f",
+      "properties": {
+        "name": "Орда, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.4",
+        "site": "http://jivo.chat/EeWzmLzUey, http://orda-hotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.596925,
+          51.839289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "72c7c329-3a83-4653-a8c0-5345b71d61d3",
+      "properties": {
+        "name": "Исток, гостевой дом",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.487233,
+          51.795525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "247e7907-1c5f-4e25-bbad-dd02445435d6",
+      "properties": {
+        "name": "Орион, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.4",
+        "site": "http://vk.link/public211076668",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.658562,
+          51.815923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3e98b39a-f551-4023-b09d-b2710a841754",
+      "properties": {
+        "name": "Мадагаскар, гостевой дом",
+        "subcategory": "Гостиницы",
+        "rating": "1.8",
+        "site": "http://madagaskar.mya5.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.605948,
+          51.822633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a98bca3f-e98f-4020-87de-cb3952425b38",
+      "properties": {
+        "name": "Абрамович, гостиница",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.636593,
+          51.820983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c0cbada1-46e9-429c-93d1-0e89a55343d6",
+      "properties": {
+        "name": "Атташе, мини-гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "2.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.614238,
+          51.847145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dfdf4ef5-d159-49f0-b359-fa9fc11ee199",
+      "properties": {
+        "name": "Отель Улан-Удэ",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "http://ulan-udehotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.579438,
+          51.844462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "315fc9da-1f54-4c9c-8495-6a9c45bd6ee4",
+      "properties": {
+        "name": "Reston, гостиница",
+        "subcategory": "Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.9",
+        "site": "http://www.restonhotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59304,
+          51.81653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "21c61988-6bf9-4b76-9734-b41aca43f8ca",
+      "properties": {
+        "name": "Абрамович, гостиница",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.721309,
+          51.865209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "03b0feae-18ef-494b-aac4-c6d1987b86ce",
+      "properties": {
+        "name": "Тибет, мини-отель эконом-класса",
+        "subcategory": "Гостиницы",
+        "rating": "3.4",
+        "site": "http://tibet.pro-hotel1.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.583707,
+          51.823751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aa7a1c27-d658-4d9d-97b5-662f6297166b",
+      "properties": {
+        "name": "Арима, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.502812,
+          51.81366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b5e897c7-d1b0-429a-96a7-0303cb90cf6f",
+      "properties": {
+        "name": "Abba, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.9",
+        "site": "http://abba.hotel2you.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.51849,
+          51.843007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "48afd322-861e-473a-abd3-3a87058d1604",
+      "properties": {
+        "name": "Абрамович, гостиница",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.643777,
+          51.808083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0fd349bf-d4fc-453a-b9bc-b354aadaae6e",
+      "properties": {
+        "name": "Теремок, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607142,
+          51.806495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5b66eaa4-9c71-444e-8ad9-e7f493ba7e5e",
+      "properties": {
+        "name": "Золотая корона, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.651685,
+          51.836148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ff52f350-d362-4ecf-b002-1b67582e6b3e",
+      "properties": {
+        "name": "Иликчин, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.323058,
+          54.340303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5628604e-d43d-458e-9bdc-5c3955ab7265",
+      "properties": {
+        "name": "Туяа, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "2.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.313991,
+          54.331481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d2683605-0ac4-404b-b901-ba957049899a",
+      "properties": {
+        "name": "Виста, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.302391,
+          54.319125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31ca3245-6723-4c13-911a-41e486caf63f",
+      "properties": {
+        "name": "Саган-Нур, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.429888,
+          51.343762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "40d4ef06-eabd-4a09-acb8-1d202559eed1",
+      "properties": {
+        "name": "Селенга, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.859996,
+          52.006513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20898bba-5a3f-4680-a2a3-e93b0e0da6ce",
+      "properties": {
+        "name": "FOREST HOTEL, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.4",
+        "site": "http://hotelforestuu.2gis.biz/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.592866,
+          51.83545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2b85afa0-2beb-45d6-9c00-bdd4f9d03607",
+      "properties": {
+        "name": "Абрамович, гостиница",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.639988,
+          51.82208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3578b18b-318b-493a-b7f6-61e12c9f4074",
+      "properties": {
+        "name": "Визит Плюс&Авиатор",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.687611,
+          51.828156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9c3a58c0-3e9d-4e7b-9951-5931496e6a02",
+      "properties": {
+        "name": "Шелковый путь, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Пн: с 10:00 до 02:00, Вт: с 10:00 до 02:00, Ср: с 10:00 до 02:00, Чт: с 10:00 до 02:00, Пт: с 10:00 до 04:00, Сб: с 10:00 до 04:00, Вс: с 10:00 до 02:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.284487,
+          51.744726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c8da2064-7ab3-40e5-91e3-27692a177318",
+      "properties": {
+        "name": "Малинки на Байкале",
+        "subcategory": "Базы отдыха, Гостиницы",
+        "rating": "4.9",
+        "site": "http://t.me/malinkibaikal",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.301616,
+          52.986642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9601acac-5856-4a00-9f64-6ec8957dffb8",
+      "properties": {
+        "name": "Байкальская Ривьера, парк-отель",
+        "subcategory": "Базы отдыха, Бани / Сауны, Банкетные залы, Гостиницы",
+        "rating": "4.6",
+        "site": "http://www.baikalriviera.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.963819,
+          52.79198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "396f48ed-dc8a-4348-81b4-7a73bee29b38",
+      "properties": {
+        "name": "Grace Hotel, гостиница",
+        "subcategory": "Бани / Сауны, Бильярдные залы, Гостиницы",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.638331,
+          51.816401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "537960be-02d3-4e93-9876-8e10f28ae265",
+      "properties": {
+        "name": "Баргуджин Токум, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.055311,
+          53.414661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5e96b202-63a9-43b5-8048-8f0f8a0068fb",
+      "properties": {
+        "name": "Harmony, гостиничный комплекс",
+        "subcategory": "Базы отдыха, Гостиницы",
+        "rating": "4.3",
+        "site": "http://harmony-baikal.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.281159,
+          52.982661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "87d444d2-98ed-465e-b115-f06f6f20adb8",
+      "properties": {
+        "name": "Баргузинский Прибой, гостиница",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.027789,
+          53.42081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8b82503d-4239-460d-88bb-49a58d38a7ab",
+      "properties": {
+        "name": "Байкальская солянка, турбаза",
+        "subcategory": "Аренда коттеджей / гостевых домов, Базы отдыха, Гостиницы",
+        "rating": "4.8",
+        "site": "http://baikalmix.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.968169,
+          52.483859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "74018c43-f4d7-4d1a-9c77-d9c4b508479e",
+      "properties": {
+        "name": "Байкал Тэнгэри, загородный отель на Байкале",
+        "subcategory": "Аренда коттеджей / гостевых домов, Базы отдыха, Гостиницы",
+        "rating": "4.9",
+        "site": "http://baikaltengeri.ru",
+        "hours": "Ежедневно с 09:00 до 22:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.119034,
+          52.549216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c7dde12a-5935-490e-a1f4-56cab1d2f0a0",
+      "properties": {
+        "name": "Вояж, придорожный комплекс",
+        "subcategory": "Гостиницы",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.878454,
+          52.041296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b6ff6ab4-fd7d-4941-ba6a-b022e41fa6ee",
+      "properties": {
+        "name": "Два Кита, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.639485,
+          51.801449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aa034552-34a0-47ed-a9af-92e3fa3bbe3a",
+      "properties": {
+        "name": "Greenwich, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://greenwich03.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.577854,
+          51.835272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "42aa0d97-88cf-4e5d-a7d9-d1c320e23d4e",
+      "properties": {
+        "name": "Zаезжай, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "3.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.754391,
+          52.020042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "21264493-9e1f-405e-8f1a-dee992df5c01",
+      "properties": {
+        "name": "Магистраль, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "2.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.239241,
+          52.118302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f68914f0-8ee5-40ee-a313-e23686eba0f0",
+      "properties": {
+        "name": "Кайлас, гостиничный комплекс",
+        "subcategory": "Гостиницы",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.647637,
+          52.046872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4c689e7c-4e2f-4bb8-88a9-36fb2cf564d6",
+      "properties": {
+        "name": "Радуга, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.534474,
+          51.287745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6c5bd48a-271b-428e-a8bc-93c12ba1902d",
+      "properties": {
+        "name": "Невская, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи: пн-вс)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.536636,
+          51.288422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5ef36d20-301f-4358-beba-65b1a0b7960d",
+      "properties": {
+        "name": "Бурятия, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://buryatiahotel.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.586155,
+          51.831712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ba927324-2793-4cb8-b5cc-d77db7c8a75a",
+      "properties": {
+        "name": "Байкал Плаза, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "http://www.baikalplaza.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.586509,
+          51.833297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f732537c-9fd0-41ae-a61e-a25f301aef44",
+      "properties": {
+        "name": "Азия, гостиничный комплекс",
+        "subcategory": "Гостиницы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Круглосуточно (кафе: пн-вс 9:00-00:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.650796,
+          51.854592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bafa981c-a360-4aa2-b08e-de557b1abcc3",
+      "properties": {
+        "name": "Сова, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.597325,
+          51.833116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dbcdb217-609c-4704-a037-7cd4e06628b5",
+      "properties": {
+        "name": "Авеню",
+        "subcategory": "Гостиницы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593627,
+          51.827392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "958cd343-fe6b-4ba3-b3ed-d0add734ca71",
+      "properties": {
+        "name": "Verona, мини-отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.1",
+        "site": "http://verona.hotel2you.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.624251,
+          51.808638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1f7bbd39-9608-42d9-929a-a245f93b0a8e",
+      "properties": {
+        "name": "Гостиный двор",
+        "subcategory": "Бани / Сауны, Гостиницы, Массажист",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.569261,
+          51.847025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3750626c-425d-4059-866e-9f79dc449e18",
+      "properties": {
+        "name": "Белый Парус, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.620235,
+          51.811017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7e38ad59-7617-4a3e-9456-a69834852738",
+      "properties": {
+        "name": "City Park, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "http://www.citypark03.ru",
+        "hours": "Круглосуточно (кафе: вс-чт 8:00-21:00; пт-сб 8:00-22:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608759,
+          51.84461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9f27aa98-589e-46a8-b1dc-b03afa33dec2",
+      "properties": {
+        "name": "Hunnu, гостиничный комплекс",
+        "subcategory": "Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.8",
+        "site": "http://hunnuhotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.614628,
+          51.842728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0ccd55d0-9c4b-41f5-b049-7d232d6ce7e1",
+      "properties": {
+        "name": "Ангара, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.587121,
+          51.847411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "79f59435-03c1-4001-b6b0-403a4c5608f3",
+      "properties": {
+        "name": "Корона, парк-отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://arshancorona.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.447082,
+          51.90009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a069aa41-cb98-4fb0-ac7e-790bc9d48b81",
+      "properties": {
+        "name": "Апарт-отель",
+        "subcategory": "Гостиницы",
+        "rating": "2.5",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 17:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.612285,
+          51.823422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "81e3628b-35e5-46ce-bbb0-203975b26659",
+      "properties": {
+        "name": "Авиатор, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.721806,
+          51.865064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ad9cc149-5cd1-44cb-9df2-ed69a8eacdf5",
+      "properties": {
+        "name": "Аян Отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.5",
+        "site": "http://www.ayanhotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.604595,
+          51.801347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f7362414-8162-4342-96af-1bb5ea6f23ab",
+      "properties": {
+        "name": "Трактир, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.860947,
+          51.714337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "24c0858e-d649-4ed8-818e-6ae23d9715e4",
+      "properties": {
+        "name": "Red River Hotel, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://clck.ru/3PiePe, http://otel-group.com/, http://rr-hotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.564933,
+          51.847837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ed53258f-b912-466e-9b61-b34f4cd6a54b",
+      "properties": {
+        "name": "Династия",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.8",
+        "site": "http://bookonline24.ru/Dinastiaotel_, http://Dinastiahotel.ru, http://jivo.chat/RnyPxEd8dt, http://Marsel.bookonline24.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.676236,
+          51.821349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ba734be4-04d4-42bc-8236-c91059a66b8b",
+      "properties": {
+        "name": "Гостиница-кафе",
+        "subcategory": "Гостиницы, Кафе",
+        "rating": "2.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.266052,
+          51.835525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "daefc646-892d-49f6-bbdd-dfc9ea03db68",
+      "properties": {
+        "name": "Визит Плюс, отель",
+        "subcategory": "Аренда беседок, Гостиницы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.624827,
+          51.817167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b15368b0-27d2-46e8-b615-28f8a5d94b11",
+      "properties": {
+        "name": "Арбат, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.585219,
+          51.829415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1600c946-9dbb-4509-8e71-4b51c3b195b0",
+      "properties": {
+        "name": "Асагад. Степной кочевник, этнокомплекс",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "http://stepnoykochevnik.ru",
+        "hours": "Пн: с 09:00 до 18:00, Вт: выходной, Ср: с 09:00 до 18:00, Чт: с 09:00 до 18:00, Пт: с 09:00 до 18:00, Сб: с 09:00 до 18:00, Вс: с 09:00 до 18:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.24537,
+          52.015361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35677ba2-0215-4cf8-8711-b3bf8264c6b9",
+      "properties": {
+        "name": "Проsпект, мини-отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.601351,
+          51.839672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1cebe60e-b04f-48fb-9754-d701b81dd58d",
+      "properties": {
+        "name": "Байкал центр, база отдыха",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.30073,
+          52.986806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "644b764e-d751-40f2-b2e8-28621a8eee59",
+      "properties": {
+        "name": "Наран, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "3.6",
+        "site": "http://naranarshan.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.428567,
+          51.914404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c865e6e6-2d10-4d45-907e-45efb5cd6422",
+      "properties": {
+        "name": "Аршанский Бор, гостевой дом",
+        "subcategory": "Аренда коттеджей / гостевых домов, Гостиницы",
+        "rating": "4.3",
+        "site": "http://arshanbor.ru",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.433758,
+          51.908029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26ee6f41-ca35-44eb-b64e-15dc7053ef2e",
+      "properties": {
+        "name": "Туяна, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.8",
+        "site": "http://www.tuyana.net",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.435703,
+          51.904615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5c87ac72-c5ee-405f-9d86-22e4ae6a7e59",
+      "properties": {
+        "name": "Logos, мини-отель",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны, Гостиницы",
+        "rating": "4.8",
+        "site": "http://hotel-logos.ru/, http://t.me/hotel_logos",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.427129,
+          51.907605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "07c1154d-14f3-42b6-929a-8b859e4816dc",
+      "properties": {
+        "name": "Замок Горного Короля, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "http://arshan138.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.429631,
+          51.911914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a3ddc2ea-306f-4819-af0c-8d8a98206fb2",
+      "properties": {
+        "name": "Иркут, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "http://xn----8sba3akvqdpj3d.xn--p1ai",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.439366,
+          51.906022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "475c3878-fe85-4a59-97e6-3eca9969593f",
+      "properties": {
+        "name": "Красная поляна, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.4",
+        "site": "http://family-hotel.ru, http://t.me/usadba_krasnaya_polyana",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.423634,
+          51.715487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "33f34150-177a-4946-a128-8940138db632",
+      "properties": {
+        "name": "Удачный, гостевой двор",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 24:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.425843,
+          51.906127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "78fc2d79-51eb-402a-a34c-2c4a20760642",
+      "properties": {
+        "name": "Тунка 350, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.158248,
+          51.680613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3fd80698-1ee4-4268-bc8f-b46e9406a3c6",
+      "properties": {
+        "name": "Аврора, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.658622,
+          51.820336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5b4d91d8-de2c-491c-830a-2926b72a78fc",
+      "properties": {
+        "name": "Village, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.582597,
+          51.826467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "74b2cc67-0b6d-479f-9871-6a3d45e47eab",
+      "properties": {
+        "name": "Прага, отель",
+        "subcategory": "Гостиницы",
+        "rating": "3.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.266052,
+          51.835525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "604cae9b-93a9-45eb-8e37-e1e68e354d52",
+      "properties": {
+        "name": "Релакс, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.592899,
+          51.828917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7779ce55-522f-43a6-a9a9-00fc4226a98b",
+      "properties": {
+        "name": "Шумак, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.141804,
+          51.683162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1e3e75c6-7fb7-4b78-933f-af02c3b7e37c",
+      "properties": {
+        "name": "Чингисхан, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://hotel-chingishan.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.591612,
+          51.822252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4b4dcac1-6093-4d00-9791-8bc43f11a71c",
+      "properties": {
+        "name": "Чайный путь, гостевой дом",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.9",
+        "site": "http://reservationsteps.ru/rooms/index/1a215b2a-bd70-4a67-b43b-eca6d5963896",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.587591,
+          51.824016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dc034b5a-3aa2-462b-ac3a-a6c6843a7614",
+      "properties": {
+        "name": "Байгал, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.634927,
+          53.613542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6b1cbb9e-05d0-479d-9d7c-e7847908b42f",
+      "properties": {
+        "name": "Визит Плюс&Авиатор",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.576769,
+          51.840003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12ec9a63-8ab7-4aa7-ac0b-771e95fd7936",
+      "properties": {
+        "name": "Boston, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://bookonline24.ru/boston",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.588156,
+          51.827755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d3777d09-a082-4ec1-af1a-100eee13fc61",
+      "properties": {
+        "name": "Абрамович, гостиница",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5926,
+          51.840669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7556eed6-b9e7-434c-9a2f-1c0fc9aed750",
+      "properties": {
+        "name": "Рум-отель, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.599307,
+          51.823878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4983c0e4-1ca2-4795-8a87-591875ca743b",
+      "properties": {
+        "name": "Вояж, хостел",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.537557,
+          51.289228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2d64b131-33c5-4b41-be4d-379151ad0f63",
+      "properties": {
+        "name": "Кочевник, отель",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.597535,
+          51.821487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "82cff979-30e9-4735-bde2-6d540e542389",
+      "properties": {
+        "name": "Галантус, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663508,
+          51.818947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "223b68bf-2ab2-4dd9-bdee-fcc7cccf7512",
+      "properties": {
+        "name": "Иркут, мини-отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.3",
+        "site": "http://otel-irkut.2gis.biz",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.658211,
+          51.814831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96522812-85bb-4978-b1f5-0768fb8e0bb0",
+      "properties": {
+        "name": "Корона Аршана, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "http://hotel-arshan.ru, http://t.me/arshanhotel",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.447082,
+          51.90009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6fdc4705-7101-4c88-b15e-ccfdb9c8c801",
+      "properties": {
+        "name": "ABBA, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.583833,
+          51.823749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a2427b90-c3fa-41e0-ab49-a066c1a69868",
+      "properties": {
+        "name": "Танхой-Trail, отель",
+        "subcategory": "Гостиницы",
+        "rating": "3.9",
+        "site": "http://tanhoy-hotel.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.126262,
+          51.556457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5f485b24-c84d-4d19-9933-ca6372358d37",
+      "properties": {
+        "name": "Smart Hotel KDO Улан-Удэ",
+        "subcategory": "Гостиницы",
+        "rating": "4.3",
+        "site": "http://hotel-smart.ru/ru/hotels/smart-hotel-kdo-ulan-udye/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.583183,
+          51.840749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b50c30f5-c155-445e-833b-1a6f7f29fa10",
+      "properties": {
+        "name": "Eva, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60714,
+          51.807767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "863cbd32-9e76-4ec7-996c-b964a93cd62e",
+      "properties": {
+        "name": "Кабанск авто, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "1.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.658195,
+          52.055829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3bdb1e32-4b47-4a50-ba8d-355e4ef06d65",
+      "properties": {
+        "name": "Снежный поток, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "http://bookonline24.ru/snezhnyj_potok",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.638796,
+          51.440392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "70735ea2-fffa-4a6e-902b-ff63292cacae",
+      "properties": {
+        "name": "М55, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 06:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.994836,
+          52.080885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "def433e7-c7c2-4156-ac43-c261e33535e7",
+      "properties": {
+        "name": "Баянгол, мотель",
+        "subcategory": "Гостиницы",
+        "rating": "2.9",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.979398,
+          52.792671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "349e7e51-9a4e-41ad-af9d-c1e57008ba77",
+      "properties": {
+        "name": "Кочевник, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.446441,
+          51.688242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5d52a420-54eb-48ff-aba9-ae8481dcd9e0",
+      "properties": {
+        "name": "Байкал Выдрино, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.638166,
+          51.467213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2d6d8cd2-c20a-4c51-943a-546ed3db89c8",
+      "properties": {
+        "name": "Уют, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60547,
+          51.840821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "52375a4d-da63-4289-a9ba-be89d76539b5",
+      "properties": {
+        "name": "Саянский Марал Аршан, экоотель",
+        "subcategory": "Базы отдыха, Гостиницы",
+        "rating": "4.6",
+        "site": "http://maralarshan.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.525602,
+          51.819893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6456ef8f-71ff-4c25-bb5c-b7c4dffd7bde",
+      "properties": {
+        "name": "Уют, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "5.0",
+        "site": "http://hoteluyut.ucoz.net",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.433899,
+          51.346182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27eb9597-ec20-450e-9a1a-bca67275c8cb",
+      "properties": {
+        "name": "Гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.619887,
+          51.802865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b3c78b50-462a-484a-b231-1e8aaeae75e3",
+      "properties": {
+        "name": "Мираж, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.438716,
+          51.344958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "110b8980-53ee-4b1c-b3eb-fc4d3cd57d28",
+      "properties": {
+        "name": "Clean Hostel, отель",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.584677,
+          51.840082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "da038c10-8d7c-4ba3-82a6-316de9565d16",
+      "properties": {
+        "name": "Виктория, придорожный комплекс",
+        "subcategory": "Гостиницы",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.035113,
+          52.493544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "155f1fd3-10d0-4446-8fd3-f241da841db6",
+      "properties": {
+        "name": "Визит, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.427051,
+          51.347939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "38e24a69-0ff3-49a6-bdf7-1f5557152cb5",
+      "properties": {
+        "name": "Байкальский очаг, туристический комплекс",
+        "subcategory": "Аренда коттеджей / гостевых домов, Базы отдыха, Гостиницы, Прокат водно-спортивной техники, Прокат спортивного инвентаря / техники",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.114651,
+          52.547459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6aff756a-c0a7-4889-bbf7-45ed09510b4b",
+      "properties": {
+        "name": "Амар, отель",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "5.0",
+        "site": "http://amarhostel.ru",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.583245,
+          51.826049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e18780ab-85a4-4c0a-b66f-20407f7aef45",
+      "properties": {
+        "name": "Сказка, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.867953,
+          52.00526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2d21f192-49b9-4769-a408-b1ea15411eef",
+      "properties": {
+        "name": "Мираж, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.22167,
+          52.944267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "62214252-17b0-449d-b0e4-af51e2350b44",
+      "properties": {
+        "name": "Уют, гостевой дом",
+        "subcategory": "Гостиницы",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.588098,
+          51.983535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d8295d1b-fa40-4f8a-8b23-db41ca28aae5",
+      "properties": {
+        "name": "Уют, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59829,
+          51.839063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b079b0c2-d3ec-43eb-b298-04844fced7c8",
+      "properties": {
+        "name": "Hotel Mirage, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.64338,
+          52.046388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "057e0e05-a8c1-458d-b71e-623fddb33b3d",
+      "properties": {
+        "name": "Сердце Мамая, гостевой дом",
+        "subcategory": "Гостиницы",
+        "rating": "2.6",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7884,
+          51.453288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a062b609-91d8-46d8-a540-9391236a78ec",
+      "properties": {
+        "name": "Рубин, гостиница",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.581263,
+          51.831671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "73cb8718-3e68-4e19-82b0-99c7690ad127",
+      "properties": {
+        "name": "Тибет, отель",
+        "subcategory": "Гостиницы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.437716,
+          51.909581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "078762e0-fa2f-4b8d-864f-e9e48ca1917b",
+      "properties": {
+        "name": "Альфа, сауна-отель",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.9",
+        "site": "http://alpha03.tilda.ws",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.566841,
+          51.848326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "92618583-5f01-48ec-b69c-3b911157952a",
+      "properties": {
+        "name": "Алтан Булаг",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.318074,
+          54.33008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f390d287-7a55-461d-b86e-77a3f221712b",
+      "properties": {
+        "name": "Гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.265707,
+          52.124704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2b641a6f-0cfc-4036-9b00-2a8fae22148e",
+      "properties": {
+        "name": "Серебряный ручей, гостиничный комплекс",
+        "subcategory": "Гостиницы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.678326,
+          51.904615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4b1af7db-eba7-40ab-b2ce-8a4f2afb9556",
+      "properties": {
+        "name": "Villa Malina, экоотель",
+        "subcategory": "Гостиницы",
+        "rating": "4.5",
+        "site": "http://villamalina.ru",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.428737,
+          51.904133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d5d9223a-a799-4257-9983-6859f10c1869",
+      "properties": {
+        "name": "Оранж хаус, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.664441,
+          51.886179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "145209fa-0d75-41af-a8e7-2c822f2e4028",
+      "properties": {
+        "name": "Красная поляна, апартаменты",
+        "subcategory": "Гостиницы",
+        "rating": "5.0",
+        "site": "http://family-hotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.416361,
+          51.711652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0df853a1-2785-446d-90b9-26d38563d942",
+      "properties": {
+        "name": "Барон, сауна-отель",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.623917,
+          51.8187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "293a0f31-c9f3-47e2-9e4f-9c7b71733773",
+      "properties": {
+        "name": "Аура",
+        "subcategory": "Гостиницы",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.508283,
+          51.850889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a576ca94-6eb2-411f-889a-2d25092c868c",
+      "properties": {
+        "name": "Династия",
+        "subcategory": "Гостиницы",
+        "rating": "4.1",
+        "site": "http://bookonline24.ru/Dinastiaotel_, http://Dinastiahotel.ru, http://jivo.chat/RnyPxEd8dt, http://Marsel.bookonline24.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.627766,
+          51.806963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4130304e-85f1-4fa4-8037-cb73dc6a55bb",
+      "properties": {
+        "name": "Praga 2, отель",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://clck.ru/3Pie8S, http://otel-group.com/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.578579,
+          51.840009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "347e7de3-fb8e-4a98-83d8-56bcc0a31626",
+      "properties": {
+        "name": "Октябрь, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60146,
+          51.842185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bc2cac84-4486-497e-9d6a-939363640aaf",
+      "properties": {
+        "name": "Praga 3, отель",
+        "subcategory": "Гостиницы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.656457,
+          51.806769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "08ae39a5-452a-4ce5-9b52-6df3c9c76176",
+      "properties": {
+        "name": "Чайный путь",
+        "subcategory": "Гостиницы",
+        "rating": "4.7",
+        "site": "http://teawaybaikal.ru",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.28466,
+          52.987034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3afc5e41-ec1f-49ea-b8d6-08d6ec04d66d",
+      "properties": {
+        "name": "Vitaliya, гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.619261,
+          51.818662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d05486c4-4bc2-4f5e-af44-af9ee2da2909",
+      "properties": {
+        "name": "Clean Hotel",
+        "subcategory": "Гостиницы",
+        "rating": "5.0",
+        "site": "http://clean-hotel.10hotels.ru/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.476326,
+          51.881831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9cbf84a3-2ade-4392-880e-41f9769f82c7",
+      "properties": {
+        "name": "Лес, парк-отель",
+        "subcategory": "Гостиницы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.064583,
+          52.523548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6f1f33a8-d4e7-44b0-868b-cb219854ba11",
+      "properties": {
+        "name": "Хостел",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.594125,
+          51.984186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d4f1cfd8-3e3d-469f-862d-4f8aacbd1080",
+      "properties": {
+        "name": "Гэсэр, парк-отель",
+        "subcategory": "Аренда коттеджей / гостевых домов, Базы отдыха, Гостиницы",
+        "rating": "4.8",
+        "site": "http://geserparkhotel.ru, http://t.me/geserparkhotel",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.077678,
+          52.775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0d1a50c2-e637-4910-8eed-03c04dedbdf7",
+      "properties": {
+        "name": "Династия, гостиничный комплекс",
+        "subcategory": "Гостиницы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.034843,
+          53.399833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "49d566d6-6e45-40f2-b79b-bb7d496ab25c",
+      "properties": {
+        "name": "Амар, туристско-рекреационный комплекс",
+        "subcategory": "Гостиницы",
+        "rating": "5.0",
+        "site": "http://amar-park.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.172694,
+          52.912107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "38733214-0948-4349-a0c3-ab1d8555e7a6",
+      "properties": {
+        "name": "Гостиница",
+        "subcategory": "Гостиницы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.863387,
+          51.71806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b0b4f4cd-c85a-4274-b30a-306073a3302e",
+      "properties": {
+        "name": "Три медведя, придорожный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.486718,
+          52.062368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "863d8e80-7c28-44f4-b314-82a2c9f90c87",
+      "properties": {
+        "name": "Clean Hostel",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58165,
+          51.834016
+        ]
+      }
+    }
+  ]
+}

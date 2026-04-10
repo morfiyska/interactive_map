@@ -1,0 +1,4402 @@
+{
+  "type": "FeatureCollection",
+  "name": "Пекарни",
+  "style": {
+    "color": "blue",
+    "radius": 6
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "f983bb1f-898c-402c-a09f-13af20bd4cdb",
+      "properties": {
+        "name": "Плюшка, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "3.3",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.272863,
+          52.24339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "260720b2-3597-4ed1-aadd-5abef49bf8e3",
+      "properties": {
+        "name": "Новозеландские пироги, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.6",
+        "site": "http://nzpies.ru",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.276412,
+          52.282425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "81d3d394-c0b5-4627-90d6-0a6e02da5607",
+      "properties": {
+        "name": "7:40",
+        "subcategory": "Безалкогольные напитки, Пекарни, Табачные изделия / Товары для курения, Электронные сигареты",
+        "rating": "2.6",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.336501,
+          52.255171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "87d49a40-b210-4680-a71a-6b4c8bb05faa",
+      "properties": {
+        "name": "Благодатный хлеб-мадлиани пури, кафе-пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.335279,
+          52.273856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7c03bc9f-b4e4-44dc-853d-25f94515daf3",
+      "properties": {
+        "name": "Плюшка, пекарня",
+        "subcategory": "Кулинарии, Пекарни",
+        "rating": "2.6",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.187766,
+          52.260348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f5c8724a-85ef-4767-b1b6-e8eb84e6e428",
+      "properties": {
+        "name": "Пекко, пекарня",
+        "subcategory": "Доставка еды, Кондитерские изделия, Пекарни",
+        "rating": "2.7",
+        "site": "http://www.pekko38.ru",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.282108,
+          52.288155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ae43d199-5020-4ac5-b7b9-87c4032953bf",
+      "properties": {
+        "name": "Новозеландские пироги, пекарня",
+        "subcategory": "Кафе-кондитерские, Пекарни",
+        "rating": "4.8",
+        "site": "http://nzpies.ru",
+        "hours": "Ежедневно с 08:30 до 20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.36402,
+          52.251874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d8de22e9-929f-470c-80ca-1e12b8aceecc",
+      "properties": {
+        "name": "Любимая, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.6",
+        "site": "http://taplink.cc/lubipek_38",
+        "hours": "Пн: с 07:30 до 20:00, Вт: с 07:30 до 20:00, Ср: с 07:30 до 20:00, Чт: с 07:30 до 20:00, Пт: с 07:30 до 20:00, Сб: с 07:30 до 20:00, Вс: с 07:30 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.318797,
+          52.278382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bad4e94d-8239-4fbb-9ded-93bb43131010",
+      "properties": {
+        "name": "Семейные традиции",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "3.7",
+        "site": "http://pekarnya38.ru",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.431726,
+          52.246364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1c6b9a0a-3bf9-490e-b0fe-53c6037c4b4a",
+      "properties": {
+        "name": "Дон батон, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.226715,
+          52.251234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c70d2b9b-ac24-413c-b359-66640addfaad",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.2",
+        "site": "http://svezhar.ru",
+        "hours": "Пн: с 07:30 до 20:30, Вт: с 07:30 до 20:30, Ср: с 07:30 до 20:30, Чт: с 07:30 до 20:30, Пт: с 07:30 до 20:30, Сб: с 08:00 до 19:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.295951,
+          52.283739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "66bbb7b0-6d37-448a-98c0-99a0dd744193",
+      "properties": {
+        "name": "Пекко, пекарня",
+        "subcategory": "Доставка еды, Кондитерские изделия, Пекарни",
+        "rating": "3.5",
+        "site": "http://www.pekko38.ru",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.313966,
+          52.223473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7cac4521-439b-487c-83ca-723580f2cdfa",
+      "properties": {
+        "name": "Буфет, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.259542,
+          52.252945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d7a582ff-67df-44c8-b29b-069cd9ecfdc5",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.5",
+        "site": "http://svezhar.ru",
+        "hours": "Пн: с 07:30 до 20:30, Вт: с 07:30 до 20:30, Ср: с 07:30 до 20:30, Чт: с 07:30 до 20:30, Пт: с 07:30 до 20:30, Сб: с 08:00 до 20:00, Вс: с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.314472,
+          52.26437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c88858ba-b3eb-4652-aed8-b97b9859547d",
+      "properties": {
+        "name": "Дон батон, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.313827,
+          52.286345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a0dbea27-8d74-4a12-a6d4-a566f07687f3",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "3.9",
+        "site": "http://svezhar.ru",
+        "hours": "Пн: с 07:30 до 20:30, Вт: с 07:30 до 20:30, Ср: с 07:30 до 20:30, Чт: с 07:30 до 20:30, Пт: с 07:30 до 20:30, Сб: с 08:00 до 19:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.341293,
+          52.279545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d3573a5b-e17b-43fc-9e04-7dca5f8c8d2d",
+      "properties": {
+        "name": "Мамин хлеб, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "2.8",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.062663,
+          52.20879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bbd3e0da-bca6-45db-b0fc-cdae6a8feabe",
+      "properties": {
+        "name": "Мамин хлеб, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 20:00, Вт: с 09:00 до 20:00, Ср: с 09:00 до 20:00, Чт: с 09:00 до 20:00, Пт: с 09:00 до 20:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.173127,
+          52.350665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17af9bc7-2c73-4e22-8de8-6493eb223f27",
+      "properties": {
+        "name": "Комильфо",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.311064,
+          52.267291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "25fbb3fc-5a30-4e37-b27c-f5886e497446",
+      "properties": {
+        "name": "Ремесленный дом Жито, пекарня и сыроварня",
+        "subcategory": "Доставка еды, Кафе, Пекарни",
+        "rating": "4.6",
+        "site": "http://zhito38.com",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 11:00 до 20:00, Вс: с 11:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.285744,
+          52.283713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "30953a46-e3d5-4dcc-8417-28a35c218d36",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Безалкогольные напитки, Кондитерские изделия, Пекарни",
+        "rating": "4.1",
+        "site": "http://svezhar.ru",
+        "hours": "Пн: с 07:30 до 20:30, Вт: с 07:30 до 20:30, Ср: с 07:30 до 20:30, Чт: с 07:30 до 20:30, Пт: с 07:30 до 20:30, Сб: с 08:00 до 19:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.311719,
+          52.282511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36296687-f952-47f5-abcd-843dbd8bb950",
+      "properties": {
+        "name": "Буфет, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.23637,
+          52.26032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0902f745-d917-4ced-b127-4b3492bfc1c5",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.3",
+        "site": "http://svezhar.ru",
+        "hours": "Пн: с 07:30 до 20:30, Вт: с 07:30 до 20:30, Ср: с 07:30 до 20:30, Чт: с 07:30 до 20:30, Пт: с 07:30 до 20:30, Сб: с 08:00 до 19:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.280772,
+          52.282525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "79547351-0e11-475d-885d-738f89737aa2",
+      "properties": {
+        "name": "Фамильная пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.308778,
+          52.229812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a7f2bed1-779b-482a-b5a9-b5511e1c48b2",
+      "properties": {
+        "name": "Пекарня",
+        "subcategory": "Пекарни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.361131,
+          52.476964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4054eaca-0d78-42d2-a6a4-4a38bf07713c",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.4",
+        "site": "http://svezhar.ru",
+        "hours": "Пн: с 07:30 до 20:30, Вт: с 07:30 до 20:30, Ср: с 07:30 до 20:30, Чт: с 07:30 до 20:30, Пт: с 07:30 до 20:30, Сб: с 08:00 до 19:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.282014,
+          52.288476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d3d8808e-8b44-4d5e-8eae-8247dd7b2f4a",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.4",
+        "site": "http://svezhar.ru",
+        "hours": "Пн: с 07:30 до 20:30, Вт: с 07:30 до 20:30, Ср: с 07:30 до 20:30, Чт: с 07:30 до 20:30, Пт: с 07:30 до 20:30, Сб: с 08:00 до 19:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.272691,
+          52.243086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "24e98cff-892a-4a79-a740-e9d165756887",
+      "properties": {
+        "name": "Хлебико, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни, Продажа кофе",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Пн: с 07:30 до 20:30, Вт: с 07:30 до 20:30, Ср: с 07:30 до 20:30, Чт: с 07:30 до 20:30, Пт: с 07:30 до 20:30, Сб: с 09:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.258094,
+          52.268992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0ae862e9-b615-4ee4-82d1-d463528b06c7",
+      "properties": {
+        "name": "Бисквит, кафе-кондитерская",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.6",
+        "site": "http://t.me/biscuit138",
+        "hours": "Ежедневно с 10:00 до 20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.133529,
+          52.354561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d971dd6e-54dd-4b9b-a068-e2c0f167fe45",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.219042,
+          52.349105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f38f94c7-fe78-4ac2-a7fe-eb3109531670",
+      "properties": {
+        "name": "Братья Пироговы, пекарня",
+        "subcategory": "Доставка еды, Пекарни",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.158155,
+          52.347706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d49d4260-b07c-4b1a-9f86-99cb3df4c8d5",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Безалкогольные напитки, Кондитерские изделия, Пекарни",
+        "rating": "4.3",
+        "site": "http://svezhar.ru",
+        "hours": "Пн: с 07:30 до 20:30, Вт: с 07:30 до 20:30, Ср: с 07:30 до 20:30, Чт: с 07:30 до 20:30, Пт: с 07:30 до 20:30, Сб: с 08:00 до 19:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.313229,
+          52.263444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "86fa6a41-4d44-4847-8c53-f5948752b804",
+      "properties": {
+        "name": "Новозеландские пироги, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.8",
+        "site": "http://nzpies.ru, http://t.me/nzpies_irk",
+        "hours": "Ежедневно с 09:30 до 20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289139,
+          52.274346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0a4c0342-a2bb-44af-98e2-5d145963fb8c",
+      "properties": {
+        "name": "Любимая, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.4",
+        "site": "http://taplink.cc/lubipek_38",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.296372,
+          52.282957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e5d6587d-db8b-44ec-be5c-5399e106c43c",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288477,
+          52.286834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8adc0722-1a17-4c20-bf8d-6eab04d74e9e",
+      "properties": {
+        "name": "Бэйки, пекарня",
+        "subcategory": "Доставка еды, Кондитерские изделия, Кофейни, Пекарни",
+        "rating": "4.6",
+        "site": "http://bakee.ru",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 20:00 (санитарный день: третье вс месяца)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.287737,
+          52.283086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "032c23db-cc77-4ea9-8965-aaba9a721a8a",
+      "properties": {
+        "name": "Буфет, пекарня",
+        "subcategory": "Кондитерские изделия, Кулинарии, Молочные продукты, Пекарни",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.332177,
+          52.273275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a314b34e-db41-44e9-b8f5-94fb5c488b5f",
+      "properties": {
+        "name": "Любимая, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.5",
+        "site": "http://taplink.cc/lubipek_38",
+        "hours": "Пн: с 07:30 до 20:00, Вт: с 07:30 до 20:00, Ср: с 07:30 до 20:00, Чт: с 07:30 до 20:00, Пт: с 07:30 до 20:00, Сб: с 08:00 до 20:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.154364,
+          52.355752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b8026171-42b3-4c48-acd6-b3c6dfac5135",
+      "properties": {
+        "name": "Семейные традиции",
+        "subcategory": "Кафе-кондитерские, Пекарни, Продукты быстрого приготовления",
+        "rating": "3.9",
+        "site": "http://pekarnya38.ru",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.331225,
+          52.264504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c12fc2f9-c114-4aae-a26e-cef215faaca1",
+      "properties": {
+        "name": "Плюшка, пекарня",
+        "subcategory": "Доставка еды, Кондитерские изделия, Кулинарии, Пекарни",
+        "rating": "2.7",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3161,
+          52.267646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ed927b30-5298-49d7-9b35-6a05beb711c8",
+      "properties": {
+        "name": "Сибирская, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.301827,
+          52.262346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3719bbed-b25b-480b-9387-e2c59dfad71a",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.3",
+        "site": "http://svezhar.ru",
+        "hours": "Пн: с 07:30 до 20:30, Вт: с 07:30 до 20:30, Ср: с 07:30 до 20:30, Чт: с 07:30 до 20:30, Пт: с 07:30 до 20:30, Сб: с 08:00 до 19:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.293696,
+          52.282103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5c9da759-ba25-4d2c-866a-95ba8c07f18d",
+      "properties": {
+        "name": "Памир, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.248113,
+          52.339389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e23a7c31-954c-4d77-b025-0f4f49333215",
+      "properties": {
+        "name": "Ремесленный дом Жито, пекарня и сыроварня",
+        "subcategory": "Доставка еды, Молочные продукты, Пекарни, Сыры",
+        "rating": "3.9",
+        "site": "http://zhito38.com",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.366877,
+          52.25294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a28b9ac2-8abb-473f-b5be-cfb1e52bdc93",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.4",
+        "site": "http://svezhar.ru",
+        "hours": "Пн: с 07:30 до 20:30, Вт: с 07:30 до 20:30, Ср: с 07:30 до 20:30, Чт: с 07:30 до 20:30, Пт: с 07:30 до 20:30, Сб: с 08:00 до 19:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.317911,
+          52.278538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "448e2aac-10f3-4906-9f40-af45aee4d0f3",
+      "properties": {
+        "name": "Киоск по продаже выпечки",
+        "subcategory": "Быстрое питание, Пекарни",
+        "rating": "3.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.300994,
+          52.233706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0ea6d82f-3c34-4373-894c-3dab6eabe49f",
+      "properties": {
+        "name": "Coffee&Пончик, киоск по продаже выпечки",
+        "subcategory": "Быстрое питание, Пекарни",
+        "rating": "2.9",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.300859,
+          52.233644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "545b45f1-79ea-450a-9dd3-ab5030130b4a",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "3.8",
+        "site": "http://svezhar.ru",
+        "hours": "Пн: с 07:30 до 20:30, Вт: с 07:30 до 20:30, Ср: с 07:30 до 20:30, Чт: с 07:30 до 20:30, Пт: с 07:30 до 20:30, Сб: с 08:00 до 19:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.287096,
+          52.234378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "04534a95-9f93-42b8-bb6f-ea86013b24b9",
+      "properties": {
+        "name": "Пекарня-кондитерская",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "2.7",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.12506,
+          52.280664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1bcdf2cb-f9b3-4ad6-b513-6cc24e85fc7e",
+      "properties": {
+        "name": "Буфет, пекарня",
+        "subcategory": "Кондитерские изделия, Кулинарии, Пекарни",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.248921,
+          52.253861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "50991b6c-2aca-4661-b066-997af7df204f",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 07:30 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.296847,
+          52.28504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "044ac35f-3fb8-4d84-bb22-238fd6687cd5",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 07:30 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.247885,
+          52.253827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cdd12911-e57d-4555-8735-491bed633025",
+      "properties": {
+        "name": "Буфет, пекарня",
+        "subcategory": "Кондитерские изделия, Кулинарии, Пекарни",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.353115,
+          52.258642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "893e32b6-a2f8-4182-8c66-ce81c39eee8f",
+      "properties": {
+        "name": "Золотой колос, семейная пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.337869,
+          52.270285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34ae59db-6cc1-421d-a470-897c9c50c77c",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.4",
+        "site": "http://svezhar.ru",
+        "hours": "Пн: с 08:00 до 21:00, Вт: с 08:00 до 21:00, Ср: с 08:00 до 21:00, Чт: с 08:00 до 21:00, Пт: с 08:00 до 21:00, Сб: с 08:00 до 19:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.327285,
+          52.257647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "52e3d83a-faa5-4235-9992-1ea1dd4842f6",
+      "properties": {
+        "name": "Любимая, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.4",
+        "site": "http://taplink.cc/lubipek_38",
+        "hours": "Пн: с 07:30 до 20:00, Вт: с 07:30 до 20:00, Ср: с 07:30 до 20:00, Чт: с 07:30 до 20:00, Пт: с 07:30 до 20:00, Сб: с 07:30 до 20:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.292597,
+          52.281711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5c7ad972-5754-4bc2-9cc0-b1e337062469",
+      "properties": {
+        "name": "Shu shu, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.2",
+        "site": "http://taplink.cc/shushu",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.457545,
+          52.236798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2ff2fd4b-4bb5-4158-90b8-34c50ff10ea4",
+      "properties": {
+        "name": "Пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.719167,
+          51.655854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1fae8b9-4edd-421e-af66-23e5b84b4d26",
+      "properties": {
+        "name": "Едрён-батон, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.291364,
+          52.283765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35a9af52-aa3f-42c8-abcb-7a5a32a1ef68",
+      "properties": {
+        "name": "Дон батон, пекарня",
+        "subcategory": "Безалкогольные напитки, Кондитерские изделия, Молочные продукты, Пекарни",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.356014,
+          52.24775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5adf7574-87fd-4069-bfad-d53032b45d97",
+      "properties": {
+        "name": "Дом хлеба, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.4",
+        "site": "http://dom-hleba.ru",
+        "hours": "Ежедневно с 07:30 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.327365,
+          52.279746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2b7b968c-6ec5-4519-8b35-546bf5af69e7",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.310959,
+          52.266577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "643310c2-df80-40a0-87e2-9930eaa85bce",
+      "properties": {
+        "name": "Буфет, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.311374,
+          52.263446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2ce168ce-12d2-4f7f-8193-05dfb5a4aff3",
+      "properties": {
+        "name": "Мадленка, пекарня-кондитерская",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "Ежедневно с 07:30 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.272531,
+          52.286488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9fd94f18-04fe-487f-b401-1a98de8fa93a",
+      "properties": {
+        "name": "Хлебослава",
+        "subcategory": "Пекарни",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.327971,
+          52.268135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1e459d06-071c-46f0-957a-3ef2d3d6b709",
+      "properties": {
+        "name": "Багетта, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.356599,
+          52.290327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "868eba06-53d3-45ed-bbba-9ccbaaaddca0",
+      "properties": {
+        "name": "Хлебопекарня",
+        "subcategory": "Пекарни",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.049594,
+          52.223422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7833e626-0b30-4427-85d3-d21bd6ae366a",
+      "properties": {
+        "name": "Мамин хлеб, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.206815,
+          52.264925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c0a1eeba-e52c-4d8f-9b8f-e11ea6bc1583",
+      "properties": {
+        "name": "Бэйки, пекарня",
+        "subcategory": "Доставка еды, Кондитерские изделия, Кофейни, Пекарни",
+        "rating": "4.5",
+        "site": "http://bakee.ru",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3002,
+          52.273372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9ff0d5ec-ff45-4ccf-8961-283c7451ac68",
+      "properties": {
+        "name": "Каде, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кондитерские изделия, Кофейни, Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.286206,
+          52.282634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "673152cd-f0e3-4640-80ec-28603a89969b",
+      "properties": {
+        "name": "Амкофе, сеть кофеен",
+        "subcategory": "Пекарни, Продажа кофе, Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.5",
+        "site": "http://www.amcofe.ru",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.316521,
+          52.270149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8cf60a93-71c6-40b4-bd2a-48466818ca66",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.1",
+        "site": "http://svezhar.ru",
+        "hours": "Пн: с 07:30 до 20:30, Вт: с 07:30 до 20:30, Ср: с 07:30 до 20:30, Чт: с 07:30 до 20:30, Пт: с 07:30 до 20:30, Сб: с 08:00 до 19:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.234527,
+          52.255457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8b88eee2-806b-4a39-98b0-e63f3fba83e4",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.310998,
+          52.260931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "983260bf-db0b-4d7b-865b-6921bc7dc8ec",
+      "properties": {
+        "name": "Хлебико, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Пн: с 07:00 до 20:00, Вт: с 07:00 до 20:00, Ср: с 07:00 до 20:00, Чт: с 07:00 до 20:00, Пт: с 07:00 до 20:00, Сб: с 09:00 до 19:00, Вс: с 09:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.175432,
+          52.350148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1cd2afc3-86e1-4c6d-9dbc-fc15443d59f5",
+      "properties": {
+        "name": "Пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.133645,
+          52.357542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9e792b7f-fc2c-4ccf-86ca-a1a9d2b186dd",
+      "properties": {
+        "name": "Мамин хлеб, пекарня",
+        "subcategory": "Безалкогольные напитки, Пекарни",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 08:30 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.30115,
+          52.233463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e5ac1c93-cedf-4ea9-a7f5-db5b4aa629ea",
+      "properties": {
+        "name": "Shu shu, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни, Точки кофе",
+        "rating": "4.8",
+        "site": "http://taplink.cc/shushu",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.303471,
+          52.268932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0efd2ceb-2899-4ffc-a879-565e9847723a",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.3",
+        "site": "http://svezhar.ru",
+        "hours": "Пн: с 08:00 до 21:00, Вт: с 08:00 до 21:00, Ср: с 08:00 до 21:00, Чт: с 08:00 до 21:00, Пт: с 08:00 до 21:00, Сб: с 08:00 до 19:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.319998,
+          52.324424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a52f7c29-4833-467a-b8c8-ebd9e02a2789",
+      "properties": {
+        "name": "Пирогoff, пекарня",
+        "subcategory": "Безалкогольные напитки, Пекарни, Продажа кофе",
+        "rating": "1.7",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 20:00, Вт: с 09:00 до 20:00, Ср: с 09:00 до 20:00, Чт: с 09:00 до 20:00, Пт: с 09:00 до 20:00, Сб: с 09:00 до 20:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.262009,
+          52.24921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "877e021d-8caf-40d4-b2be-2fa0fb8a338f",
+      "properties": {
+        "name": "КиМ, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.247857,
+          52.254217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "293cd434-61e6-45e0-bbba-df797e3b0be2",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.439992,
+          52.221076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "525d7a7c-e00b-41a8-bf9c-3b625002aa76",
+      "properties": {
+        "name": "Пекарня на Луговой",
+        "subcategory": "Безалкогольные напитки, Кондитерские изделия, Пекарни, Продажа кофе, Продажа чая",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.354599,
+          52.46541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e0c5a5fc-0ee0-480b-9a50-7fde13ba1d98",
+      "properties": {
+        "name": "Буlки, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.296186,
+          52.282408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f606f931-a07f-4d12-9f68-4ec76f34b54a",
+      "properties": {
+        "name": "Круассан, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.245488,
+          52.28324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3b2fedb8-96df-496d-8068-d65a59bdf588",
+      "properties": {
+        "name": "Дело в тесте, магазин",
+        "subcategory": "Пекарни",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.380572,
+          52.275793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c7e33059-8719-4829-b0a5-5a46b4198d66",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Кондитерские изделия, Кофейни, Пекарни",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.308583,
+          52.265996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dc0d530d-dba2-43c4-a5e0-138bab908bfd",
+      "properties": {
+        "name": "Буфет, пекарня",
+        "subcategory": "Кондитерские изделия, Кулинарии, Пекарни, Точки кофе",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.325591,
+          52.267069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d35f6ad5-dd5b-428e-939b-41602135408b",
+      "properties": {
+        "name": "Воздух, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.2",
+        "site": "http://vozduhbakery.ru/",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.306458,
+          52.274828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ed86d640-2c5a-4547-a3a4-6e2a7f1c7833",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.1",
+        "site": "http://svezhar.ru",
+        "hours": "Пн: с 07:30 до 20:30, Вт: с 07:30 до 20:30, Ср: с 07:30 до 20:30, Чт: с 07:30 до 20:30, Пт: с 07:30 до 20:30, Сб: с 08:00 до 19:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.157931,
+          52.347365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8ae7c523-7009-492c-bd7a-5c97908bfe13",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.4",
+        "site": "http://svezhar.ru",
+        "hours": "Пн: с 07:30 до 20:30, Вт: с 07:30 до 20:30, Ср: с 07:30 до 20:30, Чт: с 07:30 до 20:30, Пт: с 07:30 до 20:30, Сб: с 08:00 до 19:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.306928,
+          52.261462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cb5ac5b3-8044-4ea7-afd2-ce16338b3a1c",
+      "properties": {
+        "name": "Мамин хлеб, пекарня",
+        "subcategory": "Безалкогольные напитки, Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.166628,
+          52.34782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "544f065d-c263-4753-a3f9-cf155b09bfd0",
+      "properties": {
+        "name": "Мамин хлеб, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.225956,
+          52.345074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0640c1d5-7f29-4f46-890a-824a910345c9",
+      "properties": {
+        "name": "Светлая житница, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.238289,
+          52.310519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c3af5b5a-6ba4-4e09-981e-0ded075ee408",
+      "properties": {
+        "name": "Место где тесто, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.334176,
+          52.280142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b52f8ade-926d-482a-9610-c82d07f5e12c",
+      "properties": {
+        "name": "Mar&co, пекарня",
+        "subcategory": "Банкетные залы, Быстрое питание, Кондитерские изделия, Пекарни",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 19:00, Вт: с 09:00 до 19:00, Ср: с 09:00 до 19:00, Чт: с 09:00 до 19:00, Пт: с 09:00 до 19:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.255849,
+          52.270094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e076befa-b413-4b63-b994-73ab9db218c2",
+      "properties": {
+        "name": "Вкусный рай, пекарня",
+        "subcategory": "Быстрое питание, Пекарни",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Пн: с 07:30 до 21:00, Вт: с 07:30 до 21:00, Ср: с 07:30 до 21:00, Чт: с 07:30 до 21:00, Пт: с 07:30 до 21:00, Сб: с 08:00 до 20:00, Вс: с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.292692,
+          52.283044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7a686d3d-5b49-4153-9965-8cc9f90817a7",
+      "properties": {
+        "name": "Etika, гастро-пекарня, кафе",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Пекарни",
+        "rating": "4.7",
+        "site": "http://www.etikacakes.ru",
+        "hours": "Ежедневно с 08:00 до 22:00 (летняя веранда: пн-вс 11:00-00:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.292466,
+          52.288505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "99ff9b69-3f94-4187-b2a4-58a0a0b92694",
+      "properties": {
+        "name": "Бэйки, пекарня",
+        "subcategory": "Доставка еды, Кондитерские изделия, Кофейни, Пекарни",
+        "rating": "4.5",
+        "site": "http://bakee.ru",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.334229,
+          52.272379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a66ad51c-8070-4e45-adfa-b06d0fbe2ee1",
+      "properties": {
+        "name": "Багетта, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.162689,
+          52.35265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d6db2f9c-8e58-43cc-a215-88e35bc89b8b",
+      "properties": {
+        "name": "Апельсин, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "2.3",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.306297,
+          52.275187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b20799aa-943e-41c4-b507-6f466aaa7098",
+      "properties": {
+        "name": "Катин хлеб, ремесленная пекарня и кофейня",
+        "subcategory": "Пекарни",
+        "rating": "4.7",
+        "site": "http://xn--80aclliin2b3a.xn--p1ai",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.279731,
+          52.281642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e21cbaf7-1fb5-44f6-aece-a2dbd17b84f8",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Безалкогольные напитки, Кондитерские изделия, Пекарни",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.316519,
+          52.270099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dd659214-a318-48c3-b5ba-422717bec887",
+      "properties": {
+        "name": "Буфет, пекарня",
+        "subcategory": "Кондитерские изделия, Кулинарии, Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.317465,
+          52.278651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f0d6aa0b-ba07-44a8-8ff8-0a1a4f8fdd69",
+      "properties": {
+        "name": "Мамин хлеб, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.34195,
+          52.292316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c6d94ac4-931e-403b-ba64-7c8743b93c00",
+      "properties": {
+        "name": "Каде, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кондитерские изделия, Кофейни, Пекарни",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.297039,
+          52.272308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fd7b7215-2e46-45cc-8b00-6772b7332250",
+      "properties": {
+        "name": "Воздух, цех",
+        "subcategory": "Пекарни",
+        "rating": "nan",
+        "site": "http://vozduhbakery.ru/",
+        "hours": "Пн: с 08:00 до 16:00, Вт: с 08:00 до 16:00, Ср: с 08:00 до 16:00, Чт: с 08:00 до 16:00, Пт: с 08:00 до 14:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.352659,
+          52.27583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2da11d8e-850a-4aca-a903-6e4e0bd78781",
+      "properties": {
+        "name": "Пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 19:30, Вт: с 09:00 до 19:30, Ср: с 09:00 до 19:30, Чт: с 09:00 до 19:30, Пт: с 09:00 до 19:30, Сб: с 09:00 до 19:30, Вс: с 09:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.091551,
+          52.209286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e9902d43-df67-42eb-9638-55b1a4dc91ba",
+      "properties": {
+        "name": "Мамин хлеб, пекарня",
+        "subcategory": "Безалкогольные напитки, Пекарни, Хлебобулочные изделия",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.341797,
+          52.291841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1a1096f1-a131-4f22-aab8-82384f17d363",
+      "properties": {
+        "name": "Буфет, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.320066,
+          52.253276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9834a1dc-b020-4362-b5a9-b8538a54e4c3",
+      "properties": {
+        "name": "Хлебослава",
+        "subcategory": "Пекарни",
+        "rating": "2.3",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.306803,
+          52.274885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1569abd9-644b-43e5-95de-5c37a346d411",
+      "properties": {
+        "name": "Лавка счастья",
+        "subcategory": "Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.342411,
+          53.195266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f47c2d68-9f08-4352-9fc9-2cbfbde6ba1e",
+      "properties": {
+        "name": "Дон батон, пекарня",
+        "subcategory": "Безалкогольные напитки, Кондитерские изделия, Пекарни",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.253506,
+          52.278431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dc41a40b-9c17-46ea-a7fa-952574f839a2",
+      "properties": {
+        "name": "Каде, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе, Кондитерские изделия, Кофейни, Пекарни",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.334,
+          52.250633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8ccdca17-926b-431d-92e1-0c07cbd7eea8",
+      "properties": {
+        "name": "Печенюшка, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.311326,
+          52.228432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "30c37a40-2ebd-4226-9558-0b1073730feb",
+      "properties": {
+        "name": "Горячеключевская, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 10:00 до 14:00, Вт: с 10:00 до 14:00, Ср: с 10:00 до 14:00, Чт: с 10:00 до 14:00, Пт: с 10:00 до 14:00, Сб: с 10:00 до 14:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.906522,
+          52.277951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a81b47b3-2ed7-4b42-8646-bba697ed6f0f",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "3.9",
+        "site": "http://svezhar.ru",
+        "hours": "Пн: с 07:30 до 20:30, Вт: с 07:30 до 20:30, Ср: с 07:30 до 20:30, Чт: с 07:30 до 20:30, Пт: с 07:30 до 20:30, Сб: с 08:00 до 19:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.29625,
+          52.281075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "afe3fb5c-9b60-48f7-8cce-c11b0001e93c",
+      "properties": {
+        "name": "Апельсин, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "1.6",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.341703,
+          52.292212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26991f27-b10e-440f-8c2c-ed8113f5501c",
+      "properties": {
+        "name": "Семейные традиции",
+        "subcategory": "Пекарни",
+        "rating": "3.7",
+        "site": "http://pekarnya38.ru",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.303485,
+          52.234003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fa221a2b-d499-4ac0-bc8e-a2e29a857728",
+      "properties": {
+        "name": "Бэйки, пекарня",
+        "subcategory": "Доставка еды, Кондитерские изделия, Кофейни, Пекарни",
+        "rating": "4.6",
+        "site": "http://bakee.ru",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.286277,
+          52.274878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "feabc3ef-a04f-4b03-a4bc-2e814ca90b74",
+      "properties": {
+        "name": "Немузей, кофейня",
+        "subcategory": "Кафе, Кофейни, Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.303929,
+          52.271777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b352b4b9-5606-4fdd-b062-789c78b7fce4",
+      "properties": {
+        "name": "Хлебико, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "2.4",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 21:00, Вт: с 08:00 до 21:00, Ср: с 08:00 до 21:00, Чт: с 08:00 до 21:00, Пт: с 08:00 до 21:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.258402,
+          52.271731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b6213909-b990-443c-8ab8-6a8260b1b4d2",
+      "properties": {
+        "name": "Любимая, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.5",
+        "site": "http://taplink.cc/lubipek_38",
+        "hours": "Пн: с 07:30 до 20:00, Вт: с 07:30 до 20:00, Ср: с 07:30 до 20:00, Чт: с 07:30 до 20:00, Пт: с 07:30 до 20:00, Сб: с 08:00 до 20:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.357435,
+          52.253262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4cdd00c0-ad3c-43a6-98b6-2f7608e01671",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Быстрое питание, Кондитерские изделия, Пекарни",
+        "rating": "3.7",
+        "site": "http://svezhar.ru",
+        "hours": "Пн: с 07:30 до 20:30, Вт: с 07:30 до 20:30, Ср: с 07:30 до 20:30, Чт: с 07:30 до 20:30, Пт: с 07:30 до 20:30, Сб: с 08:00 до 19:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.208403,
+          52.264073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fea77c17-3ec3-478b-90ad-358aa319eb07",
+      "properties": {
+        "name": "Хлеб из тандыра, магазин",
+        "subcategory": "Пекарни",
+        "rating": "3.3",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.15149,
+          52.349952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5bdf8bf6-eae3-469f-9aec-b5bb4df3c415",
+      "properties": {
+        "name": "Coffektura, кофейня-кондитерская",
+        "subcategory": "Кондитерские изделия, Кофейни, Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.275528,
+          52.251406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c033837f-b55d-4c14-9de0-bbf6102e52cc",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.0",
+        "site": "http://svezhar.ru",
+        "hours": "Пн: с 07:30 до 20:30, Вт: с 07:30 до 20:30, Ср: с 07:30 до 20:30, Чт: с 07:30 до 20:30, Пт: с 07:30 до 20:30, Сб: с 08:00 до 19:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.241822,
+          52.261802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b6e34838-284d-47c3-8eb6-9008a6114477",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.5",
+        "site": "http://svezhar.ru",
+        "hours": "Пн: с 07:00 до 20:00, Вт: с 07:00 до 20:00, Ср: с 07:00 до 20:00, Чт: с 07:00 до 20:00, Пт: с 07:00 до 20:00, Сб: с 08:00 до 19:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.225956,
+          52.345074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "21e5ff8f-a069-4526-90d8-2459bf896cd6",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.2",
+        "site": "http://svezhar.ru",
+        "hours": "Пн: с 07:30 до 20:30, Вт: с 07:30 до 20:30, Ср: с 07:30 до 20:30, Чт: с 07:30 до 20:30, Пт: с 07:30 до 20:30, Сб: с 08:00 до 19:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.338205,
+          52.254947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e3098490-023b-4af4-b4ee-f557fe3a8cfe",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "3.7",
+        "site": "http://svezhar.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.294196,
+          52.292817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f4e9af27-fa29-4bbe-ad7e-f27a1c67a3ff",
+      "properties": {
+        "name": "Воздух, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.5",
+        "site": "http://vozduhbakery.ru/",
+        "hours": "Ежедневно с 09:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288427,
+          52.286519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c9b28f25-5345-4d3f-b857-da3fe8bfac73",
+      "properties": {
+        "name": "Пекарня",
+        "subcategory": "Пекарни",
+        "rating": "2.7",
+        "site": "nan",
+        "hours": "Ежедневно с 08:30 до 20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.303131,
+          52.227323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "88140c76-ddf4-4937-9690-0337b22e0ce3",
+      "properties": {
+        "name": "Пани Круассани, кафе-пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 19:40"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.198875,
+          52.318308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16162a8e-5b18-48eb-98fb-0690e1fd8d88",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.315499,
+          52.27206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d7c68594-105b-43bf-9d7a-b774b27b8d9d",
+      "properties": {
+        "name": "Хлебушек, кофейня-пекарня",
+        "subcategory": "Кафе, Кофейни, Пекарни",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 21:00, Вт: с 08:00 до 21:00, Ср: с 08:00 до 21:00, Чт: с 08:00 до 21:00, Пт: с 08:00 до 21:00, Сб: с 09:00 до 21:00, Вс: с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.228423,
+          52.248064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "99767de0-96fc-4eda-afa3-916f45343713",
+      "properties": {
+        "name": "Апельсин, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "2.7",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.31386,
+          52.281861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "604abcbe-6adf-4d2d-89ca-a113adeca3bc",
+      "properties": {
+        "name": "Пирожковая изба, хлебопекарня",
+        "subcategory": "Пекарни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 10:00 до 20:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.257538,
+          52.263378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "762c621e-a9ba-473f-a5ef-1ee3b2a81d83",
+      "properties": {
+        "name": "Пекарня",
+        "subcategory": "Пекарни",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.315374,
+          52.264559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0e8c64b8-7903-4410-9063-6c62c8c6bc9e",
+      "properties": {
+        "name": "Новозеландские пироги, пекарня",
+        "subcategory": "Кофейни, Пекарни",
+        "rating": "4.9",
+        "site": "http://nzpies.ru",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.255237,
+          52.270661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a7312f1e-6634-4c9e-adcc-092667510ee9",
+      "properties": {
+        "name": "Хлебослава",
+        "subcategory": "Пекарни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.295484,
+          52.282799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4845b472-e5b0-4962-983d-9689d6028f54",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.218472,
+          52.347598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5730c168-17ac-414c-be56-ed5cee907e8d",
+      "properties": {
+        "name": "Как дома, пекарня",
+        "subcategory": "Мясо / Полуфабрикаты, Пекарни",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 12:00 до 19:00, Вт: с 12:00 до 19:00, Ср: с 12:00 до 19:00, Чт: с 12:00 до 19:00, Пт: с 12:00 до 19:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.714074,
+          51.661201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0c86a4c0-b44f-4829-bebe-5775a348792b",
+      "properties": {
+        "name": "Мамин хлеб, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.287157,
+          52.234797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3f411aa4-4b85-462f-a20d-700f27467b9b",
+      "properties": {
+        "name": "НоваПекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.4",
+        "site": "http://t.me/hlebandcoffee, http://taplink.cc/novapekarnya",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.393266,
+          52.252607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fe3d80db-48e6-455d-94ea-d194dde94361",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.302425,
+          52.279281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "78001e20-3a4e-4edc-bb49-fbb0aad61ef8",
+      "properties": {
+        "name": "Rokkoli, пекарня",
+        "subcategory": "Кондитерские изделия, Кофейни, Пекарни",
+        "rating": "4.6",
+        "site": "http://sabyget.ru/go/npskDrko",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289654,
+          52.273918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "62cb9282-0bd5-4d8e-a2f3-3aa878b60095",
+      "properties": {
+        "name": "Пуридзе",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.327611,
+          52.251216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "99a5b591-5033-451a-b7af-f20bf13fd820",
+      "properties": {
+        "name": "Новозеландские пироги, пекарня",
+        "subcategory": "Быстрое питание, Кофейни, Пекарни",
+        "rating": "4.8",
+        "site": "http://nzpies.ru",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.294119,
+          52.234303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5e5e98b4-a161-4873-a205-978ff1c9a364",
+      "properties": {
+        "name": "Пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.177344,
+          52.347258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "473646ee-c77c-4542-99a5-a09d1a920905",
+      "properties": {
+        "name": "Буфет, пекарня",
+        "subcategory": "Кондитерские изделия, Кулинарии, Пекарни",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.241169,
+          52.261356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "38120cf7-400e-4dd8-95b1-1078a81b0754",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.0",
+        "site": "http://svezhar.ru",
+        "hours": "Пн: с 07:30 до 20:30, Вт: с 07:30 до 20:30, Ср: с 07:30 до 20:30, Чт: с 07:30 до 20:30, Пт: с 07:30 до 20:30, Сб: с 08:00 до 19:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.212263,
+          52.259899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "863905a0-72b0-4f2e-8453-367a9abadb9c",
+      "properties": {
+        "name": "Мадленка, пекарня-кондитерская",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.326838,
+          52.257585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aa9322c0-76f4-4bb0-bce1-2d1f04cada6e",
+      "properties": {
+        "name": "Бриошь",
+        "subcategory": "Кофейни, Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.343438,
+          52.273829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4fae7d1c-001b-4d4f-9d19-5f9275b1fe28",
+      "properties": {
+        "name": "Пекарня свежей выпечки",
+        "subcategory": "Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 20:00, Вт: с 09:00 до 20:00, Ср: с 09:00 до 20:00, Чт: с 09:00 до 20:00, Пт: с 09:00 до 20:00, Сб: с 09:00 до 20:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.355239,
+          52.279688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "214ff497-e765-4e54-9ea6-47b2cb04e11d",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Пекарни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 20:00, Вт: с 09:00 до 20:00, Ср: с 09:00 до 20:00, Чт: с 09:00 до 20:00, Пт: с 09:00 до 20:00, Сб: с 09:00 до 19:00, Вс: с 09:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.323843,
+          52.251327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bd7ff034-36ad-4ac6-998f-4122c5554aa4",
+      "properties": {
+        "name": "Мамин Хлеб, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.047245,
+          52.425089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d5692416-2d65-4eeb-9f25-8448485255bb",
+      "properties": {
+        "name": "Пекарня лепёшек из тандыра",
+        "subcategory": "Пекарни",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.320293,
+          52.263371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b8624e88-419f-49e8-a551-d011427631e4",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Пекарни",
+        "rating": "3.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.224256,
+          52.341319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3f975230-028a-404e-95e9-1f4d7f21f096",
+      "properties": {
+        "name": "Апельсин, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "1.3",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.302486,
+          52.222985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0181037c-bbe6-4952-93d1-a87160b49387",
+      "properties": {
+        "name": "Буфет, пекарня",
+        "subcategory": "Кондитерские изделия, Кофейни, Кулинарии, Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.27222,
+          52.284969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b4a1eda9-2865-4620-84e6-508aa51e5bf1",
+      "properties": {
+        "name": "Бэйки, пекарня",
+        "subcategory": "Кондитерские изделия, Кофейни, Пекарни",
+        "rating": "4.7",
+        "site": "http://bakee.ru",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.326842,
+          52.251335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "51d78653-eab5-4d81-8353-f9d4123eb800",
+      "properties": {
+        "name": "Апельсин, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "2.4",
+        "site": "http://t.me/dobrii_hleb",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.280102,
+          52.237236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "287f51e6-2ccc-4307-8f75-07e4d689cbb6",
+      "properties": {
+        "name": "Булочная, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 20:00, Вт: с 09:00 до 20:00, Ср: с 09:00 до 20:00, Чт: с 09:00 до 20:00, Пт: с 09:00 до 20:00, Сб: с 10:00 до 19:00, Вс: с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.255446,
+          52.252193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0d142bfb-ed92-42bc-9653-4637d8998e8d",
+      "properties": {
+        "name": "Жар свежар, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "3.7",
+        "site": "http://svezhar.ru",
+        "hours": "Пн: с 08:00 до 21:00, Вт: с 08:00 до 21:00, Ср: с 08:00 до 21:00, Чт: с 08:00 до 21:00, Пт: с 08:00 до 21:00, Сб: с 08:00 до 19:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.331754,
+          52.275956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6304167e-e20c-4890-90d5-9feefe47aff6",
+      "properties": {
+        "name": "Семейные традиции",
+        "subcategory": "Колбасные изделия, Кондитерские изделия, Пекарни",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.314622,
+          52.273371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "363aa3d0-8dea-4e5d-87ff-ccd10ba2aa23",
+      "properties": {
+        "name": "Дом хлеба, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "5.0",
+        "site": "http://dom-hleba.ru",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.298992,
+          52.281262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "32741f48-dfb8-4c88-ace3-69c5ec4e7030",
+      "properties": {
+        "name": "Апельсин, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "2.3",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.32697,
+          52.277363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "be70ad24-a3a6-408c-974b-c287e4a630d2",
+      "properties": {
+        "name": "Семейные традиции",
+        "subcategory": "Пекарни",
+        "rating": "4.2",
+        "site": "http://t.me/pekarnyast",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.333652,
+          52.251634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6e80e97e-89e7-4079-8bdb-0e738ef3b6e9",
+      "properties": {
+        "name": "Братья Пироговы, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "3.1",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.146799,
+          52.351832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1355d405-df29-48a4-93c4-567526b52cd0",
+      "properties": {
+        "name": "Сытый шмель, лавка",
+        "subcategory": "Пекарни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 10:00 до 19:00, Вт: с 10:00 до 19:00, Ср: с 10:00 до 19:00, Чт: с 10:00 до 19:00, Пт: с 10:00 до 19:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.455578,
+          52.273905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cea14ff3-d19e-4ce6-a8a7-94197203e1c1",
+      "properties": {
+        "name": "Пекарня",
+        "subcategory": "Пекарни",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.149889,
+          52.351232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "890ac343-57b3-40c2-8010-9e6a049c4725",
+      "properties": {
+        "name": "Пекарушка, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.232801,
+          52.253855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aab1a400-5189-4989-8a58-13e19e3cf46b",
+      "properties": {
+        "name": "Отхончик, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.342557,
+          53.19607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "513aa7a5-080d-480b-a41a-1f80135b3cbf",
+      "properties": {
+        "name": "Пуридзе",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.306549,
+          52.27476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7886bebe-5d80-48c9-886d-7990f7826756",
+      "properties": {
+        "name": "Мамин хлеб, пекарня",
+        "subcategory": "Безалкогольные напитки, Пекарни",
+        "rating": "3.4",
+        "site": "nan",
+        "hours": "Ежедневно с 08:30 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.100987,
+          52.211451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f078e11e-6c03-4692-ba54-9d8f8c05d426",
+      "properties": {
+        "name": "Народная, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "1.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:30 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.339029,
+          52.254653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "29204b95-bb5c-4716-b2c9-1cf15e11b372",
+      "properties": {
+        "name": "Народная, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 07:30 до 19:30, Вт: с 07:30 до 19:30, Ср: с 07:30 до 19:30, Чт: с 07:30 до 19:30, Пт: с 07:30 до 19:30, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.308,
+          52.273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "789269c9-e1bf-4e1b-9e96-9bb452514ae2",
+      "properties": {
+        "name": "Народная, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "2.6",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2478,
+          52.28496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2b75e632-011c-459b-b7fc-ec754860531a",
+      "properties": {
+        "name": "Народная, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 10:00 до 20:00, Вт: с 10:00 до 20:00, Ср: с 10:00 до 20:00, Чт: с 10:00 до 20:00, Пт: с 10:00 до 20:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.340828,
+          52.292152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f3c0f064-2098-42f8-a6de-7be893e3f5af",
+      "properties": {
+        "name": "Народная, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 07:30 до 20:00, Вт: с 07:30 до 20:00, Ср: с 07:30 до 20:00, Чт: с 07:30 до 20:00, Пт: с 07:30 до 20:00, Сб: с 08:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.286178,
+          52.287834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37305746-39e3-4bbc-bc51-12332634c048",
+      "properties": {
+        "name": "Народная, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Пн: с 07:30 до 20:00, Вт: с 07:30 до 20:00, Ср: с 07:30 до 20:00, Чт: с 07:30 до 20:00, Пт: с 07:30 до 20:00, Сб: с 08:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.286132,
+          52.276547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c0888833-7232-43d7-ba98-6288f9be8330",
+      "properties": {
+        "name": "Народная, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 08:30 до 20:00, Вт: с 08:30 до 20:00, Ср: с 08:30 до 20:00, Чт: с 08:30 до 20:00, Пт: с 08:30 до 20:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.350622,
+          52.247417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7c069083-96af-4421-bc66-0850cae530c7",
+      "properties": {
+        "name": "Народная, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "1.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.246188,
+          52.2197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9e30614c-03b1-480d-b87d-34ae5d3253b3",
+      "properties": {
+        "name": "Народная, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 08:00 до 20:00, Вс: с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.258088,
+          52.2634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ba791b32-8bcf-4f35-a002-a6779c3496df",
+      "properties": {
+        "name": "Хлеб ручной работы, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "5.0",
+        "site": "http://pekardom.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.337549,
+          52.269005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f23b3cb9-4d59-4bb4-bfb8-229b68b7d507",
+      "properties": {
+        "name": "Апельсин, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.16705,
+          52.348362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e1594c39-92f8-4522-b6c1-590ef17cd17f",
+      "properties": {
+        "name": "Еще кусочек, кафе-кондитерская",
+        "subcategory": "Кондитерские изделия, Кофейни, Пекарни",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 19:00, Вт: с 09:00 до 19:00, Ср: с 09:00 до 19:00, Чт: с 09:00 до 19:00, Пт: с 09:00 до 19:00, Сб: с 10:00 до 19:00, Вс: с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.354259,
+          52.25039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6368e1e5-31bf-413a-a922-1f2f71fe9d62",
+      "properties": {
+        "name": "Пуридзе",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28973,
+          52.268328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b23bafc9-4281-42bd-809a-0752668214d4",
+      "properties": {
+        "name": "Комильфо",
+        "subcategory": "Кофейни, Пекарни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.381525,
+          52.252884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "752d4311-3e37-4494-a6e4-e9f1f5108249",
+      "properties": {
+        "name": "Пекарня",
+        "subcategory": "Пекарни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.312761,
+          52.22258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "07a37095-0765-4189-a5c0-6f00a871ad11",
+      "properties": {
+        "name": "Колобкоff, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.227838,
+          52.34016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "30748bae-38e1-4680-a109-bc5753978ce1",
+      "properties": {
+        "name": "Пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.546566,
+          51.860768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3d39c1e5-3dd5-4527-bbd0-79c71c118fbe",
+      "properties": {
+        "name": "Киоск хлебобулочных изделий",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.682707,
+          51.827087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "254f4dc8-7643-41ac-bd10-6af4608fcae5",
+      "properties": {
+        "name": "Производственная фирма",
+        "subcategory": "Пекарни",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.698121,
+          51.805078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a0ff05d8-5040-4045-91e3-b810c5f32e36",
+      "properties": {
+        "name": "Торты Кушеевой, производственно-торговая компания",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.5",
+        "site": "http://tortkusheeva.ru",
+        "hours": "Пн: с 08:00 до 19:00, Вт: с 08:00 до 19:00, Ср: с 08:00 до 19:00, Чт: с 08:00 до 19:00, Пт: с 08:00 до 19:00, Сб: с 08:00 до 17:00, Вс: с 09:00 до 16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58178,
+          51.782735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "da520e19-941a-46c8-98f8-ea1dfb7ba32f",
+      "properties": {
+        "name": "Амта, фирменный магазин",
+        "subcategory": "Кондитерские изделия, Молочные продукты, Пекарни",
+        "rating": "3.4",
+        "site": "http://amta.ru",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.654603,
+          51.805591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "43166962-9a92-4a8a-a856-1f7b771dd0dc",
+      "properties": {
+        "name": "Пекарня",
+        "subcategory": "Пекарни",
+        "rating": "2.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.650668,
+          51.83632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e5353d5c-5e12-4867-8cd1-0cec6a6414f3",
+      "properties": {
+        "name": "Пышечка, кондитерская",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Пн: с 07:00 до 20:00, Вт: с 07:00 до 20:00, Ср: с 07:00 до 20:00, Чт: с 07:00 до 20:00, Пт: с 07:00 до 20:00, Сб: с 07:00 до 20:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.592234,
+          51.837585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b21596ba-6a3e-418d-b388-1261191ca3e0",
+      "properties": {
+        "name": "Байкал Хлеб, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.694206,
+          51.819161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ad938374-7bdd-4205-862e-8f9c4e75278e",
+      "properties": {
+        "name": "Торты Кушеевой, оптово-розничный отдел",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.3",
+        "site": "http://tortkusheeva.ru",
+        "hours": "Пн: с 08:00 до 17:00, Вт: с 08:00 до 17:00, Ср: с 08:00 до 17:00, Чт: с 08:00 до 17:00, Пт: с 08:00 до 17:00, Сб: с 08:00 до 15:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60803,
+          51.824647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6dbe284a-1874-4755-91a8-39132291e19d",
+      "properties": {
+        "name": "Верхнеудинский пряник, производственный цех",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 19:00, Вт: с 09:00 до 19:00, Ср: с 09:00 до 19:00, Чт: с 09:00 до 19:00, Пт: с 09:00 до 19:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.637861,
+          51.824142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "078b81d3-dd2d-44ac-b5c6-bb3ccee0096a",
+      "properties": {
+        "name": "Смайк, пекарня",
+        "subcategory": "Пекарни, Фастфудная продукция - опт",
+        "rating": "2.5",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 18:00, Вт: с 09:00 до 18:00, Ср: с 09:00 до 18:00, Чт: с 09:00 до 18:00, Пт: с 09:00 до 18:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.64049,
+          51.826135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d3f4d489-ae9c-4873-b26b-0a30ac35227f",
+      "properties": {
+        "name": "Мини-пекарня",
+        "subcategory": "Пекарни",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.682731,
+          51.785347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "adc9c820-b50b-4ea8-804c-b5da10292901",
+      "properties": {
+        "name": "Шарлотта, пекарня",
+        "subcategory": "Кондитерские изделия, Кулинарии, Мясо / Полуфабрикаты, Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.032591,
+          53.41234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "413da268-9152-4ad6-8836-b721e963bfe4",
+      "properties": {
+        "name": "Пекарушка, магазин-кулинария",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "3.0",
+        "site": "nan",
+        "hours": "Пн: с 08:30 до 20:20, Вт: с 08:30 до 20:20, Ср: с 08:30 до 20:20, Чт: с 08:30 до 20:20, Пт: с 08:30 до 20:20, Сб: с 08:30 до 20:20, Вс: с 09:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.621737,
+          51.847067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "894c2b64-f475-467a-a7ae-24ab6770ff17",
+      "properties": {
+        "name": "Лакомка",
+        "subcategory": "Пекарни",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.583326,
+          51.983324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "06527358-d8b1-47c6-a3af-b7d0df4510cc",
+      "properties": {
+        "name": "Шарлотта, пекарня",
+        "subcategory": "Кондитерские изделия, Кулинарии, Мясо / Полуфабрикаты, Пекарни",
+        "rating": "3.1",
+        "site": "http://t.me/sharlotta_bargtrad",
+        "hours": "Пн: с 09:00 до 20:00, Вт: с 09:00 до 20:00, Ср: с 09:00 до 20:00, Чт: с 09:00 до 20:00, Пт: с 09:00 до 20:00, Сб: с 10:00 до 20:00, Вс: с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.591494,
+          51.841569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "45743fa8-ddf9-418b-bfe5-5f42a1352dfc",
+      "properties": {
+        "name": "Амта, фирменный магазин",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.1",
+        "site": "http://amta.ru",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.728437,
+          51.862436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c2c4051e-da5d-4a66-8867-188be13d66f6",
+      "properties": {
+        "name": "Пекарня",
+        "subcategory": "Пекарни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 19:00 до 07:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.30082,
+          52.986639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "24ce8102-f128-4a77-8f8d-67f9cd64eb1f",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Пн: с 07:00 до 21:00, Вт: с 07:00 до 21:00, Ср: с 07:00 до 21:00, Чт: с 07:00 до 21:00, Пт: с 07:00 до 21:00, Сб: с 08:00 до 21:00, Вс: с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.576778,
+          51.839928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c514ce11-6354-41bb-abe0-fb76cadaa1b6",
+      "properties": {
+        "name": "Бабушкин тандыр",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.621879,
+          51.810004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a80205b1-e5e8-45ee-bd76-2adf84d98c94",
+      "properties": {
+        "name": "Мама испекла, магазин",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.650081,
+          51.839859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b17fe112-fe2c-4c80-93b6-f3912ef08948",
+      "properties": {
+        "name": "Хлебный дом, пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.529402,
+          51.288367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a6a0feb0-0af5-43e1-a2a1-3911fd2dbda7",
+      "properties": {
+        "name": "Дом хлеба, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.5",
+        "site": "http://t.me/zqigdf9lo8niytey",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.742822,
+          51.865148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "08860423-f8db-40c4-b0fe-13dd6f29a419",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.584168,
+          51.845546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7d019865-a736-4ef9-8f1a-55326214e965",
+      "properties": {
+        "name": "Пекарня, ИП Мурзина В.В.",
+        "subcategory": "Пекарни",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.558943,
+          52.101586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "504c85c5-eeb8-4b28-9596-9986c4c6d179",
+      "properties": {
+        "name": "Муслим, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.591717,
+          51.823688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "78a92e8b-6246-4f40-a53d-954cdca2592d",
+      "properties": {
+        "name": "Пышечка, кондитерская",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "2.5",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.587253,
+          51.847774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4bd4e484-566e-4e95-8747-3ad1cb754fa5",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Быстрое питание, Кондитерские изделия, Пекарни",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 21:00, Вт: с 08:00 до 21:00, Ср: с 08:00 до 21:00, Чт: с 08:00 до 21:00, Пт: с 08:00 до 21:00, Сб: с 09:00 до 21:00, Вс: с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.590848,
+          51.841013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2b2dbe56-0049-45fb-a709-5c059eb2e905",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Быстрое питание, Пекарни",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.624449,
+          51.80813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a6c75225-bc63-4d12-93ef-a7f713a65583",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Пекарни",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59494,
+          51.836741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96489cb4-e195-46d3-901d-9f13a9c6c22c",
+      "properties": {
+        "name": "Хлеб, пекарня",
+        "subcategory": "Пекарни",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.620373,
+          51.835325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c6c35d64-9b24-49dd-8066-3d3b859ecfa5",
+      "properties": {
+        "name": "Лучеда, пекарня",
+        "subcategory": "Кулинарии, Мясо / Полуфабрикаты, Пекарни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 19:00, Вт: с 08:00 до 19:00, Ср: с 08:00 до 19:00, Чт: с 08:00 до 19:00, Пт: с 08:00 до 19:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.584551,
+          51.823712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c46b20a7-ded6-4cc3-ba5a-56c27fb6b19d",
+      "properties": {
+        "name": "Gorilla Food, оптовая компания фастфуда",
+        "subcategory": "Пекарни, Фастфудная продукция - опт",
+        "rating": "1.4",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 15:00, Вт: с 09:00 до 15:00, Ср: с 09:00 до 15:00, Чт: с 09:00 до 15:00, Пт: с 09:00 до 15:00, Сб: с 09:00 до 15:00, Вс: выходной (по предварительной записи: пн-пт)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.610224,
+          51.827582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ef973166-2b8a-4635-b180-f6b8b78329d1",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Быстрое питание, Кондитерские изделия, Пекарни",
+        "rating": "3.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.674617,
+          51.813755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b750ca02-aad2-4cb8-9c42-23898734ed9f",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Быстрое питание, Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 21:00, Вт: с 08:00 до 21:00, Ср: с 08:00 до 21:00, Чт: с 08:00 до 21:00, Пт: с 08:00 до 21:00, Сб: с 09:00 до 21:00, Вс: с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.722523,
+          51.866335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "51f2dce6-e37c-4a8c-96f6-81f547458dfb",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Быстрое питание, Кондитерские изделия, Пекарни",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.670937,
+          51.812733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1819bdcd-cb08-4139-a4f1-0fca54237d6e",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Быстрое питание, Кондитерские изделия, Пекарни",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 21:00, Вт: с 08:00 до 21:00, Ср: с 08:00 до 21:00, Чт: с 08:00 до 21:00, Пт: с 08:00 до 21:00, Сб: с 09:00 до 21:00, Вс: с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.639951,
+          51.807651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5fe1b526-c75b-4085-91ce-16e73eeb2ca9",
+      "properties": {
+        "name": "Мамин хлеб",
+        "subcategory": "Пекарни",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.590757,
+          51.841043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "28192ece-bedd-4eeb-b41e-f6356c085c60",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "3.5",
+        "site": "http://realbakery.ru",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.601371,
+          51.825242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "913c615e-8a88-46a0-9967-e75a4bdb8df7",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Пекарни",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Пн: с 07:00 до 19:00, Вт: с 07:00 до 19:00, Ср: с 07:00 до 19:00, Чт: с 07:00 до 19:00, Пт: с 07:00 до 19:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.735642,
+          51.859717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d0d01895-598c-4ef2-893d-e492590a99ee",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Быстрое питание, Кондитерские изделия, Пекарни",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.277749,
+          51.746167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d479b5e0-b2d8-4a71-91b4-d225c08869da",
+      "properties": {
+        "name": "Плюшка, мини-пекарня",
+        "subcategory": "Быстрое питание, Пекарни",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.531342,
+          51.80849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7ac53a83-ef2b-4068-af57-f26f13a76d00",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Быстрое питание, Пекарни",
+        "rating": "2.6",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.613445,
+          51.807577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bc2c4273-d90c-4946-8f69-2883df6066af",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Пекарни",
+        "rating": "3.5",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63286,
+          51.819821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1a8947aa-ae2c-49c7-a1cf-7744ede82f2b",
+      "properties": {
+        "name": "Пекарня",
+        "subcategory": "Пекарни",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 15:30, Вт: с 09:00 до 15:30, Ср: с 09:00 до 15:30, Чт: с 09:00 до 15:30, Пт: с 09:00 до 15:30, Сб: с 09:00 до 15:30, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.372098,
+          51.480002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "206b6ea7-6e6c-4c89-841a-839f43429df2",
+      "properties": {
+        "name": "Мамин хлеб",
+        "subcategory": "Быстрое питание, Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.604102,
+          51.84081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12032ffc-3c59-4007-8a52-1b06bff02c60",
+      "properties": {
+        "name": "Куйтунская пекарня",
+        "subcategory": "Пекарни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.730834,
+          51.807533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8720e19f-5369-4a58-a7ce-dc3a2169de6d",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Быстрое питание, Пекарни",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 21:00, Вт: с 08:00 до 21:00, Ср: с 08:00 до 21:00, Чт: с 08:00 до 21:00, Пт: с 08:00 до 21:00, Сб: с 09:00 до 21:00, Вс: с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.625345,
+          51.843748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "48458503-a02b-47c0-851f-b669f350f60e",
+      "properties": {
+        "name": "Добрый пекарь",
+        "subcategory": "Кондитерские изделия, Пекарни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.7041,
+          51.759965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "48fc04bc-9087-4d07-9a89-d9a576bc959b",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Быстрое питание, Пекарни",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.595145,
+          51.838374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e6b6c36a-6caa-4d5e-9f72-84fcda0af232",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Быстрое питание, Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.072415,
+          51.92893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a582deb3-0f2e-4657-9161-b89ca489c2af",
+      "properties": {
+        "name": "Настоящая пекарня",
+        "subcategory": "Быстрое питание, Пекарни",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.600995,
+          51.785828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e3fc6b54-0c5b-4adf-9679-3646f2dc9a43",
+      "properties": {
+        "name": "Пекарня",
+        "subcategory": "Пекарни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.578216,
+          51.853245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c41b7ccf-6389-447b-8a30-c1bb0c3e48c0",
+      "properties": {
+        "name": "Пекарня",
+        "subcategory": "Пекарни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.451933,
+          51.801227
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2729 @@
+{
+  "type": "FeatureCollection",
+  "name": "Храмы Соборы Церкви",
+  "style": {
+    "color": "#0a9c07",
+    "radius": 13,
+    "icon": "church-svgrepo-com.svg"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "295486a6-2121-44ca-86be-a2e809edfcf7",
+      "properties": {
+        "name": "Знаменский монастырь",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 08:30 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.294447,
+          52.30062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8991fd3f-ae9f-4829-a31b-ee1da68f50f9",
+      "properties": {
+        "name": "Церковь Воздвижения Честного и Животворящего Креста Господня",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.9",
+        "site": "http://iemp.ru",
+        "hours": "Ежедневно с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28809,
+          52.276351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10baca19-6cbb-477c-b61a-64e2de99d71e",
+      "properties": {
+        "name": "Николо-Иннокентьевский храм г. Иркутска",
+        "subcategory": "Религиозные товары, Храмы / Соборы / Церкви",
+        "rating": "4.7",
+        "site": "http://nikin.cerkov.ru",
+        "hours": "Пн: с 08:00 до 18:15, Вт: с 08:00 до 18:15, Ср: с 08:00 до 18:15, Чт: с 08:00 до 18:15, Пт: с 08:00 до 18:15, Сб: с 08:30 до 19:00, Вс: с 08:30 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.25928,
+          52.280421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0337642f-e1c4-46ee-b004-848458b1233d",
+      "properties": {
+        "name": "Свято-Троицкий храм",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 07:30 до 19:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.270396,
+          52.285483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "82b164ae-22af-4763-872d-69890f74f4c2",
+      "properties": {
+        "name": "Храм Александра Невского",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.8",
+        "site": "http://www.alexnev.ircenter.ru",
+        "hours": "Ежедневно с 07:30 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.311804,
+          52.229487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "962809bf-9ed7-47ae-b33f-1caac46d02fd",
+      "properties": {
+        "name": "Храм святой блаженной Ксении Петербуржской",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.6",
+        "site": "http://ksenia-irk.ru",
+        "hours": "Ежедневно с 08:30 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.321026,
+          52.279777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2801668e-6a9d-44be-8b0b-0a99a4dc326f",
+      "properties": {
+        "name": "Храм Преображения Господня",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.9",
+        "site": "http://preobrazhensky.prihod.ru/index",
+        "hours": "Ежедневно с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.303693,
+          52.2877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "04782917-e75a-4cdf-ac96-59ef2aebfa4f",
+      "properties": {
+        "name": "Михаило-Архангельский храм",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 07:30 до 19:00, Вт: с 07:30 до 19:00, Ср: с 07:30 до 19:00, Чт: с 07:30 до 19:00, Пт: с 07:30 до 19:00, Сб: с 07:30 до 19:00, Вс: с 07:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.216788,
+          52.332052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "de2e09cf-5c39-4716-9440-0221160f9dba",
+      "properties": {
+        "name": "Князе-Владимирский храм",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.8",
+        "site": "http://vh-irk.ru",
+        "hours": "Ежедневно с 08:30 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.332788,
+          52.297865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "740978d8-bbcf-4995-9c3a-8cfc08c7ed91",
+      "properties": {
+        "name": "Храм Церковь Воскресения Христова п. Маркова",
+        "subcategory": "Религиозные товары, Храмы / Соборы / Церкви",
+        "rating": "4.7",
+        "site": "http://t.me/vosk_h",
+        "hours": "Пн: с 12:00 до 17:00, Вт: с 12:00 до 17:00, Ср: с 12:00 до 17:00, Чт: с 12:00 до 17:00, Пт: с 12:00 до 17:00, Сб: с 12:00 до 18:30, Вс: с 08:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.203163,
+          52.215613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6972cb07-ab14-48ea-bb65-f5b9c80e12ff",
+      "properties": {
+        "name": "Храм во имя Спаса Нерукотворного Образа",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.9",
+        "site": "http://t.me/spasshramirk",
+        "hours": "Ежедневно с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.281189,
+          52.291081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "62bd3abf-0012-4111-a4d3-9bdfb9469e56",
+      "properties": {
+        "name": "Собор Богоявления",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.282452,
+          52.292265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0e4d4560-690d-49e4-9fca-c83da30ceaea",
+      "properties": {
+        "name": "Харлампиевский Михайло-Архангельский храм",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.8",
+        "site": "http://harlamp.ru, http://t.me/haralamp",
+        "hours": "Ежедневно с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.277464,
+          52.281409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b11423e3-dd6d-45f4-b214-354bd6781eea",
+      "properties": {
+        "name": "Храм Святых мучениц Веры, Надежды, Любови и матери их Софии",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.7",
+        "site": "http://hramvera.ru",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.328911,
+          52.258237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "632d29a7-8c67-499b-9d90-3617646d7613",
+      "properties": {
+        "name": "Храм Святого Благоверного Великого князя Димитрия Донского",
+        "subcategory": "Религиозные товары, Храмы / Соборы / Церкви",
+        "rating": "4.8",
+        "site": "http://dmdon.cerkov.ru",
+        "hours": "Пн: с 08:00 до 18:00, Вт: с 08:00 до 18:00, Ср: с 08:00 до 18:00, Чт: с 08:00 до 18:00, Пт: с 08:00 до 19:00, Сб: с 08:00 до 19:00, Вс: с 08:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.340359,
+          52.279152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1c66d629-8fdd-4572-a4ac-c0cd6a1d9857",
+      "properties": {
+        "name": "Храм Великомученика и Целителя Пантелеимона",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.6",
+        "site": "http://www.irk-panteleimon.ru",
+        "hours": "Ежедневно с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.204014,
+          52.33414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d4f87395-d3d4-4133-bf37-4ee23c05bb49",
+      "properties": {
+        "name": "Храм Рождества Христова",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 08:30 до 18:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.213847,
+          52.350759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "82ffa371-645b-4744-b45a-b477d871ca8c",
+      "properties": {
+        "name": "Петропавловский храм, религиозная организация",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.8",
+        "site": "http://verapetraipavla.ru",
+        "hours": "Ежедневно с 09:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.252978,
+          52.279775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aa5dc396-8867-40d5-b9b7-21c32a184d5b",
+      "properties": {
+        "name": "Входо-Иерусалимский храм",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.8",
+        "site": "http://ierusalimka.ru",
+        "hours": "Пн: с 09:00 до 17:00, Вт: с 09:00 до 17:00, Ср: с 09:00 до 17:00, Чт: с 09:00 до 17:00, Пт: с 09:00 до 19:00, Сб: с 09:00 до 19:00, Вс: с 08:30 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.297061,
+          52.276918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "971238c3-caee-46fa-99f1-fbb1ed34a7d9",
+      "properties": {
+        "name": "Храм Покрова Божией Матери",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 18:00, Вт: с 09:00 до 18:00, Ср: с 09:00 до 18:00, Чт: с 09:00 до 18:00, Пт: с 09:00 до 18:00, Сб: с 07:30 до 19:00, Вс: с 07:30 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.297335,
+          52.306677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cd42c16d-da84-4dc2-90b0-84191a322f47",
+      "properties": {
+        "name": "Свято-Никольский храм",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.7",
+        "site": "http://t.me/nikolayhram",
+        "hours": "Пн: выходной, Вт: с 11:00 до 15:00, Ср: выходной, Чт: с 11:00 до 15:00, Пт: выходной, Сб: с 16:30 до 20:00, Вс: с 08:30 до 16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.335644,
+          52.270636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "562d0299-394f-4b3c-bc6d-fc05fe953e35",
+      "properties": {
+        "name": "Церковь Касперовской иконы Божией Матери",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "3.3",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: выходной, Вс: с 13:00 до 14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.347257,
+          52.316568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1905c298-0c01-4474-a06f-58eb05727ae7",
+      "properties": {
+        "name": "Церковь Двенадцати апостолов",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.8",
+        "site": "http://12apostol.ru",
+        "hours": "Ежедневно с 09:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.210152,
+          52.262141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0c783fd0-706e-4f6e-8c9d-b25833009fab",
+      "properties": {
+        "name": "Храм Покрова Пресвятой Богородицы",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.438347,
+          52.271932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "af2ac35f-71c3-4bdf-938a-d2411e9db697",
+      "properties": {
+        "name": "Храм во имя святителя Софрония",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 11:00 до 14:00, Вт: с 11:00 до 14:00, Ср: с 11:00 до 14:00, Чт: с 11:00 до 14:00, Пт: с 11:00 до 14:00, Сб: с 11:00 до 19:00, Вс: с 08:00 до 16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.160345,
+          52.30241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "47e74e06-4ec4-4846-9004-5995d8884260",
+      "properties": {
+        "name": "Церковь Казанской иконы Божией Матери, с. Смоленщина",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: с 10:00 до 17:00, Ср: с 10:00 до 17:00, Чт: с 10:00 до 17:00, Пт: с 10:00 до 18:30, Сб: с 07:30 до 17:00, Вс: с 10:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.122278,
+          52.256074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "040f41f9-11f3-44af-ad6f-7c0a910d9422",
+      "properties": {
+        "name": "Церковь Успения Пресвятой Богородице",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "http://hram-oek.ru",
+        "hours": "Ежедневно с 09:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.45582,
+          52.58639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cab1ac0e-3964-4873-931a-291bae713127",
+      "properties": {
+        "name": "Подворье Сибирской Епархии Русской Древлеправославной Церкви Часовня в честь святых мучеников Иргенских Симеона, Киприана и Иосифа со дружиной",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: выходной, Вс: с 09:00 до 14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.898968,
+          52.073958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "651cf0ad-cf04-4c87-891e-19e1cf808c7a",
+      "properties": {
+        "name": "Свято-Георгиевский храм",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.5",
+        "site": "http://george.prihod.ru/",
+        "hours": "Пн: выходной, Вт: выходной, Ср: с 14:00 до 18:00, Чт: с 14:00 до 18:00, Пт: с 14:00 до 18:00, Сб: с 17:00 до 19:00, Вс: с 08:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.421301,
+          52.243431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7c7ececa-1ea8-4a46-9232-bbe866975dd2",
+      "properties": {
+        "name": "Свято-Никольский храм, рп. Култук",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: с 17:00 до 20:00, Сб: с 08:30 до 20:00, Вс: с 08:30 до 13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.707221,
+          51.727294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "43e72e96-f724-4b68-9b53-556f2742c1f1",
+      "properties": {
+        "name": "Церковь Казанской иконы Божией Матери",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "http://ust-kuda.cerkov.ru",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: с 09:00 до 12:00, Вс: с 08:00 до 14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.13437,
+          52.43167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5c96f861-2949-4e8a-8a0a-2035f1e9c08e",
+      "properties": {
+        "name": "Казанская церковь",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "http://iemp.ru, http://kazanskiyhram-irkutsk.ru, http://rutube.ru/channel/50655973, http://t.me/kazanskiyhramirk",
+        "hours": "Ежедневно с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.316647,
+          52.292071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "76169994-de3d-4987-a7e0-9fd4a9b103dd",
+      "properties": {
+        "name": "Храм святых первоверховных апостолов Петра и Павла",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.7",
+        "site": "http://shelehov.cerkov.ru",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.07254,
+          52.211953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6d63263f-0ccc-4ab4-93a9-63991b852968",
+      "properties": {
+        "name": "Храм Святой Великомученицы Варвары",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.1",
+        "site": "http://varvara.cerkov.ru",
+        "hours": "Пн: с 10:00 до 19:00, Вт: с 10:00 до 19:00, Ср: с 10:00 до 19:00, Чт: с 10:00 до 19:00, Пт: с 10:00 до 19:00, Сб: с 10:00 до 19:00, Вс: с 14:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.37107,
+          52.327144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d44732df-2d9f-431f-b08f-193985373ba2",
+      "properties": {
+        "name": "Спасский храм, с. Урик",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "http://spas-urik.cerkov.ru",
+        "hours": "Пн: с 09:00 до 16:00, Вт: с 09:00 до 16:00, Ср: с 09:00 до 16:00, Чт: с 09:00 до 16:00, Пт: с 09:00 до 19:00, Сб: с 07:45 до 19:30, Вс: с 08:30 до 16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.248651,
+          52.458014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f853c9fb-cfe6-4e4b-a354-fac5e1f3125e",
+      "properties": {
+        "name": "Церковь Сорока мучеников Севастийских",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.622211,
+          52.588735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cbbdcdfe-2fe1-4f30-8cc9-9c039b97119a",
+      "properties": {
+        "name": "Православный приход Храма Святых апостолов Петра и Павла, д. Куяда",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "3.2",
+        "site": "http://sobory.ru/article/",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: выходной, Вс: с 08:00 до 11:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.671924,
+          52.615215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0674f8d0-7d46-42e5-b044-59b7d48997c5",
+      "properties": {
+        "name": "Свято-Никольский храм, с. Олха",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: с 16:00 до 18:00, Пт: выходной, Сб: с 09:00 до 19:00, Вс: с 08:30 до 15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.108443,
+          52.162212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e55f14ec-233d-4cad-9dc4-e4c5628ef855",
+      "properties": {
+        "name": "Храм в честь иконы Божией Матери Неупиваемая чаша",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.306603,
+          52.416351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5850c419-94f6-4605-8154-28f1644d70b5",
+      "properties": {
+        "name": "Храм святой Троицы",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.9",
+        "site": "http://homutovo.cerkov.ru",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.399705,
+          52.443468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f9180acd-f455-4c09-9ca4-bcc5c265b138",
+      "properties": {
+        "name": "Приход храма во имя Святителя Иоанна Златоуста",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "http://iemp.ru/prihod/detail.php",
+        "hours": "Пн: с 10:00 до 13:30, Вт: с 10:00 до 18:00, Ср: с 10:00 до 18:00, Чт: с 10:00 до 18:00, Пт: с 10:00 до 18:00, Сб: с 08:00 до 19:00, Вс: с 08:00 до 16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.049521,
+          52.422098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f27d7e18-c3ff-4e93-81d9-9c6f8835035e",
+      "properties": {
+        "name": "Храм Русской Древнеправославной Церкви в честь Положения ризы Богородицы иже в Лахерне",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: с 14:00 до 19:00, Вс: с 08:00 до 14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.229036,
+          52.276107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ca43ebf2-606a-429e-8175-e2faa4d54321",
+      "properties": {
+        "name": "Иркутская библейская церковь Преображение",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: выходной, Вс: с 13:00 до 14:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.304737,
+          52.278484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1d669b3d-7492-4877-ac58-d9b59f212a09",
+      "properties": {
+        "name": "Храм Преображения Господня, пос. Байкал",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.798021,
+          51.874038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2dc435bc-758a-49b4-9936-95adb2dd20b9",
+      "properties": {
+        "name": "Храм в честь иконы Божьей Матери именуемой Владимирская",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "http://vladimirskay.cerkov.ru",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: с 17:00 до 20:00, Вс: с 09:00 до 12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.238622,
+          52.517224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a32a4422-3afc-4cab-b6b1-b4ffce95c889",
+      "properties": {
+        "name": "Свято-Никольский Храм, рп. Листвянка",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.9",
+        "site": "http://nikola.ircenter.ru",
+        "hours": "Пн: с 09:00 до 20:00, Вт: с 09:00 до 20:00, Ср: с 09:00 до 20:00, Чт: с 09:00 до 20:00, Пт: с 09:00 до 20:00, Сб: с 08:00 до 20:00, Вс: с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.866928,
+          51.860608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "41fd263d-17cc-46bd-a66d-b65964bd8907",
+      "properties": {
+        "name": "Храм Казанской иконы Божией Матери",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 08:00 до 20:00, Вс: с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.726183,
+          51.95275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6ec868d5-a72e-419f-9419-938f7cca0f15",
+      "properties": {
+        "name": "Храм Успения Божией Матери",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.5",
+        "site": "http://t.me/uspenie38",
+        "hours": "Ежедневно с 08:30 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.267757,
+          52.327689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34d70914-aebe-4bf4-ac07-6da3ce2d5b67",
+      "properties": {
+        "name": "Свято-Софрониевский храм, русская православная церковь",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: с 07:00 до 17:00, Вс: с 07:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.83155,
+          52.070829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "542fc730-bf49-494e-9a26-91306ffe191b",
+      "properties": {
+        "name": "Свято-Троицкий приход",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 12:00 до 14:00, Вт: с 12:00 до 14:00, Ср: с 12:00 до 14:00, Чт: с 12:00 до 14:00, Пт: с 12:00 до 14:00, Сб: с 17:00 до 19:00, Вс: с 09:00 до 11:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.115446,
+          52.273213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "018e5067-427e-4eca-b248-a1c2ad4b996e",
+      "properties": {
+        "name": "Православный приход храма в честь рождества Иоанна Предтечи г. Иркутска",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "http://ioannpr.cerkov.ru",
+        "hours": "Ежедневно с 09:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.297259,
+          52.216727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "86a9cd5b-23c4-4245-943b-b56ff3f1228c",
+      "properties": {
+        "name": "Церковь Николая Чудотворца, Иннокентия, епископа Иркутского, и Татианы Мученицы, г. Слюдянка",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.9",
+        "site": "http://nicolaslud.prihod.ru",
+        "hours": "Ежедневно с 09:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.725902,
+          51.65959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ccf124d0-472d-4f01-b411-e4299f4a96b6",
+      "properties": {
+        "name": "Храм Троицы Живоначальной",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "http://irkutsk-rn2-1.cerkov.ru",
+        "hours": "Ежедневно с 09:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.145632,
+          51.510919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1ffd641e-8674-45de-a543-905922c6aa00",
+      "properties": {
+        "name": "Церковь Собора Архангела Михаила",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 16:00, Вт: с 09:00 до 16:00, Ср: выходной, Чт: выходной, Пт: с 09:00 до 16:00, Сб: с 09:00 до 16:00, Вс: с 09:00 до 16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.054931,
+          51.537713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "60d46f50-9016-4837-99e3-74db1f284def",
+      "properties": {
+        "name": "Храм Державной иконы Божьей Матери",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.334199,
+          53.195314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0c669f08-cbe4-4992-a8a0-af55f4dcea7b",
+      "properties": {
+        "name": "Свято-Никольская церковь",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.400196,
+          52.027598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0207993a-6836-4eed-b34c-d71bbfd00efb",
+      "properties": {
+        "name": "Храм преподобного Серафима Саровского",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: с 09:00 до 19:00, Вс: с 09:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.33269,
+          52.297993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c8c174d5-d432-44c6-9a1e-a62fb9b735c3",
+      "properties": {
+        "name": "Храм Святого Духа",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.343003,
+          52.467714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a103cc68-01f5-4385-bb7f-e95404c1e334",
+      "properties": {
+        "name": "Православный приход храма Рождества Христова",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.402509,
+          52.795707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "04989fc6-cbd5-484d-8225-86eba11c4928",
+      "properties": {
+        "name": "Иркутская церковь Евангельских Христиан-баптистов, г. Иркутск",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: с 18:00 до 20:00, Чт: выходной, Пт: выходной, Сб: выходной, Вс: с 11:00 до 13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.249104,
+          52.280523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ebb08a98-fa8d-42f3-9273-e6423578b8c2",
+      "properties": {
+        "name": "Храм святителя Иннокентия митрополита Московского",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.5",
+        "site": "http://t.me/innokentiya_school",
+        "hours": "Ежедневно с 14:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.140428,
+          52.352751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f75392dd-57e8-45ae-b160-6edb2da1e5e6",
+      "properties": {
+        "name": "Всех Святых, мужской скит",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.770855,
+          51.880589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fba1d136-477e-4780-bb49-5281c3067e9f",
+      "properties": {
+        "name": "Церковь во имя Владимирской иконы Божией Матери",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "http://t.me/vl_church_pg",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: с 13:00 до 16:00, Вс: с 08:00 до 12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288144,
+          52.292195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "159431ba-7959-4026-91e7-18fff509ac36",
+      "properties": {
+        "name": "Храм во имя Спаса Нерукотворного Образа",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.9",
+        "site": "http://t.me/spasshramirk",
+        "hours": "Ежедневно с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.281189,
+          52.291081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c1b630cc-f19b-4bc2-bc39-158f14f8c575",
+      "properties": {
+        "name": "Церковь Николая Чудотворца, Иннокентия, епископа Иркутского, и Татианы Мученицы, г. Слюдянка",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.9",
+        "site": "http://nicolaslud.prihod.ru",
+        "hours": "Ежедневно с 09:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.725902,
+          51.65959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6cddbc80-4ba0-44db-9634-737ea6f99182",
+      "properties": {
+        "name": "Храм Рождества Христова",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 08:30 до 18:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.213847,
+          52.350759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "06d35ca9-dbf1-489f-b0d7-69c17f1b1795",
+      "properties": {
+        "name": "Храм Вознесения Господня",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.3",
+        "site": "http://pravoslavnaya-buryatiya.ru/2021/01/26/hram-vozneseniya-gospodnya",
+        "hours": "Ежедневно с 08:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.587167,
+          51.817099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2bc93e90-9421-4523-9911-6eb189dff88d",
+      "properties": {
+        "name": "Храм Пророка Божия Илии",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.1",
+        "site": "http://iliya.prihod.ru",
+        "hours": "Ежедневно с 08:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.730202,
+          51.866695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bffe36f9-0194-40b1-9a19-3e8ba95571d1",
+      "properties": {
+        "name": "Свято-Троицкий храм",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.6",
+        "site": "http://tr-uud.cerkov.ru",
+        "hours": "Ежедневно с 07:30 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.595775,
+          51.82583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "349de231-69c4-475f-a474-56b1e154d083",
+      "properties": {
+        "name": "Евангельская Христианская Церковь, г. Улан-Удэ",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "http://uuchurch.ru",
+        "hours": "Пн: выходной, Вт: выходной, Ср: с 18:00 до 20:00, Чт: выходной, Пт: выходной, Сб: выходной, Вс: с 11:00 до 13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.624291,
+          51.818129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4a6df265-2641-467e-b836-fab7d0f41f24",
+      "properties": {
+        "name": "Свято-Одигитриевский кафедральный собор",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.2",
+        "site": "http://pravoslavnaya-buryatiya.ru, http://uud.cerkov.ru, http://uutravel.ru",
+        "hours": "Пн: с 07:00 до 20:00, Вт: с 07:00 до 20:00, Ср: с 07:00 до 20:00, Чт: с 07:00 до 20:00, Пт: с 07:00 до 20:00, Сб: с 07:00 до 20:00, Вс: с 06:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.584861,
+          51.82236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f271a0ee-2b70-4206-ac38-409b1f4640f8",
+      "properties": {
+        "name": "Свято-Покровский храм",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.6",
+        "site": "http://pokrov-uud.cerkov.ru",
+        "hours": "Ежедневно с 08:00 до 13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.651618,
+          51.804029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3239a6ce-325f-4021-9a4f-dea861854219",
+      "properties": {
+        "name": "Храм Святого Николая Чудотворца",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.9",
+        "site": "http://pravoslavnaya-buryatiya.ru/category/monastyri-prihody-chasovni",
+        "hours": "Ежедневно с 07:30 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.583839,
+          51.842574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "261a2622-3d09-4110-8a67-eaafb726aa3a",
+      "properties": {
+        "name": "Храм Великомученика Георгия Победоносца",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.88353,
+          51.848904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1545bb49-b4be-44ae-a254-1d2e4799d210",
+      "properties": {
+        "name": "Храм в честь иконы Божией Матери Владимирская",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "3.5",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 13:00, Вт: с 08:00 до 13:00, Ср: с 08:00 до 13:00, Чт: с 08:00 до 13:00, Пт: с 08:00 до 13:00, Сб: с 08:00 до 13:00, Вс: с 08:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.476282,
+          51.881285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a5a45071-2a7c-4a00-a799-fdc34a0c75d7",
+      "properties": {
+        "name": "Храм иконы Иверской Божьей Матери",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.580391,
+          51.773519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96c0e6fa-c92a-4500-90d0-d8ebb1b85786",
+      "properties": {
+        "name": "Храм в честь Рождества Христова",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: с 13:00 до 17:00, Вс: с 07:30 до 16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.620586,
+          51.808002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "531b7b07-fb79-46f2-97dd-98af19a45195",
+      "properties": {
+        "name": "Храм в честь святых апостолов Петра и Павла",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 10:00 до 15:00, Вт: с 10:00 до 15:00, Ср: с 10:00 до 15:00, Чт: с 10:00 до 15:00, Пт: с 10:00 до 15:00, Сб: с 08:00 до 17:00, Вс: с 08:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.404521,
+          51.829294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a6f0a6b4-131a-471c-a45c-32a97a733751",
+      "properties": {
+        "name": "Храм святой блаженной Ксении Петербургской, с. Нижний Саянтуй",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 10:00 до 14:00, Вт: с 10:00 до 14:00, Ср: с 10:00 до 14:00, Чт: с 10:00 до 14:00, Пт: с 10:00 до 14:00, Сб: выходной, Вс: с 07:30 до 14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.517824,
+          51.737277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a287c5d0-429e-42ae-add5-ddd91c6d67c5",
+      "properties": {
+        "name": "Древлеправославный храм в честь рождества Иоанна Предтечи",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.545666,
+          51.748286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4510e460-d1a6-4633-a1bf-6172c5ce3811",
+      "properties": {
+        "name": "Храм святой великомученицы Варвары",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 17:00, Вт: с 09:00 до 17:00, Ср: с 09:00 до 17:00, Чт: с 09:00 до 17:00, Пт: с 09:00 до 17:00, Сб: с 09:00 до 12:30, Вс: с 13:00 до 16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.620965,
+          51.807916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8c2423d9-dc5c-494f-b3f2-cc0109818850",
+      "properties": {
+        "name": "Храм-часовня святого великомученика Георгия Победоносца",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: с 10:00 до 15:00, Пт: с 10:00 до 15:00, Сб: с 09:00 до 18:00, Вс: с 08:30 до 15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.643879,
+          51.804727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7094afd8-b35e-4662-a433-093525b6021f",
+      "properties": {
+        "name": "Храм Рождества Христова",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "http://pravoslavnaya-buryatiya.ru/2021/07/08/hram-rozhdestva-hristova-s-voznesenovka",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.472269,
+          51.712121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c7004920-ecb5-4ed0-8fb6-f10284591743",
+      "properties": {
+        "name": "Храм Архистратига Божия Михаила",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 11:00 до 13:00, Вт: выходной, Ср: выходной, Чт: с 11:00 до 12:00, Пт: выходной, Сб: с 08:00 до 18:00, Вс: с 08:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.598404,
+          51.814375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3ffe72ca-ce49-4988-a269-8520ccc19e96",
+      "properties": {
+        "name": "Православный Приход храма Преображения Господня",
+        "subcategory": "Приходы, Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.282805,
+          51.74698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a19ba4b4-7704-4bec-ae85-5ae4b79543a7",
+      "properties": {
+        "name": "Храм в честь святого Апостола Андрея Первозванного",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: с 08:00 до 16:00, Вс: с 08:00 до 16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.972441,
+          52.796717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "52cee454-afa9-49f9-889b-507b206d6cda",
+      "properties": {
+        "name": "Христианская Пресвитерианская Евангельская Церковь",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.220226,
+          52.945775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b72101a7-39bd-4187-975e-8a92e51f6e56",
+      "properties": {
+        "name": "Храм Казанской иконы Божьей матери",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.307765,
+          52.986527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cd6d4b91-c930-4060-a451-dba235ff0c8e",
+      "properties": {
+        "name": "Церковь Рождества Иоанна Предтечи",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "http://ubarguzin.cerkov.ru",
+        "hours": "Ежедневно с 09:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.032279,
+          53.413323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aed760a0-eb5e-46cf-bfba-26afc7cdae90",
+      "properties": {
+        "name": "Религиозная организация свято-троицкий Селенгинский мужской монастырь Улан-Удэнской и Бурятской епархии русской православной церкви",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "http://selenginskii-monastery.cerkov.ru",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.176663,
+          52.119031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ede806d9-bea7-4698-851b-f2f84cfc0d99",
+      "properties": {
+        "name": "Троицкий собор",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "http://selenginskii-monastery.cerkov.ru",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.177233,
+          52.119666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7801b11c-9edf-41e5-a989-cd3f0db29c3e",
+      "properties": {
+        "name": "Никольская церковь",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "http://selenginskii-monastery.cerkov.ru",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.177431,
+          52.1199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a1ff9299-580f-4e39-be55-1f31020b1f72",
+      "properties": {
+        "name": "Храм в честь Архистратига Божия Михаила, пгт. Селенгинск",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "http://abmihaila.cerkov.ru/",
+        "hours": "Ежедневно с 09:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.866398,
+          51.999792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f3e674e9-daaa-407e-9165-8651bb6a5c35",
+      "properties": {
+        "name": "Благодать, церковь христиан веры Евангельской",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "2.7",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: с 18:00 до 20:00, Чт: выходной, Пт: с 18:00 до 20:00, Сб: выходной, Вс: с 09:00 до 11:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.867222,
+          52.006904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d5d662a0-1ac1-433b-b2fc-539a6a108d46",
+      "properties": {
+        "name": "Храм в честь Святого Великомученика Георгия Победоносца",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.536551,
+          51.284208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bf26ca53-e632-4fbf-b281-f6ae938427c4",
+      "properties": {
+        "name": "Древлеправославный храм Воздвижения Честного и Животворящего Креста Господня",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 12:00, Вт: с 09:00 до 12:00, Ср: с 09:00 до 12:00, Чт: с 09:00 до 12:00, Пт: с 09:00 до 12:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.367078,
+          51.480353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d8eea711-8f72-4f50-87a3-98c3d3767f12",
+      "properties": {
+        "name": "Собор Преображения Господня",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.17833,
+          52.017314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d3ffbbf3-1157-4504-b85e-2db0212241be",
+      "properties": {
+        "name": "Храм Преображения Господня, с. Баргузин",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "http://barguzin.cerkov.ru",
+        "hours": "Ежедневно с 08:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.641271,
+          53.613909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2c3b865f-b504-4d78-bd50-ea5dd6480463",
+      "properties": {
+        "name": "Храм в честь образа Пресвятой Богородицы Отрада и Утешение",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.439184,
+          52.142518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "866ac6c1-01f8-4cda-b785-91cc6416b029",
+      "properties": {
+        "name": "Церковь Возрождение Евангельских христиан-баптистов",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: с 18:00 до 19:00, Чт: выходной, Пт: выходной, Сб: выходной, Вс: с 11:00 до 13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.598205,
+          51.849135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9d722d0f-301b-4e58-9bb5-cef25130baa0",
+      "properties": {
+        "name": "Приход храма в честь Пресвятой Богородицы",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "2.5",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.573318,
+          51.984982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1dc9be80-e2c6-4fb1-aed6-27f1ffe4e8e8",
+      "properties": {
+        "name": "Храм в честь Благовещения Пресвятой Богородицы",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.2",
+        "site": "http://hram-bkudara-bpb.cerkov.ru",
+        "hours": "Ежедневно с 09:00 до 16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.653407,
+          52.229305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bebe1d02-fcad-42ef-a4ea-4a7216dad22e",
+      "properties": {
+        "name": "Храм в честь Иннокентия, митрополита Московского",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.965178,
+          52.484937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8d8baf37-2c0b-46ec-aaa6-18ed054cc998",
+      "properties": {
+        "name": "Церковь Спаса Нерукотворного Образа",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58515,
+          51.822792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "703e46bf-ec67-4b24-9a62-f5b917e2e8dc",
+      "properties": {
+        "name": "Возрождение, церковь христиан Веры Евангельской",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: с 18:00 до 19:00, Пт: выходной, Сб: выходной, Вс: с 15:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.362933,
+          51.479113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c891eda9-74c0-44cb-8d0a-7c6239095f2c",
+      "properties": {
+        "name": "Благодать Истины, церковь",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.370763,
+          51.477574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fa111a7d-80bc-4baf-a876-acc4ff2551b8",
+      "properties": {
+        "name": "Храм в честь святителя Николая Мир Ликийских Чудотворца, с. Оймур",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.830046,
+          52.325575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "938c11a6-6bf2-47a8-9a5e-0ffefefb486d",
+      "properties": {
+        "name": "Примирение, церковь христиан Веры Евангельской",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: выходной, Вс: с 09:00 до 12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.442756,
+          51.797426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "306a1a70-2d0b-4213-8001-68dd7bf1cc05",
+      "properties": {
+        "name": "Благодать, церковь христиан веры Евангельской",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: выходной, Вс: с 10:00 до 12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.029439,
+          53.414199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e6c0695d-5f3e-47c8-b3f6-67b00668879f",
+      "properties": {
+        "name": "Путь Веры, церковь христиан веры Евангельской",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: с 18:00 до 22:00, Чт: выходной, Пт: с 18:00 до 22:00, Сб: выходной, Вс: с 10:00 до 15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.657012,
+          51.811735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0809be68-33f0-4b40-b1be-3933d49e4890",
+      "properties": {
+        "name": "Приход храма в честь Ефрема епископа Селенгинского",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.562199,
+          52.100047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b78423f3-3d1f-49d9-9701-ee262e02b26b",
+      "properties": {
+        "name": "Приход храма в честь иконы Казанской Божией Матери",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.710966,
+          51.682074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "57c4b8c4-cdab-41e2-b2e9-3b070c8469f4",
+      "properties": {
+        "name": "Православный Храм Апостолов Петра и Павла",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: с 10:00 до 14:00, Ср: с 10:00 до 14:00, Чт: с 10:00 до 14:00, Пт: с 10:00 до 14:00, Сб: с 10:00 до 14:00, Вс: с 10:00 до 14:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.112802,
+          52.542851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16d60247-c171-4627-b8f7-5ac1106c4e72",
+      "properties": {
+        "name": "Церковь Святителя Иннокентия Иркутского",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.630695,
+          51.363549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cb9e77f4-bd31-4df3-9da4-ad908db0be03",
+      "properties": {
+        "name": "Церковь христиан Веры Евангельской Еммануил",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: с 18:00 до 20:00, Чт: выходной, Пт: выходной, Сб: выходной, Вс: с 11:00 до 13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.529164,
+          51.276198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bf78b29e-7c8f-42e4-b389-97efda2fe324",
+      "properties": {
+        "name": "Храм в честь Казанской иконы Божией Матери",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "http://gusin-hram03.ru",
+        "hours": "Ежедневно с 08:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.536746,
+          51.283726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e5717af6-1f1f-4443-b2f2-d40734b1fc71",
+      "properties": {
+        "name": "Церковь Казанской иконы Божией Матери",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.488198,
+          52.171025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "70245529-2ea5-48d9-af90-0577fd1f8967",
+      "properties": {
+        "name": "Верхнеудинская старообрядческая община Русской Православной Старообрядческой Церкви, местная религиозная организация",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: с 14:00 до 19:00, Вс: с 08:00 до 11:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.636493,
+          51.842684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a6a23a98-ca76-4f51-b928-9a197e452dc0",
+      "properties": {
+        "name": "Церковь вознесения Господня",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.253849,
+          51.711967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0f9aaf10-0665-414d-ba08-9537dcb1bf37",
+      "properties": {
+        "name": "Церковь Владимира равноапостольного",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.139782,
+          51.939069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "374d78d8-7402-40dd-b5ed-392d9af35110",
+      "properties": {
+        "name": "Церковь иконы Божией Матери Скоропослушница",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.134349,
+          52.119197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4ea585de-933e-4040-954b-37f2b9c8152d",
+      "properties": {
+        "name": "Православный храм Святого Духа",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: с 13:00 до 17:00, Вс: с 13:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.115574,
+          52.125062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dadd654e-2cc7-472f-ab12-5601bba0f998",
+      "properties": {
+        "name": "Храм-часовня Успения Божией Матери",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.466942,
+          52.155454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c67d1188-e497-47c3-8f0f-27e9ca523a2b",
+      "properties": {
+        "name": "Храм святителя Николы Чудотворца",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.759497,
+          51.531254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8d6b9c68-c201-47de-8bd2-5a73e391dd0f",
+      "properties": {
+        "name": "Православный храм",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60265,
+          51.433045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c5c30139-93f4-49af-b1b5-4354262ed450",
+      "properties": {
+        "name": "Храм Благовещения Пресвятой Богородицы",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 17:00, Вт: с 09:00 до 17:00, Ср: с 09:00 до 17:00, Чт: с 09:00 до 17:00, Пт: с 09:00 до 17:00, Сб: с 09:00 до 17:00, Вс: с 07:30 до 15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.261653,
+          51.838863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2ce6c0cb-3da8-4f62-8672-ce511e6a86d5",
+      "properties": {
+        "name": "Приход храма в честь Преподобномученицы Великой Княгини Елисаветы Феодоровны",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.795095,
+          51.654818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0f798ea6-6a57-4d29-8fb1-3810051978a5",
+      "properties": {
+        "name": "Церковь Илии Пророка",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.281612,
+          51.788347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "05cdfdee-ec46-4b92-97be-746e1761914f",
+      "properties": {
+        "name": "Свято-Николаевский Приход, г. Бабушкин",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.867176,
+          51.713527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9d89b4f6-cc4e-4ccc-b2c2-b9bc02081fca",
+      "properties": {
+        "name": "Православная церковь Петра и Павла",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "http://maksimikha.cerkov.ru/",
+        "hours": "Пн: с 10:00 до 13:00, Вт: с 10:00 до 13:00, Ср: с 10:00 до 13:00, Чт: с 10:00 до 13:00, Пт: с 10:00 до 13:00, Сб: с 10:00 до 13:00, Вс: с 09:00 до 12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.736545,
+          53.2651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3a43cd1d-4822-478b-a27b-0ae5bed5bfff",
+      "properties": {
+        "name": "Церковь Покрова Пресвятой Богородицы с. Максимиха",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.758651,
+          53.272383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5a91509b-5491-49f0-bd15-ae3742a67434",
+      "properties": {
+        "name": "Спасо-Преображенский собор",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "http://barguzin.cerkov.ru/",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.641509,
+          53.614499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "62c811fe-1a3f-41dd-a857-b49f40d9b96a",
+      "properties": {
+        "name": "Церковь Архангела Михаила",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "http://selenginskii-monastery.cerkov.ru",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.177019,
+          52.119001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e5688c41-720a-404a-9c8b-60b03c67fa89",
+      "properties": {
+        "name": "Церковь Николая Чудотворца",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "http://pravoslavnaya-buryatiya.ru",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.17825,
+          52.018055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37540040-6fa2-41b8-ac2e-785e6e95e51e",
+      "properties": {
+        "name": "Церковь христиан веры Евангельской",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 10:00 до 17:00, Вт: с 10:00 до 17:00, Ср: с 10:00 до 17:00, Чт: с 10:00 до 17:00, Пт: с 10:00 до 17:00, Сб: с 10:00 до 17:00, Вс: с 10:00 до 15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.070833,
+          51.933073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16b98db4-98bf-4689-a942-7213f3d46ead",
+      "properties": {
+        "name": "Христа спасителя, церковь христиан веры Евангельской",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: с 18:00 до 20:00, Ср: выходной, Чт: выходной, Пт: с 18:00 до 20:00, Сб: выходной, Вс: с 16:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.650701,
+          51.804551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "66d14225-3a19-4f43-b420-8f64997f88ca",
+      "properties": {
+        "name": "Свет Любви, Евангельская Христианская Церковь",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: выходной, Вс: с 11:00 до 13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.707797,
+          51.858598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "81d251d0-9354-454a-94d2-4324de6be126",
+      "properties": {
+        "name": "Храм в честь преподобного Сергия Радонежского",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.665002,
+          51.892515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f8b74f22-5e97-4092-8e49-c8e2fad011e8",
+      "properties": {
+        "name": "Храм святителя Николая Архиепископа Мирликийского, пос. Саган-Нур",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "http://pravoslavnaya-buryatiya.ru/2021/07/08/hram-svyatitelya-nikolaya-arhiepiskopa-mirlikijskogo-p-sagan-nur/",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.428007,
+          51.341694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d46703f7-fe88-4b41-b9ca-6eb303d7cc4c",
+      "properties": {
+        "name": "Иннокентьевская Ключевская церковь",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.269138,
+          51.259808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b8499155-5fc2-4119-9559-dce4e8ccea26",
+      "properties": {
+        "name": "Храм Блаженной Матроны Московской",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: с 09:00 до 10:00, Чт: выходной, Пт: выходной, Сб: с 16:00 до 18:00, Вс: с 08:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.553706,
+          51.86882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3353b7e5-610c-4a4e-ac2d-f0fee95be741",
+      "properties": {
+        "name": "Церковь в честь иконы Божией Матери Всецарица",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 17:00, Вт: с 09:00 до 17:00, Ср: с 09:00 до 17:00, Чт: с 09:00 до 17:00, Пт: с 09:00 до 17:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.525529,
+          51.720907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9bf5467c-0a50-4164-af30-fd7c17a55037",
+      "properties": {
+        "name": "Церковь Покрова Пресвятой Богородицы",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.642076,
+          51.445533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5c76d9ec-a30d-4873-8926-d061750ec8d9",
+      "properties": {
+        "name": "Церковь Казанской иконы Божьей матери",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 16:00, Вт: с 09:00 до 16:00, Ср: с 09:00 до 16:00, Чт: с 09:00 до 16:00, Пт: с 09:00 до 16:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.722777,
+          51.460314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a19821b6-11c7-4578-ac2b-adaa21a67276",
+      "properties": {
+        "name": "Храм в честь иконы Божией Матери Нечаянная радость",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.375042,
+          51.755294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34919d6a-d851-4f89-b630-37f82f579a28",
+      "properties": {
+        "name": "Свято-Иннокентьевский храм",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.118632,
+          51.5559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e3bc88da-d893-44ce-88e7-284246cf183d",
+      "properties": {
+        "name": "Храм во имя святой Параскевы Пятницы",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.777513,
+          52.264401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d9f914c9-a6ec-4ad5-b6b6-6a46718a9d40",
+      "properties": {
+        "name": "Церковь Рождества Христова",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.776847,
+          53.500889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6ce6aa6c-a457-46a5-808e-9e59e98cade6",
+      "properties": {
+        "name": "Кафедральный собор Успения Пресвятой Богородицы",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "3.5",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607522,
+          51.841929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "750faa3b-c280-44be-a6ad-683dd2de5973",
+      "properties": {
+        "name": "Храм Святителя Николая Чудотворца",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.9",
+        "site": "http://pravoslavnaya-buryatiya.ru/category/monastyri-prihody-chasovni",
+        "hours": "Ежедневно с 07:30 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.583839,
+          51.842574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9ec68a83-5564-4784-8dc0-f2688d982e09",
+      "properties": {
+        "name": "Свято-Троицкий храм",
+        "subcategory": "Храмы / Соборы / Церкви",
+        "rating": "4.6",
+        "site": "http://tr-uud.cerkov.ru",
+        "hours": "Ежедневно с 07:30 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.595775,
+          51.82583
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "name": "Интерактивные музеи",
+  "style": {
+    "color": "#fe5d85",
+    "radius": 15,
+    "icon": "museum-svgrepo-com.svg"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "4bdbc8ca-5b6c-49be-a64d-37744ee73742",
+      "properties": {
+        "name": "Экспериментарий, музей занимательной науки",
+        "subcategory": "Интерактивные музеи, Научно-развлекательные центры, Организация праздников",
+        "rating": "4.8",
+        "site": "http://experimentary.ru, http://t.me/experimentary_irkutsk",
+        "hours": "Ежедневно с 11:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.271428,
+          52.245034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1c6208af-3d98-4826-9262-e1a22ea7056b",
+      "properties": {
+        "name": "Фантаст, музей оптических иллюзий",
+        "subcategory": "Интерактивные музеи",
+        "rating": "4.9",
+        "site": "http://www.fantast.center",
+        "hours": "Пн: выходной, Вт: с 11:00 до 19:00, Ср: с 11:00 до 19:00, Чт: с 11:00 до 19:00, Пт: с 11:00 до 19:00, Сб: с 11:00 до 19:00, Вс: с 11:00 до 19:00 (зимний период: вт-вс 10:00-18:00; санитарный день: последний вт месяца)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.344193,
+          52.250144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7269403c-a5ed-4917-b173-d09d5ca57f9f",
+      "properties": {
+        "name": "Музей Ноосфера им. М.И. Щадова",
+        "subcategory": "Интерактивные музеи",
+        "rating": "4.8",
+        "site": "http://irkplanetarium.com, http://neboirk.com",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28987,
+          52.273766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a347f500-2a54-483c-8aca-aadc92ecb662",
+      "properties": {
+        "name": "Интерактивный музей",
+        "subcategory": "Интерактивные музеи",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.72424,
+          51.658633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d0833ebd-410b-4eb0-8b57-cd6da3c9db1b",
+      "properties": {
+        "name": "Фантаст, музей оптических иллюзий",
+        "subcategory": "Интерактивные музеи",
+        "rating": "4.9",
+        "site": "http://www.fantast.center",
+        "hours": "Ежедневно с 10:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28987,
+          52.273766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "23abb897-bf27-456d-a23a-fd142be48c25",
+      "properties": {
+        "name": "Семья сквозь века, дом-музей",
+        "subcategory": "Интерактивные музеи",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.831817,
+          52.066462
+        ]
+      }
+    }
+  ]
+}

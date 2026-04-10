@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "name": "Цирк",
+  "style": {
+    "color": "#a3a3e6",
+    "radius": 17,
+    "icon": "circus-tent-svgrepo-com.svg"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "2446d40b-3981-4192-8007-11f7429e1a92",
+      "properties": {
+        "name": "Иркутский государственный цирк",
+        "subcategory": "Цирк",
+        "rating": "3.9",
+        "site": "http://circus-irkutsk.ru",
+        "hours": "Ежедневно с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.287247,
+          52.287624
+        ]
+      }
+    }
+  ]
+}

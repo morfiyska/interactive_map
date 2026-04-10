@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "name": "Зоопарк",
+  "style": {
+    "color": "#009dff",
+    "radius": 16,
+    "icon": "pets-svgrepo-com.svg"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "d69457d0-4fd9-4767-a53b-94c644b98a90",
+      "properties": {
+        "name": "Иркутский Зоопарк",
+        "subcategory": "Зоопарк",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.299836,
+          52.294861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7523c4d8-544a-4afa-b6c7-3847bae18666",
+      "properties": {
+        "name": "Иркутский зоосад",
+        "subcategory": "Зоопарк, Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "http://irkdetzoo.ru",
+        "hours": "Ежедневно с 11:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.246088,
+          52.263262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eaa7f83c-6321-4c3f-9282-9390532ca8e7",
+      "properties": {
+        "name": "Сибирский зоопарк",
+        "subcategory": "Зоопарк",
+        "rating": "4.9",
+        "site": "http://siberian-zoo.ru, http://t.me/siberian_zoo",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.346681,
+          52.250573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9c2c7c24-cc84-4eca-aa47-58a50a613153",
+      "properties": {
+        "name": "Сибирский зоопарк",
+        "subcategory": "Зоопарк",
+        "rating": "4.9",
+        "site": "http://siberian-zoo.ru",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.824568,
+          51.894752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2950356c-46d0-4fae-9509-930f2043275e",
+      "properties": {
+        "name": "Дом природы, зоогалерея",
+        "subcategory": "Зоопарк",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.305464,
+          52.272503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f106c421-382b-4b1b-9a4a-82739adff3cc",
+      "properties": {
+        "name": "Ольхонский страус, страусиная ферма",
+        "subcategory": "Зоопарк",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00 (зимний период: пн-вс 10:00-18:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.482859,
+          52.803837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7771d032-765b-4377-b0c5-e036becc7ff2",
+      "properties": {
+        "name": "Страусиная ферма 03",
+        "subcategory": "Зоопарк",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.554534,
+          51.634396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "882e1a94-3431-459d-adb0-e95f432f441c",
+      "properties": {
+        "name": "Карликовое ранчо",
+        "subcategory": "Зоопарк",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.402383,
+          52.917561
+        ]
+      }
+    }
+  ]
+}

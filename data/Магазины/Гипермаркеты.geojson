@@ -1,0 +1,208 @@
+{
+  "type": "FeatureCollection",
+  "name": "Гипермаркеты",
+  "style": {
+    "color": "blue",
+    "radius": 6
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "9d8f52ff-8a8c-4e89-8e0a-ad6782449d70",
+      "properties": {
+        "name": "METRO, гипермаркет",
+        "subcategory": "Гипермаркеты, Доставка продуктов",
+        "rating": "4.2",
+        "site": "http://cards.metro-cc.ru/login/2GIS_Maps",
+        "hours": "Ежедневно с 07:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.136287,
+          52.360029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fd874210-7ea9-4d7f-8de6-c5769bf39b26",
+      "properties": {
+        "name": "О`КЕЙ, гипермаркет",
+        "subcategory": "Гипермаркеты",
+        "rating": "3.2",
+        "site": "http://okmarket.ru",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289155,
+          52.268898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cb2d2603-3d67-4ecb-a3c9-745c570153bd",
+      "properties": {
+        "name": "Гипер Лента, гипермаркет",
+        "subcategory": "Гипермаркеты, Доставка продуктов",
+        "rating": "3.8",
+        "site": "http://lentaapp.go.link/main",
+        "hours": "Ежедневно с 08:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.227566,
+          52.265877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2c8a20b4-5a20-4e80-8f83-dae907ec5d13",
+      "properties": {
+        "name": "Гипер Лента, гипермаркет",
+        "subcategory": "Гипермаркеты, Доставка продуктов",
+        "rating": "4.3",
+        "site": "http://lentaapp.go.link/main",
+        "hours": "Ежедневно с 08:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.293765,
+          52.292663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a17dae02-edae-4706-b62d-b111baadb917",
+      "properties": {
+        "name": "Аллея, гипермаркет",
+        "subcategory": "Гипермаркеты, Доставка продуктов",
+        "rating": "2.6",
+        "site": "http://KopilkaGo.ru",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.293715,
+          52.234029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "afee9f6c-2c71-48f8-bae7-88340c5350b0",
+      "properties": {
+        "name": "Маяк, гипермаркет",
+        "subcategory": "Гипермаркеты",
+        "rating": "4.3",
+        "site": "http://mayakgm.ru",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.262009,
+          52.24921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ef9d2861-cf9f-417a-9de5-812bec930da1",
+      "properties": {
+        "name": "Маяк, гипермаркет",
+        "subcategory": "Гипермаркеты",
+        "rating": "4.0",
+        "site": "http://mayakgm.ru",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.208925,
+          52.350221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c18bd551-be1a-489c-8412-d87231bdc0db",
+      "properties": {
+        "name": "Маяк, гипермаркет низких цен",
+        "subcategory": "Гипермаркеты",
+        "rating": "4.3",
+        "site": "http://mayakgm.ru, http://mayakgm.ru/ulan-udje/34-g-ulan-udje.html",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.626036,
+          51.810822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a3ade474-cd01-4baf-af83-b39584f83094",
+      "properties": {
+        "name": "Маяк, гипермаркет низких цен",
+        "subcategory": "Гипермаркеты",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.573899,
+          51.833293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cf009d6b-a25d-4ccf-a344-f6e6cc54894f",
+      "properties": {
+        "name": "Лидер, гипермаркет одежды и обуви",
+        "subcategory": "Гипермаркеты",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.537338,
+          51.28975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "359db23b-76bb-41e5-ae24-e146d4ce887b",
+      "properties": {
+        "name": "Гипер Лента",
+        "subcategory": "Гипермаркеты",
+        "rating": "5.0",
+        "site": "http://lenta.com",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.660608,
+          51.834565
+        ]
+      }
+    }
+  ]
+}

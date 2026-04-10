@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "name": "Мечети",
+  "style": {
+    "color": "#153737",
+    "radius": 13,
+    "icon": "religion-islamic-svgrepo-com.svg"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "3c07ecc7-35ee-4303-b997-29e16e07833b",
+      "properties": {
+        "name": "Иркутская соборная мечеть",
+        "subcategory": "Мечети",
+        "rating": "4.5",
+        "site": "http://islamsib.ru/siberian-mosques/294-irkutskaya-sobornaya-mechet",
+        "hours": "Ежедневно с 11:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.305785,
+          52.281355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c640a94c-29bc-4504-8554-95d1b208b961",
+      "properties": {
+        "name": "Мечеть",
+        "subcategory": "Информационные точки, Мечети",
+        "rating": "4.4",
+        "site": "http://muslim-03.ru",
+        "hours": "Ежедневно с 08:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.602791,
+          51.79867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f18f3056-3066-4f2a-9795-2695fa4e5ad7",
+      "properties": {
+        "name": "Мечеть",
+        "subcategory": "Информационные точки, Мечети",
+        "rating": "4.7",
+        "site": "http://muslim-03.ru",
+        "hours": "Ежедневно с 08:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.602791,
+          51.79867
+        ]
+      }
+    }
+  ]
+}

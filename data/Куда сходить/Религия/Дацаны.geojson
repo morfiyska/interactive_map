@@ -1,0 +1,1073 @@
+{
+  "type": "FeatureCollection",
+  "name": "Дацаны",
+  "style": {
+    "color": "#1e1e80",
+    "radius": 17,
+    "icon": "religious-buddhist-svgrepo-com.svg"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "364ded13-126e-4831-84e5-d818ce345b45",
+      "properties": {
+        "name": "Гунга чойлин, дацан",
+        "subcategory": "Дацаны",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.120437,
+          52.361411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c93ba208-0673-4272-a59c-c84b05d8636a",
+      "properties": {
+        "name": "Иркутская община Буддийской традиционной Сангхи России",
+        "subcategory": "Дацаны",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.344134,
+          52.290599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3614ef8d-edc2-42de-8272-71153b7a91e0",
+      "properties": {
+        "name": "Гандан-Жамба-Лин, дацан",
+        "subcategory": "Дацаны",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 08:30 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.596221,
+          51.814635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a56f7baa-c05b-4429-b161-9094fa71f3d9",
+      "properties": {
+        "name": "Зунгон Даржалинг, дацан",
+        "subcategory": "Дацаны",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 17:00, Вт: с 09:00 до 15:00, Ср: с 09:00 до 17:00, Чт: с 09:00 до 15:00, Пт: с 09:00 до 17:00, Сб: с 09:00 до 16:00, Вс: с 09:00 до 16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.646574,
+          51.81935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7d440c76-a635-49ae-9d4b-e368ee5e86ad",
+      "properties": {
+        "name": "Ламсан, дуган",
+        "subcategory": "Дацаны",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 08:30 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.584008,
+          51.825011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e94de050-9dac-48dd-a012-5f1fc5494cd5",
+      "properties": {
+        "name": "Ринпоче Багша, дацан",
+        "subcategory": "Дацаны",
+        "rating": "4.9",
+        "site": "http://datsan-rinpoche-bagsha.ru, http://t.me/rinpochebagsha",
+        "hours": "Ежедневно с 09:00 до 17:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.594114,
+          51.865367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8714994a-ff4c-4514-98b7-4928795e78a4",
+      "properties": {
+        "name": "Арья-Дари, дацан",
+        "subcategory": "Дацаны",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 16:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.505744,
+          51.833861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37518ef7-168c-420e-965c-0f8a1cf29aef",
+      "properties": {
+        "name": "Диважин Дуган, дацан",
+        "subcategory": "Дацаны",
+        "rating": "4.8",
+        "site": "http://t.me/divazhindugan",
+        "hours": "Ежедневно с 09:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.648151,
+          51.85429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b33208aa-4ff5-43ef-97c5-adbecb0fed7f",
+      "properties": {
+        "name": "Гандан, дацан",
+        "subcategory": "Дацаны",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.652045,
+          51.842182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d75a7847-b7c4-48bd-ae15-7eaff6d557c0",
+      "properties": {
+        "name": "Дхарма, дацан",
+        "subcategory": "Дацаны",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.650567,
+          51.811163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a027e05d-6cbe-48e6-9252-a4030a070d57",
+      "properties": {
+        "name": "Шакьямуни Зандан Жуу, Мамба-дацан",
+        "subcategory": "Дацаны",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.688192,
+          51.850515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e985136a-570a-4187-9838-204fe0ba1a0d",
+      "properties": {
+        "name": "Замбала, дуган",
+        "subcategory": "Дацаны",
+        "rating": "4.7",
+        "site": "http://t.me/zambala2020",
+        "hours": "Ежедневно с 09:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.639331,
+          51.818606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c5737b41-037f-4a5e-9046-dee272b9b6f1",
+      "properties": {
+        "name": "Дуган, Буддийская традиционная Сангха России",
+        "subcategory": "Дацаны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 19:00, Вт: с 09:00 до 19:00, Ср: с 09:00 до 19:00, Чт: с 09:00 до 19:00, Пт: с 09:00 до 19:00, Сб: с 09:00 до 15:00, Вс: с 09:00 до 15:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.615912,
+          51.848031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eebec020-1e37-4cff-a120-924c9d7caaec",
+      "properties": {
+        "name": "Ламрим, буддийский комплекс",
+        "subcategory": "Дацаны",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.601013,
+          51.793957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2816c516-f191-44bd-bb9f-3b49e961cf03",
+      "properties": {
+        "name": "Дуган, Буддийская традиционная Сангха России",
+        "subcategory": "Дацаны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:30 до 12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.468104,
+          51.780565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "00b451f0-2293-4577-b734-1513e8f2bd5c",
+      "properties": {
+        "name": "Мамба-дацан",
+        "subcategory": "Дацаны, Религиозные товары",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: с 10:00 до 13:00, Ср: с 10:00 до 13:00, Чт: с 10:00 до 13:00, Пт: с 10:00 до 13:00, Сб: с 10:00 до 13:00, Вс: с 10:00 до 13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.716389,
+          51.862921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9a7e80fb-5b20-4882-a340-6c48da1e71a9",
+      "properties": {
+        "name": "Ананда, буддийский дуган",
+        "subcategory": "Дацаны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 09:30 до 15:00 (летний период: пн-вс 9:00-15:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.529373,
+          51.805658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a36ccde3-4da4-4199-805e-da46be8870c0",
+      "properties": {
+        "name": "Чагцал, буддийский дуган",
+        "subcategory": "Дацаны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.436052,
+          51.790196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6b627540-6dc3-4a64-b31c-be7e4409d7c3",
+      "properties": {
+        "name": "Даша Самдэнлин, дуган",
+        "subcategory": "Дацаны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.508945,
+          51.832677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2b48cf70-b941-4c93-9bf5-9a9e60b11e5d",
+      "properties": {
+        "name": "Даша Самдэнлин, дуган",
+        "subcategory": "Дацаны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.531398,
+          51.842563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0573da4b-21a2-48e2-9edf-7305772c211a",
+      "properties": {
+        "name": "Джуд-Ши, мамба-дацан",
+        "subcategory": "Дацаны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 07:00 до 18:00, Вт: с 07:00 до 18:00, Ср: с 07:00 до 18:00, Чт: с 07:00 до 18:00, Пт: с 07:00 до 18:00, Сб: с 08:00 до 16:00, Вс: с 08:00 до 16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.602164,
+          51.774335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2b3e97e-640a-49f4-9ebc-5eb5e366d79e",
+      "properties": {
+        "name": "Гандан Геже Даши Чойнхорлин, Иволгинский дацан",
+        "subcategory": "Дацаны",
+        "rating": "4.9",
+        "site": "http://ivolgdatsan.ru, http://sangharussia.ru, http://sangharussia.ru/datsans/ivolginskij-datsan-gandan-gezhe-dashi-chojnkhorlin",
+        "hours": "Ежедневно с 09:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.203058,
+          51.759445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "73d5bc66-50c4-4053-b613-cc1c1b6ed189",
+      "properties": {
+        "name": "Анхны Цогчен дуган, буддийский храм",
+        "subcategory": "Дацаны",
+        "rating": "4.9",
+        "site": "http://ivolgdatsan.ru/about/hurals/old-sogchen-dugan, http://sangharussia.ru/dugans/ankhny-tsogchen-dugan-ivolginskogo-datsana, http://t.me/sogcen03",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.203282,
+          51.758342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "91ada4fb-afb8-4de4-a384-ef8a2ba6cae0",
+      "properties": {
+        "name": "Ногоон Дара Эхын, дуган",
+        "subcategory": "Дацаны",
+        "rating": "5.0",
+        "site": "http://ivolgdatsan.ru/about/hurals/green-tara-dugan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.204281,
+          51.758229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "55a8b211-824d-44c2-9fc0-7da8b4c6ed36",
+      "properties": {
+        "name": "Дворец Хамбо Ламы Итигэлова",
+        "subcategory": "Дацаны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 09:30 до 12:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.202492,
+          51.758968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8af310cc-cee4-46e0-b8a9-554bb64b35f4",
+      "properties": {
+        "name": "Сахюусан Сумээ, дуган",
+        "subcategory": "Дацаны",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.203907,
+          51.758198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ac5f0451-c863-4a75-9cf8-3606e41c1d63",
+      "properties": {
+        "name": "Жуд дуган",
+        "subcategory": "Дацаны",
+        "rating": "nan",
+        "site": "http://ivolgdatsan.ru/about/hurals/zud-dugan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.202582,
+          51.757916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9bcc4232-7d76-4900-aa9f-6de11cd47374",
+      "properties": {
+        "name": "Деважин, дуган",
+        "subcategory": "Дацаны",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.203241,
+          51.758942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "38c40098-c4c9-48f7-93e7-9e3deadf820b",
+      "properties": {
+        "name": "Дворец богини Янжимы, Баргузинский дацан",
+        "subcategory": "Дацаны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 17:00 (летний период: пн-вс 9:00-18:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.996254,
+          53.94261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7822ce6b-7eb3-4a1b-8ef3-0416a4115d53",
+      "properties": {
+        "name": "Буддийский дуган, г. Гусиноозерск",
+        "subcategory": "Дацаны",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.533361,
+          51.282829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5cbf7986-2e60-4d84-96e1-903c1c3fac03",
+      "properties": {
+        "name": "Гедан Чойхорлинг, буддийский дацан",
+        "subcategory": "Дацаны",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: с 09:00 до 18:00, Ср: с 09:00 до 18:00, Чт: с 09:00 до 18:00, Пт: с 09:00 до 18:00, Сб: с 09:00 до 18:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59779,
+          51.813113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d25f7ffe-106d-48ca-8b40-27e41ecb51bc",
+      "properties": {
+        "name": "Гуру Падмасамбхава, дацан",
+        "subcategory": "Дацаны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 15:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.799453,
+          51.900553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2ef7e133-3328-414d-b009-05fc51fef158",
+      "properties": {
+        "name": "Чойра Тойсам Шаддублин, дуган",
+        "subcategory": "Дацаны",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.203869,
+          51.759392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f0e08ada-7277-4b7a-bc63-0ffc3e51b596",
+      "properties": {
+        "name": "Маани дуган",
+        "subcategory": "Дацаны",
+        "rating": "5.0",
+        "site": "http://ivolgdatsan.ru/about/hurals/maani-dugan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.204836,
+          51.758328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "644a9903-57cc-401c-a5f0-4c88ee84e9b3",
+      "properties": {
+        "name": "Даши Даржалин, дуган",
+        "subcategory": "Дацаны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.586366,
+          51.832197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d0723ef3-bde8-4779-96ab-7d6a188a14fd",
+      "properties": {
+        "name": "Дамбадаржалин, байкальский дацан",
+        "subcategory": "Дацаны",
+        "rating": "5.0",
+        "site": "http://t.me/baikal_datsan",
+        "hours": "Ежедневно с 09:00 до 18:00 (по предварительной записи: пн-вс)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.870841,
+          52.366328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d0651445-2c73-45de-8d06-94c9e6313433",
+      "properties": {
+        "name": "Дуйнхор, дуган",
+        "subcategory": "Дацаны",
+        "rating": "5.0",
+        "site": "http://sangharussia.ru/datsans/dujnkhor-datsan, http://t.me/duinhor_datsan",
+        "hours": "Ежедневно с 09:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.648067,
+          51.854275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "688c63f2-6056-41c2-adad-c441fa706069",
+      "properties": {
+        "name": "Байкальский медитационный центр",
+        "subcategory": "Дацаны",
+        "rating": "5.0",
+        "site": "http://www.geshe.ru",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.152045,
+          52.559781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2058ed8d-2d0c-4dc8-bc9c-b7132657ba3e",
+      "properties": {
+        "name": "Дэчен Рабжалинг, Загустайский дацан",
+        "subcategory": "Дацаны",
+        "rating": "5.0",
+        "site": "http://sangharussia.ru/datsans/zagustajskij-datsan-dechen-rabzhaling",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.599699,
+          51.316164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "227127f1-17f9-45cf-94ab-d21f61d6fe13",
+      "properties": {
+        "name": "Дворец Будды Ваджрадхары, Янгажинский дацан",
+        "subcategory": "Дацаны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.099792,
+          51.565521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "49c65a98-e759-41de-81f8-80cdde76394b",
+      "properties": {
+        "name": "Тугнуйский Дацан",
+        "subcategory": "Дацаны",
+        "rating": "5.0",
+        "site": "http://sangharussia.ru/datsans/tugnujskij-datsan-dashi-chojnkhorling",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.655969,
+          51.259561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fd1265cb-013d-48fa-95f7-be489be360e6",
+      "properties": {
+        "name": "Согчен Дуган, дацан",
+        "subcategory": "Дацаны",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.64832,
+          51.853294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ea4365a4-7611-4c88-a014-966a575c8796",
+      "properties": {
+        "name": "Кабинет ламы-астролога",
+        "subcategory": "Дацаны",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 18:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.596491,
+          51.838608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "95da7e4c-9661-42b1-8403-b2df1b8da555",
+      "properties": {
+        "name": "Дуйнхор Дуган",
+        "subcategory": "Дацаны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.646994,
+          51.854094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "badaccd7-f59a-4682-a830-6f37ae4b87da",
+      "properties": {
+        "name": "Манджушри Дуган, буддийский центр",
+        "subcategory": "Дацаны",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.586824,
+          51.830191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "964820b5-6ff2-4140-8d07-ff5ee278fba8",
+      "properties": {
+        "name": "Хамбын Хурээ, Иволгинский дацан",
+        "subcategory": "Дацаны",
+        "rating": "5.0",
+        "site": "http://ivolgdatsan.ru",
+        "hours": "Ежедневно с 09:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.203389,
+          51.758335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e9828e9a-ac49-44bc-b62d-e92850803701",
+      "properties": {
+        "name": "Цагаалха Цогчен дуган",
+        "subcategory": "Дацаны",
+        "rating": "5.0",
+        "site": "http://ivolgdatsan.ru/about/hurals/sogchen-dugan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.204232,
+          51.757322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "78de3003-0c22-4fae-b71a-6fdc73dd2cd3",
+      "properties": {
+        "name": "Будда медицины",
+        "subcategory": "Дацаны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.600833,
+          51.7741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7d4dd638-3c86-4016-9dc5-867b6deb0f92",
+      "properties": {
+        "name": "Даши Даржалин, буддийский центр",
+        "subcategory": "Дацаны",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.585674,
+          51.828551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8cab4fa6-981e-4ac3-a7ec-b2fe4a029e16",
+      "properties": {
+        "name": "Гандан ше Дувлин, Курумканский дацан",
+        "subcategory": "Дацаны",
+        "rating": "3.5",
+        "site": "http://invite.viber.com/",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.333292,
+          54.35208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b710dc05-2c6b-451d-929f-234dfd468626",
+      "properties": {
+        "name": "Аргадинский дацан",
+        "subcategory": "Дацаны",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.671515,
+          54.238939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cfbaf9fe-da24-44ea-ad25-38bddaf8fede",
+      "properties": {
+        "name": "Кабинет ламы-астролога",
+        "subcategory": "Дацаны",
+        "rating": "3.4",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 19:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.623233,
+          51.81157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "684d1f5d-9806-4a0c-b5eb-dcbaba770771",
+      "properties": {
+        "name": "Ацагатский дацан",
+        "subcategory": "Дацаны",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.271983,
+          52.005753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8a940ae6-56c2-424c-b22a-e93fd40c4fcc",
+      "properties": {
+        "name": "Гате, чод-центр",
+        "subcategory": "Дацаны",
+        "rating": "4.7",
+        "site": "http://t.me/chodparu",
+        "hours": "Пн: с 11:00 до 20:00, Вт: с 11:00 до 20:00, Ср: с 11:00 до 20:00, Чт: с 11:00 до 20:00, Пт: выходной, Сб: с 11:00 до 20:00, Вс: с 11:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.582521,
+          51.823042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2a0cd2a3-5da5-454f-b01b-6580b0541b73",
+      "properties": {
+        "name": "Дэчен Рабжалинг, Загустайский дацан",
+        "subcategory": "Дацаны",
+        "rating": "nan",
+        "site": "http://sangharussia.ru/datsans/zagustajskij-datsan-dechen-rabzhaling",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.600025,
+          51.315853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27f4aa4e-a96a-4d4c-8a41-cec4b6b64317",
+      "properties": {
+        "name": "Майдарин, дуган",
+        "subcategory": "Дацаны",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.202932,
+          51.758021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a3743c22-75e8-4b93-b86e-fba1d4494e30",
+      "properties": {
+        "name": "Луйжен, дуган",
+        "subcategory": "Дацаны",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.640271,
+          51.846697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "77386c19-5059-472e-b7a3-9b0150517b0f",
+      "properties": {
+        "name": "Сваямбху Субурга, буддийско-паломнический комплекс",
+        "subcategory": "Дацаны",
+        "rating": "nan",
+        "site": "http://t.me/tickhurde",
+        "hours": "Ежедневно с 09:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.174579,
+          51.755009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "23f88ce0-ff24-4e73-af07-25df5c2baf1b",
+      "properties": {
+        "name": "Дэчен Рабжалинг, Загустайский дацан",
+        "subcategory": "Дацаны, Информационные точки",
+        "rating": "nan",
+        "site": "http://sangharussia.ru/datsans/zagustajskij-datsan-dechen-rabzhaling",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.600025,
+          51.315853
+        ]
+      }
+    }
+  ]
+}

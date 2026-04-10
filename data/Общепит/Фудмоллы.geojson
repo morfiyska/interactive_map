@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "name": "Фудмоллы",
+  "style": {
+    "color": "blue",
+    "radius": 6
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "9f7d93d0-82e6-40c5-a6d0-3eca9032b853",
+      "properties": {
+        "name": "Eat market, фуд-холл",
+        "subcategory": "Аренда площадок для культурно-массовых мероприятий, Доставка еды, Фудмоллы",
+        "rating": "4.1",
+        "site": "http://eatmarket.ru/foodhall/irkutsk",
+        "hours": "Пн: с 10:00 до 22:00, Вт: с 10:00 до 22:00, Ср: с 10:00 до 22:00, Чт: с 10:00 до 22:00, Пт: с 10:00 до 23:00, Сб: с 10:00 до 23:00, Вс: с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.302382,
+          52.279669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d597bf40-406d-4db0-b7a1-fb0b688157f9",
+      "properties": {
+        "name": "Рынок на Трилиссера",
+        "subcategory": "Рынки, Фудмоллы",
+        "rating": "4.5",
+        "site": "http://t.me/rinok_na_trilissera",
+        "hours": "Пн: с 08:00 до 23:00, Вт: с 08:00 до 23:00, Ср: с 08:00 до 23:00, Чт: с 08:00 до 23:00, Пт: с 08:00 до 23:00, Сб: с 09:00 до 23:00, Вс: с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.304847,
+          52.271872
+        ]
+      }
+    }
+  ]
+}

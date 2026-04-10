@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "name": "Акватеррариум",
+  "style": {
+    "color": "#2cce47",
+    "radius": 20,
+    "icon": "seaweed-svgrepo-com.svg"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "47379be4-6e07-44b4-8a03-ec3e9da7d7ab",
+      "properties": {
+        "name": "Мир за стеклом, выставка аквариумных и террариумных обитателей",
+        "subcategory": "Акватеррариум",
+        "rating": "4.9",
+        "site": "http://mirzasteklom.2gis.biz/, http://t.me/irkakvarium",
+        "hours": "Ежедневно с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.224377,
+          52.265968
+        ]
+      }
+    }
+  ]
+}

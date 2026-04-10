@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "name": "Хаски-центры",
+  "style": {
+    "color": "#009dff",
+    "radius": 20,
+    "icon": "pets-svgrepo-com.svg"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "37f9b6fd-26a7-4c6f-8555-d2c1fc87afe0",
+      "properties": {
+        "name": "Байкальский центр ездового спорта",
+        "subcategory": "Конные клубы, Организация активных туров, Хаски-центры",
+        "rating": "4.9",
+        "site": "http://baikal-usadba.ru",
+        "hours": "Ежедневно с 11:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.868809,
+          51.868748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f58515df-aa7c-440b-8568-c477be303ce8",
+      "properties": {
+        "name": "Компания по катанию на собачьих упряжках",
+        "subcategory": "Хаски-центры",
+        "rating": "5.0",
+        "site": "http://baikaldog.ru",
+        "hours": "Ежедневно с 10:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.330457,
+          52.296387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bfd8faa2-0926-49f5-825f-dcfc3f323090",
+      "properties": {
+        "name": "Хаски парк, компания по организации фотосессий и катаний на упряжке",
+        "subcategory": "Организация активных туров, Фотосъёмка, Хаски-центры",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.707154,
+          51.810365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4601ac5d-2b33-4595-ab09-60a60297c410",
+      "properties": {
+        "name": "Турка, хаски-парк",
+        "subcategory": "Клубы домашних животных / Питомники, Хаски-центры",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 17:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.22644,
+          52.957776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e05d5fab-c4b6-4a77-a74e-694556a90069",
+      "properties": {
+        "name": "Хаски-центр",
+        "subcategory": "Хаски-центры",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 18:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.226368,
+          52.958276
+        ]
+      }
+    }
+  ]
+}

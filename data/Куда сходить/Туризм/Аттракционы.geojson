@@ -1,0 +1,4474 @@
+{
+  "type": "FeatureCollection",
+  "name": "Аттракционы",
+  "style": {
+    "color": "blue",
+    "radius": 6
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "1610a5b7-2a29-4fdc-be9c-b447a2d73cf3",
+      "properties": {
+        "name": "Юность, канатный парк",
+        "subcategory": "Аттракционы, Верёвочные парки",
+        "rating": "4.8",
+        "site": "http://www.kanatpark.ru",
+        "hours": "Пн: с 12:00 до 20:30, Вт: с 12:00 до 20:30, Ср: с 12:00 до 20:30, Чт: с 12:00 до 20:30, Пт: с 12:00 до 20:30, Сб: с 11:00 до 20:30, Вс: с 11:00 до 20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.277361,
+          52.271437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3eff6325-cad8-4fdb-8ef5-6f260dbdccc8",
+      "properties": {
+        "name": "Высоцкий, веревочный парк",
+        "subcategory": "Аттракционы, Верёвочные парки, Квесты, Организация праздников, Организация спортивных мероприятий",
+        "rating": "4.9",
+        "site": "http://t.me/visotsky38",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.280921,
+          52.250884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31e920b6-34ae-43d3-9c96-117e38b6d13b",
+      "properties": {
+        "name": "Тюбгора",
+        "subcategory": "Аттракционы, Верёвочные парки",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.206767,
+          52.33559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e779f240-ef57-4d47-8751-3390f9171a62",
+      "properties": {
+        "name": "Кругозор, колесо обозрения",
+        "subcategory": "Аттракционы",
+        "rating": "4.9",
+        "site": "http://koleso-krugozor.ru",
+        "hours": "Ежедневно с 12:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.278011,
+          52.269343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "881c3bd7-0400-4169-bfa4-f6d15446fb55",
+      "properties": {
+        "name": "Топкинский Вираж, семейная зона отдыха",
+        "subcategory": "Аренда беседок, Аттракционы, Тюбинговые трассы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.315096,
+          52.325871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4ad3b38e-877a-4eec-be6f-42b0aa0332ae",
+      "properties": {
+        "name": "Путь Тарзана, зиплайн-парк",
+        "subcategory": "Аттракционы",
+        "rating": "3.6",
+        "site": "http://tarzanway.ru/",
+        "hours": "Ежедневно с 12:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.840753,
+          51.879012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "03d6d0fa-e660-49b3-a135-074b5e506e6b",
+      "properties": {
+        "name": "Батут",
+        "subcategory": "Аттракционы",
+        "rating": "2.4",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28011,
+          52.251023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fb255689-25ab-4c44-9b6a-92d60b0e095d",
+      "properties": {
+        "name": "Якоби, аквапарк",
+        "subcategory": "Аттракционы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.316253,
+          52.230345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f91e2c6b-5987-4fde-b4a9-4b7545e4e2a3",
+      "properties": {
+        "name": "Хрустальная Сказка",
+        "subcategory": "Аттракционы",
+        "rating": "3.1",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.345585,
+          52.250987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cb9f8ba0-4888-4369-84a3-6dd0c7b2fd4d",
+      "properties": {
+        "name": "Класс! Парк, детский развлекательный центр",
+        "subcategory": "Аренда детских лофтов, Аттракционы, Батутные центры, Детские игровые залы, Организация праздников, Скалодромы",
+        "rating": "4.6",
+        "site": "http://class-park.ru/irkutsk-sergeeva-gis, http://xn-----jlcbdcfsbua1aek3aisrs1ovc.xn--p1ai/irkutsk-sergeeva-gis-kp",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.224386,
+          52.26592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9bf93c0f-10f7-4ae4-afb8-7fe9e44baaaa",
+      "properties": {
+        "name": "Класс! Парк, детский развлекательный центр",
+        "subcategory": "Аттракционы, Батутные центры, Детские игровые залы, Организация праздников, Скалодромы",
+        "rating": "4.7",
+        "site": "http://class-park.ru/irkutsk-mtc-novyj-gis, http://xn-----jlcbdcfsbua1aek3aisrs1ovc.xn--p1ai/irkutsk-mtc-novyj-gis-kp",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.305379,
+          52.275291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "057a34f4-2d15-4794-a509-12b3cd5b6d29",
+      "properties": {
+        "name": "Spark, парк ностальгии и развлечений",
+        "subcategory": "Аттракционы, Бильярдные залы, Детские развлекательные автоматы, Клубы видеоигр, Клубы настольных игр, Компьютерные клубы, Организация праздников, Спортивно-тактические клубы",
+        "rating": "4.9",
+        "site": "http://super-park.ru/irkutsk-sergeeva-gis",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.224386,
+          52.26592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ec229a78-9a2d-40c3-bdcb-94cfa5e3f1fd",
+      "properties": {
+        "name": "Остров Малый Конный, прокат электроавтомобилей для детей",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.278733,
+          52.268407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d15939fa-3927-40bb-9ea9-d93c16ff0e4c",
+      "properties": {
+        "name": "Мир развлечений, батут",
+        "subcategory": "Аттракционы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.280383,
+          52.268654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ada57791-6f2c-4ef3-bd23-c90cdf18a84b",
+      "properties": {
+        "name": "Остров Малый Конный, прокат электроавтомобилей для детей",
+        "subcategory": "Аттракционы",
+        "rating": "1.7",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.27724,
+          52.268783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "70e5d844-0cc5-483c-b84e-a0d631b2fa4b",
+      "properties": {
+        "name": "Остров Малый Конный, карусель",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.277117,
+          52.268953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bb373e75-8c51-4368-a0aa-6fcaabc03428",
+      "properties": {
+        "name": "Пиксель Арена",
+        "subcategory": "Аттракционы",
+        "rating": "4.9",
+        "site": "http://pixelarena.ru",
+        "hours": "Ежедневно с 10:00 до 21:50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.305523,
+          52.275512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4dee3d37-2d8f-48c6-b59f-61ad36c47d0e",
+      "properties": {
+        "name": "Якоби, батут",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00 (рабочие месяцы: май-сентябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.316221,
+          52.22986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ee5352f9-e277-4d8c-a5a5-e4c01164869e",
+      "properties": {
+        "name": "Остров Малый Конный, батут",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.278647,
+          52.26841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "33a24d86-0804-43b7-b0ae-3b2f40fb3d60",
+      "properties": {
+        "name": "Око Байкала, интерактивный музей",
+        "subcategory": "Аттракционы",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.878553,
+          51.843117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5a48c694-38fb-4461-8761-7acd0ff86a93",
+      "properties": {
+        "name": "Око Байкала, аттракцион виртуальной реальности",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "http://parkbaikala.ru/",
+        "hours": "Пн: с 11:00 до 20:00, Вт: с 11:00 до 20:00, Ср: с 11:00 до 20:00, Чт: с 11:00 до 20:00, Пт: с 11:00 до 20:00, Сб: с 10:00 до 22:00, Вс: с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.877929,
+          51.843216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "134ed0c2-bde6-493a-8ab3-ed1cefc0deeb",
+      "properties": {
+        "name": "Око Байкала, пункт проката детских автомобилей",
+        "subcategory": "Аттракционы",
+        "rating": "1.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.878516,
+          51.843236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "07aceded-6682-44da-af60-4bfd6645ff9e",
+      "properties": {
+        "name": "Пират, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 11:00 до 20:00, Вт: с 11:00 до 20:00, Ср: с 11:00 до 20:00, Чт: с 11:00 до 20:00, Пт: с 11:00 до 20:00, Сб: с 10:00 до 22:00, Вс: с 10:00 до 22:00 (нерабочие месяцы: сентябрь-май)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.87769,
+          51.843279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "04c77ef3-a982-4134-8e58-e626618059ad",
+      "properties": {
+        "name": "Весёлое путешествие, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.878791,
+          51.843107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e8dc7cd5-5fb0-4916-b112-cab79d0aa0c1",
+      "properties": {
+        "name": "Чёрная бездна, оптический иллюзион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.878674,
+          51.843042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "07dec6a6-6c69-47b1-aaca-fbf50e17e125",
+      "properties": {
+        "name": "Батут",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00 (рабочие месяцы: май-сентябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.344742,
+          52.250199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1ed01c4e-662d-4a42-80fa-a5109cc0013c",
+      "properties": {
+        "name": "Остров Малый Конный, цепочная карусель",
+        "subcategory": "Аттракционы",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.279091,
+          52.268393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9cfad830-6726-4c30-b208-6ed9c45eb23a",
+      "properties": {
+        "name": "Миньоны, батут",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290517,
+          52.272733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0781010a-abf2-45f1-a212-17f9aed7f38b",
+      "properties": {
+        "name": "VR dynamic cinema, аттракцион виртуальной реальности",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.225972,
+          52.265838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e9a05526-d6ee-4af3-91aa-ad8e2f8ccdf3",
+      "properties": {
+        "name": "Остров Малый Конный, батут",
+        "subcategory": "Аттракционы",
+        "rating": "1.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.277041,
+          52.26904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c3c44a65-e93d-4a54-83b3-47267c2ebaef",
+      "properties": {
+        "name": "Картинг",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.080863,
+          52.21183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3a856cba-2f8e-4c42-b915-2897e23373e4",
+      "properties": {
+        "name": "Танковые Сражения",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "http://tanki-battles.ru/",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.304996,
+          52.276121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "55537f40-f1ab-48d0-9cd1-72b2bbe564db",
+      "properties": {
+        "name": "Пиксель Квест, игровая комната",
+        "subcategory": "Аттракционы, Организация праздников",
+        "rating": "5.0",
+        "site": "http://irk.pixelquest.ru/",
+        "hours": "Ежедневно с 10:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.302697,
+          52.289788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "57482f21-4e5b-4179-9a57-fb248d461f49",
+      "properties": {
+        "name": "Прокат прогулочных электромобилей, Аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289763,
+          52.295096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3023344d-8142-408a-a646-10aa7af7fc65",
+      "properties": {
+        "name": "Руссико, парк аттракционов",
+        "subcategory": "Аттракционы",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.277668,
+          52.268765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c8c60797-cf31-49f5-96a6-2a626d3e0934",
+      "properties": {
+        "name": "Руссико, парк аттракционов",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289381,
+          52.294806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dda6e6fa-913e-4e35-958d-f6df17c57af4",
+      "properties": {
+        "name": "Миньоны, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290001,
+          52.294864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7d2f2794-e0f5-4688-9d2f-e995f4c8f9b1",
+      "properties": {
+        "name": "Батут, Аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289858,
+          52.295001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4911cdda-e225-4eb2-980b-421d103f737c",
+      "properties": {
+        "name": "Остров Малый Конный, батут",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.275404,
+          52.272451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8c0011bf-6f9c-40f3-b1e7-265d471896bc",
+      "properties": {
+        "name": "Аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289917,
+          52.294992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aef3d863-d49e-4947-8ff5-d910fa45df41",
+      "properties": {
+        "name": "VR 360, Аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.277742,
+          52.268652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c27c0a65-1341-43ee-932e-ecf6b9f39cdc",
+      "properties": {
+        "name": "VR Капсула, Аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.277742,
+          52.268652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b8603830-815f-4d9b-bc32-398883824641",
+      "properties": {
+        "name": "Молния Маквин, Аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.277668,
+          52.268765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1c94c542-0fd6-4552-954d-cc3bd42dddbc",
+      "properties": {
+        "name": "Топ-Спин Робот, Аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.277668,
+          52.268765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4b147678-c603-498f-b890-e3d8a98e1036",
+      "properties": {
+        "name": "Остров Малый Конный, батут-сетка",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.278624,
+          52.268338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5049e460-d919-4ee7-b96d-c2ce69269e9d",
+      "properties": {
+        "name": "Остров Малый Конный, детская игровая зона",
+        "subcategory": "Аттракционы",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.278624,
+          52.268266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "66765c8a-17ac-4fbe-a6f7-56b8032c52e1",
+      "properties": {
+        "name": "Остров Малый Конный, карусель автогонки",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.277173,
+          52.268887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "79ece62e-e46b-4e49-b300-28f51f82596b",
+      "properties": {
+        "name": "Остров Малый Конный, прокат электроавтомобилей для детей",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.275404,
+          52.272451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a7100c3f-3714-486d-bd3e-8c577f1cd11e",
+      "properties": {
+        "name": "Остров Малый Конный, прокат электроавтомобилей для детей",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.27727,
+          52.26951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "da548f8a-a81c-4a0d-beeb-aadf5700dfd1",
+      "properties": {
+        "name": "Ветерок, карусель",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290008,
+          52.294911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "58ba161a-8f54-43ff-8f7e-2b509f2b9432",
+      "properties": {
+        "name": "ТюбингКросс, карусель",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.843001,
+          51.872255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b1c42d2f-3173-496d-918d-ab228bc04a6d",
+      "properties": {
+        "name": "Веселые пони, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00 (касс: пн-пт 10:00-21:50)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.877775,
+          51.843176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "197a67f8-8947-4b09-bd8f-cef1a8e65fe3",
+      "properties": {
+        "name": "Бабочки, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00 (касса: пн-вс10:00-21:50)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.877933,
+          51.843142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "86f7bb61-0b47-4f2f-9668-c4f88e0a8c06",
+      "properties": {
+        "name": "Око Байкала, парк аттракционов",
+        "subcategory": "Аттракционы",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.878213,
+          51.843122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "91cce069-43bf-4a0c-9e83-8aa1b036cb26",
+      "properties": {
+        "name": "Крабики, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "1.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.878616,
+          51.843091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e948e300-467e-4da8-854a-e49e2ccecf84",
+      "properties": {
+        "name": "Океанский парк, батут",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.730584,
+          51.658838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "76ad5fd7-3688-4de6-98c1-627cb1d72849",
+      "properties": {
+        "name": "Счастье, колесо обозрения",
+        "subcategory": "Аттракционы",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.343617,
+          53.19957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "74202911-c32b-4c5a-bbda-ee5d3e17e5b5",
+      "properties": {
+        "name": "Око Байкала, колесо обозрения",
+        "subcategory": "Аттракционы",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.878225,
+          51.843056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12b890fa-a28e-46bb-9c61-cb4bd348a189",
+      "properties": {
+        "name": "Человек паук, надувной батут",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2892,
+          52.29475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fcac114a-6f59-45de-b150-3b6af3335fdc",
+      "properties": {
+        "name": "VR-капсула, Аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289935,
+          52.294955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fe90ebb8-e83e-437b-a293-44f0cff48189",
+      "properties": {
+        "name": "Игровая комната, Аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289274,
+          52.294769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e7e3cac4-9a97-4399-a2ed-605a31cc52ab",
+      "properties": {
+        "name": "Парк развлечений, батут",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.083645,
+          52.211876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0c400fb9-ad0e-4b14-b3c6-c2a1c488aa97",
+      "properties": {
+        "name": "За родину, тир",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.284589,
+          52.293307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "08a799f9-9582-4a7c-81c7-c8a0bee43798",
+      "properties": {
+        "name": "Telephone, автомат с игрушками",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.237434,
+          52.284828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c52beb57-e2a7-46ce-a7fa-f68f1a0ba11e",
+      "properties": {
+        "name": "Telephone, автомат с игрушками",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2511,
+          52.284679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "472a3f36-fb9e-4d0d-9edf-1b8ef3cf46c7",
+      "properties": {
+        "name": "Аттракционы Русские качели",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.664916,
+          51.995213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4934315a-b59d-4476-8095-25ff04b1fdcb",
+      "properties": {
+        "name": "Батутный комплекс Добрая Сказка",
+        "subcategory": "Аттракционы",
+        "rating": "3.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.309077,
+          52.256013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "95c2b944-31de-4216-86b1-5908374e1bc7",
+      "properties": {
+        "name": "Око Байкала, колесо обозрения",
+        "subcategory": "Аттракционы",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.878225,
+          51.843056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "71255e38-b826-49ae-8084-c7897d603439",
+      "properties": {
+        "name": "Аттракционы Русские качели",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.665163,
+          51.994764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9004d732-462e-4b2e-9bf0-e6b0784b7dfe",
+      "properties": {
+        "name": "Аттракционы Русские качели",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.668674,
+          51.998496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4dc196d0-3d88-49c0-a3fe-a7fb75494da0",
+      "properties": {
+        "name": "Грин парк, парк аттракционов",
+        "subcategory": "Аттракционы",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь; детские аттракционы: пн-вс 11:00-21:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663841,
+          51.813283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6b5233a5-3e13-4959-a798-ee2e1b629ef1",
+      "properties": {
+        "name": "Вагончики",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607579,
+          51.843573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6ae102d6-8abe-4272-bb67-59104bac4e3d",
+      "properties": {
+        "name": "Зеркальный лабиринт, комната развлечений",
+        "subcategory": "Аттракционы",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.659853,
+          51.833791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27afd8a3-1f1f-4ea7-a22e-b1b18c5c45fd",
+      "properties": {
+        "name": "Невидалия, семейный парк развлечений",
+        "subcategory": "Аттракционы, Батутные центры, Детские игровые залы, Организация праздников",
+        "rating": "4.6",
+        "site": "http://park-nevidaliya.ru/ulan-ude",
+        "hours": "Ежедневно с 11:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.624256,
+          51.809789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4d643407-6b87-435e-80e6-199a7eb67255",
+      "properties": {
+        "name": "Диво Lion, парк аттракционов",
+        "subcategory": "Аттракционы",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608804,
+          51.843166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "417c7a01-2b33-4e3b-8c56-840b7a48fb31",
+      "properties": {
+        "name": "Хада трек, центр активного отдыха",
+        "subcategory": "Аттракционы, Бассейны",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.665865,
+          51.888553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7bb9fb7c-3957-4966-9db6-e93eebd8acfc",
+      "properties": {
+        "name": "ЛунаПарк, детская игровая зона",
+        "subcategory": "Аренда площадок для культурно-массовых мероприятий, Аттракционы, Батутные центры, Детские игровые залы, Организация праздников",
+        "rating": "4.2",
+        "site": "http://t.me/lunapark_uu, http://trcmed.ru/lunapark",
+        "hours": "Пн: с 12:00 до 21:00, Вт: с 10:00 до 21:00, Ср: с 10:00 до 21:00, Чт: с 10:00 до 21:00, Пт: с 10:00 до 21:00, Сб: с 10:00 до 21:00, Вс: с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.576804,
+          51.777697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "512731e6-e47f-4a8c-997d-bdb2a8b0f955",
+      "properties": {
+        "name": "Батуты",
+        "subcategory": "Аттракционы",
+        "rating": "3.2",
+        "site": "http://peoplespark.ru",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.665256,
+          51.812477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "97c1f129-f54f-459c-8163-489ed96f4c1a",
+      "properties": {
+        "name": "Vasolka, парк аттракционов",
+        "subcategory": "Аттракционы",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.652495,
+          51.883564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e7b9cfa9-4857-4f10-9399-682de31a31f5",
+      "properties": {
+        "name": "Море желаний, аттракцион-аквариум",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "http://www.morewish.com",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5772,
+          51.77799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d4ff9ae8-9d86-4e7e-b3f7-769023bb75c5",
+      "properties": {
+        "name": "Ковбой парк, детский игровой центр",
+        "subcategory": "Аренда детских лофтов, Аттракционы, Батутные центры, Детские игровые залы, Организация праздников",
+        "rating": "4.5",
+        "site": "http://cowboy-park.ru",
+        "hours": "Пн: с 11:00 до 21:00, Вт: с 11:00 до 21:00, Ср: с 11:00 до 21:00, Чт: с 11:00 до 21:00, Пт: с 11:00 до 21:00, Сб: с 10:00 до 21:00, Вс: с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.635044,
+          51.842525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d5e4109b-53a1-43d2-9adf-6b41d9ac2fe6",
+      "properties": {
+        "name": "WOWLand, детская интерактивная комната",
+        "subcategory": "Аренда детских лофтов, Аттракционы, Детские игровые залы, Квесты, Организация праздников",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.677866,
+          51.815031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e197e17c-a400-4f1c-87e6-49d020dd8841",
+      "properties": {
+        "name": "Тир",
+        "subcategory": "Аттракционы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608121,
+          51.843775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "838f74b0-ecba-4e15-865f-61343d08bcfd",
+      "properties": {
+        "name": "Электро-дрифт, картинг",
+        "subcategory": "Аттракционы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.664902,
+          51.813577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a124832f-a6a8-4d6b-a0f2-2356745837e9",
+      "properties": {
+        "name": "Колокольчик, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663974,
+          51.813448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a456d934-163c-49e6-be1e-fb7575c2e15f",
+      "properties": {
+        "name": "Дракон Коста, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663648,
+          51.813739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7dc4eafd-2bcc-4b4b-8c2e-f99e7a22d580",
+      "properties": {
+        "name": "Золотые ворота, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.664409,
+          51.813545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "28da8e5c-11ea-4f12-a587-692c174b6df0",
+      "properties": {
+        "name": "Карусель Лошадки, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "2.5",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.664133,
+          51.8135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ed7a587d-4aa7-4b3f-bf0d-8070e03ccd5a",
+      "properties": {
+        "name": "Космический корабль, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.66402,
+          51.813789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4af2f2c8-cb39-43fc-9762-c790d6378c25",
+      "properties": {
+        "name": "Автодром",
+        "subcategory": "Аттракционы",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607209,
+          51.842764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f4c14cb1-f5ba-4b65-a5ac-cbf46356cb9e",
+      "properties": {
+        "name": "НЛО, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "1.2",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.664793,
+          51.813828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "894c83a8-6926-4359-86ba-05117c1ea741",
+      "properties": {
+        "name": "Молния Маккуин, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663828,
+          51.813415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8955a1ba-1c11-4ac6-b843-71eadd0ba597",
+      "properties": {
+        "name": "Мини-викинг, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663708,
+          51.8134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "09c9d516-0657-4281-ad61-a66bc8ffc9ab",
+      "properties": {
+        "name": "Морской залив, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663538,
+          51.813377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b2512644-81a4-437a-bfc2-332d2843ced9",
+      "properties": {
+        "name": "Викинг, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663311,
+          51.813426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16f2e2f3-06e8-4169-b24b-6c48e23f86c0",
+      "properties": {
+        "name": "Лягушка, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663248,
+          51.813548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bc0480dd-65cd-49b7-9115-fedfefc2504c",
+      "properties": {
+        "name": "Цепочная карусель, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.66315,
+          51.813638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8ff65011-a4c3-488f-ae31-76a69cc6845d",
+      "properties": {
+        "name": "Глобус, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663358,
+          51.813646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "86d3a9e4-abb8-4e13-82d1-2b02544cda5d",
+      "properties": {
+        "name": "Мини-поезд, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663449,
+          51.813572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4ea09e59-18d9-4d51-aa7a-3048ea2c25f3",
+      "properties": {
+        "name": "Тир, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663324,
+          51.81389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4fd49935-4ed0-4fad-a672-9ba13e026cd0",
+      "properties": {
+        "name": "Комната страха, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.664413,
+          51.814073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4904146d-debc-4090-a353-2ef7d6ecf783",
+      "properties": {
+        "name": "Водный роллер, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: июнь-август)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.664262,
+          51.813672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "613df252-f6df-49af-834f-49a1bcded59b",
+      "properties": {
+        "name": "Медведи-соседи, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.664527,
+          51.813809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2e3cb9d-3c3b-4b90-ae69-83adc412e5fa",
+      "properties": {
+        "name": "Батут, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.664402,
+          51.813318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "59e76e64-9f00-491b-9376-bb4f43af0f4a",
+      "properties": {
+        "name": "Колесо обозрения, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.66469,
+          51.813649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31a511b1-eb4a-476f-88c8-95b325f37099",
+      "properties": {
+        "name": "Crazy bus",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.606839,
+          51.843556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "63a46616-e03a-4fa5-a977-58b94586d9bb",
+      "properties": {
+        "name": "Цепочная карусель",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.606981,
+          51.843409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e81c3591-7cde-4064-b902-8f73551792aa",
+      "properties": {
+        "name": "Вальс",
+        "subcategory": "Аттракционы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607151,
+          51.843281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b9d20a2c-f4f4-4e5d-856f-3fcd6b64e3ff",
+      "properties": {
+        "name": "Лодочки",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: июнь-август)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607162,
+          51.843488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "98f47e85-cf2c-4640-9f23-4ec96280224b",
+      "properties": {
+        "name": "Каноэ Ривер",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607012,
+          51.843665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7c7989bd-bd56-4769-8d16-3e16d7665a98",
+      "properties": {
+        "name": "Гусеница",
+        "subcategory": "Аттракционы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607307,
+          51.843826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "86d7142f-9195-45c4-bb36-c7c0bec8cc81",
+      "properties": {
+        "name": "Кенгуру",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607341,
+          51.843628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1df08a74-dc44-464b-add8-c655c771a2f1",
+      "properties": {
+        "name": "Дракончики",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607779,
+          51.843758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96ebe1ad-dfd2-488f-8979-ca5dcff112ad",
+      "properties": {
+        "name": "Рок-н-ролл",
+        "subcategory": "Аттракционы",
+        "rating": "2.3",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607994,
+          51.843606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "571e70d4-c95e-423d-9609-ef248feb09a9",
+      "properties": {
+        "name": "Лебеди",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607884,
+          51.84355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "637e2633-f5e2-40e2-9d46-d44fca236b17",
+      "properties": {
+        "name": "Полёт",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607654,
+          51.843434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "874a3e87-8310-4142-9519-0fe241b7c780",
+      "properties": {
+        "name": "Миникарусель",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607565,
+          51.843389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7e64fbb9-25b6-4990-9f59-56753c522a16",
+      "properties": {
+        "name": "Мини-поезд",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607466,
+          51.843338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a15fee81-37b0-4d45-a1b9-cad5e70ebe0c",
+      "properties": {
+        "name": "Солнышко",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607382,
+          51.843348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2d1cb634-cbab-4356-8a35-438aa8ee80b3",
+      "properties": {
+        "name": "Пиратский корабль",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607926,
+          51.843417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5010f808-7f52-4c43-995b-d23c7c36d409",
+      "properties": {
+        "name": "Колокольчик",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608031,
+          51.843471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d9df9b00-9571-4385-aac4-4bd012a9ca28",
+      "properties": {
+        "name": "Емеля",
+        "subcategory": "Аттракционы",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608252,
+          51.843524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "615275f1-507f-49fa-8f2f-2def2984c275",
+      "properties": {
+        "name": "Тир",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608357,
+          51.843618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b51c4d55-61ca-4c65-8a7b-ebaea8a915b1",
+      "properties": {
+        "name": "Паровозики",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608673,
+          51.843516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "932b9625-a836-433f-b0ab-3f2aed24051b",
+      "properties": {
+        "name": "Чайный сервиз",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608746,
+          51.843461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4039e886-a602-4072-9c08-8a168c019e20",
+      "properties": {
+        "name": "Солнышко",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608817,
+          51.843408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "104b4937-1b5b-4b6d-8117-fefc5a963e0a",
+      "properties": {
+        "name": "Вихрь",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608485,
+          51.843336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f17b1817-91d7-49c2-859f-fa47e4b46d11",
+      "properties": {
+        "name": "Карусель",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607603,
+          51.842978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9858a855-fb59-4725-b413-313087ebf02e",
+      "properties": {
+        "name": "Свадебная карусель",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607679,
+          51.842921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d7ff3f7c-d0b4-47b8-958a-ff670831da6a",
+      "properties": {
+        "name": "Дракончики",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607744,
+          51.842872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6cf4219a-e670-44eb-ae94-4cd586977672",
+      "properties": {
+        "name": "Вагончики",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607579,
+          51.843573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ea19bdba-649a-4397-b693-8e6bc3bc3bf7",
+      "properties": {
+        "name": "Орбита",
+        "subcategory": "Аттракционы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607568,
+          51.843945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a2b1283e-e44e-47ac-b447-ed68de6fc92c",
+      "properties": {
+        "name": "Хип-хоп",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607803,
+          51.843645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d72240e1-3131-4606-bfde-f8ad04ca4c04",
+      "properties": {
+        "name": "Колесо обозрения",
+        "subcategory": "Аттракционы",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607851,
+          51.843933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cb7075e8-dbef-46a7-a7aa-1a17c97492ea",
+      "properties": {
+        "name": "Хип-хоп",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6086,
+          51.843572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5f4063aa-b018-454e-b29d-559c844cb1f2",
+      "properties": {
+        "name": "Космос",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607744,
+          51.843479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "48593ecf-4afa-4b22-9ee6-ab8b4624cb03",
+      "properties": {
+        "name": "Волшебный замок",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60888,
+          51.843359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c47e382b-319c-48f2-b741-19b883238401",
+      "properties": {
+        "name": "Вертолёты, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.652128,
+          51.883518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1c63e650-57ee-47c1-8de6-20996b2b2eb7",
+      "properties": {
+        "name": "Пиратский корабль, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.652236,
+          51.883472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fe9c761f-2362-4a0b-a050-78b0f3756c1c",
+      "properties": {
+        "name": "Весёлый клоун, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.652365,
+          51.883417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9ad17f0e-0a4e-47b2-9ee3-d04f9bf8c60c",
+      "properties": {
+        "name": "Солнышко, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.652478,
+          51.883466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "46ee98e9-97d1-4590-ac72-cd9727af8c6e",
+      "properties": {
+        "name": "Детский поезд, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.652586,
+          51.883519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16a1ab74-19d2-408b-ab5c-f6da41508ad9",
+      "properties": {
+        "name": "Кенгуру, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.652684,
+          51.883572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c115e261-3706-4e16-a54a-0a7627c81265",
+      "properties": {
+        "name": "Рыбалка, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.57732,
+          51.777914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3444ce9b-21ce-41ac-8085-23c7cea7bb0c",
+      "properties": {
+        "name": "Epic shooter, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.577362,
+          51.777827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7a8be7e4-42a3-4fb9-9af1-a88195cba85c",
+      "properties": {
+        "name": "Байкальская рыбалка, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.577483,
+          51.777805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "75e07105-9d33-4c6e-9d08-b50f786edb91",
+      "properties": {
+        "name": "Тир, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.650783,
+          51.885812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ea5edf07-2144-4136-b465-77479d1b55eb",
+      "properties": {
+        "name": "Емеля, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729602,
+          51.869761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "799be11e-8743-41b8-9971-193a9ed2ba3d",
+      "properties": {
+        "name": "Тир СССР, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "2.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729428,
+          51.86905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cb967331-e1d1-491d-939a-063eb090b561",
+      "properties": {
+        "name": "Боевые вертолеты, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729435,
+          51.869125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2f236b10-7b5b-45c8-86de-5157fb6fc2fc",
+      "properties": {
+        "name": "Корсар, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "1.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729595,
+          51.869181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "447f9fd8-e371-42a5-88bf-8184242ba72a",
+      "properties": {
+        "name": "Танки в Сафари, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729815,
+          51.869218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e202296e-b949-4a14-b681-be6f14f4b52a",
+      "properties": {
+        "name": "Цепочная карусель, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729833,
+          51.869366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0e116d92-282e-44bd-a71c-c8d4877d2dc5",
+      "properties": {
+        "name": "Колокольчик, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729564,
+          51.869341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cbe840ff-c59d-4edc-a604-63ee6060670a",
+      "properties": {
+        "name": "Сказочный поезд, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729366,
+          51.869297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "51276894-86c2-4d5a-a38e-1e5e02f01d2d",
+      "properties": {
+        "name": "Вертолетик стрекоза, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729547,
+          51.86943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6f47e22f-69fd-4481-a838-8c0ebf9a15b5",
+      "properties": {
+        "name": "Малыш паровоз, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729344,
+          51.869462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4d7067b5-ae57-46aa-b3ea-f74742a51ff2",
+      "properties": {
+        "name": "Батут кенгуру, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729403,
+          51.869537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0aa96e80-dc69-4cd4-9632-870435c3a747",
+      "properties": {
+        "name": "Солнышко, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729561,
+          51.869556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "07cdf040-2d90-4947-bfa4-e815a4935519",
+      "properties": {
+        "name": "Ракушки, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.73001,
+          51.868771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "90b666f6-b8f6-4e06-9b4f-9d3c1ef17099",
+      "properties": {
+        "name": "2 Нагана, пневматический тир",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.660064,
+          51.834623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f22a8cc5-a47f-4b93-bfad-78363e7169b2",
+      "properties": {
+        "name": "Брейк Данс, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.66424,
+          51.813822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d9a83328-55fc-4c10-9008-06820f6b1ae8",
+      "properties": {
+        "name": "Колесо обозрения",
+        "subcategory": "Аттракционы",
+        "rating": "1.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.583651,
+          51.776295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ddb7479d-dce2-4566-a005-29e6b44612da",
+      "properties": {
+        "name": "Сказка, парк аттракционов",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.72924,
+          51.869363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c8004571-cafa-4df9-a82b-f402f047840f",
+      "properties": {
+        "name": "Трансформеры, батут",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.611703,
+          51.843532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "babc9ff3-cb7a-4656-89e2-14a66d796f34",
+      "properties": {
+        "name": "Любава, батут",
+        "subcategory": "Аттракционы",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 17:00 (летний период: пн-вс 9:00-21:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.54447,
+          51.408196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "00320aff-fb0a-4292-964e-9dc68eb99aa0",
+      "properties": {
+        "name": "Тэнсуури, батут",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.962884,
+          52.484345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9f9febdb-e896-4068-9f4a-bd0d8337282b",
+      "properties": {
+        "name": "Тэнсуури, батут",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.963142,
+          52.484498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e686b78f-5ebe-4e5b-9d52-859205d3abe9",
+      "properties": {
+        "name": "Га-Га парк, парк аттракционов",
+        "subcategory": "Аттракционы",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.53546,
+          51.281801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "be6308ab-0cbe-44be-8231-77c90708b6cd",
+      "properties": {
+        "name": "Детский батут, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-сентябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.535007,
+          51.281848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "180fdcdb-9305-4e86-9232-d5802bf21d0c",
+      "properties": {
+        "name": "Аквазорб, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: июнь-август)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.534943,
+          51.281695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "73a0971b-f8ee-4fca-a6f1-029174a16f88",
+      "properties": {
+        "name": "Кенгуру, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.535323,
+          51.281721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6557fd03-a32b-44f2-a820-3061281b9590",
+      "properties": {
+        "name": "Гироскоп, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.535188,
+          51.281612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f9acaa89-9e63-444d-8d8d-5ba240e1d015",
+      "properties": {
+        "name": "Солнышко, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.535346,
+          51.281593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "95317131-a521-4d75-8839-0169eef0a7c3",
+      "properties": {
+        "name": "Кораблики, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.535499,
+          51.281574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b80bc4f5-0f22-452b-92fe-9376661512d4",
+      "properties": {
+        "name": "CrazyТир",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.577377,
+          51.777673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3a90a2be-3957-463d-9079-c020b38dcfe9",
+      "properties": {
+        "name": "Пиратский корабль, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.652236,
+          51.883472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "86ed401d-06e8-472d-93be-cde9f354715c",
+      "properties": {
+        "name": "Качели",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.585024,
+          51.826333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f70db4dc-48b5-4c64-9b92-090bc6d41662",
+      "properties": {
+        "name": "Колесо обозрения",
+        "subcategory": "Аттракционы",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607851,
+          51.843933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "685500b5-2f6d-4db4-9902-c2a9854fc511",
+      "properties": {
+        "name": "Тир",
+        "subcategory": "Аттракционы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608121,
+          51.843775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a85b0d40-728f-4a5b-87dc-ddc5ce18badf",
+      "properties": {
+        "name": "Административное здание",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663677,
+          51.813944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a549142c-8f0d-449f-99c5-621e7f4796bd",
+      "properties": {
+        "name": "НЛО, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "1.2",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.664793,
+          51.813828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4f8f80ce-1c19-4d63-9b42-beeb8e2ac48b",
+      "properties": {
+        "name": "Космический корабль, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.66402,
+          51.813789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dcc3bcef-e38f-47af-a423-64e89399663f",
+      "properties": {
+        "name": "Дракон Коста, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663648,
+          51.813739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8e1346c5-79e7-4170-9679-1c60b82153a5",
+      "properties": {
+        "name": "Золотые ворота, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.664409,
+          51.813545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d3b2b414-7da2-43c0-a127-4e18e9d89862",
+      "properties": {
+        "name": "Колокольчик, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663974,
+          51.813448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b1fab7a4-0289-4f6a-8a8e-7c0fb66a0869",
+      "properties": {
+        "name": "Карусель Лошадки, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "2.5",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.664133,
+          51.8135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a2b9859b-5c51-45f5-b9b7-d31204edada3",
+      "properties": {
+        "name": "Электро-дрифт, картинг",
+        "subcategory": "Аттракционы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.664902,
+          51.813577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c051c8e1-d8ee-4219-942f-8b84bcb47590",
+      "properties": {
+        "name": "Глобус, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663358,
+          51.813646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "777b56f4-812f-4bd0-81f0-a6169231d11e",
+      "properties": {
+        "name": "Батут, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.664402,
+          51.813318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e2c362f7-2648-4802-a5da-1b9362897e45",
+      "properties": {
+        "name": "Молния Маккуин, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663828,
+          51.813415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "597967df-c028-473a-babd-5ea476285ff6",
+      "properties": {
+        "name": "Морской залив, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663538,
+          51.813377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "67479cf6-e70c-4152-875a-3d27919dce3c",
+      "properties": {
+        "name": "Викинг, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663311,
+          51.813426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7ba1779c-e81c-414a-b974-edc91600670d",
+      "properties": {
+        "name": "Мини-викинг, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663708,
+          51.8134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f617bbe7-752e-47dd-b86a-4e7eb69272e9",
+      "properties": {
+        "name": "Лягушка, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663248,
+          51.813548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2422c240-addf-4d0c-9b3a-6b38a7b601b4",
+      "properties": {
+        "name": "Цепочная карусель, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.66315,
+          51.813638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10f91ac1-6e62-4cbe-903f-45af61c16859",
+      "properties": {
+        "name": "Мини-поезд, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663449,
+          51.813572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4481b12e-9e10-408f-9633-c5093f508486",
+      "properties": {
+        "name": "Медведи-соседи, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.664527,
+          51.813809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4c5fac2f-5c03-49da-8d77-d60d3b16749a",
+      "properties": {
+        "name": "Водный роллер, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: июнь-август)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.664262,
+          51.813672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "38836d03-877a-4675-81fd-071beba548fb",
+      "properties": {
+        "name": "Тир, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663324,
+          51.81389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16bc3925-dd90-450c-be7e-94ea93b28c0f",
+      "properties": {
+        "name": "Crazy bus",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.606839,
+          51.843556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cbdd47de-247e-48bc-acbe-5ecf917772b2",
+      "properties": {
+        "name": "Цепочная карусель",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.606981,
+          51.843409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d2778205-fd61-4b53-8761-23cfbf2214e8",
+      "properties": {
+        "name": "Вальс",
+        "subcategory": "Аттракционы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607151,
+          51.843281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "da0c3798-1152-41cd-bfa2-c921802cf3e0",
+      "properties": {
+        "name": "Лодочки",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: июнь-август)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607162,
+          51.843488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c9909b54-f7ac-4e53-8763-961149dd9f37",
+      "properties": {
+        "name": "Гусеница",
+        "subcategory": "Аттракционы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607307,
+          51.843826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4377f8c3-5e5b-43c0-ac7b-6f87c9f567e2",
+      "properties": {
+        "name": "Кенгуру",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607341,
+          51.843628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8ce9b0bf-da5a-4bcd-9427-138033afeecd",
+      "properties": {
+        "name": "Дракончики",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607779,
+          51.843758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "62a9a08e-349e-441c-aec8-ded761aeefd8",
+      "properties": {
+        "name": "Рок-н-ролл",
+        "subcategory": "Аттракционы",
+        "rating": "2.3",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607994,
+          51.843606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1bc811f2-8615-46bd-b7d1-75e990bf07df",
+      "properties": {
+        "name": "Лебеди",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607884,
+          51.84355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fc756151-5820-4bcb-b52d-c97fdd3d4494",
+      "properties": {
+        "name": "Космос",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607744,
+          51.843479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4b2c3993-03c4-41af-915e-5175b811ac06",
+      "properties": {
+        "name": "Полёт",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607654,
+          51.843434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e45d6cea-c529-4131-ae6a-b7835b771e31",
+      "properties": {
+        "name": "Миникарусель",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607565,
+          51.843389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b848915c-572d-49d8-af5b-658b12fcb58d",
+      "properties": {
+        "name": "Мини-поезд",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607466,
+          51.843338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "88cd9941-ae24-4ea9-ac38-885e14d1e221",
+      "properties": {
+        "name": "Солнышко",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607382,
+          51.843348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35b73e01-714e-4bcd-8a55-8014bcf0529d",
+      "properties": {
+        "name": "Пиратский корабль",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607926,
+          51.843417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e831e68a-f699-4af3-86b7-21d114c4b1ac",
+      "properties": {
+        "name": "Колокольчик",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608031,
+          51.843471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f6837f47-94a3-45fd-bc68-87345b351426",
+      "properties": {
+        "name": "Емеля",
+        "subcategory": "Аттракционы",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608252,
+          51.843524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8a01ccb7-a028-49fb-8b79-fac3c939e981",
+      "properties": {
+        "name": "Тир",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608357,
+          51.843618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3b17e518-6a0e-4a3e-b18c-a7c65c17d1fe",
+      "properties": {
+        "name": "Хип-хоп",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6086,
+          51.843572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c49bd213-b1b8-4ddd-b9cd-b440cceda1ca",
+      "properties": {
+        "name": "Паровозики",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608673,
+          51.843516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e83d337d-5e16-4ea8-a040-b5a381f4c188",
+      "properties": {
+        "name": "Чайный сервиз",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608746,
+          51.843461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b6370f5b-43eb-45cd-a188-f64e1a4a21ac",
+      "properties": {
+        "name": "Солнышко",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608817,
+          51.843408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4e974034-2cc3-43ab-af50-b0c42ab4ff1d",
+      "properties": {
+        "name": "Волшебный замок",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.60888,
+          51.843359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "74c22bec-5a9f-416d-b853-bfd0d25aa1c4",
+      "properties": {
+        "name": "Вихрь",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608485,
+          51.843336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "86090716-114e-49b0-9628-ef913cd67cf2",
+      "properties": {
+        "name": "Карусель",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607603,
+          51.842978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fc5d4e6a-0f9a-434d-9dab-a905ac77d8b9",
+      "properties": {
+        "name": "Свадебная карусель",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607679,
+          51.842921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17bbd470-9475-41b3-b649-32671c4b5a94",
+      "properties": {
+        "name": "Дракончики",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607744,
+          51.842872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8c5a6ac4-febb-4823-af93-e712f0cf2b9b",
+      "properties": {
+        "name": "Орбита",
+        "subcategory": "Аттракционы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607568,
+          51.843945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7f30e1f1-9f33-4949-9c45-af86f872d387",
+      "properties": {
+        "name": "Хип-хоп",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607804,
+          51.843644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c1ede21e-f68d-41c6-b98e-8912a9f11b03",
+      "properties": {
+        "name": "Вертолёты, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.652128,
+          51.883518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "851cb98d-1bc5-466c-8678-229424b3a5d0",
+      "properties": {
+        "name": "Весёлый клоун, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.652365,
+          51.883417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a244506e-363d-49cc-95c3-ae92fbeb27ee",
+      "properties": {
+        "name": "Солнышко, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.652478,
+          51.883466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ea914899-7e2b-462f-b2e4-927dc7157247",
+      "properties": {
+        "name": "Кенгуру, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.652684,
+          51.883572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3e04ecbb-33d2-49ed-a1d0-7e1900cc9bfc",
+      "properties": {
+        "name": "Детский поезд, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.652586,
+          51.883519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e56ad1a8-aab4-4a36-8cf7-9e78e3f01aef",
+      "properties": {
+        "name": "Емеля, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729602,
+          51.869761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0160fb21-f3e1-4890-88b4-b566f15808ad",
+      "properties": {
+        "name": "Тир СССР, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "2.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729428,
+          51.86905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "981daf3f-4a45-4380-b62e-3b9a059ad8d1",
+      "properties": {
+        "name": "Боевые вертолеты, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729435,
+          51.869125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c0353a06-d3c0-4e1e-85a3-085363c13ba7",
+      "properties": {
+        "name": "Корсар, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "1.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729595,
+          51.869181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7ef980bd-7224-49c7-b869-1fe70c2e9800",
+      "properties": {
+        "name": "Танки в Сафари, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729815,
+          51.869218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "de8cf04b-3df9-4d13-8b47-7ced3e3739f8",
+      "properties": {
+        "name": "Цепочная карусель, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729833,
+          51.869366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7130906f-3064-4b3a-b2ed-91d25ae17978",
+      "properties": {
+        "name": "Колокольчик, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729564,
+          51.869341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "87614768-6e8e-4378-a6f8-304ec3755492",
+      "properties": {
+        "name": "Сказочный поезд, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729366,
+          51.869297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8368a66c-f6f6-4b1c-bb21-98d7c6aadedf",
+      "properties": {
+        "name": "Вертолетик стрекоза, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729547,
+          51.86943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c53560bd-7af8-498c-b9cb-58a73ae4608c",
+      "properties": {
+        "name": "Малыш паровоз, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729344,
+          51.869462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26496dcb-3395-4a11-9c79-9b6abd1c8f7f",
+      "properties": {
+        "name": "Батут кенгуру, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729403,
+          51.869537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bf59a550-7532-4c5b-a816-0cb24746cace",
+      "properties": {
+        "name": "Солнышко, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.729561,
+          51.869556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "265e228c-0a39-454a-9145-654bbb27b864",
+      "properties": {
+        "name": "Ракушки, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.73001,
+          51.868771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "57c96e28-80e0-45d8-9001-db56b2295141",
+      "properties": {
+        "name": "Брейк Данс, аттракцион",
+        "subcategory": "Аттракционы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (рабочие месяцы: апрель-октябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.66424,
+          51.813822
+        ]
+      }
+    }
+  ]
+}

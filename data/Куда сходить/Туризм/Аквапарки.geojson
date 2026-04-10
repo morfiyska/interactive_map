@@ -1,0 +1,10 @@
+{
+  "type": "FeatureCollection",
+  "name": "Аквапарки",
+  "style": {
+    "color": "#ee00ff",
+    "radius": 20,
+    "icon": "museum-svgrepo-com.svg"
+  },
+  "features": []
+}

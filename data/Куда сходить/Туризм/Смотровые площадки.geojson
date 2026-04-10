@@ -1,0 +1,1613 @@
+{
+  "type": "FeatureCollection",
+  "name": "Смотровые площадки",
+  "style": {
+    "color": "#ff6600",
+    "radius": 15,
+    "icon": "binoculars-svgrepo-com.svg"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "75af6b0a-d5ba-4da8-96cb-7fa799e75dd8",
+      "properties": {
+        "name": "Смотровая площадка Пик Любви",
+        "subcategory": "Смотровые площадки",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.315328,
+          52.220571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ab919d13-f623-45e0-8ae8-7e0270aba557",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.885333,
+          51.841263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "236694a3-14be-42e6-9f5e-62ff77545982",
+      "properties": {
+        "name": "Смотровая площадка на Камне Черского",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.837395,
+          51.877471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1199c697-2f8d-4a32-8f52-5576cdde9f5a",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.317859,
+          52.227883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96098c15-51bc-4e6d-b7f0-10460c9ce44b",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.874031,
+          51.846188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "33a206f0-6370-44f7-bf8e-4b6c95512be1",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.852865,
+          51.861284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a634e214-7f9e-4910-abd6-4d47fbc617da",
+      "properties": {
+        "name": "проспект Маршала Жукова, 36/4",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.347286,
+          52.250637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7a44a6d1-0bdb-4b7b-ad68-316f43d9a1db",
+      "properties": {
+        "name": "Смотровая площадка на Верхней Набережной",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2762,
+          52.274952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "86dec18c-e29d-45ea-a065-8d57ade3986b",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.711082,
+          51.73206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "953b4733-ac15-4940-95b0-b7e7b4cb5255",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.296382,
+          52.27688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "948f91ef-62d9-4880-9a3d-db7f48050eef",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.278816,
+          52.27398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7c6dd6c1-068b-4f57-a58f-09afdf1cd679",
+      "properties": {
+        "name": "Смотровая площадка для наблюдения глубокого космоса",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.843869,
+          51.881357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3745818c-b2d1-4c0b-bdd4-9ff4dbc52cb0",
+      "properties": {
+        "name": "Наблюдательная площадка Здесь наблюдают метеоры",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.15295,
+          52.302333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11a1406d-b5b1-4745-a6c4-06d971bf9fc3",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "3.4",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.726219,
+          51.731965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9aacd723-8016-46f4-b8e5-e9c83a71c6ea",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.998463,
+          53.1286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9f955e14-1de0-4a57-b15c-d4f847dcbe7a",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.262534,
+          52.275276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b0a640b9-86d6-4231-bdf8-6f61112a7584",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.834543,
+          51.867304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ce2ff3ee-9d51-47d8-b692-f37201b8eb39",
+      "properties": {
+        "name": "Сооружение",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.837079,
+          51.867586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6581fb8b-10b9-4207-9764-4611b76484eb",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.884627,
+          51.841243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6b317356-5238-4841-82c9-fc71d49b982b",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "3.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.886776,
+          51.843963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "40c43bb2-ee0a-4104-b209-9e81717475c4",
+      "properties": {
+        "name": "Обзорная беседка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.31549,
+          53.167162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "43e9dcc3-ac85-4c38-be20-098113180525",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.225535,
+          52.250456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bc267235-7ca6-4ba0-9375-30424eb9c3f3",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.973211,
+          53.210278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ac397eaf-0267-4b26-9843-a4c671a084c2",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.078975,
+          52.541569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f8932a58-cc48-442c-b387-f72f7a48b4bf",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.326936,
+          52.222869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c885602a-4aae-411b-a14c-33d4b666cd6d",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.567218,
+          52.769743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d39e7dc1-3183-4ca7-9c18-9fc11ac69801",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.339717,
+          53.200564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9897d62b-5b73-4172-9c8a-701e2b2f8f8d",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.130545,
+          51.899777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c4e6c546-a817-4cc8-adce-0e0e07ecf8fd",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.135071,
+          51.89932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "48bc80e6-eda1-4baf-a78c-40180283979c",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "3.4",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.924587,
+          51.870447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "01971bb1-9751-40ab-a54e-82665e5f869c",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.077006,
+          51.908384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d31c0461-c521-4de6-994d-1ae4b972971f",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.946971,
+          51.864874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ccea29ea-5167-4ab2-9a5f-be03369acda3",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "3.5",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.664326,
+          51.992034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "88fc1565-16c6-4c98-a78b-cbb2ce309510",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.314639,
+          52.325763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "369677f7-cc51-4dbc-b589-91b3da33675b",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.819795,
+          51.904197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "228612ee-6e5d-4635-9929-0e283b730116",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.818956,
+          51.903298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1cdd0e68-97fc-4394-9b8d-66556d01a47b",
+      "properties": {
+        "name": "Сооружение",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.837079,
+          51.867586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e699448b-1323-4180-982d-f56f7d646ba3",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.194176,
+          52.268407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a7b558d0-cae0-4a97-84d6-abf1eed328aa",
+      "properties": {
+        "name": "Смотровая площадка Камень желаний",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.810584,
+          51.872616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c64516c1-c1ee-4f6e-9cd7-991ed4cfdeec",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.796644,
+          51.873252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "61a7b84c-8de6-4f02-9c36-cbcf13780986",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.611498,
+          52.781859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ae68da2c-178d-4782-b605-6c57ac61f8b1",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.427265,
+          53.229295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cee81d1f-66d5-475c-a72e-f0fe3822408a",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.861509,
+          51.740051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1a62cb2b-208b-4588-86b5-8bb55b64f985",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77998,
+          53.052224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d3ba4a88-b101-4e67-a6bc-d22c335fd279",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.192527,
+          52.269577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1a379c46-fad9-498f-abda-7377e49680f9",
+      "properties": {
+        "name": "Смотровой бинокль",
+        "subcategory": "Смотровые площадки",
+        "rating": "1.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.71536,
+          51.727645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3c30c9f1-dfd0-4147-bedf-92bffc849eeb",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.828852,
+          51.870038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cf9e9831-8625-41ea-997f-bc6994c82c43",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.876498,
+          51.844438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7656353e-d2d1-4a81-bb73-f3f158d9e0ca",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "1.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.984513,
+          51.750471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7c6a8120-b5a0-4651-b1ac-7c8586e276c6",
+      "properties": {
+        "name": "Смотровая площадка Обзорка Закатная",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.170427,
+          51.527631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "442afd35-ad16-4d69-a53f-e8c6c82ec403",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.408881,
+          51.467085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "03e3e731-0ea5-4fa0-86d7-12570a4c20b4",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.162262,
+          51.52408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "43108ae1-7cd8-4bef-a385-baaca76e7fa3",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.340906,
+          51.479855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c41ba095-586f-4491-9256-5410d5ecb680",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.133113,
+          51.526678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "73eb712f-739f-4fdf-b6f3-97afb8306c66",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.873014,
+          51.861585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7c1dffa2-8c83-404f-bf3d-ab12a334fcdb",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.717186,
+          51.856894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "de20a7ff-0d4c-4a7a-b4a9-46e32cff6151",
+      "properties": {
+        "name": "Смотровая площадка Панорамный зал",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.872795,
+          51.847425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6ad8e4bf-ef24-4716-a907-6cb9f90f93ce",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.515141,
+          51.795363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a2aedca3-f45b-4c8b-ab5d-425072a62b09",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.829221,
+          51.875582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0ff5e5d3-e52b-40ee-8d53-635fb93a0195",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.263937,
+          52.273796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "08f5cae1-7122-4e00-b529-2aa62a64a524",
+      "properties": {
+        "name": "Смотровая площадка Шаманка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.341635,
+          53.204139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7bab16a6-b61f-4bd0-99aa-51c99b269fc7",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.846795,
+          52.085777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "da63e2bb-88c5-40c1-8772-6118cc81c79a",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.840895,
+          52.084961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "027b069b-7453-44b3-9cc6-17d001611570",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "0.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.832605,
+          52.083377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6927ccc9-25b1-4de6-a705-9573807153fe",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.830386,
+          52.08272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "490af7c4-f54b-43ca-9840-4d1a929fd250",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.11028,
+          51.492933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "be9d0e7e-8612-4ef2-b298-62a5cd6c29ab",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.763717,
+          51.999067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2ed224ca-739c-46ee-b465-00aa59d381b0",
+      "properties": {
+        "name": "Маяк, смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.216979,
+          52.939314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d4dbf747-3949-4c0c-8dd4-322da999ce18",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593343,
+          51.864131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b68b45c4-76e6-4996-8aa0-eeaf3df0749e",
+      "properties": {
+        "name": "Смотровая площадка Гремячинска",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.987607,
+          52.819095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5d342bf8-c424-46b7-86e5-f18e0f3b28dd",
+      "properties": {
+        "name": "Смотровая площадка п. Заиграево",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.258023,
+          51.841095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6cd87c07-85ad-4126-abe7-bf0eee090b33",
+      "properties": {
+        "name": "Обзорная площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.582256,
+          51.778776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9393793b-b4ea-47a9-888d-e52cccbabc8c",
+      "properties": {
+        "name": "Обзорная площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.588226,
+          51.761903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "053a9eaa-3a48-455f-a3c7-d02e17750f05",
+      "properties": {
+        "name": "Смотровая площадка Лежбище нерпы",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.71214,
+          53.859509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6b97f984-efef-4beb-90b2-2471ff185738",
+      "properties": {
+        "name": "Обзорная площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "3.3",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.591359,
+          51.773514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e40000ac-a4ec-43d2-9e08-a9265b23f854",
+      "properties": {
+        "name": "Обзорная площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.587889,
+          51.77509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b90d30cd-040a-40bf-b78d-a3ccc6fa9bbc",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.12302,
+          51.558783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d128e9cf-4f26-4ed8-b0c9-5dd167c7a82b",
+      "properties": {
+        "name": "Обзорная площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.53534,
+          51.282041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b28b668e-6968-481a-9e9d-2f01734ec421",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.441157,
+          51.606515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f312b29f-812b-4c16-861c-c3fed0377edc",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.069652,
+          51.850272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "71efe60a-9155-4135-9dee-1e72848da403",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.127861,
+          51.544987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "77d5f8fc-5766-4993-9b0b-5e4cc76f4e8a",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.135263,
+          51.553495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b87581c5-022c-4f26-81e3-7965328ced71",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.731497,
+          51.870471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f4a3d0b9-5f42-45a3-8404-6f1af0c0a293",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.115015,
+          51.556415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16043e2e-3f06-43d6-ad59-968c780773f2",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.626287,
+          51.871747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8b2c5003-f493-48b8-99b4-029691e85c33",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.625518,
+          51.880299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "82625e81-1440-4d31-a21e-58e1e0d014e4",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.648911,
+          51.898979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f50fa90f-c53d-440c-bb65-19baf9c459c0",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.661813,
+          51.906043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e9243c22-a645-425e-a7ec-3f8619246892",
+      "properties": {
+        "name": "Смотровая площадка",
+        "subcategory": "Смотровые площадки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.664213,
+          51.905221
+        ]
+      }
+    }
+  ]
+}

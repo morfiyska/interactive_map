@@ -1,0 +1,1577 @@
+{
+  "type": "FeatureCollection",
+  "name": "Пляжи Зоны пляжного отдыха",
+  "style": {
+    "color": "#d3d704",
+    "radius": 16,
+    "icon": "beach-svgrepo-com.svg"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "3c34de1b-061a-450e-a17e-f77e0a5948d6",
+      "properties": {
+        "name": "Боссой, пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.088749,
+          52.223251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "008fc771-c63a-4569-9d92-5f1641a92eac",
+      "properties": {
+        "name": "Pesok 38",
+        "subcategory": "Аренда беседок, Парки культуры и отдыха, Пляжи / Зоны пляжного отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.231426,
+          52.290334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "00b7fa13-9934-4041-90b4-bfda2aad2031",
+      "properties": {
+        "name": "River club крылья",
+        "subcategory": "Бассейны, Пляжи / Зоны пляжного отдыха",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.345979,
+          52.250645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2e74112f-09e7-473d-864a-b7a8afbb0509",
+      "properties": {
+        "name": "Лагуна, пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.122682,
+          52.247889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f4344003-27ef-4dd7-84f5-b0062b3f29b0",
+      "properties": {
+        "name": "Якоби, пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.317703,
+          52.228112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4b7115bc-1b25-4921-b919-f9ba9bd787ee",
+      "properties": {
+        "name": "Иркут, пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.190914,
+          52.275169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2c09fc7a-e1bb-452f-a84c-8fa1cb068e3e",
+      "properties": {
+        "name": "Квадрат, пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.325559,
+          52.244786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10e7bb62-649a-4838-8e15-76e6209de6a2",
+      "properties": {
+        "name": "Листвянка, пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.875915,
+          51.844802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9c7cc1d9-6bdb-4ae9-8232-e4091c51b422",
+      "properties": {
+        "name": "Пляж у ледокола Ангара",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.345658,
+          52.250544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d17a038d-d1db-4b07-933f-3b1248164a91",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.276323,
+          52.272456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dad09914-6215-490f-987c-ca59d42a2654",
+      "properties": {
+        "name": "Гранатовый пляж, п. Бабха",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.110655,
+          51.529567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26e75b9b-0867-4570-80d4-b190415ba267",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.355263,
+          51.798366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "42292aa2-c82c-4c0e-b059-fe7940476cee",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.363041,
+          51.794356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b8bdb1ca-1f4f-4747-8ed7-87a0e2cb6c93",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.500014,
+          51.795188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "db9bdb3b-03c4-4123-9870-07b253bda2fd",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.705808,
+          51.841603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dd76908d-3d4b-46f2-ae9b-dfa40d8cd48d",
+      "properties": {
+        "name": "Песчанка, пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.583756,
+          53.286599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f5785e96-5e8a-472d-aa22-3d60e1910075",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.283093,
+          51.790965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2a6e9a98-603a-4e5b-a173-fde9c80faad4",
+      "properties": {
+        "name": "Сарайский пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.353485,
+          53.204483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "060ea6cb-3c75-40bf-87f7-c1bb27e763ba",
+      "properties": {
+        "name": "Гранатовый пляж, п. Паньковка",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.493174,
+          51.461103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f9a6e14d-08ed-426c-b939-e574ea6ca6dd",
+      "properties": {
+        "name": "Шумиха, пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.692337,
+          52.253744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c7a7623f-8070-462d-928d-2c44b3453ef2",
+      "properties": {
+        "name": "Каменка, пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.401212,
+          51.487374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37eb8d12-188c-4220-8dbb-4dbba1a08df3",
+      "properties": {
+        "name": "Слюдянский пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.701181,
+          51.688954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "921c8748-9714-4447-a6f8-2a369a6151fd",
+      "properties": {
+        "name": "Кавказ, пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.091501,
+          52.258679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1a8964b8-1f7c-4d28-bc25-8dc5741f808a",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06864,
+          51.553032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "29b5b0f5-f291-4a6c-9f22-d5639913eb0c",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.732841,
+          51.656964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b1d8f350-c2d8-40b1-83cb-711c5d45bceb",
+      "properties": {
+        "name": "River club крылья",
+        "subcategory": "Бассейны, Пляжи / Зоны пляжного отдыха",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.280034,
+          52.250861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "84a34b65-2f2d-4f07-98d5-4b4e2f6deb82",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.811342,
+          53.036556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "350e4672-4f96-4f25-949a-30ce55e7e714",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.828878,
+          51.731286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "456630df-3052-4a93-8193-331f3a01dfc2",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.83255,
+          53.030988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "df81a003-7c9b-4273-add2-45391a8cf7a3",
+      "properties": {
+        "name": "Бухта Песчаная, пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.702813,
+          52.261784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "01c598ca-dd08-4ba8-bba0-06c129845294",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.706946,
+          51.676548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "72e2075e-becb-4253-b26c-bd129cc6f294",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.707336,
+          51.675796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "88f73e93-0d16-4b31-8eae-e63e517f7ec4",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.712051,
+          51.719125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8703ddf2-adf5-437e-95ad-befbc6c622c0",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.780407,
+          53.049102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5aa1fce1-735e-4944-bbfd-de1982ef0c25",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.475104,
+          52.682476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6ca30966-630d-4166-b40c-ea9619bb0a95",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "3.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.889559,
+          51.841244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b2ac00e0-305a-4a5a-a857-6035bcd6f6eb",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.851765,
+          53.031649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "012da60f-dc46-49f8-b792-c7d90ebd1325",
+      "properties": {
+        "name": "Паньковка, пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.510707,
+          51.457245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e541fab2-372e-4e5c-8ac1-19b88f029613",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.768698,
+          51.870739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dcd39cc0-8a86-438f-87c0-31477c414476",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.845855,
+          53.029649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "42a220a1-96b7-44a7-bf85-c8357b5b4b42",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.859148,
+          51.856161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7ab60ae5-3757-4849-82b0-134648b6b029",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.71196,
+          52.265566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e0206827-dc0d-43e9-926c-f426ded85e24",
+      "properties": {
+        "name": "Акулий плавник, пляж-бухта",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77606,
+          53.046932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "68b5a96d-ddfc-4c66-a1a4-c0d1fc0cb9fe",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.859231,
+          53.033393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "737f5dd1-e569-49a2-ac73-4cd5bac065b7",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.902133,
+          51.735638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "91ec6fc9-a33d-4952-b071-11996446aa4b",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.188159,
+          51.776521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ca66eda4-484b-4287-a62e-2b75ee42ba9d",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.466746,
+          51.79982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "61f66fa7-76df-41e1-8d17-deae1460c214",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.696849,
+          51.827912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "014e9d45-8f76-444d-ba49-d8254733b062",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.141046,
+          51.528053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b018e86b-0b37-4aba-abdd-51b1bc0b7e1b",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.699102,
+          51.828979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7b32578a-e472-44da-83b6-a96f4a4ccdd5",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.366488,
+          52.010729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "08e9207d-1cd3-402f-a88c-f832045b8ce4",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.603281,
+          52.787698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "abf01ff7-e0de-4ac8-ae89-eabcd25ff58f",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.37451,
+          51.481941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "47f72170-439e-4158-8ddc-9e37fceb610a",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.886546,
+          53.018284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "45ecd1fb-6882-4e3f-a22a-551ad3d8ae95",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.881377,
+          53.034356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e343e3d2-a6be-44a9-9856-34991eb87cfe",
+      "properties": {
+        "name": "Русский, пляж",
+        "subcategory": "Аренда беседок, Пляжи / Зоны пляжного отдыха, Рыболовные центры",
+        "rating": "4.5",
+        "site": "http://t.me/ruspirs",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.257468,
+          52.438798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "03ff4792-776a-4bf4-a995-67c0b47eecf9",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.826719,
+          53.041681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "05d99f74-f7a9-48fc-98c1-ba8af3ff9ced",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.835945,
+          53.045963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "74434ed9-c7a8-4fab-8c4e-0a163348e5ef",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.848557,
+          53.046603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a81aa5b4-77fa-4d57-a545-019fe3bf5495",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.324231,
+          53.190291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5837cdcd-791c-4fd0-94e7-cbdd362c72cd",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.980216,
+          51.870776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d742b859-28f2-4008-baf9-09c846b35e39",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.998655,
+          51.873747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "befa8882-7fbc-418d-8d6d-e67576ff698e",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.078916,
+          53.114874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ae89991f-71df-494a-838f-2556d6412316",
+      "properties": {
+        "name": "Комсомольский, пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.554089,
+          51.830957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d458d60a-f6d4-4616-81a4-fc554af0a163",
+      "properties": {
+        "name": "Дулан, пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.869558,
+          52.382325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2a19a1da-f53b-4596-a5de-3e9dd01e3736",
+      "properties": {
+        "name": "Выдрино, пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.648653,
+          51.475623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "015d8d73-d500-4aae-a6c4-ad07c0c26921",
+      "properties": {
+        "name": "Сибиряк, пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "2.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.553099,
+          51.426261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f8bb0a07-3f87-46ad-a56a-be558dd0b80a",
+      "properties": {
+        "name": "Озеро Щучье, пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.535289,
+          51.40689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "918b8f60-5486-481b-b478-5910d02e989e",
+      "properties": {
+        "name": "Шатры на озере Щучье, компания по аренде шатров",
+        "subcategory": "Аренда беседок, Аренда шатров / сценических конструкций, Пляжи / Зоны пляжного отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.534625,
+          51.406866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3150e760-0a0f-48ca-9b6a-47045bf01681",
+      "properties": {
+        "name": "Солдатский пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.987129,
+          53.398853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "734e8cd0-1599-45af-8e5c-1b9071156e48",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.215401,
+          52.934797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d4936a64-9152-4176-80ee-804fc6852857",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "3.3",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.95624,
+          52.790315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96a10eb7-dd84-4b33-8f27-2cb78ba0dfb0",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.32899,
+          53.038298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "68220c8f-5761-4138-abc8-24764a66c27d",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.16363,
+          52.910379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d65d16d9-af59-488d-96d4-84f3759df8b0",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "3.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.281561,
+          52.994879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ec6a746f-fdd8-4bbc-9272-a2aaa5c860b5",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.546228,
+          51.648891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "00005405-6a1d-4c74-af9c-fbeccdd4c6b2",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.610895,
+          52.126153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8b1f1393-110c-4b12-bcb2-6932091a53e9",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.002894,
+          53.456023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22e4b3f5-6e05-4527-898a-38e0e58e8dfa",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.216726,
+          52.942165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "baccb8dc-c5e8-4d50-90fa-630deb2d7c4a",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.123396,
+          51.904231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e2c90169-e4b3-4109-93e6-4aaf336b463f",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.976104,
+          51.776301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e8047683-fbd7-4255-911d-c165fd2634be",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.186611,
+          52.876017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "67baec7f-0402-400c-857d-748ec5cf975b",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.650298,
+          52.710513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b92f81a1-b5b9-4ad9-a851-d904f5e87417",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.976315,
+          52.816894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "60952346-e7ce-4224-8bf0-ab9685056efb",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.988018,
+          53.421351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a1c57fc9-6a73-4937-8cee-4ec7388a22a8",
+      "properties": {
+        "name": "Пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.989875,
+          53.431398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3a097b07-d5f7-4310-8333-47a143cac876",
+      "properties": {
+        "name": "Галечный пляж",
+        "subcategory": "Пляжи / Зоны пляжного отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.139451,
+          52.564373
+        ]
+      }
+    }
+  ]
+}

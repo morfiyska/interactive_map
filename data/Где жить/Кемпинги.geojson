@@ -1,0 +1,407 @@
+{
+  "type": "FeatureCollection",
+  "name": "Кемпинги",
+  "style": {
+    "color": "#acacb9",
+    "radius": 16,
+    "icon": "camping-svgrepo-com.svg"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "a0f8172d-70dc-45de-b03e-41689dcfc31c",
+      "properties": {
+        "name": "Байкальский ветер, база отдыха",
+        "subcategory": "Аренда беседок, Базы отдыха, Водные прогулки, Кемпинги, Конференц-залы / Переговорные комнаты",
+        "rating": "4.3",
+        "site": "http://www.baikalw.ru",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.793352,
+          53.066134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "30ea7d22-898b-4f54-9c78-284554bdee5d",
+      "properties": {
+        "name": "Наратэй, кемпинг-отель",
+        "subcategory": "Базы отдыха, Кемпинги",
+        "rating": "4.0",
+        "site": "http://naratey-baikal.ru, http://t.me/narateyhotel",
+        "hours": "Круглосуточно (администрация: пн-вс 9:00-23:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.844146,
+          53.026488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "114dfc54-a87a-4fe9-a042-f459f0c3c182",
+      "properties": {
+        "name": "Твоя Стихия, база отдыха",
+        "subcategory": "Базы отдыха, Бани / Сауны, Кемпинги",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.272633,
+          51.757575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7a3507e1-3f57-4cb5-b330-d0bd9474553b",
+      "properties": {
+        "name": "Усадьба Благодатная, экопарк с банным комплексом",
+        "subcategory": "Аренда беседок, Базы отдыха, Бани / Сауны, Кемпинги",
+        "rating": "4.8",
+        "site": "http://usadbablago38.2gis.biz",
+        "hours": "Ежедневно с 13:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.092522,
+          52.355421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d4ab23f9-bc04-4fe1-9038-924dc6588f34",
+      "properties": {
+        "name": "Большая медведица, кемпинг-площадка",
+        "subcategory": "Кемпинги",
+        "rating": "2.5",
+        "site": "http://baikal2020.ru",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.851185,
+          53.031144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8dcf6197-fcf6-48c1-b035-193aa2c04a17",
+      "properties": {
+        "name": "Фактория, кемпинг",
+        "subcategory": "Кемпинги",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.414228,
+          52.03891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1da991b1-ec7c-4498-9474-9ed465c4a474",
+      "properties": {
+        "name": "Dance Лето",
+        "subcategory": "Кемпинги",
+        "rating": "nan",
+        "site": "http://danceleto.ru",
+        "hours": "Пн: с 11:00 до 19:00, Вт: с 11:00 до 19:00, Ср: с 11:00 до 19:00, Чт: с 11:00 до 19:00, Пт: с 11:00 до 19:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.401,
+          52.050508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "704fb750-d601-41d6-9911-baf02f0a5314",
+      "properties": {
+        "name": "Большая медведица, кемпинг-площадка",
+        "subcategory": "Кемпинги",
+        "rating": "2.5",
+        "site": "http://baikal2020.ru",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.851185,
+          53.031144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bc8e8317-b3d1-42cd-8c90-4b6b34c01720",
+      "properties": {
+        "name": "Кемпинг",
+        "subcategory": "Кемпинги",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.576044,
+          51.825004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "87d0a9cf-bbe9-4d92-9886-57aa78dfa3ad",
+      "properties": {
+        "name": "Мягкая карга, кемпинг",
+        "subcategory": "Кемпинги",
+        "rating": "4.1",
+        "site": "http://zapovednoe-podlemorye.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.892001,
+          53.587424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96b36f76-3a04-4eb9-ade3-8d921dd25c40",
+      "properties": {
+        "name": "Кемпинг-отель",
+        "subcategory": "Аренда коттеджей / гостевых домов, Кемпинги",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.4238,
+          51.910337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1be3be44-5875-44b7-9f20-a4980db908cb",
+      "properties": {
+        "name": "Лукоморье",
+        "subcategory": "Базы отдыха, Кемпинги",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.280009,
+          52.981653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "484d23d8-eaf0-4030-be9d-922682a8672c",
+      "properties": {
+        "name": "Ёлочка, кемпинг-парк",
+        "subcategory": "Базы отдыха, Кемпинги",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.280243,
+          52.982562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c95825b0-1522-444d-beb8-e3969463b927",
+      "properties": {
+        "name": "Церковь, кемпинг",
+        "subcategory": "Кемпинги",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи: пн-вс)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.985423,
+          53.476548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "156cb651-a966-4965-b4f7-d24f1ff89d85",
+      "properties": {
+        "name": "Кемпинг, п. Монахово",
+        "subcategory": "Кемпинги",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 22:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.009058,
+          53.665736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b383d573-fa09-484d-b049-c9aa8e95b273",
+      "properties": {
+        "name": "Кемпинг",
+        "subcategory": "Кемпинги",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 22:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.0462,
+          53.705729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "885f9bfa-69bc-4ff4-a43f-ff74f23d0e99",
+      "properties": {
+        "name": "Бухта Сорожья, кемпинг",
+        "subcategory": "Кемпинги",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 22:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.033641,
+          53.694915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ef85714c-4943-4c87-b8fe-403233c8da90",
+      "properties": {
+        "name": "Качели, кемпинг",
+        "subcategory": "Кемпинги",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.983972,
+          53.482954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10766b72-9b07-496a-8f94-9f68b30dae47",
+      "properties": {
+        "name": "Zula, глэмпинг отель",
+        "subcategory": "Базы отдыха, Кемпинги",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.529947,
+          51.405921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "194c33eb-15d0-443c-853a-706288f58f3c",
+      "properties": {
+        "name": "Щучье озеро, кемпинг отель",
+        "subcategory": "Базы отдыха, Кемпинги",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.539345,
+          51.405997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dccaa324-932d-4d82-ba84-48cfb89945a4",
+      "properties": {
+        "name": "Городок, кемпинг",
+        "subcategory": "Кемпинги",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 22:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.300133,
+          53.070123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eed526c1-1e50-420c-99ae-dd19764248ff",
+      "properties": {
+        "name": "Городок, кемпинг",
+        "subcategory": "Кемпинги",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 22:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.431271,
+          53.170649
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,6040 @@
+{
+  "type": "FeatureCollection",
+  "name": "Бани Сауны",
+  "style": {
+    "color": "blue",
+    "radius": 6
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "bc66ecab-e7c2-4f99-972c-89aeeb8de760",
+      "properties": {
+        "name": "Бигма, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.4",
+        "site": "http://t.me/saunabigma",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.339909,
+          52.254804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "afdd0359-efa3-4b68-90cf-2dfaa1f51121",
+      "properties": {
+        "name": "Голден гавас, развлекательно-оздоровительный центр",
+        "subcategory": "SPA-процедуры, Бани / Сауны",
+        "rating": "4.6",
+        "site": "http://golden-gavas.ru",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.328807,
+          52.267778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "23e8edcd-2a9a-4770-bd63-08b7977ffcd9",
+      "properties": {
+        "name": "Универ, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.244908,
+          52.25396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "143fef0f-c891-43e1-a14a-0561dd6f1c25",
+      "properties": {
+        "name": "Лабиринт, развлекательный комплекс",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.7",
+        "site": "http://labirint-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.272211,
+          52.290122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c1a660d5-bcbd-460e-b6c5-67585d0cea4b",
+      "properties": {
+        "name": "Луна, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "3.8",
+        "site": "http://saunairkutsk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.160274,
+          52.369205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "abad526d-2513-403e-a1ad-01e849236284",
+      "properties": {
+        "name": "Марадона, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.9",
+        "site": "http://maradona-sauna.ru",
+        "hours": "Ежедневно с 12:00 до 07:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.326985,
+          52.258603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "205d9b2a-1f18-41a8-854f-6c2777e13aea",
+      "properties": {
+        "name": "Тройка, центр отдыха",
+        "subcategory": "Бани / Сауны, Массажист",
+        "rating": "4.7",
+        "site": "http://www.troyka-center.su",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.355838,
+          52.259207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "985f9177-2f58-4e04-9a43-1cc31ac2da4c",
+      "properties": {
+        "name": "Афродита, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "3.0",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.178177,
+          52.35061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0c0e08da-b27b-4973-b9e4-ee4164ec26fb",
+      "properties": {
+        "name": "Гольфстрим, банный комплекс",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.3",
+        "site": "http://golfstrim38.ru",
+        "hours": "Круглосуточно (мужские дни: вт-чт 14:00-22:00; женские дни: пт 12:00-22:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.324368,
+          52.255113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0b2c91d1-5a05-4ce6-bffe-cc3d9b155366",
+      "properties": {
+        "name": "Звезда, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.8",
+        "site": "http://zvezdahotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.336548,
+          52.277798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c38b767c-233a-43c5-a3c2-4d8795d379aa",
+      "properties": {
+        "name": "Академическая, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.7",
+        "site": "http://academichotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.271079,
+          52.248818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0d8bf2f0-f116-477a-b593-05d84ef81fc3",
+      "properties": {
+        "name": "Роса, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.313655,
+          52.291728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "096937fe-d1ff-4ebb-b3c3-da414c548ec7",
+      "properties": {
+        "name": "Лазурный берег, ресторанно-гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Банкетные залы, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.5",
+        "site": "http://lbirk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.337477,
+          52.253437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cfd15125-0594-4c3f-8360-52a51b935236",
+      "properties": {
+        "name": "Лемур, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289811,
+          52.285314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "644999d3-918e-4db9-9ff8-aacc41c15634",
+      "properties": {
+        "name": "Воробьевы горы на Байкале, представительство центра отдыха",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.8",
+        "site": "http://onbaikal.ru",
+        "hours": "Пн: с 10:00 до 19:00, Вт: с 10:00 до 19:00, Ср: с 10:00 до 19:00, Чт: с 10:00 до 19:00, Пт: с 10:00 до 19:00, Сб: с 11:00 до 15:00, Вс: выходной (по предварительной записи: сб, вс)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.279382,
+          52.284288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a03318a5-765c-4699-ab12-19674493dc95",
+      "properties": {
+        "name": "Ozon, оздоровительный центр",
+        "subcategory": "Бани / Сауны, Барокамера, Массажист, Тренажёрные залы, Фитнес-клубы",
+        "rating": "4.0",
+        "site": "http://www.ozon-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.201824,
+          52.261084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1b406a71-d193-4daf-8f17-284c3d3d60f5",
+      "properties": {
+        "name": "Водолей, центр отдыха",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.4",
+        "site": "http://vodolei-irkutsk.ru",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.333579,
+          52.276302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c8f24381-46ef-4356-9211-97168bb629bb",
+      "properties": {
+        "name": "Пеликан, SPA-клуб",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.5",
+        "site": "http://pelikan-spa.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.332705,
+          52.254261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "564f089c-97c5-409a-a77a-ffa4f93a242a",
+      "properties": {
+        "name": "Восточная фантазия, салон красоты",
+        "subcategory": "Бани / Сауны, Косметолог, Массажист, Ногтевые студии, Парикмахерские, Услуги по оформлению ресниц / бровей",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.276366,
+          52.28572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4be7ae3c-8fd9-4c87-b9e0-3c17a2fea3c7",
+      "properties": {
+        "name": "Bathhouse, центр отдыха",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.8",
+        "site": "http://bathhouse.2gis.biz",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.283632,
+          52.276437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "24cd9de0-be5d-421a-b3f0-363f9bb81cc9",
+      "properties": {
+        "name": "Пилот, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "2.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.209579,
+          52.350448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c8e0c5ec-c3a5-46a8-b46f-7d6c7ef37d79",
+      "properties": {
+        "name": "Ангара, оздоровительный центр",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.282041,
+          52.287501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2d4a3e62-92ce-4517-b98d-3b95ec47d9bb",
+      "properties": {
+        "name": "Государственное училище (колледж) олимпийского резерва г. Иркутска, Бассейн",
+        "subcategory": "Аквааэробика, Аренда спортивных площадок, Бани / Сауны, Бассейны, Спортивные секции",
+        "rating": "3.8",
+        "site": "http://baikal-arena.com/obekty/bassejn",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.362171,
+          52.255632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7eb04fe4-5feb-4eae-a94e-25c68e3093eb",
+      "properties": {
+        "name": "Арт-салон",
+        "subcategory": "SPA-процедуры, Бани / Сауны, Визажисты, Косметолог, Массажист, Ногтевые студии, Парикмахерские, Соляные комнаты, Услуги по оформлению ресниц / бровей",
+        "rating": "4.5",
+        "site": "http://artirk.ru, http://t.me/art_irk38",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289469,
+          52.279914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e6afc26c-036f-4569-b161-a41b9ff6e675",
+      "properties": {
+        "name": "Байкальские сезоны, парк-отель",
+        "subcategory": "Аренда беседок, Бани / Сауны, Банкетные залы, Гостиницы",
+        "rating": "4.6",
+        "site": "http://t.me/baikalseasons_best, http://www.baikal-seasons.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.805118,
+          51.907147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "350c64d0-24e9-443b-88a0-15f15f023796",
+      "properties": {
+        "name": "Баня №2",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: с 12:00 до 22:00, Чт: с 12:00 до 22:00, Пт: с 12:00 до 22:00, Сб: с 12:00 до 22:00, Вс: с 12:00 до 22:00 (касса: 12:00-21:00; женские дни: пт, сб, вс)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.23458,
+          52.349775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9d33637e-8a5f-48f1-9178-16f415f65ef8",
+      "properties": {
+        "name": "Сеул, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.30139,
+          52.287474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "700fea3d-4a4d-441b-99e7-e09988f77aba",
+      "properties": {
+        "name": "Тонус, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.30549,
+          52.264919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a30a02b4-195d-4e52-8826-cb75bc2898ec",
+      "properties": {
+        "name": "Вечерний, оздоровительно-развлекательный комплекс",
+        "subcategory": "Бани / Сауны, Бильярдные залы, Тренажёрные залы, Фитнес-клубы",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 05:00 (сауна: пн-вс 10:00-6:00; по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.208882,
+          52.329358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9ba4fc40-9d16-4317-81ac-e45e9ad02103",
+      "properties": {
+        "name": "Байкал-Арена, спортивная база отдыха",
+        "subcategory": "Аренда беседок, Аренда спортивных площадок, Базы отдыха, Бани / Сауны",
+        "rating": "4.0",
+        "site": "http://camp.baikal-arena.com/",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.463348,
+          52.236669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "662bafdf-b07d-4f5d-90b0-594383ae0564",
+      "properties": {
+        "name": "Оздоровительный центр",
+        "subcategory": "Бани / Сауны, Бассейны, Тренажёрные залы",
+        "rating": "4.3",
+        "site": "http://xn--38-dlchgakkktwcdca5aj3ag1f5eua.xn--p1ai",
+        "hours": "Ежедневно с 09:45 до 21:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.09609,
+          52.215735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "92e588a7-f2ba-4316-92a3-2dd5f69fa547",
+      "properties": {
+        "name": "Русский чай, центр отдыха",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Круглосуточно (кафе: пн-вс 10:00-21:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.082984,
+          52.214291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b9605078-d5be-466c-8efc-685d27322c07",
+      "properties": {
+        "name": "Звезда, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "3.6",
+        "site": "http://saunairkutsk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.183422,
+          52.348222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6763f8f2-34d6-4dc8-af43-3ffee2876834",
+      "properties": {
+        "name": "Банька, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.085378,
+          52.212409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "993ddf6c-45cb-4e2d-84a8-2464756c3d46",
+      "properties": {
+        "name": "Нептун, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "2.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.103675,
+          52.207512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c08bb712-b79f-49c7-8272-2642059e2f5b",
+      "properties": {
+        "name": "Ban & Bass, центр отдыха",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.293687,
+          52.319618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "277ca3cb-ffc6-41e0-8a08-22ea5415c4d0",
+      "properties": {
+        "name": "Учебный физкультурно-оздоровительный центр, ИРНИТУ",
+        "subcategory": "Бани / Сауны, Кардиолог, Массажист, Тренажёрные залы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 22:00, Вт: с 08:00 до 22:00, Ср: с 08:00 до 22:00, Чт: с 08:00 до 22:00, Пт: с 08:00 до 22:00, Сб: с 09:00 до 22:00, Вс: с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.269119,
+          52.260585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6b52762d-a373-46d3-a065-918e9a522c4d",
+      "properties": {
+        "name": "Альпари, гостиница",
+        "subcategory": "Бани / Сауны, Банкетные залы, Гостиницы",
+        "rating": "4.5",
+        "site": "http://www.alpari-hotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.308213,
+          52.231942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ea5dc750-dd59-4718-8923-1b8bf638c74b",
+      "properties": {
+        "name": "Релакс, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.318843,
+          52.284635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e4651ce0-6ba6-4c12-8cdd-aabb0d2abb6f",
+      "properties": {
+        "name": "Лотос, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.6",
+        "site": "http://sauna-lotos.ru",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.311919,
+          52.279625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8e4da5db-fd8b-489d-a604-e6d04d59e8af",
+      "properties": {
+        "name": "Баня на Мухиной",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.3",
+        "site": "http://bpt38.tilda.ws",
+        "hours": "Пн: выходной, Вт: выходной, Ср: с 15:00 до 22:00, Чт: с 15:00 до 22:00, Пт: с 15:00 до 22:00, Сб: с 10:00 до 22:00, Вс: с 10:00 до 22:00 (касса: ср-пт 15:00-21:00; сб-вс 10:00-21:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.311127,
+          52.228077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6a739dc5-9c3a-40e4-82e6-9b6b9ab34d37",
+      "properties": {
+        "name": "Ташир, центр отдыха",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.255967,
+          52.265293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3feb6962-d1a6-4833-83b9-df25ec7fb36b",
+      "properties": {
+        "name": "Саяны, гостиница",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "2.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.227417,
+          52.253283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "50a3cd3d-e264-41bd-b41f-a50a119afe56",
+      "properties": {
+        "name": "Фрегат, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.8",
+        "site": "http://fregat-hotel.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.32743,
+          52.253356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "05db46c0-0b16-4fd1-a7dd-d76cba6959e5",
+      "properties": {
+        "name": "Лагуна, центр отдыха",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.308227,
+          52.229511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3569c886-7046-4778-aef5-d267532ec6e7",
+      "properties": {
+        "name": "Радуга, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "3.7",
+        "site": "http://saunairkutsk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.20305,
+          52.33994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e196d53a-51b2-4587-b555-9f75b61c83cc",
+      "properties": {
+        "name": "ТЕРРА",
+        "subcategory": "Бани / Сауны, Бильярдные залы",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.330955,
+          52.265438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b90e684a-73a9-48a6-97f3-ba02e46241e0",
+      "properties": {
+        "name": "Алания, гостиница",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.5",
+        "site": "http://alania-listvyanka.pro-hotel1.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.841651,
+          51.865483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4ec089af-9adf-4918-a040-7a9dc9ad3bb6",
+      "properties": {
+        "name": "Гостевой дом",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "4.9",
+        "site": "http://sauna-v-irkutske.ru",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.29918,
+          52.283329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ac7e2412-bcfd-407a-b1fb-640356fd371d",
+      "properties": {
+        "name": "Феникс, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.334254,
+          52.256808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "90cd4e0f-2c6e-407e-98a0-95ecef4ce167",
+      "properties": {
+        "name": "Лукоморье, база отдыха",
+        "subcategory": "Аренда беседок, Базы отдыха, Бани / Сауны",
+        "rating": "4.4",
+        "site": "http://lukomorie-rest.ru",
+        "hours": "Ежедневно с 12:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.002795,
+          52.230416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "19895b10-1c8e-4665-a4a9-baef6ab864cc",
+      "properties": {
+        "name": "Pilot, развлекательный центр",
+        "subcategory": "Авиатакси, Аренда беседок, Аренда коттеджей / гостевых домов, Базы отдыха, Бани / Сауны, Банкетные залы, Бассейны, Гостиницы, Детские игровые залы",
+        "rating": "4.8",
+        "site": "http://pilots7.com, http://www.helicopter38.ru",
+        "hours": "Пн: с 12:00 до 18:00, Вт: с 12:00 до 18:00, Ср: с 12:00 до 18:00, Чт: с 12:00 до 18:00, Пт: с 10:00 до 21:00, Сб: с 10:00 до 21:00, Вс: с 10:00 до 21:00 (по предварительной записи: пн-ср)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.127801,
+          52.256497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6dba4602-2692-4b40-a51b-dfb790f7352d",
+      "properties": {
+        "name": "Бригантина, оздоровительный центр",
+        "subcategory": "Бани / Сауны",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "Ежедневно с 18:00 до 06:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.340652,
+          52.289229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cf92883f-9696-46f3-8039-352f38410481",
+      "properties": {
+        "name": "Крестовая падь, гостинично-ресторанный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.9",
+        "site": "http://krestovayapad.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.859941,
+          51.857895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "28a3b9e0-0582-41c0-b435-959c4ab10bd7",
+      "properties": {
+        "name": "Жар де пар, народная сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.307572,
+          52.327279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a7179127-a404-4030-b35e-e37005f27dbf",
+      "properties": {
+        "name": "7 пятниц, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.296301,
+          52.235071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4b0b79db-a482-4bdc-8487-989aaf439076",
+      "properties": {
+        "name": "Байкал 21, центр отдыха",
+        "subcategory": "Аренда беседок, Бани / Сауны, Гостиницы",
+        "rating": "4.2",
+        "site": "http://baikal21.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.508484,
+          52.186177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ad8ac60d-9b34-4512-86d0-23f001dbcb38",
+      "properties": {
+        "name": "Городская баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Пн: с 12:00 до 19:00, Вт: выходной, Ср: выходной, Чт: с 12:00 до 20:00, Пт: с 12:00 до 20:00, Сб: с 08:00 до 20:00, Вс: с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.08571,
+          52.212315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6d1aedc3-77de-4d9a-830b-3fbd5020d206",
+      "properties": {
+        "name": "Флагман-Листвянка, гостиничный комплекс",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "4.6",
+        "site": "http://app.samosale.ru/flagman-hotel",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.829387,
+          51.896378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "384dae00-8d77-4d2f-a745-ce9612cd451a",
+      "properties": {
+        "name": "Даурия, гостиница",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.8",
+        "site": "http://dauriahotel.ru",
+        "hours": "Ежедневно с 08:00 до 22:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.863252,
+          51.859663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "60f849a4-a7b7-41ef-8bce-8201b79ec378",
+      "properties": {
+        "name": "Легенда Байкала, отель",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.4",
+        "site": "http://t.me/legend_of_baikal, http://www.legend-of-baikal.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.828687,
+          51.872729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "157f41cf-743a-4b3b-b1b5-5f6e498c6bb6",
+      "properties": {
+        "name": "Лагуна, центр отдыха",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Бани / Сауны, Прокат водно-спортивной техники",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Пн: с 12:00 до 22:00, Вт: с 12:00 до 22:00, Ср: с 12:00 до 22:00, Чт: с 12:00 до 22:00, Пт: с 12:00 до 22:00, Сб: с 12:00 до 23:00, Вс: с 12:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.122969,
+          52.247927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14d9d22b-9cc5-4b3f-879e-baeba05b5ae3",
+      "properties": {
+        "name": "Баня №10",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Пн: с 13:00 до 21:00, Вт: выходной, Ср: выходной, Чт: с 11:00 до 21:00, Пт: с 11:00 до 21:00, Сб: с 09:00 до 21:00, Вс: с 09:00 до 21:00 (касса: пн 13:00-20:00; чт-пт 11:00-20:00; сб-вс 9:00-20:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.305787,
+          52.265515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a7281f83-9bce-444d-b53d-978f57644a42",
+      "properties": {
+        "name": "Натали, мини-отель",
+        "subcategory": "Базы отдыха, Бани / Сауны",
+        "rating": "4.6",
+        "site": "http://natalie-hotel-baikal.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.878454,
+          51.862037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "09f0f5c2-d7d5-4742-935f-3ab011ff2331",
+      "properties": {
+        "name": "Маяк, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы, Конференц-залы / Переговорные комнаты, Организация праздников",
+        "rating": "4.6",
+        "site": "http://mayakhotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.873028,
+          51.847404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "703d276d-0972-49b3-9610-b5057e51ba40",
+      "properties": {
+        "name": "Анастасия, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.4",
+        "site": "http://baikalhotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.824869,
+          51.89176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "68b0774f-ccc8-46c4-8b00-89abb7d3dab5",
+      "properties": {
+        "name": "Любава, центр отдыха",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны, Водные прогулки, Рыболовные центры",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Круглосуточно (баня: пн-вс 12:00-00:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.829399,
+          51.88512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "217fb466-658d-4e70-b169-235bc98b9bfa",
+      "properties": {
+        "name": "Спэйс, центр отдыха",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.341995,
+          52.282767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11337ce6-0e3c-49d8-b290-20ed0d029c8d",
+      "properties": {
+        "name": "Усадьба Демидова, гостиница",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "4.8",
+        "site": "http://usadba-demidova.ru",
+        "hours": "Ежедневно с 10:00 до 20:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.862388,
+          51.855419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26b80aa9-6372-4c37-ad3c-a510640ed726",
+      "properties": {
+        "name": "У Пана, база отдыха",
+        "subcategory": "Базы отдыха, Бани / Сауны",
+        "rating": "4.5",
+        "site": "http://upana.ru",
+        "hours": "Ежедневно с 09:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.412674,
+          53.227298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "66ca29be-ade0-47f8-95a3-c5ed9b4f3cce",
+      "properties": {
+        "name": "Баснинские Бани",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.4",
+        "site": "http://basninskiebani.ru",
+        "hours": "Пн: с 12:00 до 23:00, Вт: с 12:00 до 23:00, Ср: с 12:00 до 23:00, Чт: с 12:00 до 23:00, Пт: с 12:00 до 23:00, Сб: с 10:00 до 23:00, Вс: с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.285221,
+          52.285869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "befd2593-640c-4dbb-b2f9-3e2299103f8a",
+      "properties": {
+        "name": "Саяны, гостиница",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.306277,
+          52.21976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b542daf4-fc08-45c9-a1ee-393af04af142",
+      "properties": {
+        "name": "Блеск, банный комплекс",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.8",
+        "site": "http://70000001007130281.2gis.biz",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.309739,
+          52.270455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "70108f8e-0f4b-421b-8e6d-584f1f2de9bf",
+      "properties": {
+        "name": "999, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.298909,
+          52.282647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "733e1fc3-30b1-4a1e-a5b4-09ab5ca28018",
+      "properties": {
+        "name": "Ключ, развлекательный комплекс",
+        "subcategory": "Бани / Сауны, Банкетные залы",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.207369,
+          52.269729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6fa307ec-6dff-4238-9481-22803c815cd3",
+      "properties": {
+        "name": "Весна, клиника аппаратно-врачебной косметологии, СПА-центр и салон красоты",
+        "subcategory": "SPA-процедуры, Бани / Сауны, Визажисты, Дерматолог, Косметолог, Массажист, Ногтевые студии, Парикмахерские, Студии загара",
+        "rating": "4.7",
+        "site": "http://vesnaspa.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.286025,
+          52.270813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7bc6c6f6-b7cc-4319-abcf-59159a4e989c",
+      "properties": {
+        "name": "САНАМИ, оздоровительно-банный комплекс",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.7",
+        "site": "http://sanami38.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.228672,
+          52.341666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b4356f95-3dbe-4825-a4e1-73bf9e04f41d",
+      "properties": {
+        "name": "Сауна на Джамбула",
+        "subcategory": "Бани / Сауны",
+        "rating": "3.5",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.251599,
+          52.290758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "94866602-a72c-4c14-90f8-915cdf294adb",
+      "properties": {
+        "name": "Аврора, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.6",
+        "site": "http://clck.ru/3CrdEo",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.294619,
+          52.288105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e590b097-68db-49a0-91bc-dbaf22a5d5d9",
+      "properties": {
+        "name": "Медвежья сауна, баня и сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.0",
+        "site": "http://sauna38.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.299432,
+          52.322012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b7e0c328-b37e-41d0-bc95-a04667dc7300",
+      "properties": {
+        "name": "Джуманджи, народная сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.300315,
+          52.311949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "44685123-f9ff-44a5-bbf4-08e1575a5010",
+      "properties": {
+        "name": "Поляна, русская баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.8",
+        "site": "http://banya-irk.ru",
+        "hours": "Пн: с 12:00 до 02:00, Вт: с 12:00 до 02:00, Ср: с 12:00 до 02:00, Чт: с 12:00 до 02:00, Пт: с 12:00 до 02:00, Сб: с 10:00 до 02:00, Вс: с 10:00 до 02:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.282894,
+          52.251008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0760037b-5467-4228-ad18-0c79bf9e81e7",
+      "properties": {
+        "name": "Байкальский рай, гостиница",
+        "subcategory": "Аренда беседок, Бани / Сауны, Гостиницы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.726362,
+          51.732356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "435818fa-1969-405c-8306-96d9c64dd07c",
+      "properties": {
+        "name": "Елочка, база отдыха",
+        "subcategory": "Аренда беседок, Базы отдыха, Бани / Сауны, Банкетные залы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.2",
+        "site": "http://elochka-otel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.491679,
+          52.17736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2d2f4328-981f-4dfb-b6cf-1c6dd1090b68",
+      "properties": {
+        "name": "Илимские Бани, банный комплекс",
+        "subcategory": "SPA-процедуры, Бани / Сауны, Массажист, Термальные комплексы, Тонизирующие салоны",
+        "rating": "4.8",
+        "site": "http://irkbani.ru",
+        "hours": "Пн: выходной, Вт: с 12:00 до 23:00, Ср: с 12:00 до 23:00, Чт: с 12:00 до 23:00, Пт: с 12:00 до 23:00, Сб: с 11:00 до 23:00, Вс: с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.327216,
+          52.251745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "901f1b56-d169-44e6-953a-b7e2814290ef",
+      "properties": {
+        "name": "Березовый, баня на дровах",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.4",
+        "site": "http://banya-irkutsk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.250954,
+          52.229345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e3dbaf44-57ab-4bee-b408-5412ef8df94a",
+      "properties": {
+        "name": "Amor, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.089478,
+          52.059391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b6c86eb8-076b-4dbf-9a7b-97e428b4df5c",
+      "properties": {
+        "name": "Золотой Лев, банный комплекс",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.315772,
+          52.314974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "75eee871-54d3-4e68-b9c2-a1f5b242764d",
+      "properties": {
+        "name": "Солнце, оздоровительный центр",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.359361,
+          52.257612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "01fda7c8-9436-457b-8eb6-ed2ad0581fcf",
+      "properties": {
+        "name": "Ski-let, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.8",
+        "site": "http://skilethotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.145859,
+          51.523686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2e721c52-9e4d-4743-ac91-6ce3c473b534",
+      "properties": {
+        "name": "BaikalSki, хостел",
+        "subcategory": "Бани / Сауны, Хостелы",
+        "rating": "4.7",
+        "site": "http://baikalski.net",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.150539,
+          51.522362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7bbd419a-2bf9-4386-b800-ba4bb58fde8d",
+      "properties": {
+        "name": "Вепское Поместье, база отдыха",
+        "subcategory": "Базы отдыха, Бани / Сауны",
+        "rating": "4.6",
+        "site": "http://baikal-vepstur.ru, http://t.me/vepsskoe",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.127665,
+          51.513478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "72e16478-8322-47a5-bd84-86a921f8db73",
+      "properties": {
+        "name": "Звезда кочевника, отель",
+        "subcategory": "Бани / Сауны, Гостиницы, Организация активных туров",
+        "rating": "4.5",
+        "site": "http://hotelzvezdakochevnika.com",
+        "hours": "Ежедневно с 09:00 до 20:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.359435,
+          53.197926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c84879c3-b5a0-4776-be26-d33112751058",
+      "properties": {
+        "name": "Курма, центр",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Бани / Сауны, Конференц-залы / Переговорные комнаты",
+        "rating": "4.8",
+        "site": "http://kurmacentr.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.437476,
+          52.062946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1b850ab3-add9-438b-ab4b-73a0665979bb",
+      "properties": {
+        "name": "Триумф, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи )"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.320742,
+          52.253826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0f8b4a26-792a-4384-bc1b-018f409ccbf0",
+      "properties": {
+        "name": "Баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 02:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.190299,
+          52.342516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ba0d2548-a678-4ace-96f8-360ddfa8e216",
+      "properties": {
+        "name": "Никола, отель",
+        "subcategory": "Бани / Сауны, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.8",
+        "site": "http://nicolahotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.824993,
+          51.892196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c4a5911c-cbd3-43c0-9e90-aede620b2e83",
+      "properties": {
+        "name": "Экология, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.078443,
+          52.194087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5ec312dd-d5b2-42fe-aba9-fd74a6597419",
+      "properties": {
+        "name": "Гриль-парк",
+        "subcategory": "Аренда беседок, Бани / Сауны",
+        "rating": "4.9",
+        "site": "http://grillpark.xn--80aatfgkndeix6k.xn--p1ai/",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.229766,
+          52.285552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "47dc3f9a-c243-4626-a0ea-d40326fe3315",
+      "properties": {
+        "name": "Георгиевские бани, экокомплекс",
+        "subcategory": "SPA-процедуры, Бани / Сауны, Массажист",
+        "rating": "4.8",
+        "site": "http://georgievskiy-irk.ru, http://t.me/+rzP34AUi3w4zYmIy",
+        "hours": "Пн: с 11:30 до 21:00, Вт: с 11:30 до 21:00, Ср: с 11:30 до 21:00, Чт: с 11:30 до 23:00, Пт: с 11:30 до 23:00, Сб: с 11:30 до 23:00, Вс: с 11:30 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.361851,
+          52.260594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e272e829-8c1d-4639-889d-76a943580f36",
+      "properties": {
+        "name": "Амстердам, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.7",
+        "site": "http://amsterdamsauna.2gis.biz",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290422,
+          52.279255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11df4655-b337-437a-a041-03a22a841c50",
+      "properties": {
+        "name": "Империал, центр отдыха",
+        "subcategory": "Бани / Сауны",
+        "rating": "3.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.26745,
+          52.334951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6381dffa-f719-448f-8133-e1a4e5b8442a",
+      "properties": {
+        "name": "Бурдугуз, банный клуб",
+        "subcategory": "Бани / Сауны",
+        "rating": "3.6",
+        "site": "http://burduguz.ru",
+        "hours": "Ежедневно с 10:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.603419,
+          52.057896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e6bbc4ac-79d4-4c6d-b44b-1944aeb9d8db",
+      "properties": {
+        "name": "Место под солнцем, семейный СПА-центр",
+        "subcategory": "SPA-процедуры, Бани / Сауны, Массажист",
+        "rating": "4.6",
+        "site": "http://spa38.ru",
+        "hours": "Ежедневно с 11:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.349937,
+          52.257069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a512c4a8-4299-45f1-8f22-ea575f260b58",
+      "properties": {
+        "name": "Ева, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.219829,
+          52.343998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6bacfc42-419a-4199-b5ef-a5e15e50e84b",
+      "properties": {
+        "name": "Смоленщина, мини-отель",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.150602,
+          52.249216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "618f041e-c762-4e2b-a4a7-b44a8eac8892",
+      "properties": {
+        "name": "Александровский двор, гостевой дом",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "4.8",
+        "site": "http://bookonline24.ru/aleksandrovskij-dvor",
+        "hours": "Ежедневно с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.193078,
+          52.402639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13f63c69-3116-41f2-be9d-80f2dcb4d49d",
+      "properties": {
+        "name": "Купидон Листвянка, бани с купелями",
+        "subcategory": "Аренда беседок, Бани / Сауны, Банкетные залы, Караоке-залы",
+        "rating": "4.9",
+        "site": "http://bani-kupidon.tilda.ws/",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.818529,
+          51.905019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f849f928-ab3d-4aa4-8fa0-1959bd5c3f82",
+      "properties": {
+        "name": "Монако, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.146834,
+          52.352482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a263454d-66f4-47d1-adae-d3710ee2dc71",
+      "properties": {
+        "name": "Байкал-Северное море, SPA-комплекс",
+        "subcategory": "SPA-процедуры, Бани / Сауны",
+        "rating": "4.1",
+        "site": "http://northseahotel.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.320833,
+          52.252016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "522558d7-8d3f-42b0-bb71-30fa1d52989a",
+      "properties": {
+        "name": "Иркутская жемчужина, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 02:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.362693,
+          52.331235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5f1da264-7458-4f90-9ace-a265b8761ecb",
+      "properties": {
+        "name": "Шарм, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.0",
+        "site": "http://sharm38.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.256827,
+          52.269761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a249beab-d1ad-4b31-9e1e-9a8a9bbb6de8",
+      "properties": {
+        "name": "Городская баня №5",
+        "subcategory": "Бани / Сауны, Массажист",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Пн: с 12:00 до 22:00, Вт: выходной, Ср: с 12:00 до 22:00, Чт: с 12:00 до 22:00, Пт: с 12:00 до 22:00, Сб: с 09:00 до 22:00, Вс: с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.233353,
+          52.259436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cd9125e6-a7a1-4899-9344-dbb57b92c28d",
+      "properties": {
+        "name": "Баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно (зимний период: пн-вс 9:00-21:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.063319,
+          52.198226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2709566-c163-4502-8018-e88cc1f15564",
+      "properties": {
+        "name": "БанБаныч, баня на дровах",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.9",
+        "site": "http://t.me/banbanich_irkutsk",
+        "hours": "Ежедневно с 10:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.25571,
+          52.238624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d0954d21-8f6a-44b5-a88c-1565e68c5bb9",
+      "properties": {
+        "name": "Белый соболь, парк-отель",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.8",
+        "site": "http://wshotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.119657,
+          51.510797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c2fda497-d00b-4ce1-9c85-b7051569057b",
+      "properties": {
+        "name": "Тайга, отель",
+        "subcategory": "Бани / Сауны, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.8",
+        "site": "http://taigahotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.269776,
+          52.287967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3fbd9d34-8a60-48c4-9fc5-b38ccefe6b04",
+      "properties": {
+        "name": "Сибирь, баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "2.8",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: с 12:00 до 21:00, Пт: с 12:00 до 21:00, Сб: с 12:00 до 21:00, Вс: с 12:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.721023,
+          51.656751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7d083307-deab-4de3-930f-2cd89eb5bfa3",
+      "properties": {
+        "name": "Дельфин, центр отдыха",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.221542,
+          52.2739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5410b70b-bec9-4f25-8dbf-bf764fa1b4c4",
+      "properties": {
+        "name": "Атом, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.336776,
+          52.257446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "05ccb179-7665-4e5d-989d-8a06c2b98e28",
+      "properties": {
+        "name": "Villa Malina, отель",
+        "subcategory": "Бани / Сауны, Гостиницы, Массажист",
+        "rating": "4.3",
+        "site": "http://villamalina.ru",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.350711,
+          53.201151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "43b51c03-6591-41fe-b2a3-7dd76b9e994f",
+      "properties": {
+        "name": "Байкалотдых, гостевой дом",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны, Прокат спортивного инвентаря / техники, Турагентства внутреннего туризма",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.138253,
+          51.52501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "73337119-47b7-4605-a4e1-d9ce553d44d4",
+      "properties": {
+        "name": "Khan Olkhon, гостиница",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.8",
+        "site": "http://baikal-khan.com",
+        "hours": "Ежедневно с 08:00 до 23:00 (летний период: пн-вс 9:00-23:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.351262,
+          53.19896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ef49f80f-a11b-4648-8a98-79f01981de26",
+      "properties": {
+        "name": "BaikalWood Hotel&SPA, экоотель",
+        "subcategory": "SPA-процедуры, Бани / Сауны, Гостиницы, Массажист, Организация активных туров",
+        "rating": "4.7",
+        "site": "http://baikalwoodhotel.ru/",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.361617,
+          53.193842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6d08c012-1d62-48cd-b38a-f3980789f197",
+      "properties": {
+        "name": "Викинг-парк",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Базы отдыха, Бани / Сауны",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.126366,
+          52.228149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "44cf80c4-bb1b-437e-a05e-2f44fcae4c0c",
+      "properties": {
+        "name": "Эстетика здоровья, массажный СПА-салон",
+        "subcategory": "SPA-процедуры, Бани / Сауны, Массажист, Тонизирующие салоны",
+        "rating": "4.9",
+        "site": "http://massage38-irkutsk.ru",
+        "hours": "Ежедневно с 09:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.361347,
+          52.252693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6c152450-99d0-4084-a6e2-ac12850b4945",
+      "properties": {
+        "name": "History Concept SPA, СПА-салон",
+        "subcategory": "SPA-процедуры, Бани / Сауны, Массажист",
+        "rating": "4.9",
+        "site": "http://history38.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290997,
+          52.271348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2a8535e3-ef5e-4101-a3e0-fad9318a3f20",
+      "properties": {
+        "name": "Симург, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.23454,
+          52.349295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37439f4d-95dd-4529-bdb5-f9d6768749ac",
+      "properties": {
+        "name": "Миран, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.269776,
+          52.287752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "04597495-266c-402f-8fcc-0f07871b86a8",
+      "properties": {
+        "name": "SPA-Nebo",
+        "subcategory": "SPA-процедуры, Бани / Сауны, Массажист",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.308095,
+          52.213534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c52b1d5e-cde2-49c4-9be1-7e1937446f1c",
+      "properties": {
+        "name": "Байкал, парк-отель",
+        "subcategory": "Базы отдыха, Бани / Сауны",
+        "rating": "4.7",
+        "site": "http://www.baikalparkhotel.ru/",
+        "hours": "Ежедневно с 08:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.03778,
+          51.551272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d9c10042-3ef9-4922-af63-73a38d07553b",
+      "properties": {
+        "name": "Байкальский Край, усадьба",
+        "subcategory": "Базы отдыха, Бани / Сауны",
+        "rating": "4.8",
+        "site": "http://baikalkrai.ru/",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.876442,
+          51.861019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cde9e1bf-ccdb-4a63-b731-a85fac9af302",
+      "properties": {
+        "name": "Юбилейная, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.295901,
+          52.228419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "784595a0-f1af-4e70-9cb5-16b7269d381a",
+      "properties": {
+        "name": "Побег из квартиры, гостевой дом",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Базы отдыха, Бани / Сауны",
+        "rating": "4.8",
+        "site": "http://pobeg38.ru",
+        "hours": "Ежедневно с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.185177,
+          52.269074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2e629199-efeb-46e3-a271-ccd872a99988",
+      "properties": {
+        "name": "Медная Гора, банный комплекс",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.9",
+        "site": "http://mednaya-gora.com",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.355008,
+          52.301685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "261fd2dc-470e-4f4f-b03e-39885e01c95c",
+      "properties": {
+        "name": "Гость",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "4.7",
+        "site": "http://gost.hotel2you.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289167,
+          52.293271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "490eb5a8-10f0-4e00-a9af-37a3af738419",
+      "properties": {
+        "name": "Душевная баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.7",
+        "site": "http://banyolkhon.ru",
+        "hours": "Ежедневно с 10:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.334991,
+          53.189851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17e6633f-1436-4404-9833-99a85268d866",
+      "properties": {
+        "name": "Spaland, баня и сауна",
+        "subcategory": "SPA-процедуры, Бани / Сауны, Косметолог, Студии загара, Тонизирующие салоны",
+        "rating": "4.5",
+        "site": "http://sauna38.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.159563,
+          52.348573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "105d4b71-db72-4369-9836-47ae5bdd2b1f",
+      "properties": {
+        "name": "На берегу, баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.07659,
+          51.904187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e74ed13f-c25a-4171-b763-94a89119de42",
+      "properties": {
+        "name": "Порт Ольхон, арт-отель",
+        "subcategory": "Базы отдыха, Бани / Сауны, Конференц-залы / Переговорные комнаты, Прокат спортивного инвентаря / техники",
+        "rating": "4.5",
+        "site": "http://portolkhon.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.333013,
+          53.19407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "02c6b187-8c58-42a6-96f3-ec7443c3e858",
+      "properties": {
+        "name": "Восторг, баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.8",
+        "site": "http://bani-baikal.ru",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.829472,
+          51.88611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bb464445-1192-4fd3-a65e-9f10f812f7c3",
+      "properties": {
+        "name": "Общественная баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00 (мужские дни: пн, ср, пт, вс; женские дни: вт, чт, сб)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.04297,
+          52.429512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5e0b791a-ffdc-41f0-b7c8-46acdd33e1f0",
+      "properties": {
+        "name": "Золотая юрта, глэмпинг",
+        "subcategory": "Аренда беседок, Базы отдыха, Бани / Сауны, Тимбилдинг",
+        "rating": "4.5",
+        "site": "http://jivo.chat/hbFSXSH60Z, http://xn----7sbbzurbspd4kk.xn--p1ai",
+        "hours": "Круглосуточно (администрация: пн-вс 9:00-21:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.502172,
+          52.199136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aaa73668-0018-4458-a89f-a1f1e99bbae6",
+      "properties": {
+        "name": "Forest Trail, гостиница",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://hoteltrail.ru",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.889808,
+          51.855045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1a5c747c-851a-41b7-b6c1-024b4d0beb9d",
+      "properties": {
+        "name": "Звезда, гостевой дом с русской баней",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.612996,
+          52.049455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2f6e7e4c-6444-42f4-b287-1101573dce3a",
+      "properties": {
+        "name": "Эстетика здоровья, массажный СПА-салон",
+        "subcategory": "SPA-процедуры, Бани / Сауны, Косметолог, Массажист, Тонизирующие салоны",
+        "rating": "4.9",
+        "site": "http://massage38-irkutsk.ru",
+        "hours": "Ежедневно с 09:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.340639,
+          52.269017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ca893ab4-c123-4508-b04f-fb6c4922ff8f",
+      "properties": {
+        "name": "Чайка, база отдыха",
+        "subcategory": "Базы отдыха, Бани / Сауны",
+        "rating": "4.6",
+        "site": "http://www.chaika-baikal.ru",
+        "hours": "Ежедневно с 08:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.825442,
+          53.026858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "69128d1e-af6c-4d58-a618-70d07573f226",
+      "properties": {
+        "name": "Островок, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи: пн-вс)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.373192,
+          52.285769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "19f0e885-9101-4042-b9c8-0eb4b0c0d683",
+      "properties": {
+        "name": "Назаровские бани",
+        "subcategory": "Бани / Сауны, Массажист",
+        "rating": "5.0",
+        "site": "http://baikalwoodhotel.ru",
+        "hours": "Ежедневно с 10:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.361617,
+          53.193842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "76c0c94f-cdb8-43e1-aa1d-9839838e9f83",
+      "properties": {
+        "name": "Breeze",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "4.5",
+        "site": "http://briz-listvyanka.pro-hotel1.ru",
+        "hours": "Ежедневно с 08:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.881515,
+          51.850121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dd78a281-e839-489f-92d6-c8043930ca1a",
+      "properties": {
+        "name": "Барнхаус",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.972258,
+          53.179689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "03359673-d5d1-4067-8c71-d6dbf249677f",
+      "properties": {
+        "name": "West Baikal, туристический центр",
+        "subcategory": "Бани / Сауны, Водные прогулки, Организация активных туров, Сувениры, Точки кофе",
+        "rating": "5.0",
+        "site": "http://westbaikal.ru",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.887818,
+          53.016958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0d8a6985-17dd-441c-b288-865e2cd8e89d",
+      "properties": {
+        "name": "Party land",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Аренда спортивных площадок, Бани / Сауны, Банкетные залы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.194349,
+          52.402392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5c023e30-eda3-44fb-947c-179d5613e10b",
+      "properties": {
+        "name": "Светлый, апарт-отель",
+        "subcategory": "SPA-процедуры, Аренда коттеджей / гостевых домов, Бани / Сауны, Гостиницы",
+        "rating": "4.7",
+        "site": "http://georgievskiy-irk.ru, http://t.me/+bnupJc4XNN0yZGYy",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.361795,
+          52.260866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e6e3d63b-3a21-481a-9530-215a93dcd9f8",
+      "properties": {
+        "name": "Семейная, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.306831,
+          52.221812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c3933537-b3df-47ed-aa1c-59aafaa6b0cc",
+      "properties": {
+        "name": "Байкальская звезда, гостевой дом",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.051151,
+          51.535328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a492b696-78f8-4d37-9cc7-9820d102aef6",
+      "properties": {
+        "name": "София, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "2.7",
+        "site": "http://8650.hoteels.ru",
+        "hours": "Ежедневно с 18:00 до 06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.21753,
+          52.361869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e7daaed9-d27d-43ab-833c-d40db50706f6",
+      "properties": {
+        "name": "Лисьи бани",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.692349,
+          51.668556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "43ea0b98-6200-4daf-83d2-9260e002dfd3",
+      "properties": {
+        "name": "У Петровича, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.354774,
+          52.24811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2927ea97-8176-4ac2-86c5-4df4a3570cad",
+      "properties": {
+        "name": "Ангара",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.242951,
+          52.290781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9771f6a3-81cb-4d12-ae37-8626f82049b2",
+      "properties": {
+        "name": "Чистый пруд, база отдыха",
+        "subcategory": "Аренда беседок, Бани / Сауны, Прокат спортивного инвентаря / техники",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.237078,
+          52.43702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b869b8fc-3a41-4015-adcf-3a4d48b10ea3",
+      "properties": {
+        "name": "Воробьевы горы на Байкале, глэмпинг",
+        "subcategory": "Базы отдыха, Бани / Сауны, Организация активных туров",
+        "rating": "4.6",
+        "site": "http://onbaikal.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.886947,
+          53.000737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "623e6099-9b68-4a8b-a5fb-131fa294f406",
+      "properties": {
+        "name": "ZaSteklom",
+        "subcategory": "Аренда беседок, Бани / Сауны",
+        "rating": "4.9",
+        "site": "http://t.me/zasteklom38",
+        "hours": "Ежедневно с 07:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.942765,
+          52.183032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c0d7a249-e33f-4ba0-9eb0-8c9f8a5fff6a",
+      "properties": {
+        "name": "Прибрежная на Байкале, баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 24:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.758511,
+          51.646191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cc2df49a-211c-40a7-8f7e-8ce3ecde32b3",
+      "properties": {
+        "name": "Остров 7 тополей, центр отдыха",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "4.9",
+        "site": "http://o7t.ru",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.412624,
+          52.04773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "57cde8ef-7b67-4ec3-b273-3d0bc6c0e697",
+      "properties": {
+        "name": "Тайга, баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 03:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.32895,
+          53.192008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e344c5d6-fc4e-424b-94b9-a6d65141a377",
+      "properties": {
+        "name": "Тюленица, баня на воде",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://t.me/bania_na_vode",
+        "hours": "Ежедневно с 10:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.829203,
+          51.886492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7ea7c305-f712-407a-89b1-2a5a9c1c1344",
+      "properties": {
+        "name": "Баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "1.6",
+        "site": "http://t.me/ozera_club",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.641118,
+          51.393714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b7f66991-fa39-402e-b58b-3f4837b1ce47",
+      "properties": {
+        "name": "Грин-парк, теплые гриль-домики и бани с купелью",
+        "subcategory": "Аренда беседок, Бани / Сауны",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.294198,
+          52.260533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4fbfe7f0-1fdf-4117-aed1-40ee496bed87",
+      "properties": {
+        "name": "Добропар, баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.7",
+        "site": "http://dobropar38.ru, http://t.me/dobropar38",
+        "hours": "Пн: выходной, Вт: с 12:00 до 22:00, Ср: с 12:00 до 22:00, Чт: с 12:00 до 22:00, Пт: с 12:00 до 22:00, Сб: с 11:00 до 22:00, Вс: с 11:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.196518,
+          52.339402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3ba88913-7b30-40d9-9322-e45c4623b261",
+      "properties": {
+        "name": "Усадьба Благодатная, экопарк с банным комплексом",
+        "subcategory": "Аренда беседок, Базы отдыха, Бани / Сауны, Кемпинги",
+        "rating": "4.8",
+        "site": "http://usadbablago38.2gis.biz",
+        "hours": "Ежедневно с 13:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.092522,
+          52.355421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c6782c71-7c89-4cea-b2e6-0e825107ab83",
+      "properties": {
+        "name": "Forest Trail, гостиница",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://hoteltrail.ru",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.888121,
+          51.854793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "336f3765-021c-48de-974f-864d20b1d7e0",
+      "properties": {
+        "name": "Велесовы бани",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://banya-veles.ru/, http://dikidi.ru/velesbani",
+        "hours": "Ежедневно с 09:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.853688,
+          51.860119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1c62c4bf-909f-4e3d-a8e4-ffaafeedd880",
+      "properties": {
+        "name": "Enjoy, баня на воде",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://xn----38-53dnkej8dmjg.xn--p1ai",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.863438,
+          51.853249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c4bc079a-5329-42f7-bd7b-9b651bcc8f7e",
+      "properties": {
+        "name": "Престиж пар, баня на воде",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.9",
+        "site": "http://prestigepar.tilda.ws/, http://t.me/spa_residence_prestigepar",
+        "hours": "Ежедневно с 09:00 до 24:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.364497,
+          52.246434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5a164380-1474-48d8-b67c-1953faee31ff",
+      "properties": {
+        "name": "Hedonist, банный комплекс",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://hedonist-club.ru",
+        "hours": "Ежедневно с 10:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.353539,
+          52.336308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "24c26e5f-726b-4387-8c7d-4605bd6ce882",
+      "properties": {
+        "name": "Венеция, СПА-салон",
+        "subcategory": "SPA-процедуры, Бани / Сауны, Массажист, Соляные комнаты, Тонизирующие салоны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.340006,
+          52.26748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2bbd48b2-2115-4bdb-8c69-5bbdc398a8d2",
+      "properties": {
+        "name": "Тайга, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.6",
+        "site": "http://taigahotel.ru/sauna",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.269681,
+          52.287985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6145780f-12e4-4702-bf7a-feeade3217a3",
+      "properties": {
+        "name": "Баня на берегу",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.461769,
+          52.204966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3e49efe0-b3ab-4c7c-90c8-b7aab376bdd4",
+      "properties": {
+        "name": "Баня в Грановщине",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 24:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.296422,
+          52.48706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2c7d18ce-baf2-4909-907b-def234126be7",
+      "properties": {
+        "name": "Olkhon Village",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.429634,
+          53.223092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d15c4bc4-cc8a-4107-b8e4-f59f99fb122e",
+      "properties": {
+        "name": "Роса, эко-база",
+        "subcategory": "Базы отдыха, Бани / Сауны",
+        "rating": "4.7",
+        "site": "http://rosabaikal.ru",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.405565,
+          52.031207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "92abf590-6cc6-4a70-9f4e-86c243e0dd40",
+      "properties": {
+        "name": "Рим, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.392901,
+          52.25305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a7e0bc3e-477a-4a0e-b7b1-68cfa72d1651",
+      "properties": {
+        "name": "Каравелла",
+        "subcategory": "Аренда беседок, Бани / Сауны",
+        "rating": "4.6",
+        "site": "http://karavella38.ru",
+        "hours": "Ежедневно с 11:00 до 22:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.365272,
+          52.295916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7b02e657-a922-4b55-955c-bc5dbe57fee4",
+      "properties": {
+        "name": "Золотой Лев, банный комплекс",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.132232,
+          51.521873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "af1ba716-c9bf-4fa5-bf1e-91c88c334954",
+      "properties": {
+        "name": "Тэнгис, парк-отель",
+        "subcategory": "Базы отдыха, Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://tengis-hotel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.40168,
+          51.483919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0ca4ebbe-6ca9-47b1-aa45-a053bd185457",
+      "properties": {
+        "name": "Вдохновение, баня с купелью",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.355437,
+          53.196399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dc7be595-13fc-42c2-bcb2-ac59e5ea5ee8",
+      "properties": {
+        "name": "Баня в Кедровом",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.214418,
+          52.381896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b3056cc1-791c-4363-8901-9a9bd5b693a9",
+      "properties": {
+        "name": "Состояние, экопарк",
+        "subcategory": "Аренда беседок, Базы отдыха, Бани / Сауны, Конные клубы, Организация активных туров",
+        "rating": "4.7",
+        "site": "http://t.me/ecoparksostoyaniye",
+        "hours": "Ежедневно с 11:00 до 20:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.187068,
+          52.60552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7390f32a-c10e-40d7-8f9e-d2f803220bad",
+      "properties": {
+        "name": "Less, гостевые дома",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "4.8",
+        "site": "http://less.hotel2you.ru/, http://www.less-irk.ru",
+        "hours": "Ежедневно с 10:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.866849,
+          51.864896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "73f57cca-faf6-43b8-b93e-864b4394877c",
+      "properties": {
+        "name": "На берегу Байкала, баня-парная",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.318492,
+          53.188307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "349e1c45-8c55-435e-ac2e-4cf1525c94d1",
+      "properties": {
+        "name": "Баня у реки",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 01:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.356242,
+          52.45126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fae25cfa-0c07-4ab4-abcc-94ad9236a03a",
+      "properties": {
+        "name": "Семья сквозь века, усадьба",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://t.me/+jvy54x3_LRwzMTM6",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.831817,
+          52.066462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c73b2759-5477-49c8-b069-e256229453eb",
+      "properties": {
+        "name": "Байкальские бани",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 24:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.813442,
+          53.037154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a4a9e39d-6cbb-4ebf-aa8a-575bda59028d",
+      "properties": {
+        "name": "Баня на воде",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 02:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.866044,
+          53.024968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0c214539-0fc6-4e1c-9123-b05f69ef4c65",
+      "properties": {
+        "name": "Хала, туристическая база",
+        "subcategory": "Базы отдыха, Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://t.me/restbaikal",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.930099,
+          53.164487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1fba4ec6-79a8-44a8-8719-9babef8dec13",
+      "properties": {
+        "name": "Баня на берегу",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 24:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.291942,
+          53.182158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "badd6396-4eea-4061-bbbf-cef973a3fb83",
+      "properties": {
+        "name": "Живая баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://taplink.cc/nausadbe",
+        "hours": "Ежедневно с 09:00 до 24:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.340394,
+          53.198699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31004f02-1c9c-41d7-be56-ecd3c60983b5",
+      "properties": {
+        "name": "Гости Байкала",
+        "subcategory": "Бани / Сауны, Организация активных туров, Прокат водно-спортивной техники",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.785047,
+          53.063827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b8a6b25a-c082-40e2-9270-8b13582da3bf",
+      "properties": {
+        "name": "Дмитриевская баня, баня на дровах",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 19:00 до 23:00, Вт: с 19:00 до 23:00, Ср: с 19:00 до 23:00, Чт: с 19:00 до 23:00, Пт: с 19:00 до 23:00, Сб: с 10:00 до 23:00, Вс: с 10:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.637643,
+          52.25431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7b7eb61e-ffb4-438e-bcb7-329d04897ea9",
+      "properties": {
+        "name": "Алиста, семейный СПА-комплекс",
+        "subcategory": "SPA-процедуры, Бани / Сауны, Бассейны, Массажист, Сувениры",
+        "rating": "5.0",
+        "site": "http://alista-spa.ru",
+        "hours": "Ежедневно с 11:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.269776,
+          52.287297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "075f193d-61c3-4eef-b044-e93f6945b068",
+      "properties": {
+        "name": "Утуликская подкова, гостевой дом",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.053681,
+          51.541874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1e4b440e-8276-40f7-9d06-569c89d07ad5",
+      "properties": {
+        "name": "Под кедром, гостевой дом",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.815707,
+          51.620229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7b590502-95c2-48d8-b0de-8a4522507f2a",
+      "properties": {
+        "name": "Enjoy, баня на воде",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://xn----38-53dnkej8dmjg.xn--p1ai",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.825848,
+          51.891111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "376622d2-8378-42e0-b5cc-cf1aab54cc4e",
+      "properties": {
+        "name": "Мастерская пара, баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.22518,
+          52.25446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "355e3cab-d480-436d-a9bc-2d4c53903f0c",
+      "properties": {
+        "name": "Байкальский Дзен A-frame, баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.119409,
+          51.524041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2ff5d230-c235-4ee9-a41e-f263b5168e86",
+      "properties": {
+        "name": "Баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 22:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.123108,
+          51.515621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c7d2041e-837c-457c-9042-a01d60436358",
+      "properties": {
+        "name": "Ольхония, баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 24:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.33022,
+          53.192679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4523c2bf-415e-43ba-8e47-80c9278c82ec",
+      "properties": {
+        "name": "Доброжар, банный двор",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.420413,
+          52.455879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7ffa9b0e-b396-4196-9891-e216140d3960",
+      "properties": {
+        "name": "Баня в Мамонах",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 18:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.142617,
+          52.299252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "05f034d7-8776-4e40-90b5-9996c850926b",
+      "properties": {
+        "name": "SkySeaRelax",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.409102,
+          52.028716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e9f5a864-b345-421a-89c3-74da7f0e6149",
+      "properties": {
+        "name": "ПарБаныч, баня с бассейном",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 10:00 до 23:00, Вт: с 10:00 до 23:00, Ср: с 10:00 до 23:00, Чт: с 10:00 до 23:00, Пт: с 10:00 до 01:00, Сб: с 10:00 до 01:00, Вс: с 10:00 до 01:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.248747,
+          52.224956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "054b2030-dc47-4a2d-bddd-f10ddb1d07e0",
+      "properties": {
+        "name": "Банька, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.320445,
+          52.289888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "66b71bb0-02ae-4e65-9f09-f5d14f27fa97",
+      "properties": {
+        "name": "Банный дом Максима",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://elov38.taplink.ws/, http://t.me/elov38",
+        "hours": "Ежедневно с 12:00 до 23:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.501402,
+          52.229704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f61a0f5f-59b1-4059-af62-2876e8f86fca",
+      "properties": {
+        "name": "Эстет, экокомплекс",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.330877,
+          52.475557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "56d50e0c-f565-4f10-8f42-6e4fcdb0cbb6",
+      "properties": {
+        "name": "Sparom Hills",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "4.9",
+        "site": "http://t.me/sparomhills, http://taplink.cc/sparomhills",
+        "hours": "Ежедневно с 10:00 до 24:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.258147,
+          52.374012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d9527788-efd9-4c0f-8c5d-adb50aa3c9cd",
+      "properties": {
+        "name": "Чайка, баня на воде",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://banya-chayka.ru",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.869619,
+          51.849958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "605524ab-3993-44fd-9ddb-eecafea48e0b",
+      "properties": {
+        "name": "Rodina Grand SPA",
+        "subcategory": "SPA-процедуры, Бани / Сауны, Бассейны, Массажист",
+        "rating": "5.0",
+        "site": "http://rodinagrandhotel.ru/spa/",
+        "hours": "Ежедневно с 07:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.269557,
+          52.290038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2d629ac4-b89d-4251-b446-6607c0d8956e",
+      "properties": {
+        "name": "Катанца, центр отдыха",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://t.me/katantsa",
+        "hours": "Ежедневно с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.079817,
+          52.205296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cd7b85f3-f3d6-4a6a-a18d-3ae0f6a5ca68",
+      "properties": {
+        "name": "Викинг, баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.142845,
+          51.519452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1f9d18a7-485c-468c-92c9-489b4113beaa",
+      "properties": {
+        "name": "Морошка, русская баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 24:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.208203,
+          52.19131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "21ae2393-711c-436f-ba35-b0de53a56c72",
+      "properties": {
+        "name": "Эйфория, банный комплекс",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.7",
+        "site": "http://taplink.cc/banya_euforia",
+        "hours": "Ежедневно с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.223163,
+          52.226716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "47f67d38-6f48-4f18-a26b-cb39b492545f",
+      "properties": {
+        "name": "ВоSPAри, студия релакса и восстановления",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://t.me/vosparirelax",
+        "hours": "Ежедневно с 10:00 до 21:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.329069,
+          52.267071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "559b56dc-37ad-460d-a80b-0c66b16d59f4",
+      "properties": {
+        "name": "Пар на воде",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.9",
+        "site": "http://parnavode.ru, http://t.me/parnavode",
+        "hours": "Ежедневно с 09:00 до 24:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.460972,
+          52.198658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3464ee96-4b05-4d41-87e6-90a4a6c03f3a",
+      "properties": {
+        "name": "Печефка, баня",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://t.me/pechefka, http://xn--80ajauw6at.xn--p1ai/zakaz",
+        "hours": "Ежедневно с 10:00 до 22:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.471921,
+          52.189497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bc0366c7-cf3e-41bb-bff2-9841033ad3a5",
+      "properties": {
+        "name": "Fly, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.9",
+        "site": "http://t.me/sauna_fly, http://taplink.cc/sauna_fly",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.318816,
+          52.279498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "03f70f4c-be55-474c-a463-7b988a9c2574",
+      "properties": {
+        "name": "Байкал 51",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://homereserve.ru/nIDUoVk99N, http://shalecom.ru/irkutsk/zabronirovat-dom-baykal-51",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.704136,
+          51.9727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9f1d7d94-5824-421a-b9fd-d620bad0e0d8",
+      "properties": {
+        "name": "Шаманка, гостевой дом",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "4.5",
+        "site": "http://t.me/shamankadomik",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.832511,
+          52.066333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5d243415-a605-4dd8-acf9-26928d0e145e",
+      "properties": {
+        "name": "Баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.416732,
+          52.145032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ef3c8c34-3972-44c6-95dc-6fdbd9564944",
+      "properties": {
+        "name": "Ангара, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 18:00, Вт: с 09:00 до 18:00, Ср: с 09:00 до 18:00, Чт: с 09:00 до 18:00, Пт: с 09:00 до 18:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.241213,
+          52.292381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "855e2985-d683-4dd7-8b6a-e4bc38ba31a1",
+      "properties": {
+        "name": "Для друзей, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.354185,
+          52.276777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bb9d03f1-52a6-429a-9053-314a6db384c8",
+      "properties": {
+        "name": "Уютный дом, гостевой дом",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.058819,
+          51.545226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bb68f611-c047-4b6d-9338-42c590dad67f",
+      "properties": {
+        "name": "Куркутские бани",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.833287,
+          53.030408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8fcd6c4e-2a4f-44f9-8cad-a02d7f0a60c5",
+      "properties": {
+        "name": "Касаточка, баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.826417,
+          53.041642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "689879bf-79b7-47bf-aa28-8e31886b1581",
+      "properties": {
+        "name": "Fly 2, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.31849,
+          52.279977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0d39c184-3aa8-48fd-9653-d30cacb394a1",
+      "properties": {
+        "name": "Азатай, парк-отель",
+        "subcategory": "Базы отдыха, Бани / Сауны, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.9",
+        "site": "http://azatay.ru, http://t.me/azataybaikal",
+        "hours": "Ежедневно с 00:01 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.469773,
+          52.061717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9aeb4b5b-6de5-46d5-ad71-182862fb73d9",
+      "properties": {
+        "name": "На берегу Ангары, баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.268828,
+          52.331234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3af1c45b-c728-4587-a5e3-081a69d5a85d",
+      "properties": {
+        "name": "Баня на воде",
+        "subcategory": "Бани / Сауны",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.833241,
+          53.03517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ed205aa7-6a27-4824-b651-60eb0f104133",
+      "properties": {
+        "name": "Par-shaman, баня на воде",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://t.me/parshaman",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.336827,
+          52.211674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1d6552c1-70f8-415e-b417-fe9206f4b581",
+      "properties": {
+        "name": "Перевал, баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: с 13:00 до 21:30, Пт: с 13:00 до 21:30, Сб: с 13:00 до 21:30, Вс: с 13:00 до 21:30 (женские дни: чт, сб 13:00-21:30; мужские дни: пт, вс 13:00-21:30; касса: чт-вс 13:00-20:30)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.684934,
+          51.673238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "03ad9c99-74f3-48f0-aa91-c499f25c6380",
+      "properties": {
+        "name": "Михалёвские бани, бани и сауны",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://port-mikhalev.ru/banya",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.397848,
+          52.110072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6b5e6ce8-d654-4e9d-a8d5-bad2d8cd3d22",
+      "properties": {
+        "name": "Баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 21:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.161768,
+          52.33906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "856c28ce-7b86-456b-8fe6-4952ac31d97b",
+      "properties": {
+        "name": "Погнали париться!",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.099691,
+          52.277664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bd08217e-d493-497a-98f3-69c9194fb212",
+      "properties": {
+        "name": "Отражение, глэмпинг",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Бани / Сауны, Бассейны",
+        "rating": "4.9",
+        "site": "http://georgievskiy-irk.ru/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.218951,
+          52.380805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9f3e8336-b4cf-4709-aa7a-76f9ff3c9cc1",
+      "properties": {
+        "name": "Кедр, баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.214175,
+          52.381954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "be19b559-b062-4f70-b851-f76cf2fa5a09",
+      "properties": {
+        "name": "Философия бани, баня на воде",
+        "subcategory": "SPA-процедуры, Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://n977835.yclients.com, http://spaphilosophy.ru",
+        "hours": "Пн: с 10:00 до 21:00, Вт: с 10:00 до 21:00, Ср: с 10:00 до 21:00, Чт: с 10:00 до 21:00, Пт: с 09:00 до 21:00, Сб: с 09:00 до 22:00, Вс: с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.307864,
+          52.256433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "23df085f-8b8c-4154-9d60-1367f02150a7",
+      "properties": {
+        "name": "Аракс, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Бильярдные залы, Гостиницы",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.650832,
+          51.835996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "42b0cda4-811a-4720-ba94-40f93087c964",
+      "properties": {
+        "name": "Городская баня №1",
+        "subcategory": "Бани / Сауны",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.580228,
+          51.831696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7822eb4e-d4d1-4f96-93ec-e112b1611ed3",
+      "properties": {
+        "name": "Сенатор, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.602415,
+          51.793353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d5665194-2c66-4645-953e-199f6257aead",
+      "properties": {
+        "name": "Дельфин, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "3.3",
+        "site": "http://xn-----6kcabz0cne7axde5l.xn--p1ai",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.630671,
+          51.806122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6726199d-aa78-49c2-894e-69448f6e8c7c",
+      "properties": {
+        "name": "Медуза, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.599299,
+          51.824114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a444688a-c7d2-460f-9d4f-752f10f14776",
+      "properties": {
+        "name": "Нептун, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.0",
+        "site": "http://saunau-u.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6423,
+          51.806141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "59e741fe-8ba6-426a-9ebd-c7f50681a1db",
+      "properties": {
+        "name": "Мираж, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.623879,
+          51.808846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "86ea3631-4ea2-4169-a926-4711b7014010",
+      "properties": {
+        "name": "Баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 21:00, Вт: выходной, Ср: с 08:00 до 21:00, Чт: с 08:00 до 21:00, Пт: с 08:00 до 21:00, Сб: с 08:00 до 21:00, Вс: с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.620304,
+          51.84584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f80db505-30dd-436e-958f-618c56a14ea9",
+      "properties": {
+        "name": "Нью-Йорк, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "3.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.635337,
+          51.80501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "97bbdac8-b72c-4bba-ad9a-6a7680319f6d",
+      "properties": {
+        "name": "Дворянское гнездо, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.488855,
+          51.865592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c4ec8601-295c-4241-b80b-db585b71492e",
+      "properties": {
+        "name": "Чарли, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.652327,
+          51.820926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a173687b-b82d-4d53-9d66-9bb28264fc14",
+      "properties": {
+        "name": "Сатори, оздоровительный комплекс",
+        "subcategory": "SPA-процедуры, Бани / Сауны, Массажист, Товары для бань / саун",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 22:00 (высший разряд: пн-вс 10:00-22:00; зал люкс: чт-вс 10:00-22:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.627421,
+          51.812178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3458b877-d298-4976-a5ab-f52654d57277",
+      "properties": {
+        "name": "Эндемик, придорожный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.458581,
+          51.731271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "566aebe2-d353-4ca9-a85c-be108f3fd799",
+      "properties": {
+        "name": "Гранат, баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: с 09:00 до 20:00, Пт: с 09:00 до 20:00, Сб: с 08:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.721362,
+          51.86524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15c18fcb-87e8-47c8-9f62-3c6c5931eaa0",
+      "properties": {
+        "name": "Экстра, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.7",
+        "site": "http://sauna001.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.604809,
+          51.801241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a9bcf087-6f9a-464a-b2aa-d929fff45167",
+      "properties": {
+        "name": "Байкал, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.5",
+        "site": "http://sauna001.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.586189,
+          51.833349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8dfa9935-bfda-4907-a2b4-79a461bfb85d",
+      "properties": {
+        "name": "Бурятия, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.4",
+        "site": "http://sauna001.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.586051,
+          51.832079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b7e3d2a1-fcaf-4c74-b07a-daec695fee42",
+      "properties": {
+        "name": "Купель, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.4",
+        "site": "http://sauna001.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608474,
+          51.804507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "50a88210-6fd3-46e9-814d-665d0ddafdcb",
+      "properties": {
+        "name": "Максимум, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.4",
+        "site": "http://sauna001.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.635156,
+          51.804755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c0df7a0d-c057-44b9-840b-377515fb4687",
+      "properties": {
+        "name": "Одиссея, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.8",
+        "site": "http://sauna001.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.609099,
+          51.842156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "30d7455c-e12f-4494-a5a3-2194d3399019",
+      "properties": {
+        "name": "Эксклюзив, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.3",
+        "site": "http://sauna001.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.689277,
+          51.816811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "836521cb-7b83-4054-aea9-1a38bf80a33b",
+      "properties": {
+        "name": "Банно-прачечный комплекс",
+        "subcategory": "Бани / Сауны, Прачечные",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: с 08:00 до 21:00, Ср: с 08:00 до 21:00, Чт: с 08:00 до 21:00, Пт: с 08:00 до 21:00, Сб: с 08:00 до 21:00, Вс: с 08:00 до 21:00 (касса: вт-вс 8:00-20:00; прачечная: пн-пт 10:00-19:00; сб 10:00-15:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.57991,
+          51.847629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cbbe1c58-2244-443a-8c95-b81a480f1bd5",
+      "properties": {
+        "name": "Севан, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.7",
+        "site": "http://sauna001.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.653901,
+          51.834148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ac72ca92-9cf7-4e71-8181-498a91ee7244",
+      "properties": {
+        "name": "Баня №2",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: с 09:00 до 21:00, Пт: с 09:00 до 21:00, Сб: с 09:00 до 21:00, Вс: с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.614815,
+          51.823923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "97f6c98e-fea5-4020-ace7-eca7b1e038d4",
+      "properties": {
+        "name": "Reston Fitness",
+        "subcategory": "SPA-процедуры, Бани / Сауны, Бассейны, Тренажёрные залы, Фитнес-клубы",
+        "rating": "4.8",
+        "site": "http://reston.club",
+        "hours": "Пн: с 07:00 до 23:00, Вт: с 07:00 до 23:00, Ср: с 07:00 до 23:00, Чт: с 07:00 до 23:00, Пт: с 07:00 до 23:00, Сб: с 09:00 до 22:00, Вс: с 09:00 до 22:00 (клиентский отдел: пн-вс 10:00-20:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59304,
+          51.81653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "694328d9-7d30-4696-be17-c9bbe65ef918",
+      "properties": {
+        "name": "Deluxe, сауна",
+        "subcategory": "Бани / Сауны, Соляные комнаты",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.640164,
+          51.822966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3b722090-e326-49e0-bbc0-f06adb5070f1",
+      "properties": {
+        "name": "Авангард, туристическо-развлекательный комплекс",
+        "subcategory": "Базы отдыха, Бани / Сауны, Банкетные залы",
+        "rating": "4.1",
+        "site": "http://www.avangardtrk.ru",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.282342,
+          52.986329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0d84c456-a1e2-410f-9e64-2520839c0684",
+      "properties": {
+        "name": "Байкальская Ривьера, парк-отель",
+        "subcategory": "Базы отдыха, Бани / Сауны, Банкетные залы, Гостиницы",
+        "rating": "4.6",
+        "site": "http://www.baikalriviera.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.963819,
+          52.79198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "21101db2-b089-48ef-9897-33dfeb40b8f9",
+      "properties": {
+        "name": "Grace Hotel, гостиница",
+        "subcategory": "Бани / Сауны, Бильярдные залы, Гостиницы",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.638331,
+          51.816401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b927a9aa-46f5-45d9-acc5-e0563676d674",
+      "properties": {
+        "name": "Мэбис Байкал, база отдыха",
+        "subcategory": "Базы отдыха, Бани / Сауны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.219918,
+          52.94448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20af973f-fb1b-4b83-8859-6701541f9565",
+      "properties": {
+        "name": "Баргузинский Прибой, гостиница",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.027789,
+          53.42081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "56df8f06-2b3b-4d6b-a674-37bfd518af87",
+      "properties": {
+        "name": "Светлая поляна, гостевой дом",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "4.6",
+        "site": "http://sites.google.com/view/svetlaya-polyana",
+        "hours": "Ежедневно с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.759143,
+          53.272517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7c06cb4a-6c90-43a8-9ba5-c947aab7fc87",
+      "properties": {
+        "name": "Королевская гавань, загородный отель",
+        "subcategory": "Аренда коттеджей / гостевых домов, Базы отдыха, Бани / Сауны, Бассейны, Конференц-залы / Переговорные комнаты, Прокат спортивного инвентаря / техники",
+        "rating": "4.7",
+        "site": "http://www.baikal-gavan03.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.972079,
+          52.485946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36b4d222-f2a0-4649-b001-d2b0d854762b",
+      "properties": {
+        "name": "Ослик, база отдыха",
+        "subcategory": "Базы отдыха, Бани / Сауны",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.975272,
+          52.488109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e66f4e55-a896-4bab-908f-926b2dbd3f53",
+      "properties": {
+        "name": "Zаезжай, гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "3.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.754391,
+          52.020042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5a21e1b8-5530-42f7-804d-0fd717b9cc94",
+      "properties": {
+        "name": "Эзен, гостевой дом",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.185101,
+          51.929193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "848cd5f1-f192-43ee-acce-bdfbdba30524",
+      "properties": {
+        "name": "Смена, база отдыха",
+        "subcategory": "Базы отдыха, Бани / Сауны",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 22:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.561005,
+          51.421118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b2fcdf9f-af75-4265-8124-2e8997c12499",
+      "properties": {
+        "name": "Чайный путь, банный комплекс",
+        "subcategory": "Бани / Сауны",
+        "rating": "3.5",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.54155,
+          51.284189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c565ad2c-70d5-44ad-952a-e6df656c3713",
+      "properties": {
+        "name": "Имидж, спортивно-оздоровительный комплекс",
+        "subcategory": "SPA-процедуры, Аренда спортивных площадок, Бани / Сауны, Бассейны, Спортивные секции, Тренажёрные залы, Фитнес-клубы",
+        "rating": "4.9",
+        "site": "http://t.me/image890, http://taplink.cc/image03, http://xn----gtbggaxshkho.xn--p1ai/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.618433,
+          51.847861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0887a3f1-9aa1-4a5f-825e-a7f9f1baeb98",
+      "properties": {
+        "name": "Гостиный двор",
+        "subcategory": "Бани / Сауны, Гостиницы, Массажист",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.569261,
+          51.847025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5e3c0a58-5f33-4530-bde9-ef09dfb7803c",
+      "properties": {
+        "name": "Сибиряк, гостиница",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.542547,
+          51.842595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "58f30e1b-9984-4623-a44d-41c14e3e9ad8",
+      "properties": {
+        "name": "Династия",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.8",
+        "site": "http://bookonline24.ru/Dinastiaotel_, http://Dinastiahotel.ru, http://jivo.chat/RnyPxEd8dt, http://Marsel.bookonline24.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.676236,
+          51.821349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b9fc4242-12ef-4679-9dc5-17c7655a4bd8",
+      "properties": {
+        "name": "Байкал центр, база отдыха",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.30073,
+          52.986806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d41e2c1d-2e19-47a7-84ea-38b064661e50",
+      "properties": {
+        "name": "Максимиха, база отдыха",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "4.4",
+        "site": "http://t.me/bazabaykal, http://www.baza-baykal.ru",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.748214,
+          53.267998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4a8391b5-a978-4628-8f2e-58ed5f5f4df3",
+      "properties": {
+        "name": "Соломон, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "2.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.675586,
+          51.813398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22d190bf-68c1-4975-92f7-cc61b1812cc1",
+      "properties": {
+        "name": "Байкал park, отель",
+        "subcategory": "Аренда беседок, Базы отдыха, Бани / Сауны",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.72554,
+          53.258927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fbccef91-de85-459a-ba1c-cfaa1c037d12",
+      "properties": {
+        "name": "Банька 03",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.565237,
+          51.777435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8bf996cd-f24b-4a50-af1b-680f225652e1",
+      "properties": {
+        "name": "Кочевник, отель",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.597535,
+          51.821487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3a0d31bd-5cac-4b53-ab30-b6074e8180fc",
+      "properties": {
+        "name": "Максимиха, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://dss-sport.ru",
+        "hours": "Ежедневно с 09:00 до 21:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.723022,
+          53.256864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f3577acf-63c5-40d3-b08b-135d25c975a1",
+      "properties": {
+        "name": "Охотникъ, спортивно-охотничий клуб стендовой стрельбы",
+        "subcategory": "Аренда беседок, Бани / Сауны, Прокат спортивного инвентаря / техники, Стрелковые клубы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.711493,
+          52.214174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "68ef8444-2785-4cfd-89c2-deeadfef48df",
+      "properties": {
+        "name": "Эгоист, сауна-караоке",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.72125,
+          51.865053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1cec93f8-d85c-43fb-badd-1be4dfacb2d7",
+      "properties": {
+        "name": "На Залесной, банный комплекс",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 24:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.699754,
+          51.816282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "582bed48-fbc8-42db-b2e5-080c8d8c4216",
+      "properties": {
+        "name": "Бизнес Лайф, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.647147,
+          51.84345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d6c85e7c-86c0-435d-99e7-5864557dffc2",
+      "properties": {
+        "name": "М55, баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.995231,
+          52.080942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dc008f64-d8bb-41ca-ac1e-657220b7f7e6",
+      "properties": {
+        "name": "Тайга, глэмпинг-отель на Байкале",
+        "subcategory": "Базы отдыха, Бани / Сауны, Бассейны",
+        "rating": "4.8",
+        "site": "http://baikaltaiga.ru/",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.758583,
+          53.266947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6e72d267-dd0c-4c87-8336-242dedf9431e",
+      "properties": {
+        "name": "Siberia Мамай, база отдыха",
+        "subcategory": "Аренда коттеджей / гостевых домов, Базы отдыха, Бани / Сауны, Турагентства внутреннего туризма",
+        "rating": "5.0",
+        "site": "http://siberia-baikal.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.843538,
+          51.393345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aa83f68a-507a-4224-8e22-2deef66271ff",
+      "properties": {
+        "name": "Пекинская утка, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "2.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.576501,
+          51.852271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "65638563-bd18-439c-b00f-7cbbe79a33a4",
+      "properties": {
+        "name": "Святой Нос, гостевой дом",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны, Прокат водно-спортивной техники",
+        "rating": "5.0",
+        "site": "http://snhotel.ru, http://t.me/chivyrkuy",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.035512,
+          53.704659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f6394665-5e2e-43c3-8117-e5ecac0f7785",
+      "properties": {
+        "name": "Номадик, экоотель",
+        "subcategory": "Аренда беседок, Базы отдыха, Бани / Сауны",
+        "rating": "4.7",
+        "site": "http://nomadichotel.ru",
+        "hours": "Ежедневно с 08:00 до 24:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.666533,
+          51.888411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "77680d52-df6c-488e-adec-9bb4ccb15aa8",
+      "properties": {
+        "name": "Городская общественная баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: с 09:00 до 20:00, Чт: с 09:00 до 20:00, Пт: с 09:00 до 20:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.543446,
+          51.866489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cabebe2b-e75a-472f-af8d-cd65f0769f73",
+      "properties": {
+        "name": "Барвиха, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.641464,
+          51.816268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "39bb97df-329b-4ca9-a355-969d7d539ee7",
+      "properties": {
+        "name": "Eco house, загородный отель",
+        "subcategory": "SPA-процедуры, Базы отдыха, Бани / Сауны, Массажист, Соляные комнаты",
+        "rating": "4.5",
+        "site": "http://Ecohouse03.ru",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.291548,
+          52.985592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96c78f05-85c1-43ac-89a3-3ed5ace7bd69",
+      "properties": {
+        "name": "Дельфин, спортивно-оздоровительный центр",
+        "subcategory": "Бани / Сауны, Бассейны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: с 09:45 до 19:45, Ср: с 09:45 до 19:45, Чт: с 09:45 до 19:45, Пт: с 09:45 до 19:45, Сб: с 09:45 до 19:45, Вс: с 09:45 до 19:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.257906,
+          51.711281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e5acb9f3-4083-4d92-9a67-e35162f6eae6",
+      "properties": {
+        "name": "Гостиничный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.619887,
+          51.802865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d860733f-0a15-49a1-81f7-4b615422adaa",
+      "properties": {
+        "name": "Сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.878304,
+          51.715765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f55d9c25-20a0-4251-acf6-cb9a21bceb51",
+      "properties": {
+        "name": "Баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.306471,
+          52.123724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "236400a6-061d-4f1c-bea1-e93774468838",
+      "properties": {
+        "name": "Белая скала",
+        "subcategory": "Бани / Сауны, Организация активных туров",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.99567,
+          52.498135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6e05dc29-6c47-49c6-becd-1d67a8432955",
+      "properties": {
+        "name": "Санбаныч, баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00 (по предварительной записи: пн-вс)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.282487,
+          52.987997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e8f3f621-1bce-4ea7-8482-bad9adba7bc9",
+      "properties": {
+        "name": "Парнушка, баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.648869,
+          51.475581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37a16fa2-f42e-4e0e-a8c6-fe21a8556fda",
+      "properties": {
+        "name": "Баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 18:00 до 24:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.724937,
+          52.020565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fd0e0eb0-bb5e-4e56-9a7e-b1c58af63a1a",
+      "properties": {
+        "name": "Снежная, экопарк Южный Байкал",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "4.9",
+        "site": "http://ozera.club/",
+        "hours": "Ежедневно с 09:00 до 20:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.637238,
+          51.435402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14d624be-745b-49d1-b879-28ebe4831e8d",
+      "properties": {
+        "name": "Альфа, сауна-отель",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.9",
+        "site": "http://alpha03.tilda.ws",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.566841,
+          51.848326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bdbb8b73-6c8f-4013-96cb-8ef61fc2e711",
+      "properties": {
+        "name": "Аквалайф, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи: пн-вс )"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.587187,
+          51.843005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "885f127f-83cd-4d7c-b04b-399a2f3b0d22",
+      "properties": {
+        "name": "Баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.249476,
+          52.117833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "43de1d1f-1cb4-46c0-b3ca-f2c75e8b4325",
+      "properties": {
+        "name": "Баня на берегу",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.998864,
+          52.499193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c0a3bcfc-3ec6-4108-b58c-8ec386301df3",
+      "properties": {
+        "name": "Ежевика, центр народной медицины",
+        "subcategory": "SPA-процедуры, Альтернативная медицина, Бани / Сауны, Массажист, Санатории / Профилактории, Термальные процедуры / источники",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.773912,
+          51.534182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "831383a2-5c30-4410-bd87-74ad631910db",
+      "properties": {
+        "name": "Эгоист на Фортуне, сауна-караоке",
+        "subcategory": "Бани / Сауны",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.656656,
+          51.832344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "527a4cc2-3120-43f7-b708-09ac9bd0fde2",
+      "properties": {
+        "name": "Барон, сауна-отель",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.623917,
+          51.8187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5cc26fca-d9ec-49d0-8341-cce383af9d5a",
+      "properties": {
+        "name": "Патриот, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.596317,
+          51.783769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cd793be8-01c5-47d6-8d2e-bf324d1f1f6f",
+      "properties": {
+        "name": "Пристань",
+        "subcategory": "Аренда беседок, Бани / Сауны, Банкетные залы, Бассейны",
+        "rating": "4.3",
+        "site": "http://n11836.bookfast.ru/, http://vk.link/pristan_03",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.600036,
+          51.816351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "78e24cb5-30c0-4282-9459-35ba9e56c567",
+      "properties": {
+        "name": "Тэнсуури, баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://tensuuri.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.96289,
+          52.484411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35a91199-da53-42ea-a9fc-0f4426002f5b",
+      "properties": {
+        "name": "Barisaan",
+        "subcategory": "Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.494593,
+          51.706805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0b5cf872-7323-439f-a997-e0a1aae19963",
+      "properties": {
+        "name": "Баня",
+        "subcategory": "Бани / Сауны",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.962758,
+          52.796692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18e9be15-4143-4115-ba0d-ab025fd544cc",
+      "properties": {
+        "name": "Добрая баня на воде",
+        "subcategory": "Бани / Сауны",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 16:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.722808,
+          53.268873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "79e7dedb-95a2-4723-9a9b-3d11fadc0862",
+      "properties": {
+        "name": "Добрая банька",
+        "subcategory": "Бани / Сауны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.282704,
+          52.988154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2d6f1923-6e91-4f5e-bcdc-00ffcf9a89e3",
+      "properties": {
+        "name": "Молодость, турбаза",
+        "subcategory": "Базы отдыха, Бани / Сауны",
+        "rating": "nan",
+        "site": "http://molodost.club/baikal#roomsOnBaikal",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.153547,
+          52.901506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7594b95a-24d9-4f19-a69b-f1e5d767aeac",
+      "properties": {
+        "name": "Три медведя, придорожный комплекс",
+        "subcategory": "Бани / Сауны, Гостиницы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.486718,
+          52.062368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8edca41c-5ced-4f38-be9c-ddbb6b45580e",
+      "properties": {
+        "name": "Дулан, сауна",
+        "subcategory": "Бани / Сауны",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.552807,
+          51.843317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bc763637-00f9-4214-876e-c97b97502fbd",
+      "properties": {
+        "name": "Мягкий пар, баня на дровах",
+        "subcategory": "Бани / Сауны",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 23:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.513629,
+          51.850311
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+/* САЙДБАР */
+
+#sidebar {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 15px;
+    left: 15px;
+    bottom: 15px;
+
+    width: 320px;
+    max-width: 80vw;
+
+    background: #ffffff;
+    border-radius: 14px;
+
+    box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+    transition: transform 0.25s ease;
+    z-index: 999;
+    overflow: hidden;
+}
+.sidebar-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px;
+    }
+.sidebar-header h3 {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 600;
+    }
+
+/* внутренний скролл */
+#sidebarContent {
+    height: 95%;
+    padding: 16px 12px;
+    overflow-y: auto;
+}
+
+#sidebar.collapsed {
+    transform: translateX(-120%);
+}
+
+/* папки */
+.folder {
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 6px;
+    padding: 4px 6px;
+    border-radius: 6px;
+}
+
+.folder:hover {
+    background: #f3f4f6;
+}
+
+/* файлы */
+.file {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 4px 6px;
+    border-radius: 6px;
+}
+.file.active {
+    border-left: 3px solid #3b82f6;
+    background: #eff6ff;
+}
+.file:hover {
+    background: #f7f7f7;
+}
+
+/* левая часть */
+.file-left,
+.folder-left {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}

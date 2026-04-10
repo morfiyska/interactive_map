@@ -1,0 +1,325 @@
+/* =========================
+🧱 BASE MODAL
+========================= */
+.floating-container {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    z-index: 1000;
+}
+
+.floating-btn {
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    border: none;
+    background: white;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    cursor: pointer;
+}
+
+.floating-btn img {
+    width: 24px;
+    height: 24px;
+}
+.modal {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.35);
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    z-index: 2000;
+    
+    }
+    
+    .modal.hidden {
+    display: none;
+    }
+    
+    /* =========================
+    📦 MODAL CONTENT
+    ========================= */
+    
+    .modal-content {
+    position: relative;
+    background: #ffffff;
+
+    width: 320px;
+    max-width: 90vw;
+    
+    border-radius: 14px;
+    padding: 16px;
+    
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    
+    animation: modalIn 0.2s ease;
+    
+    }
+    
+    /* =========================
+    🧠 HEADER
+    ========================= */
+    
+    .modal-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    }
+    
+    .modal-header h3 {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 600;
+    }
+    
+    /* =========================
+    ❌ CLOSE BUTTON
+    ========================= */
+    
+    .modal-close {
+    background: none;
+    border: none;
+    
+
+    width: 28px;
+    height: 28px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    border-radius: 8px;
+    cursor: pointer;
+    
+    color: #777;
+    transition: all 0.2s ease;
+
+    
+    }
+    
+    .modal-close:hover {
+    background: rgba(0,0,0,0.06);
+    color: #000;
+    }
+    
+    /* =========================
+    📄 BODY
+    ========================= */
+    
+    .modal-body {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    }
+    
+    /* =========================
+    🔘 FOOTER
+    ========================= */
+    
+    .modal-footer {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+    }
+    
+    /* =========================
+    🎯 BUTTONS
+    ========================= */
+    
+    .btn {
+    border: none;
+    padding: 6px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.15s ease;
+    }
+    
+    .btn.primary {
+    background: #3b82f6;
+    color: white;
+    }
+    
+    .btn.primary:hover {
+    background: #2563eb;
+    }
+    
+    .btn.secondary {
+    background: #e5e7eb;
+    }
+    
+    .btn.secondary:hover {
+    background: #d1d5db;
+    }
+    
+    .btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    }
+    
+    /* =========================
+    📋 FORM
+    ========================= */
+    
+    .form-row {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    }
+    
+    .form-row label {
+    font-size: 13px;
+    color: #555;
+    }
+    
+    /* =========================
+    🎨 ICON GRID
+    ========================= */
+    
+    .icon-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(40px, 1fr));
+    gap: 8px;
+    max-height: 120px;
+    overflow-y: auto;
+    }
+    
+    .icon-item {
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    cursor: pointer;
+    
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    transition: all 0.15s;
+
+    
+    }
+    
+    .icon-item:hover {
+    background: #f3f4f6;
+    }
+    
+    .icon-item.selected {
+    outline: 2px solid #3b82f6;
+    }
+    
+    .icon-item img {
+    width: 60%;
+    height: 60%;
+    object-fit: contain;
+    }
+    
+    /* =========================
+    👀 PREVIEW
+    ========================= */
+    
+    #previewContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    }
+    
+    #previewCircle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+    border-radius: 50%;
+    background: #3b82f6;
+    
+    width: 40px;
+    height: 40px;
+
+    
+    }
+    
+    #previewIcon {
+    width: 60%;
+    height: 60%;
+    object-fit: contain;
+    
+
+    filter: brightness(0) invert(1);
+
+    
+    }
+    
+    /* =========================
+    📦 DROP ZONE
+    ========================= */
+    
+    .drop-zone {
+    border: 2px dashed #ccc;
+    border-radius: 10px;
+    padding: 30px;
+
+    text-align: center;
+    cursor: pointer;
+    
+    transition: all 0.2s ease;
+
+    
+    }
+    
+    .drop-zone:hover {
+    border-color: #3b82f6;
+    background: #f8fbff;
+    }
+    
+    .drop-zone.dragover {
+    border-color: #22c55e;
+    background: #f0fff4;
+    }
+    
+    /* =========================
+    📄 FILE INFO
+    ========================= */
+    
+    #fileInfo {
+    font-size: 13px;
+    color: #444;
+    }
+    
+    /* =========================
+    ✨ ANIMATION
+    ========================= */
+    
+    @keyframes modalIn {
+    from {
+    transform: translateY(10px);
+    opacity: 0;
+    }
+    to {
+    transform: translateY(0);
+    opacity: 1;
+    }
+    }
+    
+    /* =========================
+    🔧 UTIL
+    ========================= */
+    
+    .hidden {
+    display: none;
+    }
+    

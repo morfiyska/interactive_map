@@ -1,0 +1,6130 @@
+{
+  "type": "FeatureCollection",
+  "name": "Бары",
+  "style": {
+    "color": "blue",
+    "radius": 6
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "ac345f1a-f27b-4868-90d4-eab1cbff4ca0",
+      "properties": {
+        "name": "Good beer, кафе",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Пн: с 10:00 до 18:00, Вт: с 10:00 до 22:00, Ср: с 10:00 до 22:00, Чт: с 10:00 до 22:00, Пт: с 12:00 до 02:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.306948,
+          52.265711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "40fb66e6-bd3d-46fc-a549-73a206a6b0c2",
+      "properties": {
+        "name": "City Coffee",
+        "subcategory": "Бары",
+        "rating": "3.4",
+        "site": "http://bbc.ru",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.353179,
+          52.257568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "90fc0d70-5e76-472d-83ee-e7f57720e68a",
+      "properties": {
+        "name": "Бирхауз, пивной ресторан",
+        "subcategory": "Бары, Доставка еды, Рестораны",
+        "rating": "4.6",
+        "site": "http://www.bier-haus.ru",
+        "hours": "Пн: с 12:00 до 02:00, Вт: с 12:00 до 02:00, Ср: с 12:00 до 02:00, Чт: с 12:00 до 02:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.285139,
+          52.281937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e662e930-5ddc-423f-ae63-c7320b4d047d",
+      "properties": {
+        "name": "Фламинго, ресторан",
+        "subcategory": "Бары, Рестораны",
+        "rating": "3.3",
+        "site": "http://angarahotel.ru",
+        "hours": "Ежедневно с 03:00 до 11:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.282041,
+          52.287501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e12b0284-9237-4987-83b5-7192419d5e37",
+      "properties": {
+        "name": "The London pub, бар-ресторан",
+        "subcategory": "Банкетные залы, Бары, Конференц-залы / Переговорные комнаты, Рестораны",
+        "rating": "4.4",
+        "site": "http://thelondon.pub",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.282348,
+          52.287177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "93327ec6-d045-4e5c-b814-e43a4e4b88c1",
+      "properties": {
+        "name": "Winkel, клуб-ресторан",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.1",
+        "site": "http://winkel-irk.ru",
+        "hours": "Пн: с 12:00 до 01:00, Вт: с 12:00 до 01:00, Ср: с 12:00 до 01:00, Чт: с 12:00 до 01:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.356876,
+          52.275381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e5796f99-7216-41e1-8ce3-7c956399a282",
+      "properties": {
+        "name": "Rio-Grande, ресторан",
+        "subcategory": "Бары, Доставка еды, Рестораны",
+        "rating": "4.8",
+        "site": "http://www.rio-grandeirk.ru",
+        "hours": "Пн: с 10:00 до 24:00, Вт: с 10:00 до 24:00, Ср: с 10:00 до 24:00, Чт: с 10:00 до 24:00, Пт: с 10:00 до 01:00, Сб: с 12:00 до 01:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.276506,
+          52.286561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6134ecc1-3498-4ed9-a547-146ec192eefe",
+      "properties": {
+        "name": "Чerdak, ночной клуб",
+        "subcategory": "Аренда площадок для культурно-массовых мероприятий, Банкетные залы, Бары, Ночные клубы, Рестораны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: с 22:00 до 08:00, Чт: с 22:00 до 08:00, Пт: с 22:00 до 08:00, Сб: с 22:00 до 08:00, Вс: с 22:00 до 08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.308734,
+          52.229284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "85842d96-9d72-4880-9b27-4c41ff645d66",
+      "properties": {
+        "name": "Sayen, бар",
+        "subcategory": "Бары",
+        "rating": "5.0",
+        "site": "http://sayen.ru/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.283925,
+          52.28209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "973e72fd-4e1c-4e60-b0a8-280015ad8cc0",
+      "properties": {
+        "name": "Broadway, бар-ресторан",
+        "subcategory": "Бары, Доставка еды, Рестораны",
+        "rating": "4.8",
+        "site": "http://t.me/broadway_rafinad, http://www.broadway.irk.ru",
+        "hours": "Пн: с 09:00 до 24:00, Вт: с 09:00 до 24:00, Ср: с 09:00 до 24:00, Чт: с 09:00 до 24:00, Пт: с 09:00 до 01:00, Сб: с 09:00 до 01:00, Вс: с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290964,
+          52.274392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ee84819c-da7a-40cd-b734-62daf093d2cb",
+      "properties": {
+        "name": "Winkel, клуб-ресторан",
+        "subcategory": "Бары, Ночные клубы, Рестораны",
+        "rating": "4.0",
+        "site": "http://winkel-irk.ru",
+        "hours": "Пн: с 12:00 до 01:00, Вт: с 12:00 до 01:00, Ср: с 12:00 до 01:00, Чт: с 12:00 до 02:00, Пт: с 12:00 до 06:00, Сб: с 12:00 до 06:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.265695,
+          52.250607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5da5b142-b1bf-4cb0-8593-8173c85e2b1f",
+      "properties": {
+        "name": "Zажигалка, стриптиз-бар",
+        "subcategory": "Бары, Караоке-залы, Ночные клубы, Стриптиз-клубы",
+        "rating": "4.8",
+        "site": "http://russtriptease.com/irkutsk/zazhigalka/",
+        "hours": "Ежедневно с 22:00 до 06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.284685,
+          52.279172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7dff8821-b9a3-4897-8733-44df07650e55",
+      "properties": {
+        "name": "Harat`s pub",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.4",
+        "site": "http://www.harats.ru",
+        "hours": "Пн: с 12:00 до 02:00, Вт: с 12:00 до 02:00, Ср: с 12:00 до 02:00, Чт: с 12:00 до 02:00, Пт: с 12:00 до 06:00, Сб: с 12:00 до 06:00, Вс: с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.297699,
+          52.291163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6b0eb8f5-29c8-4dbe-aca3-e32d51775638",
+      "properties": {
+        "name": "Harat`s pub",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.4",
+        "site": "http://www.harats.ru",
+        "hours": "Ежедневно с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.320324,
+          52.279213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5e60ece4-f227-4c13-bcd2-3849756a51ef",
+      "properties": {
+        "name": "Harat`s pub",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.5",
+        "site": "http://www.harats.ru",
+        "hours": "Ежедневно с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.259634,
+          52.264807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9b5ca662-b45c-447c-b0d2-9fe13e5a5dc0",
+      "properties": {
+        "name": "Академия Бильярда, бильярдный клуб",
+        "subcategory": "Бары, Бильярдные залы",
+        "rating": "4.7",
+        "site": "http://akademiabilliarda.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.221875,
+          52.265956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0c0e86b3-bb93-4857-aa01-221d7af40800",
+      "properties": {
+        "name": "Академия Караоке, ресторан",
+        "subcategory": "Банкетные залы, Бары, Караоке-залы, Рестораны",
+        "rating": "4.3",
+        "site": "http://t.me/akademiyakaraoke",
+        "hours": "Пн: с 20:00 до 04:00, Вт: с 20:00 до 04:00, Ср: с 20:00 до 04:00, Чт: с 20:00 до 04:00, Пт: с 20:00 до 06:00, Сб: с 20:00 до 06:00, Вс: с 20:00 до 04:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.340262,
+          52.265303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2b33e352-376a-43c2-9b6d-eb41aa52bda8",
+      "properties": {
+        "name": "Harat`s pub",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.1",
+        "site": "http://www.harats.ru",
+        "hours": "Пн: с 12:00 до 02:00, Вт: с 12:00 до 02:00, Ср: с 12:00 до 02:00, Чт: с 12:00 до 02:00, Пт: с 12:00 до 04:00, Сб: с 12:00 до 04:00, Вс: с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.308487,
+          52.265952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "29ea186c-d9b5-4a56-8b66-4d5ded0697fb",
+      "properties": {
+        "name": "Harat`s pub",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.0",
+        "site": "http://www.harats.ru",
+        "hours": "Ежедневно с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.249941,
+          52.254963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35a8c15f-e41e-40a7-b297-0d58af1a5c36",
+      "properties": {
+        "name": "Harat`s pub",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.3",
+        "site": "http://www.harats.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.353273,
+          52.272954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4887db12-a1b1-44c5-a29b-83d8729b3d81",
+      "properties": {
+        "name": "Harat`s pub",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.4",
+        "site": "http://www.harats.ru",
+        "hours": "Ежедневно с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.296085,
+          52.234987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6cb227c8-97a1-4e5c-8054-a7422320f3c1",
+      "properties": {
+        "name": "Подворье",
+        "subcategory": "Бары, Доставка еды, Рестораны",
+        "rating": "4.7",
+        "site": "http://t.me/hmelnoe_podvorye",
+        "hours": "Пн: с 10:00 до 24:00, Вт: с 10:00 до 24:00, Ср: с 10:00 до 24:00, Чт: с 10:00 до 24:00, Пт: с 10:00 до 02:00, Сб: с 10:00 до 02:00, Вс: с 10:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28788,
+          52.275076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35f9299f-e6c6-4ab5-9824-53a63d80669a",
+      "properties": {
+        "name": "Rafinad, кафе",
+        "subcategory": "Бары, Доставка еды, Кафе",
+        "rating": "4.6",
+        "site": "http://rafinad.irk.ru, http://t.me/broadway_rafinad",
+        "hours": "Пн: с 09:00 до 24:00, Вт: с 09:00 до 24:00, Ср: с 09:00 до 24:00, Чт: с 09:00 до 24:00, Пт: с 09:00 до 01:00, Сб: с 09:00 до 01:00, Вс: с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290993,
+          52.274275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1b6afc2c-62f6-4533-8773-2bd91a7209e0",
+      "properties": {
+        "name": "Кружаль, бар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.7",
+        "site": "http://ggrest.ru",
+        "hours": "Пн: с 12:00 до 02:00, Вт: с 12:00 до 02:00, Ср: с 12:00 до 02:00, Чт: с 12:00 до 02:00, Пт: с 12:00 до 04:00, Сб: с 14:00 до 04:00, Вс: с 14:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.286769,
+          52.275701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9a250ab8-d4cb-46f6-8d9b-bddad32053c3",
+      "properties": {
+        "name": "Harat`s pub",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.2",
+        "site": "http://www.harats.ru",
+        "hours": "Ежедневно с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.287079,
+          52.275607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8b7ce1ad-865e-495d-ac2d-25dfd9975618",
+      "properties": {
+        "name": "Барселона, кафе-караоке",
+        "subcategory": "Банкетные залы, Бары, Караоке-залы, Кафе",
+        "rating": "4.4",
+        "site": "http://barcelona38.ru/",
+        "hours": "Пн: с 10:00 до 20:00, Вт: с 10:00 до 20:00, Ср: с 10:00 до 06:00, Чт: с 10:00 до 06:00, Пт: с 10:00 до 06:00, Сб: с 10:00 до 06:00, Вс: с 10:00 до 06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.300212,
+          52.312723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d1f46912-892a-4cec-ab60-2f902447593e",
+      "properties": {
+        "name": "Grot Первомайский, бар-ресторан",
+        "subcategory": "Бары, Доставка еды, Рестораны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 02:00, Сб: с 14:00 до 02:00, Вс: с 14:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.241469,
+          52.260765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "311818d3-d31a-4387-8d20-f226ef2d1b9f",
+      "properties": {
+        "name": "Fuller`s, ресторан",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.5",
+        "site": "http://fullers-irk.ru",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.275717,
+          52.279662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "afa14dca-3cac-464d-9649-216fca36b7be",
+      "properties": {
+        "name": "Harat`s pub",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.2",
+        "site": "http://www.harats.ru",
+        "hours": "Ежедневно с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.353509,
+          52.249675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ba7595d2-a75a-43f9-8f3a-ec30e7cc637d",
+      "properties": {
+        "name": "Wedka seafood&bar",
+        "subcategory": "Банкетные залы, Бары, Доставка еды, Рестораны",
+        "rating": "4.6",
+        "site": "http://wedka.ru",
+        "hours": "Пн: с 10:00 до 23:00, Вт: с 10:00 до 23:00, Ср: с 10:00 до 23:00, Чт: с 10:00 до 23:00, Пт: с 10:00 до 01:00, Сб: с 10:00 до 01:00, Вс: с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28876,
+          52.274645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2cacc67c-ec88-4be3-8d99-b1258b48b781",
+      "properties": {
+        "name": "Бензин, мужской клуб",
+        "subcategory": "Бары, Караоке-залы, Ночные клубы, Стриптиз-клубы",
+        "rating": "4.4",
+        "site": "http://benzin-club.ru/, http://info2gis.tilda.ws/proxy18",
+        "hours": "Пн: с 20:00 до 05:00, Вт: с 20:00 до 05:00, Ср: с 20:00 до 05:00, Чт: с 20:00 до 05:00, Пт: с 12:00 до 06:00, Сб: с 12:00 до 06:00, Вс: с 20:00 до 05:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.304776,
+          52.28487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e0b4d2e8-6883-4c9b-92cf-659b06767f5e",
+      "properties": {
+        "name": "Рестобар",
+        "subcategory": "Банкетные залы, Бары, Доставка еды, Ночные клубы, Рестораны",
+        "rating": "4.5",
+        "site": "http://amstel-dostavka.ru, http://amstel.arm-irk.ru",
+        "hours": "Пн: с 09:00 до 06:00, Вт: с 09:00 до 06:00, Ср: с 09:00 до 06:00, Чт: с 09:00 до 06:00, Пт: с 09:00 до 07:00, Сб: с 09:00 до 07:00, Вс: с 09:00 до 06:00 (служба доставки: пн-вс 10:00-4:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.250576,
+          52.278519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8665edee-ba82-460f-bb43-756977e8aecb",
+      "properties": {
+        "name": "Бахус, бельгийский пивной паб",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.286096,
+          52.282413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e59797cd-05ab-4e86-bdbe-5d4c86dde412",
+      "properties": {
+        "name": "Sky Lounge Irkutsk",
+        "subcategory": "Бары, Караоке-залы, Рестораны",
+        "rating": "4.4",
+        "site": "http://t.me/sky_irk",
+        "hours": "Круглосуточно (караоке-зал: пн-вс 20:00-6:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.353432,
+          52.273574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "805c601a-2796-4ec6-be0a-bb5084c5e156",
+      "properties": {
+        "name": "Антрекот, гриль-бар",
+        "subcategory": "Бары, Доставка еды, Кафе",
+        "rating": "4.7",
+        "site": "http://antrekotbar.ru",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 01:00, Сб: с 12:00 до 01:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.285889,
+          52.282968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "215d8035-961e-42d3-82f7-3b7366f13f37",
+      "properties": {
+        "name": "PUBLIC BAR, бар-ресторан",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Пн: с 13:00 до 02:00, Вт: с 13:00 до 02:00, Ср: с 13:00 до 02:00, Чт: с 13:00 до 02:00, Пт: с 13:00 до 02:00, Сб: с 14:00 до 02:00, Вс: с 14:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.30383,
+          52.27705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8515cce1-f217-432b-a373-6c2f2f5212a0",
+      "properties": {
+        "name": "Listvyanka Club Grill, ресторан",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.861854,
+          51.855014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2b956f47-f620-451e-ba18-40bbaaa15a65",
+      "properties": {
+        "name": "Harat`s pub",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.7",
+        "site": "http://www.harats.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.259146,
+          52.281987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f9fa0593-e9c9-4090-b88e-c88063c1e475",
+      "properties": {
+        "name": "Хмельной Рыцарь, кафе",
+        "subcategory": "Бары, Доставка еды, Караоке-залы, Кафе",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Пн: с 10:00 до 24:00, Вт: с 10:00 до 24:00, Ср: с 10:00 до 24:00, Чт: с 10:00 до 24:00, Пт: с 10:00 до 03:00, Сб: с 12:00 до 03:00, Вс: с 13:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.209532,
+          52.35036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3e382876-78a8-45ce-ba87-5847849987d1",
+      "properties": {
+        "name": "Оёк, бар",
+        "subcategory": "Бары",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: с 19:30 до 03:00, Сб: с 19:30 до 03:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.454391,
+          52.581825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b739449e-5c2f-4ce0-b03c-a939c49a38e0",
+      "properties": {
+        "name": "Антрекот, гриль-бар",
+        "subcategory": "Бары, Доставка еды, Кафе",
+        "rating": "4.7",
+        "site": "http://antrekotbar.ru",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 01:00, Сб: с 12:00 до 01:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.291025,
+          52.272966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9d516fbe-40ab-4278-a953-bda950eef814",
+      "properties": {
+        "name": "Тормашка, ресторанный комплекс",
+        "subcategory": "Банкетные залы, Бары, Доставка еды, Рестораны",
+        "rating": "4.6",
+        "site": "http://tormashka.ru",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.253821,
+          52.224576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1ae64872-3804-477c-9ebd-d6e1ed68055d",
+      "properties": {
+        "name": "Библиотека",
+        "subcategory": "Бары",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 18:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289512,
+          52.284218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "86d59445-0ec0-4bf9-9024-179035f2924a",
+      "properties": {
+        "name": "Иstory, кафе",
+        "subcategory": "Бары, Бильярдные залы, Доставка еды, Кафе",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.273271,
+          52.282214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20f4df20-bcbe-4a52-a662-ab35d650838c",
+      "properties": {
+        "name": "ШашлыкoFF, гриль-бар",
+        "subcategory": "Бары, Доставка еды, Кафе",
+        "rating": "4.6",
+        "site": "http://shashlikoff.com, http://shashlikoff.com/grill-bars/5771",
+        "hours": "Пн: с 10:00 до 23:00, Вт: с 10:00 до 23:00, Ср: с 10:00 до 23:00, Чт: с 10:00 до 23:00, Пт: с 10:00 до 02:00, Сб: с 10:00 до 02:00, Вс: с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.292144,
+          52.281352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "43bc6673-3817-4c02-9a4a-7eb3769b67d7",
+      "properties": {
+        "name": "Жадина говядина, гастропаб",
+        "subcategory": "Бары, Рестораны",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.309733,
+          52.256787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f3f31973-529d-4259-9f7e-5267b36198a3",
+      "properties": {
+        "name": "Диалог, бар",
+        "subcategory": "Бары",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Ежедневно с 14:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.059488,
+          52.207915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "db9751bb-a58f-468d-8ad2-6c5b0a338921",
+      "properties": {
+        "name": "Академия Караоке, ресторан",
+        "subcategory": "Банкетные залы, Бары, Караоке-залы, Рестораны",
+        "rating": "3.9",
+        "site": "http://t.me/akademiyakaraoke",
+        "hours": "Пн: с 20:00 до 04:00, Вт: с 20:00 до 04:00, Ср: с 20:00 до 04:00, Чт: с 20:00 до 04:00, Пт: с 20:00 до 06:00, Сб: с 20:00 до 06:00, Вс: с 20:00 до 04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290857,
+          52.27206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8facd832-27c8-4a3a-b940-3ee9a755198d",
+      "properties": {
+        "name": "Датый ондатр, байк-бар",
+        "subcategory": "Бары",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 17:00, Вт: с 09:00 до 17:00, Ср: с 09:00 до 17:00, Чт: с 09:00 до 17:00, Пт: с 09:00 до 17:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.241143,
+          52.324667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2d7feb87-797d-4bbb-b1e3-95d9563e2e93",
+      "properties": {
+        "name": "Антрекот, гриль-бар",
+        "subcategory": "Бары, Доставка еды, Кафе",
+        "rating": "4.7",
+        "site": "http://antrekotbar.ru",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 01:00, Сб: с 12:00 до 01:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.22578,
+          52.264925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12bd3492-b2ab-43f2-aa3c-6d40124672f3",
+      "properties": {
+        "name": "Edison, бар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.6",
+        "site": "http://edisonbar.ru",
+        "hours": "Пн: с 18:00 до 02:00, Вт: с 18:00 до 02:00, Ср: с 18:00 до 02:00, Чт: с 18:00 до 02:00, Пт: с 18:00 до 04:00, Сб: с 18:00 до 04:00, Вс: с 18:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290718,
+          52.272288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a28876f4-0de3-4c35-9b94-c89c14803082",
+      "properties": {
+        "name": "ШашлыкoFF, гриль-бар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.5",
+        "site": "http://shashlikoff.com, http://shashlikoff.com/grill-bars/7471",
+        "hours": "Пн: с 12:00 до 02:00, Вт: с 12:00 до 02:00, Ср: с 12:00 до 02:00, Чт: с 12:00 до 02:00, Пт: с 12:00 до 03:00, Сб: с 12:00 до 03:00, Вс: с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288545,
+          52.27486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "63a75984-607d-4f32-9585-d5dc68840261",
+      "properties": {
+        "name": "Подушка, кафе",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.9",
+        "site": "http://pdshka.ru, http://t.me/tasamayapodushka",
+        "hours": "Ежедневно с 08:30 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.326726,
+          52.265782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f9f53218-d064-480d-9279-cd3d8b212435",
+      "properties": {
+        "name": "Сморреброд, гастробар",
+        "subcategory": "Бары",
+        "rating": "4.8",
+        "site": "http://t.me/smrbrd_irk",
+        "hours": "Пн: с 18:00 до 02:00, Вт: с 18:00 до 02:00, Ср: с 18:00 до 02:00, Чт: с 18:00 до 02:00, Пт: с 18:00 до 04:00, Сб: с 18:00 до 04:00, Вс: с 18:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288425,
+          52.277205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bfd76e8f-b846-4262-a916-7cde63fc0cb0",
+      "properties": {
+        "name": "Классик, бильярдный клуб-бар",
+        "subcategory": "Банкетные залы, Бары, Бильярдные залы",
+        "rating": "4.5",
+        "site": "http://classic38.ru",
+        "hours": "Ежедневно с 13:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.259838,
+          52.326077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "da745fb7-9847-4dbd-b19c-56c7ff31e4b6",
+      "properties": {
+        "name": "Лаунж-бар, д. Столбова",
+        "subcategory": "Бары",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.221869,
+          52.42615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "071ee332-9535-4de2-b716-663641b983bb",
+      "properties": {
+        "name": "Собрание Спешилова, ресторан-галерея",
+        "subcategory": "Банкетные залы, Бары, Бильярдные залы, Рестораны",
+        "rating": "4.7",
+        "site": "http://sobraniespeshilov.com",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.292352,
+          52.273136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5099e4b1-a8b7-48b2-aa29-4010c6e427b2",
+      "properties": {
+        "name": "Dead rabbits, бар",
+        "subcategory": "Бары",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 19:00 до 02:00, Вт: с 19:00 до 02:00, Ср: с 19:00 до 02:00, Чт: с 19:00 до 02:00, Пт: с 19:00 до 04:00, Сб: с 19:00 до 04:00, Вс: с 19:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.271518,
+          52.286123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a5187c17-a8e2-4970-a446-3ab4ad0ec8d9",
+      "properties": {
+        "name": "ВайнЯрд, гастробар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.7",
+        "site": "http://t.me/vineyard_irk",
+        "hours": "Пн: с 13:00 до 24:00, Вт: с 13:00 до 24:00, Ср: с 13:00 до 24:00, Чт: с 13:00 до 24:00, Пт: с 13:00 до 02:00, Сб: с 13:00 до 02:00, Вс: с 13:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290099,
+          52.274277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20fb28b4-4be0-4c59-a8ac-e6f262a8074c",
+      "properties": {
+        "name": "Жадина говядина, гастропаб",
+        "subcategory": "Бары, Кафе",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.30106,
+          52.279335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "02586cf1-4bf3-4ff4-8b7f-4f5a391e4e73",
+      "properties": {
+        "name": "Пивной погребок, магазин-бар",
+        "subcategory": "Алкогольные напитки, Бары, Безалкогольные напитки, Разливное пиво",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 01:00, Сб: с 12:00 до 01:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.278413,
+          52.232891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ef851048-37ff-49c0-afa6-51a7c05f3456",
+      "properties": {
+        "name": "Bravo, диско-бар",
+        "subcategory": "Бары, Кафе, Ночные клубы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: с 21:00 до 06:00, Пт: с 21:00 до 07:00, Сб: с 21:00 до 07:00, Вс: с 21:00 до 06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.327159,
+          52.258546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a819f64d-5644-42a9-9344-d49ced676eb3",
+      "properties": {
+        "name": "Kiss, рестобар",
+        "subcategory": "Банкетные залы, Бары, Доставка еды, Кейтеринг, Ночные клубы, Рестораны",
+        "rating": "4.5",
+        "site": "http://kiss-dostavka.ru, http://kiss.arm-irk.ru, http://t.me/restobar_kiss",
+        "hours": "Ежедневно с 12:00 до 06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.311316,
+          52.255638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "903fbb6e-8b0a-4e5e-a4f4-9472f00a01ce",
+      "properties": {
+        "name": "Gin Fizz bar, бар",
+        "subcategory": "Бары",
+        "rating": "4.9",
+        "site": "http://gin-fizz-bar.ru",
+        "hours": "Ежедневно с 18:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.292173,
+          52.28827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ae99cf7f-f231-4635-8c55-38bda62e2969",
+      "properties": {
+        "name": "One more bar, коктейльный бар",
+        "subcategory": "Бары",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 18:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288867,
+          52.284702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e5888482-ef13-41b3-94d4-8aac2066a2c9",
+      "properties": {
+        "name": "Жадина говядина, гастропаб",
+        "subcategory": "Бары, Кафе",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Пн: с 10:00 до 02:00, Вт: с 10:00 до 02:00, Ср: с 10:00 до 02:00, Чт: с 10:00 до 02:00, Пт: с 11:00 до 04:00, Сб: с 11:00 до 04:00, Вс: с 10:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289401,
+          52.274162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5a643ede-3541-47c1-90eb-861bbaed3ce9",
+      "properties": {
+        "name": "Circus, бар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.7",
+        "site": "http://circus.2gis.biz",
+        "hours": "Пн: с 18:00 до 04:00, Вт: с 18:00 до 04:00, Ср: с 18:00 до 04:00, Чт: с 18:00 до 04:00, Пт: с 18:00 до 06:00, Сб: с 18:00 до 06:00, Вс: с 18:00 до 04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.287668,
+          52.28313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0451a9bc-af6e-4aa3-9c71-79e70b830cf5",
+      "properties": {
+        "name": "Harat`s pub",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.3",
+        "site": "http://www.harats.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.323872,
+          52.254072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8029d0e7-85e5-4bdd-b986-62fca28ff4b1",
+      "properties": {
+        "name": "Антрекот, гриль-бар",
+        "subcategory": "Бары, Доставка еды, Кафе",
+        "rating": "4.7",
+        "site": "http://antrekotbar.ru",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289588,
+          52.268346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c9a639d2-e9aa-4b8e-9f2a-d178a175e570",
+      "properties": {
+        "name": "Tipsy tiki bar, коктейльный бар",
+        "subcategory": "Бары, Ночные клубы",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Пн: с 18:00 до 02:00, Вт: с 18:00 до 02:00, Ср: с 18:00 до 02:00, Чт: с 18:00 до 02:00, Пт: с 18:00 до 06:30, Сб: с 18:00 до 06:30, Вс: с 18:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.300414,
+          52.279853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "49545892-b5eb-417a-b264-392cd4b29b14",
+      "properties": {
+        "name": "Мясо Огонь, гриль-бар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.6",
+        "site": "http://t.me/mo_gril38",
+        "hours": "Ежедневно с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.257312,
+          52.254048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4b1f0de2-4288-4fb2-94e8-32658e5dbb64",
+      "properties": {
+        "name": "Бугель Вугель, бар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "3.7",
+        "site": "http://baikalski.net/restaurants/bugel-vugel",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.120422,
+          51.509249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f81f57e8-f779-414e-a12a-23c322d89b88",
+      "properties": {
+        "name": "Ель и ребра, гриль-бар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.8",
+        "site": "http://elirebra.ru",
+        "hours": "Пн: с 12:00 до 23:00, Вт: с 12:00 до 23:00, Ср: с 12:00 до 23:00, Чт: с 12:00 до 23:00, Пт: с 12:00 до 24:00, Сб: с 12:00 до 24:00, Вс: с 13:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.276367,
+          52.282822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2f106b96-e908-40ce-949b-69400c36c885",
+      "properties": {
+        "name": "Оазис, кафе-бар",
+        "subcategory": "Бары, Доставка еды, Кафе",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 17:00 до 05:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.155074,
+          51.522027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "92af7dd4-4478-47f4-b425-95f53f0e3b2e",
+      "properties": {
+        "name": "Был здесь?, лаундж-бар",
+        "subcategory": "Бары, Центры паровых коктейлей",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 16:00 до 03:30, Вт: с 16:00 до 03:30, Ср: с 16:00 до 03:30, Чт: с 16:00 до 03:30, Пт: с 16:00 до 04:00, Сб: с 16:00 до 04:00, Вс: с 16:00 до 04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.298879,
+          52.271133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3faf29b6-6353-4cdf-a3fe-535bece70831",
+      "properties": {
+        "name": "humble.social club+bar, бар",
+        "subcategory": "Бары",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 17:00 до 24:00, Вт: с 17:00 до 24:00, Ср: с 17:00 до 24:00, Чт: с 17:00 до 24:00, Пт: с 17:00 до 02:00, Сб: с 17:00 до 02:00, Вс: с 17:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.291473,
+          52.288178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a74c9f2b-30c0-4637-a2ef-501c7b74e54b",
+      "properties": {
+        "name": "Рок Бар, ресторан",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.6",
+        "site": "http://rockbar38.ru",
+        "hours": "Пн: выходной, Вт: с 17:00 до 01:00, Ср: с 17:00 до 01:00, Чт: с 17:00 до 01:00, Пт: с 17:00 до 03:00, Сб: с 17:00 до 03:00, Вс: с 17:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.34081,
+          52.279546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6bb1153c-a78c-4e2e-8aa4-4b0a732bcd36",
+      "properties": {
+        "name": "Мажор, караоке-клуб",
+        "subcategory": "Бары, Караоке-залы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Пн: с 19:00 до 06:00, Вт: с 19:00 до 06:00, Ср: с 19:00 до 06:00, Чт: с 19:00 до 06:00, Пт: с 19:00 до 07:00, Сб: с 19:00 до 07:00, Вс: с 19:00 до 06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.257312,
+          52.254048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c24bdd8d-ffec-4782-a768-a3c450ccddcb",
+      "properties": {
+        "name": "Gorgona lounge, лаундж-бар",
+        "subcategory": "Бары, Центры паровых коктейлей",
+        "rating": "4.8",
+        "site": "http://info2gis.tilda.ws/proxy18, http://jivo.chat/czRmzAF1OF",
+        "hours": "Пн: с 15:00 до 02:00, Вт: с 15:00 до 02:00, Ср: с 15:00 до 02:00, Чт: с 15:00 до 02:00, Пт: с 15:00 до 04:00, Сб: с 15:00 до 04:00, Вс: с 15:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.329988,
+          52.279234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0a3dda1c-35bf-4e13-a46e-37a5e1cec10a",
+      "properties": {
+        "name": "Клеофас, городская пивная",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "4.6",
+        "site": "http://t.me/kleofas_erdman, http://www.kleofas.ru",
+        "hours": "Пн: с 10:00 до 23:00, Вт: с 10:00 до 23:00, Ср: с 10:00 до 23:00, Чт: с 10:00 до 23:00, Пт: с 10:00 до 24:00, Сб: с 10:00 до 24:00, Вс: с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.154177,
+          52.354275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14e059fa-c204-43ed-a501-5d47160ccd2e",
+      "properties": {
+        "name": "Рюмка, бар-рюмочная",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Пн: с 18:00 до 03:00, Вт: с 18:00 до 03:00, Ср: с 18:00 до 03:00, Чт: с 18:00 до 03:00, Пт: с 18:00 до 05:00, Сб: с 18:00 до 05:00, Вс: с 18:00 до 05:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.287798,
+          52.279505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "330db609-b7aa-47be-90f6-7b4862a821b8",
+      "properties": {
+        "name": "Маяковский, бар",
+        "subcategory": "Бары",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 24:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.872908,
+          51.84735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "379a946e-6a32-48fb-8a29-6687366a0d7e",
+      "properties": {
+        "name": "Plan B, коктейльный бар",
+        "subcategory": "Бары",
+        "rating": "4.9",
+        "site": "http://t.me/plan_b_irk",
+        "hours": "Пн: с 19:00 до 02:00, Вт: с 19:00 до 02:00, Ср: с 19:00 до 02:00, Чт: с 19:00 до 02:00, Пт: с 19:00 до 04:00, Сб: с 19:00 до 04:00, Вс: с 19:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.291159,
+          52.284721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5e9962d0-045b-4bf7-ba23-96a344245bf1",
+      "properties": {
+        "name": "Harat`s pub, кафе",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.9",
+        "site": "http://harats.com",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.74503,
+          53.002685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2174b8b6-1ece-4fbe-bd65-a48bdceddded",
+      "properties": {
+        "name": "Клеофас, городская пивная",
+        "subcategory": "Бары, Разливное пиво, Снеки",
+        "rating": "4.8",
+        "site": "http://www.kleofas.ru",
+        "hours": "Пн: с 10:00 до 23:00, Вт: с 10:00 до 23:00, Ср: с 10:00 до 23:00, Чт: с 10:00 до 23:00, Пт: с 10:00 до 24:00, Сб: с 10:00 до 24:00, Вс: с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.225769,
+          52.252094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8750072e-2b4a-4a55-bc4a-4714b5646376",
+      "properties": {
+        "name": "Антрекот, гриль-бар",
+        "subcategory": "Бары, Доставка еды, Кафе",
+        "rating": "4.7",
+        "site": "http://antrekotbar.ru",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.322503,
+          52.279555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "86497f70-65f7-44ed-9d2a-b2af2bd422c7",
+      "properties": {
+        "name": "Моралистъ, бар-рюмочная",
+        "subcategory": "Бары, Рюмочные",
+        "rating": "5.0",
+        "site": "http://t.me/bar_moralist",
+        "hours": "Пн: выходной, Вт: с 19:00 до 24:00, Ср: с 19:00 до 24:00, Чт: с 19:00 до 24:00, Пт: с 19:00 до 03:00, Сб: с 19:00 до 03:00, Вс: с 19:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.306556,
+          52.296024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "82f884b8-8347-4aa9-99c1-31186c999c52",
+      "properties": {
+        "name": "Кедровый, бар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "3.8",
+        "site": "http://mv-rest.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.273308,
+          52.288117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7c3c8cc6-1f2a-4073-b8d3-c27e0c49c19d",
+      "properties": {
+        "name": "Идеал, бар",
+        "subcategory": "Бары, Доставка еды, Кафе",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.294658,
+          52.313099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "302c39f2-2bb6-48b8-83ec-b2e32ae9ae2f",
+      "properties": {
+        "name": "Сарай, бар-ресторан",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 17:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.360842,
+          53.194265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2b0efc32-c6bf-411a-9ca9-fb31678342c2",
+      "properties": {
+        "name": "Сибирский лофт, гастробар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Пн: с 11:00 до 02:00, Вт: с 11:00 до 02:00, Ср: с 11:00 до 02:00, Чт: с 11:00 до 02:00, Пт: с 11:00 до 02:00, Сб: с 14:00 до 02:00, Вс: с 14:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.276243,
+          52.282791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "32ae478a-e1d8-4b39-afa6-6979a851273d",
+      "properties": {
+        "name": "Жадина говядина, гастропаб",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Пн: с 11:00 до 01:00, Вт: с 11:00 до 01:00, Ср: с 11:00 до 01:00, Чт: с 11:00 до 01:00, Пт: с 11:00 до 02:00, Сб: с 11:00 до 02:00, Вс: с 11:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.278541,
+          52.27473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "89c8f64f-9f76-4005-b465-689fb21ac8f7",
+      "properties": {
+        "name": "Show must go on bar, караоке-бар",
+        "subcategory": "Бары, Караоке-залы, Ночные клубы, Рестораны",
+        "rating": "4.7",
+        "site": "http://showbar-irk.ru, http://t.me/showbar_irkutsk",
+        "hours": "Пн: выходной, Вт: выходной, Ср: с 20:00 до 03:00, Чт: с 20:00 до 03:00, Пт: с 20:00 до 05:00, Сб: с 20:00 до 05:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.294019,
+          52.289358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "46d69f56-3a4e-4a4a-b26a-56db6757461a",
+      "properties": {
+        "name": "Летучий голландец, кафе-бар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.881138,
+          53.02194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3e7976b6-a8a0-4312-8308-19f72c010571",
+      "properties": {
+        "name": "Баатар, ресторан",
+        "subcategory": "Бары, Рестораны",
+        "rating": "3.6",
+        "site": "http://www.naratey-baikal.ru",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.847656,
+          53.025628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4ef942a6-6524-4e6a-9201-22aeecd69afb",
+      "properties": {
+        "name": "Sound-bar, клуб",
+        "subcategory": "Бары",
+        "rating": "3.5",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: с 14:00 до 24:00, Ср: с 14:00 до 24:00, Чт: с 14:00 до 24:00, Пт: с 14:00 до 02:00, Сб: с 14:00 до 02:00, Вс: с 14:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.331419,
+          53.193032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4f56c6ec-b386-44e2-8cca-fadc229ff887",
+      "properties": {
+        "name": "Orange, рестобар",
+        "subcategory": "Банкетные залы, Бары, Караоке-залы, Рестораны",
+        "rating": "4.2",
+        "site": "http://hotelzvezdakochevnika.com",
+        "hours": "Ежедневно с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.359415,
+          53.198146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8630e9ed-f19d-47d9-982a-dabe2274fbad",
+      "properties": {
+        "name": "12 стульев, бар-рюмочная",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Пн: с 18:00 до 02:00, Вт: с 18:00 до 02:00, Ср: с 18:00 до 02:00, Чт: с 18:00 до 02:00, Пт: с 18:00 до 04:00, Сб: с 18:00 до 04:00, Вс: с 18:00 до 04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.301145,
+          52.279704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ed75e536-0337-4166-97ae-7f0cc9e2fb53",
+      "properties": {
+        "name": "Nrvna, лаундж-бар",
+        "subcategory": "Бары, Центры паровых коктейлей",
+        "rating": "4.9",
+        "site": "http://info2gis.tilda.ws/proxy18",
+        "hours": "Пн: с 15:00 до 02:00, Вт: с 15:00 до 02:00, Ср: с 15:00 до 02:00, Чт: с 15:00 до 02:00, Пт: с 15:00 до 04:00, Сб: с 15:00 до 04:00, Вс: с 15:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289305,
+          52.274395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5969c1fd-c955-4300-af93-fa70dbb80f8f",
+      "properties": {
+        "name": "Бах, караоке-бар",
+        "subcategory": "Бары, Доставка еды, Караоке-залы",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 19:00 до 06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.295796,
+          52.228527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fb104122-a742-4e3f-9372-1c43ddcbe4ac",
+      "properties": {
+        "name": "Цех by happy, бар честных цен",
+        "subcategory": "Бары, Кафе, Ночные клубы",
+        "rating": "4.0",
+        "site": "http://t.me/generation_happy",
+        "hours": "Ежедневно с 18:00 до 05:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.304736,
+          52.273802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5edc7ed5-9f16-47da-9abe-9c68d0b5baf8",
+      "properties": {
+        "name": "Сахар, бар-ресторан",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.5",
+        "site": "http://saxar.life, http://t.me/saxarbar",
+        "hours": "Пн: с 19:00 до 06:00, Вт: выходной, Ср: выходной, Чт: выходной, Пт: с 19:00 до 06:00, Сб: с 19:00 до 06:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.29248,
+          52.281452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a67cd301-a012-488f-9587-98fb79d39b8c",
+      "properties": {
+        "name": "Ochagof, ресторан",
+        "subcategory": "Бары, Рестораны",
+        "rating": "nan",
+        "site": "http://ochagofhotel.ru",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.297745,
+          52.262773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27594230-17e1-45c7-af39-30d9142ccfbc",
+      "properties": {
+        "name": "Gwent tawerna, тематический паб",
+        "subcategory": "Бары, Доставка еды, Кафе",
+        "rating": "4.8",
+        "site": "http://gwenttawerna.ru",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.284395,
+          52.284639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ba0b3d85-ef8c-4116-a60b-45c35c2f7f38",
+      "properties": {
+        "name": "РВБ Иркутск",
+        "subcategory": "Бары, Караоке-залы",
+        "rating": "4.6",
+        "site": "http://taplink.cc/rvbar.irk",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: с 20:00 до 06:00, Сб: с 20:00 до 06:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.327696,
+          52.257548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e736d518-b2fd-46eb-a81d-11d83a7aa990",
+      "properties": {
+        "name": "Kultura bar, рестобар",
+        "subcategory": "Бары, Ночные клубы, Рестораны",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Пн: с 23:00 до 08:00, Вт: с 23:00 до 08:00, Ср: с 23:00 до 08:00, Чт: с 22:00 до 07:00, Пт: с 22:00 до 08:00, Сб: с 22:00 до 08:00, Вс: с 23:00 до 08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.301059,
+          52.287396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6bcd1f25-6c07-478b-8d19-c2c224d94d04",
+      "properties": {
+        "name": "Ibis Kitchen, ресторан-бар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.3",
+        "site": "http://accor.ru/irkutsk/ibis-irkutsk-center/",
+        "hours": "Круглосуточно (ресторан: пн-вс 4:00-22:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.270352,
+          52.287369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5a30956c-a8e5-4e1e-a6b1-99745adc8855",
+      "properties": {
+        "name": "Реберня, гриль-бар",
+        "subcategory": "Бары, Кафе, Рестораны",
+        "rating": "4.9",
+        "site": "http://svetlyi-hotel.ru/gril-bar, http://t.me/grillbarrebernya",
+        "hours": "Ежедневно с 12:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.361741,
+          52.260825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ae02124e-ebf4-4fd2-8b62-e67fbb94aa1c",
+      "properties": {
+        "name": "Carolina, кафе",
+        "subcategory": "Бары, Доставка еды, Кафе",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 22:00, Вт: с 09:00 до 22:00, Ср: с 09:00 до 22:00, Чт: с 09:00 до 22:00, Пт: с 09:00 до 02:00, Сб: с 09:00 до 02:00, Вс: с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.243637,
+          52.469317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "352d3f43-742a-4a5e-b5e2-abcff74c9b1f",
+      "properties": {
+        "name": "Реберная №1",
+        "subcategory": "Бары, Кафе, Рестораны",
+        "rating": "4.5",
+        "site": "http://rebernaya-1.ru",
+        "hours": "Пн: с 12:00 до 23:00, Вт: с 12:00 до 23:00, Ср: с 12:00 до 23:00, Чт: с 12:00 до 23:00, Пт: с 12:00 до 24:00, Сб: с 12:00 до 24:00, Вс: с 12:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.321298,
+          52.272578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96322993-7e4d-4deb-89c5-2eb1f6c70d35",
+      "properties": {
+        "name": "Коровоке",
+        "subcategory": "Бары, Караоке-залы",
+        "rating": "4.6",
+        "site": "http://t.me/redrock_irkutsk",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: с 20:00 до 02:00, Пт: с 20:00 до 04:00, Сб: с 20:00 до 04:00, Вс: с 00:00 до 04:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.278707,
+          52.274695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cadd51a9-6325-4994-aadd-73f55bee0bba",
+      "properties": {
+        "name": "Клеофас, городская пивная",
+        "subcategory": "Бары, Разливное пиво, Снеки",
+        "rating": "4.8",
+        "site": "http://www.kleofas.ru",
+        "hours": "Пн: с 10:00 до 23:00, Вт: с 10:00 до 23:00, Ср: с 10:00 до 23:00, Чт: с 10:00 до 23:00, Пт: с 10:00 до 24:00, Сб: с 10:00 до 24:00, Вс: с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.302327,
+          52.26231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27e9ccbd-b7f0-49f7-9e8e-f784363ca876",
+      "properties": {
+        "name": "Дядя Суслофф, кафе-бар",
+        "subcategory": "Алкогольные напитки, Бары, Разливное пиво",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.259955,
+          52.261399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f8d4ddaf-0118-457c-b2a5-653e6369019d",
+      "properties": {
+        "name": "Филин на тополе, гастро-паб",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.2",
+        "site": "http://foodeon.com/venue/filin-and-topol-enzr, http://ozera.club/restaurants/letnyaya-veranda/",
+        "hours": "Пн: с 10:00 до 22:00, Вт: с 10:00 до 22:00, Ср: с 10:00 до 22:00, Чт: с 10:00 до 22:00, Пт: с 10:00 до 23:00, Сб: с 10:00 до 23:00, Вс: с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.645859,
+          51.395377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c785bb1a-7d29-4ad6-bc17-1c4cf568fe70",
+      "properties": {
+        "name": "Delmar, кафе-бар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Пн: с 10:00 до 22:00, Вт: с 10:00 до 22:00, Ср: с 10:00 до 22:00, Чт: с 10:00 до 22:00, Пт: с 10:00 до 23:00, Сб: с 10:00 до 23:00, Вс: с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.815059,
+          53.034746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5ba0aafb-d2f4-4669-8ce1-f039fd5825d1",
+      "properties": {
+        "name": "Ugli-bar",
+        "subcategory": "Бары",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 13:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.805467,
+          53.08042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "204aa332-763e-4c48-85a7-275b6f791ded",
+      "properties": {
+        "name": "Сагаан-Морин, ресторан-бар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "3.6",
+        "site": "http://da-shi.ru/",
+        "hours": "Ежедневно с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.805761,
+          53.079782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dc77f891-b6c8-4fff-8001-17364195f4f5",
+      "properties": {
+        "name": "Все Свои, бар",
+        "subcategory": "Бары",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: с 20:00 до 05:00, Чт: с 20:00 до 05:00, Пт: с 20:00 до 07:00, Сб: с 20:00 до 07:00, Вс: с 20:00 до 05:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.162018,
+          52.35548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "46e7f3f0-d8c3-4f05-8e60-9cd4f06cfe6e",
+      "properties": {
+        "name": "Baikal Forest Restaurant, ресторанный комплекс",
+        "subcategory": "Банкетные залы, Бары, Конференц-залы / Переговорные комнаты, Рестораны",
+        "rating": "4.7",
+        "site": "http://baikal-forest.tilda.ws, http://t.me/baikalforestrest",
+        "hours": "Ежедневно с 07:00 до 24:00 (бар: пн-вс круглосуточно)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.30523,
+          52.275221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d24d0bc0-dff9-4215-94d4-5c36c19c1048",
+      "properties": {
+        "name": "Маджонг, гастробар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Пн: с 17:00 до 01:00, Вт: с 17:00 до 01:00, Ср: с 17:00 до 01:00, Чт: с 17:00 до 01:00, Пт: с 17:00 до 03:00, Сб: с 17:00 до 03:00, Вс: с 17:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288062,
+          52.283115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9402f163-6996-4744-8b19-95759f861b40",
+      "properties": {
+        "name": "Хурал, ресторан",
+        "subcategory": "Банкетные залы, Бары, Доставка еды, Кафе, Рестораны",
+        "rating": "4.5",
+        "site": "http://taplink.cc/hural_kafe",
+        "hours": "Пн: с 10:00 до 24:00, Вт: с 10:00 до 24:00, Ср: с 10:00 до 24:00, Чт: с 10:00 до 24:00, Пт: с 10:00 до 02:00, Сб: с 10:00 до 02:00, Вс: с 10:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06986,
+          52.201213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5e625f8b-cc03-44ca-b21f-fb02b1947d17",
+      "properties": {
+        "name": "Олимп, бар",
+        "subcategory": "Бары, Доставка еды, Кафе",
+        "rating": "4.8",
+        "site": "http://t.me/olimpbar",
+        "hours": "Пн: с 20:00 до 03:00, Вт: выходной, Ср: выходной, Чт: с 20:00 до 03:00, Пт: с 20:00 до 03:00, Сб: с 20:00 до 03:00, Вс: с 20:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.155615,
+          51.520369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "100e3264-1490-4151-89f7-184ea2de3a9d",
+      "properties": {
+        "name": "Territory Soprano Clan-Club, ресторан-клуб",
+        "subcategory": "Бары, Караоке-залы, Кафе, Ночные клубы",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Пн: с 12:00 до 01:00, Вт: с 12:00 до 01:00, Ср: с 12:00 до 01:00, Чт: с 12:00 до 01:00, Пт: с 12:00 до 05:00, Сб: с 12:00 до 05:00, Вс: с 12:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.338266,
+          52.285346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6f5239fc-0408-4f2e-b216-8e462441d191",
+      "properties": {
+        "name": "Винотека на Литвинова",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.7",
+        "site": "http://t.me/vinotekalitvona2",
+        "hours": "Пн: выходной, Вт: с 12:00 до 23:00, Ср: с 12:00 до 23:00, Чт: с 12:00 до 23:00, Пт: с 12:00 до 01:00, Сб: с 12:00 до 01:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288343,
+          52.284182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "71527a90-de1d-42df-9875-083f635d458b",
+      "properties": {
+        "name": "Чемпионы, гастробар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.286971,
+          52.283875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1da357e1-494d-4a7d-a2d7-d673f0f20842",
+      "properties": {
+        "name": "Юность",
+        "subcategory": "Бары",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Пн: с 18:00 до 01:00, Вт: с 18:00 до 01:00, Ср: с 18:00 до 01:00, Чт: с 18:00 до 01:00, Пт: с 18:00 до 03:00, Сб: с 18:00 до 03:00, Вс: с 18:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.291422,
+          52.284763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a0715943-eb0e-41c4-82cc-4e86a1305ba4",
+      "properties": {
+        "name": "Neft, ночной клуб",
+        "subcategory": "Бары, Ночные клубы",
+        "rating": "4.4",
+        "site": "http://t.me/ncneft",
+        "hours": "Пн: с 20:00 до 03:00, Вт: с 20:00 до 03:00, Ср: с 20:00 до 03:00, Чт: с 20:00 до 03:00, Пт: с 22:00 до 06:00, Сб: с 22:00 до 06:00, Вс: с 20:00 до 03:00 (до последнего гостя)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.294061,
+          52.284155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "07411658-d2c0-4514-a32a-6965bccc0eea",
+      "properties": {
+        "name": "Гештальт, бар",
+        "subcategory": "Бары",
+        "rating": "5.0",
+        "site": "http://t.me/geshtalt_irkutsk",
+        "hours": "Пн: с 18:00 до 01:00, Вт: с 18:00 до 01:00, Ср: с 18:00 до 01:00, Чт: с 18:00 до 01:00, Пт: с 18:00 до 03:00, Сб: с 18:00 до 03:00, Вс: с 18:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.273984,
+          52.285838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "920c74e6-0c05-4b38-8744-04aa86e8b089",
+      "properties": {
+        "name": "Вулкан, бар",
+        "subcategory": "Бары",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 16:00 до 07:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.172658,
+          52.350725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31fe8f3d-6475-4b82-a1db-f1c5437984a8",
+      "properties": {
+        "name": "Барбосс, бар",
+        "subcategory": "Бары",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Ежедневно с 16:00 до 05:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.047081,
+          52.230315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "367606a6-333b-494d-abd8-65041b29e503",
+      "properties": {
+        "name": "Yummy, ресторан",
+        "subcategory": "Бары, Кафе, Рестораны",
+        "rating": "4.6",
+        "site": "http://ozera.club/restaurants",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.646349,
+          51.395117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4c30ab67-0aa9-4bea-95dc-9eb31c6703a8",
+      "properties": {
+        "name": "Dragon House, кафе-бар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Пн: с 11:00 до 23:00, Вт: с 11:00 до 23:00, Ср: с 11:00 до 23:00, Чт: с 11:00 до 23:00, Пт: с 11:00 до 02:30, Сб: с 11:00 до 02:30, Вс: с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.714174,
+          51.660867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1fd4373a-eb19-4481-b199-df5887cbf57c",
+      "properties": {
+        "name": "Hoods",
+        "subcategory": "Бары",
+        "rating": "4.9",
+        "site": "http://t.me/hoods_irkutsk",
+        "hours": "Пн: с 18:00 до 02:00, Вт: с 18:00 до 02:00, Ср: с 18:00 до 02:00, Чт: с 18:00 до 02:00, Пт: с 18:00 до 04:00, Сб: с 18:00 до 04:00, Вс: с 18:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.292319,
+          52.283068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e1ca0c20-830a-4687-a362-b0cce6c03ec6",
+      "properties": {
+        "name": "Яблоко, ресторан",
+        "subcategory": "Бары, Ночные клубы, Рестораны",
+        "rating": "4.8",
+        "site": "http://yablokorestaurant.2gis.biz",
+        "hours": "Пн: с 12:00 до 02:00, Вт: с 12:00 до 02:00, Ср: с 12:00 до 02:00, Чт: с 12:00 до 02:00, Пт: с 12:00 до 05:00, Сб: с 12:00 до 05:00, Вс: с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.301109,
+          52.279673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fc0e8d27-f096-4061-bdca-90975f15a0a5",
+      "properties": {
+        "name": "У Друзей, караоке-бар",
+        "subcategory": "Бары, Караоке-залы",
+        "rating": "4.4",
+        "site": "http://t.me/udruzey38",
+        "hours": "Пн: выходной, Вт: с 18:00 до 04:00, Ср: с 18:00 до 04:00, Чт: с 18:00 до 04:00, Пт: с 20:00 до 06:00, Сб: с 20:00 до 06:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.294182,
+          52.289256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "196e6dfb-9669-4c52-bbbf-277001dccc23",
+      "properties": {
+        "name": "Blue Bird",
+        "subcategory": "Бары",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 18:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290717,
+          52.284413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9fce4cee-b62c-425e-8319-d296c687e338",
+      "properties": {
+        "name": "Друзья, рестобар",
+        "subcategory": "Бары, Караоке-залы, Кафе, Ночные клубы",
+        "rating": "4.2",
+        "site": "http://bardruzia.ru, http://t.me/bar_druzya38",
+        "hours": "Пн: с 12:00 до 03:00, Вт: с 12:00 до 03:00, Ср: с 12:00 до 03:00, Чт: с 12:00 до 03:00, Пт: с 12:00 до 05:00, Сб: с 12:00 до 05:00, Вс: с 12:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288633,
+          52.285598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bb19aeb0-af72-438d-b3bf-5b4a2d5e1ba2",
+      "properties": {
+        "name": "Лотос, ресторан",
+        "subcategory": "Бары, Доставка еды, Кафе, Рестораны",
+        "rating": "4.3",
+        "site": "http://lianhuaw.ru",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.142691,
+          52.347463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d4db1a78-6aad-4157-9f46-22b98c755e8d",
+      "properties": {
+        "name": "Композитор, аудио-бар",
+        "subcategory": "Бары",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 15:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.292499,
+          52.288534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "998ce3c8-4f64-4c86-aee4-fce768591831",
+      "properties": {
+        "name": "Точка Притяжения",
+        "subcategory": "Бары",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.123728,
+          51.514869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "60682419-3afd-438e-b245-c4fd77471104",
+      "properties": {
+        "name": "Rose club, лаундж-бар",
+        "subcategory": "Бары",
+        "rating": "4.8",
+        "site": "http://t.me/club38nlo",
+        "hours": "Ежедневно с 18:00 до 06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.147133,
+          52.352244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "32f829e9-341c-4785-b0ee-c686c427f6ca",
+      "properties": {
+        "name": "Liberty, бар",
+        "subcategory": "Бары, Бильярдные залы",
+        "rating": "4.9",
+        "site": "http://t.me/liberty_bar_sludianka",
+        "hours": "Ежедневно с 14:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.716553,
+          51.6553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "270e8417-8772-4e5d-a1f9-fc8dcb5ea7fb",
+      "properties": {
+        "name": "Подземка, рок-бар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.9",
+        "site": "http://t.me/podzemka_bar",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 03:00, Сб: с 18:00 до 03:00, Вс: с 18:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.300963,
+          52.285959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3528c909-8ae5-44fa-ab10-7c327bab43b5",
+      "properties": {
+        "name": "Дядя Суслофф, кафе-бар",
+        "subcategory": "Алкогольные напитки, Бары, Разливное пиво",
+        "rating": "3.1",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.187828,
+          52.260359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1c6dc230-b6aa-400b-9db1-c99d8b107c70",
+      "properties": {
+        "name": "Baikal Forest Bar, лобби-бар",
+        "subcategory": "Бары",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.304785,
+          52.276203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "403e50b2-fa9a-49d8-adc9-60d27ce95821",
+      "properties": {
+        "name": "Был здесь?, лаундж-бар",
+        "subcategory": "Бары, Центры паровых коктейлей",
+        "rating": "5.0",
+        "site": "http://t.me/bar_byl_zdes",
+        "hours": "Ежедневно с 16:00 до 04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290001,
+          52.273932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6d81c243-fd39-454b-927e-6422d1dedd89",
+      "properties": {
+        "name": "Striж, бар",
+        "subcategory": "Бары, Караоке-залы",
+        "rating": "5.0",
+        "site": "http://t.me/strizbar",
+        "hours": "Пн: с 12:00 до 02:00, Вт: с 12:00 до 02:00, Ср: с 12:00 до 02:00, Чт: с 12:00 до 02:00, Пт: с 12:00 до 04:00, Сб: с 12:00 до 04:00, Вс: с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.227261,
+          52.251975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d48565f1-017e-4d7f-888a-60119077ab55",
+      "properties": {
+        "name": "Sova, караоке-бар",
+        "subcategory": "Бары, Караоке-залы",
+        "rating": "4.7",
+        "site": "http://t.me/karaokbarsova",
+        "hours": "Пн: выходной, Вт: с 18:00 до 24:00, Ср: с 18:00 до 24:00, Чт: с 18:00 до 02:00, Пт: с 18:00 до 04:00, Сб: с 18:00 до 04:00, Вс: с 18:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.077819,
+          52.202279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5e3b2ef9-36a2-4ae4-81a3-f66facc98080",
+      "properties": {
+        "name": "Лепрекон, бар",
+        "subcategory": "Алкогольные напитки, Бары, Безалкогольные напитки, Разливное пиво, Снеки",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.206004,
+          52.263949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "40a63cd8-b8a7-40eb-ba33-ecf90e145325",
+      "properties": {
+        "name": "Ешь или Пей, бар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Пн: с 12:00 до 02:00, Вт: с 12:00 до 02:00, Ср: с 12:00 до 02:00, Чт: с 12:00 до 02:00, Пт: с 12:00 до 04:00, Сб: с 12:00 до 04:00, Вс: с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.300984,
+          52.279726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cac249a6-8141-4100-b037-005d3d7363b6",
+      "properties": {
+        "name": "Странники, бар",
+        "subcategory": "Бары",
+        "rating": "5.0",
+        "site": "http://strannikibar.ru",
+        "hours": "Пн: выходной, Вт: с 18:00 до 03:00, Ср: с 18:00 до 03:00, Чт: с 18:00 до 03:00, Пт: с 18:00 до 05:00, Сб: с 18:00 до 05:00, Вс: с 18:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.275253,
+          52.288538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b3db4340-dbf7-4c57-97f3-24f476e4c032",
+      "properties": {
+        "name": "Кружок, бар",
+        "subcategory": "Бары",
+        "rating": "4.9",
+        "site": "http://t.me/kruzhok_irk",
+        "hours": "Пн: выходной, Вт: выходной, Ср: с 20:00 до 24:00, Чт: с 20:00 до 24:00, Пт: с 20:00 до 02:00, Сб: с 20:00 до 02:00, Вс: с 20:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.303671,
+          52.277018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2108caa7-bb0c-4d44-adde-fdd35891c596",
+      "properties": {
+        "name": "Лепрекон, бар",
+        "subcategory": "Бары",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.305556,
+          52.22093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "44652b85-b1db-4094-86e2-33121d36b32a",
+      "properties": {
+        "name": "Ёмкость, бар",
+        "subcategory": "Алкогольные напитки, Бары, Разливное пиво, Снеки",
+        "rating": "5.0",
+        "site": "http://xn--j1aaefesbg4gyb.xn--p1ai",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.162689,
+          52.35265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b6556658-192d-48a2-b029-35605afbf97d",
+      "properties": {
+        "name": "Watashi, бар",
+        "subcategory": "Бары",
+        "rating": "4.9",
+        "site": "http://t.me/watashibar",
+        "hours": "Пн: с 17:00 до 01:00, Вт: с 17:00 до 01:00, Ср: с 17:00 до 01:00, Чт: с 17:00 до 01:00, Пт: с 17:00 до 04:00, Сб: с 17:00 до 04:00, Вс: с 17:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289113,
+          52.284946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7eac3b2b-1a81-4979-b145-f05eb14f496b",
+      "properties": {
+        "name": "Импульс, караоке-бар",
+        "subcategory": "Бары, Караоке-залы",
+        "rating": "2.8",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: с 17:00 до 02:00, Чт: с 17:00 до 02:00, Пт: с 17:00 до 02:00, Сб: с 17:00 до 02:00, Вс: с 17:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.700125,
+          51.664368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "999a16eb-4453-49c7-bdd3-0350643f1db9",
+      "properties": {
+        "name": "Лепрекон, бар",
+        "subcategory": "Бары",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.300162,
+          52.312532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a7df9492-3242-42fa-b6f1-e9770d95d76a",
+      "properties": {
+        "name": "Лето, магазин-бар",
+        "subcategory": "Алкогольные напитки, Бары, Разливное пиво, Снеки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 14:00 до 01:00, Вт: с 14:00 до 01:00, Ср: с 14:00 до 01:00, Чт: с 14:00 до 01:00, Пт: с 14:00 до 01:00, Сб: с 14:00 до 02:00, Вс: с 14:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.317983,
+          52.261682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bf66aa73-c364-4151-bd2b-c6e3e3fc46cf",
+      "properties": {
+        "name": "Mr.Beerkin, пивной магазин-бар",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.14323,
+          52.347205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "456ff71c-d5a9-42e8-9195-13b5eadedb68",
+      "properties": {
+        "name": "Барыня, рюмочная",
+        "subcategory": "Бары, Рюмочные",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 16:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.27954,
+          52.278202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2e63580f-fa81-404a-9e13-c8afa3110878",
+      "properties": {
+        "name": "The Lobby",
+        "subcategory": "Бары",
+        "rating": "nan",
+        "site": "http://rodinagrandhotel.ru/restaurant",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.269557,
+          52.290038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "92aa46c4-801c-4de2-b3c8-5794eb4eaf50",
+      "properties": {
+        "name": "Пивной маяк",
+        "subcategory": "Бары, Безалкогольные напитки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.855069,
+          51.859469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9139bf41-b283-4e6b-b423-1f346d9887c9",
+      "properties": {
+        "name": "Лепрекон, бар",
+        "subcategory": "Алкогольные напитки, Бары, Безалкогольные напитки, Разливное пиво, Снеки",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.142475,
+          51.510557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c62eac36-12c2-42c3-b152-afd7c6ac26e7",
+      "properties": {
+        "name": "Лепрекон, бар",
+        "subcategory": "Алкогольные напитки, Бары, Безалкогольные напитки, Разливное пиво, Снеки",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.257218,
+          52.330718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dafdf916-324e-48bc-ba97-240297459313",
+      "properties": {
+        "name": "Panorama, бар",
+        "subcategory": "Банкетные залы, Бары, Бильярдные залы, Караоке-залы, Рестораны",
+        "rating": "5.0",
+        "site": "http://pribaikalskaja.ru",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.818676,
+          51.904302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "406975ea-72ff-4c86-9c6d-bc88098e87b3",
+      "properties": {
+        "name": "Лайм, бар",
+        "subcategory": "Бары",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06253,
+          52.211226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "945f4e86-211d-4f8d-8a9a-11a623e38db9",
+      "properties": {
+        "name": "Гамбринус, бар",
+        "subcategory": "Бары, Безалкогольные напитки, Разливное пиво",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.103772,
+          52.208602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "88846814-5f4b-4b6c-9486-3b6d0acc6cff",
+      "properties": {
+        "name": "Гамбринус, бар",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.040595,
+          52.435243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "67f5aba1-b36a-4eab-a61e-0af469b4744d",
+      "properties": {
+        "name": "Гамбринус",
+        "subcategory": "Алкогольные напитки, Бары, Безалкогольные напитки, Разливное пиво",
+        "rating": "2.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.333071,
+          52.303101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8f5282a4-3520-4901-b22f-350e33192874",
+      "properties": {
+        "name": "Barrel, бар",
+        "subcategory": "Алкогольные напитки, Бары, Безалкогольные напитки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 16:00 до 02:00, Вт: с 16:00 до 02:00, Ср: с 16:00 до 02:00, Чт: с 16:00 до 02:00, Пт: с 16:00 до 04:00, Сб: с 16:00 до 04:00, Вс: с 16:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.291211,
+          52.284758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "76fdd1bd-bd36-4cb7-8181-ad1a2170474c",
+      "properties": {
+        "name": "Спортбар",
+        "subcategory": "Бары, Разливное пиво, Снеки",
+        "rating": "5.0",
+        "site": "http://t.me/sprotbar",
+        "hours": "Ежедневно с 18:00 до 06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.098125,
+          52.210664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d9417017-b77b-4686-af60-bc933457084c",
+      "properties": {
+        "name": "Бар на Костычева",
+        "subcategory": "Бары",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.282354,
+          52.229118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "44a567bc-eeb0-4e82-b3eb-aa5a9c434552",
+      "properties": {
+        "name": "За! бар, пивной бар",
+        "subcategory": "Бары",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.328394,
+          52.2672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31476e8f-6cd5-42d3-a702-c7589b6adad7",
+      "properties": {
+        "name": "Лепрекон, бар",
+        "subcategory": "Бары",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.720432,
+          51.655523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6be59da5-1360-49c2-8d6c-633d83921421",
+      "properties": {
+        "name": "Лепрекон, бар",
+        "subcategory": "Бары",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.362666,
+          52.466726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "afb317e8-8aef-43e7-8da0-65bf9ee71661",
+      "properties": {
+        "name": "Одна треть, комьюнити-бар",
+        "subcategory": "Бары",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 16:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.292337,
+          52.288393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "793d7122-0077-47ab-a257-7000f45c8ebc",
+      "properties": {
+        "name": "Лепрекон, бар",
+        "subcategory": "Бары",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.070199,
+          52.373606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "38eaba10-291f-48d1-87fd-20991c639f0d",
+      "properties": {
+        "name": "Голден Гавас, бар",
+        "subcategory": "Бары",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.328597,
+          52.267774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0f60dfd0-6c1f-4b13-9cc2-de8fc562e652",
+      "properties": {
+        "name": "Лепрекон",
+        "subcategory": "Бары, Разливное пиво, Снеки",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.066386,
+          52.372259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "875df5fa-e78e-4eef-a04c-97b4157c084a",
+      "properties": {
+        "name": "Бугель Вугель, бар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "3.7",
+        "site": "http://baikalski.net/restaurants/bugel-vugel",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.120422,
+          51.509249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e6769006-1745-4773-b1f6-b26369385b16",
+      "properties": {
+        "name": "Бочка, кафе",
+        "subcategory": "Бары, Доставка еды, Кафе",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Пн: с 11:00 до 01:00, Вт: с 11:00 до 01:00, Ср: с 11:00 до 01:00, Чт: с 11:00 до 01:00, Пт: с 11:00 до 02:00, Сб: с 11:00 до 02:00, Вс: с 11:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.586999,
+          51.83061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "41fa863d-454a-4ab6-9f01-be42268082d2",
+      "properties": {
+        "name": "Lanchester, гриль-бар",
+        "subcategory": "Бары, Доставка еды, Рестораны",
+        "rating": "4.2",
+        "site": "http://lanchester03.ru",
+        "hours": "Ежедневно с 12:00 до 01:00 (служба доставки: пн-вс 12:00-22:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.598676,
+          51.80951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0dac038a-b5ac-43ca-b69d-c5923d679c98",
+      "properties": {
+        "name": "У Бориса, бар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Пн: с 11:00 до 18:00, Вт: с 11:00 до 18:00, Ср: с 11:00 до 18:00, Чт: с 11:00 до 18:00, Пт: с 11:00 до 18:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.600685,
+          51.826235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "58aa61c9-78a1-4c37-bc45-9458cadfa4f0",
+      "properties": {
+        "name": "С легким паром, бар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Пн: с 11:00 до 23:00, Вт: с 11:00 до 23:00, Ср: с 11:00 до 23:00, Чт: с 11:00 до 23:00, Пт: с 11:00 до 24:00, Сб: с 11:00 до 24:00, Вс: с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.620002,
+          51.845903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4036b3d0-e803-463e-9b6a-50155c687930",
+      "properties": {
+        "name": "Бир Хаус, ресторан",
+        "subcategory": "Бары, Доставка еды, Рестораны",
+        "rating": "4.1",
+        "site": "http://socprofile.com/bier_haus_uu",
+        "hours": "Пн: с 17:00 до 02:00, Вт: с 17:00 до 02:00, Ср: с 17:00 до 02:00, Чт: с 17:00 до 02:00, Пт: с 18:00 до 04:00, Сб: с 18:00 до 04:00, Вс: с 17:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.678037,
+          51.82304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "604346b2-aa03-47c8-84ce-61a3f4b925d0",
+      "properties": {
+        "name": "Che Guevara, рестоклуб",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.1",
+        "site": "http://cheguevarauu.com, http://cheguevarauu.ru, http://t.me/cheguevara_uu",
+        "hours": "Пн: с 18:00 до 04:00, Вт: с 18:00 до 04:00, Ср: с 18:00 до 04:00, Чт: с 18:00 до 04:00, Пт: с 18:00 до 05:00, Сб: с 18:00 до 05:00, Вс: с 18:00 до 04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.598923,
+          51.843563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6e2f54b6-eb26-4552-98b8-5796d94aeb67",
+      "properties": {
+        "name": "Черчилль, бар",
+        "subcategory": "Бары, Доставка еды, Кафе, Кейтеринг",
+        "rating": "4.6",
+        "site": "http://churchilluu.ru",
+        "hours": "Ежедневно с 12:00 до 02:00 (служба доставки: пн-пт 12:00-00:00; сб-вс 12:00-00:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58362,
+          51.83466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "657482e4-e16f-418c-8d3a-03df02a2012b",
+      "properties": {
+        "name": "Гавана, караоке-бар",
+        "subcategory": "Бары, Караоке-залы",
+        "rating": "4.3",
+        "site": "http://foodeon.com/venue/havana-club-lhnr",
+        "hours": "Пн: с 18:00 до 02:00, Вт: с 18:00 до 02:00, Ср: с 18:00 до 02:00, Чт: с 18:00 до 02:00, Пт: с 18:00 до 04:00, Сб: с 18:00 до 04:00, Вс: с 18:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63563,
+          51.805176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6ca99453-fdeb-4061-8dcd-e83841925aa9",
+      "properties": {
+        "name": "Чайхана, панорамное кафе",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.4",
+        "site": "http://www.eurozone-centr.ru",
+        "hours": "Пн: с 12:00 до 23:00, Вт: с 12:00 до 23:00, Ср: с 12:00 до 23:00, Чт: с 12:00 до 23:00, Пт: с 12:00 до 24:00, Сб: с 13:00 до 24:00, Вс: с 13:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.591073,
+          51.825369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "367d4986-2a1b-45db-87b4-abcb1678ea3c",
+      "properties": {
+        "name": "Harat`s pub, ирландский паб",
+        "subcategory": "Бары, Доставка еды, Кафе",
+        "rating": "4.5",
+        "site": "http://harats.com",
+        "hours": "Пн: с 12:00 до 02:00, Вт: с 12:00 до 02:00, Ср: с 12:00 до 02:00, Чт: с 12:00 до 02:00, Пт: с 12:00 до 04:00, Сб: с 12:00 до 04:00, Вс: с 14:00 до 02:00 (служба доставки: пн-вс 11:00-22:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.597098,
+          51.838606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4394c848-4662-495f-9eff-9f266faff6e3",
+      "properties": {
+        "name": "Бар 12, панорамный бар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Пн: с 15:00 до 01:00, Вт: с 15:00 до 01:00, Ср: с 15:00 до 01:00, Чт: с 15:00 до 01:00, Пт: с 15:00 до 03:00, Сб: с 15:00 до 03:00, Вс: с 15:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.581056,
+          51.83875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2722eb93-fd26-4d74-9360-c91bb90d0017",
+      "properties": {
+        "name": "ZEPHYR, кафе-бар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.8",
+        "site": "http://info2gis.tilda.ws/proxy18, http://t.me/zephyr_hh_uu",
+        "hours": "Пн: с 12:00 до 02:00, Вт: с 12:00 до 02:00, Ср: с 12:00 до 02:00, Чт: с 12:00 до 02:00, Пт: с 12:00 до 03:00, Сб: с 12:00 до 03:00, Вс: с 12:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59171,
+          51.82254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "464add11-7e85-4e2d-a166-f7cf1809794e",
+      "properties": {
+        "name": "Пивная",
+        "subcategory": "Бары, Разливное пиво, Снеки",
+        "rating": "2.6",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.678176,
+          51.822321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8ce6c243-0675-47d1-bf2a-266046ed0846",
+      "properties": {
+        "name": "Чаплин, рестоклуб",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: с 16:00 до 04:00, Ср: с 16:00 до 04:00, Чт: с 16:00 до 04:00, Пт: с 16:00 до 06:00, Сб: с 16:00 до 06:00, Вс: с 16:00 до 04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59256,
+          51.823746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fa0485ae-af11-4be5-8fd9-d8e5cbc244a4",
+      "properties": {
+        "name": "Shisha, лаундж-бар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.4",
+        "site": "http://shisha.myresto.online/ru",
+        "hours": "Ежедневно с 17:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.598661,
+          51.824123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4871fbdd-4c51-44d1-aede-350e056d3673",
+      "properties": {
+        "name": "Пивъная, бар",
+        "subcategory": "Бары",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.586794,
+          51.824905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "86164e61-c7b1-4a31-ab2d-5a3abe339643",
+      "properties": {
+        "name": "Гермес, экспресс-бар",
+        "subcategory": "Бары",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 21:00 до 09:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.520683,
+          51.73123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "05c7f622-c6d1-4a1d-b7b4-5e90da53efbc",
+      "properties": {
+        "name": "Свежий розлив, торговая компания",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "2.9",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.632854,
+          51.819926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7bca0c0b-a4c1-4faa-b3b3-88c69ae96651",
+      "properties": {
+        "name": "Good Beer, бар",
+        "subcategory": "Бары",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.719878,
+          51.821132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d817e8a0-6f87-473e-8534-1bb99b2a4ef1",
+      "properties": {
+        "name": "Шашлыкoff, гриль-бар",
+        "subcategory": "Бары, Доставка еды, Кафе",
+        "rating": "4.3",
+        "site": "http://www.shashlikoff.com",
+        "hours": "Пн: с 11:00 до 02:00, Вт: с 11:00 до 02:00, Ср: с 11:00 до 02:00, Чт: с 11:00 до 02:00, Пт: с 11:00 до 03:00, Сб: с 11:00 до 03:00, Вс: с 11:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.584383,
+          51.832793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "876238f4-4dfc-4efe-9dc0-b4d63050bea5",
+      "properties": {
+        "name": "Big Lake, бар",
+        "subcategory": "Бары",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Пн: с 21:00 до 04:00, Вт: с 21:00 до 04:00, Ср: с 21:00 до 04:00, Чт: с 21:00 до 04:00, Пт: с 21:00 до 06:00, Сб: с 21:00 до 06:00, Вс: с 21:00 до 04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58535,
+          51.824382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6f215c56-3f96-406b-827f-85a5a8ed7e13",
+      "properties": {
+        "name": "Челентано, караоке rooms",
+        "subcategory": "Бары, Караоке-залы, Рестораны",
+        "rating": "4.4",
+        "site": "http://960366.restoplace.ws/, http://celentanouu.ru, http://t.me/celentano_karaoke_rooms",
+        "hours": "Пн: с 18:00 до 03:00, Вт: с 18:00 до 03:00, Ср: с 18:00 до 03:00, Чт: с 18:00 до 03:00, Пт: с 18:00 до 05:00, Сб: с 18:00 до 05:00, Вс: с 18:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.594239,
+          51.813869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6369fdcb-0685-47db-9065-a5bfeaaef2da",
+      "properties": {
+        "name": "Шашлыкoff, гриль-бар",
+        "subcategory": "Алкогольные напитки, Бары, Безалкогольные напитки, Доставка еды, Кафе",
+        "rating": "4.3",
+        "site": "http://www.shashlikoff.com",
+        "hours": "Пн: с 11:00 до 02:00, Вт: с 11:00 до 02:00, Ср: с 11:00 до 02:00, Чт: с 11:00 до 02:00, Пт: с 11:00 до 03:00, Сб: с 11:00 до 03:00, Вс: с 11:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607529,
+          51.809313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6195415c-6116-431b-9c0d-2e9ec30599b1",
+      "properties": {
+        "name": "Друзья, рестобар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 24:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.598678,
+          51.823853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "399e4fd2-6816-46d9-bd71-0ea51b157a96",
+      "properties": {
+        "name": "Charter, кафе-бар",
+        "subcategory": "Банкетные залы, Бары, Кафе",
+        "rating": "3.5",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 23:00 (кафе: пн-вс 10:00-18:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.456972,
+          51.800368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "02f6438c-2b5a-424c-8032-a99522deeee0",
+      "properties": {
+        "name": "Хармс, бар",
+        "subcategory": "Бары",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 16:00 до 04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.585272,
+          51.826949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f3e67c50-709d-45e6-b257-8b4fcf82a5cd",
+      "properties": {
+        "name": "Хмельной Причал, кафе-бар",
+        "subcategory": "Бары",
+        "rating": "3.1",
+        "site": "nan",
+        "hours": "Пн: с 14:00 до 24:00, Вт: с 14:00 до 24:00, Ср: с 14:00 до 24:00, Чт: с 14:00 до 24:00, Пт: с 14:00 до 01:00, Сб: с 12:00 до 01:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.731027,
+          51.807888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "480bd863-93e0-4a51-a811-9b1a404dcacb",
+      "properties": {
+        "name": "Tom Yam, ресторан паназиатской кухни",
+        "subcategory": "Бары, Доставка еды, Кафе, Рестораны",
+        "rating": "4.5",
+        "site": "http://tomyamrest.ru/",
+        "hours": "Пн: с 11:30 до 22:00, Вт: с 11:30 до 22:00, Ср: с 11:30 до 22:00, Чт: с 11:30 до 22:00, Пт: с 11:30 до 01:00, Сб: с 11:30 до 01:00, Вс: с 11:30 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.598801,
+          51.823953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "52c0c410-a5f7-4ce0-b884-669c308f68c2",
+      "properties": {
+        "name": "Свежий розлив, торговая компания",
+        "subcategory": "Бары, Разливное пиво, Снеки",
+        "rating": "2.9",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.634552,
+          51.844146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2bef1ae-63ca-450c-9f54-45af508bb9b8",
+      "properties": {
+        "name": "Time for Beer, экспресс-бар разливного пива",
+        "subcategory": "Бары, Разливное пиво, Снеки",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.662001,
+          51.818733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "549e141f-eb67-4aa8-81db-f394e025a0e6",
+      "properties": {
+        "name": "Свежий розлив, торговая компания",
+        "subcategory": "Бары, Разливное пиво, Снеки",
+        "rating": "2.6",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.583876,
+          51.844962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3bf3b448-c1f3-4a09-bb76-4a429316f83d",
+      "properties": {
+        "name": "Shisha, лаундж-бар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.5",
+        "site": "http://shisha.myresto.online/ru",
+        "hours": "Ежедневно с 17:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.582868,
+          51.826475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3b05ea10-2626-4a19-bd86-3e41f012d3d6",
+      "properties": {
+        "name": "Свежий розлив, торговая компания",
+        "subcategory": "Бары, Разливное пиво, Снеки",
+        "rating": "2.9",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.613928,
+          51.812442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fa17387c-8a08-4de1-b7f5-109ea535ce16",
+      "properties": {
+        "name": "Дядя Ваня, бар",
+        "subcategory": "Бары",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.632584,
+          51.835853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "292c810e-cd78-4054-abad-bed85585260c",
+      "properties": {
+        "name": "Night delhi bar, караоке-бар",
+        "subcategory": "Бары, Караоке-залы, Кафе",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Пн: с 18:00 до 02:00, Вт: с 18:00 до 02:00, Ср: с 18:00 до 02:00, Чт: с 18:00 до 02:00, Пт: с 18:00 до 05:00, Сб: с 18:00 до 05:00, Вс: с 18:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.582583,
+          51.835802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "de12079f-44ba-49ad-9482-0c629c36f0c8",
+      "properties": {
+        "name": "Колобок, магазин разливного пива",
+        "subcategory": "Бары, Разливное пиво, Снеки",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 13:00 до 01:00, Вт: с 13:00 до 01:00, Ср: с 13:00 до 01:00, Чт: с 13:00 до 01:00, Пт: с 13:00 до 02:00, Сб: с 13:00 до 02:00, Вс: с 13:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.536646,
+          51.290199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1000c7d7-7b45-4ad1-b79c-cf67f9fcb870",
+      "properties": {
+        "name": "Россия, бар",
+        "subcategory": "Бары, Караоке-залы, Ночные клубы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: с 22:00 до 03:30, Сб: с 22:00 до 03:30, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.520872,
+          51.288833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d0c1e7d7-ab7c-432f-ab2d-f4941b0358fa",
+      "properties": {
+        "name": "Свежий розлив, пивной бар",
+        "subcategory": "Бары, Разливное пиво, Снеки",
+        "rating": "2.0",
+        "site": "nan",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.537791,
+          51.289623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f8c3ad56-1ee6-47c5-97e8-519aca1bfd31",
+      "properties": {
+        "name": "Подвал, бар",
+        "subcategory": "Бары",
+        "rating": "3.5",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.595145,
+          51.838374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8275a30d-dca5-4838-8c4f-df93f1724733",
+      "properties": {
+        "name": "Пиванофф, бар",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.674989,
+          51.80297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7bd165fc-e012-4455-9334-cbda7261bdfe",
+      "properties": {
+        "name": "Пивнушка, бар",
+        "subcategory": "Бары",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.067308,
+          51.928947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "39b776f7-867a-486b-8d6b-ca0bcb29dec0",
+      "properties": {
+        "name": "Reston Bar",
+        "subcategory": "Бары",
+        "rating": "4.9",
+        "site": "http://restonhotel.ru/bar, http://t.me/reston_hotel_spa",
+        "hours": "Ежедневно с 17:00 до 04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59304,
+          51.81653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8c08e6fd-b5e5-4f3f-a9f0-223e5db2f05b",
+      "properties": {
+        "name": "Mojo, лаундж-бар",
+        "subcategory": "Банкетные залы, Бары, Караоке-залы, Рестораны",
+        "rating": "4.7",
+        "site": "http://t.me/tutmojovse",
+        "hours": "Пн: с 17:00 до 02:00, Вт: с 17:00 до 02:00, Ср: с 17:00 до 02:00, Чт: с 17:00 до 02:00, Пт: с 17:00 до 03:00, Сб: с 17:00 до 03:00, Вс: с 17:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.591073,
+          51.825369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bbbb18c4-085f-4339-83d5-8fd540f7af11",
+      "properties": {
+        "name": "Эмпатио Эфир, кафе",
+        "subcategory": "Бары, Доставка еды, Караоке-залы, Кафе, Кейтеринг",
+        "rating": "4.6",
+        "site": "http://empatio-efir.restoplace.ws, http://empatio-efir.ru/",
+        "hours": "Ежедневно с 11:00 до 24:00 (караоке: ср-чт 16:00-00:00; пт-сб 16:00-2:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.634462,
+          51.816694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "184017bc-72a4-4753-9fca-86ecc4d42d0d",
+      "properties": {
+        "name": "Грильяж, ресторанный комплекс",
+        "subcategory": "Бары, Доставка еды, Караоке-залы, Кафе, Рестораны",
+        "rating": "4.6",
+        "site": "http://grillage-uu.ru",
+        "hours": "Пн: с 12:00 до 01:00, Вт: с 12:00 до 01:00, Ср: с 12:00 до 01:00, Чт: с 12:00 до 01:00, Пт: с 12:00 до 03:00, Сб: с 12:00 до 03:00, Вс: с 12:00 до 01:00 (банкетный зал: пн-вс 10:00-23:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.589538,
+          51.821107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0179c541-7ee1-4b6d-b179-ec91ac7d38a2",
+      "properties": {
+        "name": "Филин, паб домашнего производства",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: с 16:00 до 23:00, Ср: с 16:00 до 23:00, Чт: с 16:00 до 23:00, Пт: с 16:00 до 01:00, Сб: с 16:00 до 24:00, Вс: с 16:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.622092,
+          51.809623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4b196a52-5512-4c3b-8caf-4ce506a36ada",
+      "properties": {
+        "name": "Golden Beer, бар",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 15:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.583322,
+          51.845661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d9b84eac-0938-49a3-b331-8380e0deacc3",
+      "properties": {
+        "name": "Сова, рестобар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: с 10:00 до 20:00, Ср: с 10:00 до 20:00, Чт: с 10:00 до 20:00, Пт: с 11:00 до 01:00, Сб: с 11:00 до 01:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.657929,
+          52.052773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0e76e49b-08b6-4306-81e0-79cc614c86d4",
+      "properties": {
+        "name": "47, бар",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 17:30 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.645579,
+          51.812965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4323c29b-f1ca-43d4-a9ab-af51396e0f8e",
+      "properties": {
+        "name": "Хороший, магазин-бар",
+        "subcategory": "Бары, Безалкогольные напитки, Табачные изделия / Товары для курения",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593007,
+          51.839664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3c2a5a7f-01a6-4730-a553-cdb2d146860f",
+      "properties": {
+        "name": "Свежий розлив, торговая компания",
+        "subcategory": "Бары, Разливное пиво, Снеки",
+        "rating": "2.4",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.653327,
+          51.805943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "81353fcc-0fd0-41f9-99fc-079360213fd1",
+      "properties": {
+        "name": "BullDog, американский паб",
+        "subcategory": "Бары, Доставка еды, Кафе, Кейтеринг",
+        "rating": "4.5",
+        "site": "http://bulldog03.ru",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 01:00, Сб: с 12:00 до 01:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.576898,
+          51.838895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "80b294eb-6e21-4b7d-b660-504018d949ed",
+      "properties": {
+        "name": "Ne_bar, дискобар",
+        "subcategory": "Бары",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Пн: с 23:00 до 03:00, Вт: с 23:00 до 03:00, Ср: с 23:00 до 03:00, Чт: с 23:00 до 03:00, Пт: с 23:00 до 04:00, Сб: с 23:00 до 04:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.119365,
+          51.678689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b8a914f2-9313-4020-a720-201f7d156d60",
+      "properties": {
+        "name": "Beer Loft, пивной бар",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Пн: с 11:00 до 24:00, Вт: с 11:00 до 24:00, Ср: с 11:00 до 24:00, Чт: с 11:00 до 24:00, Пт: с 11:00 до 01:00, Сб: с 11:00 до 01:00, Вс: с 11:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.592961,
+          51.8397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "347a18bb-8610-41e2-96d7-b6fdc1419d90",
+      "properties": {
+        "name": "ШБ, экспресс-бар",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "2.8",
+        "site": "http://taplink.cc/shoni_bachi_uu",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58155,
+          51.846744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7941f039-84a7-471c-91bf-a87e021cc365",
+      "properties": {
+        "name": "ШБ, экспресс-бар",
+        "subcategory": "Бары, Разливное пиво, Снеки",
+        "rating": "2.5",
+        "site": "http://taplink.cc/shoni_bachi_uu",
+        "hours": "Ежедневно с 07:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.621612,
+          51.842012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c1a4c90e-0863-48f9-92a9-b26f2193ed6a",
+      "properties": {
+        "name": "ШБ, экспресс-бар",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "4.2",
+        "site": "http://taplink.cc/shoni_bachi_uu",
+        "hours": "Ежедневно с 10:00 до 22:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.713351,
+          51.861122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7020a0b2-dcae-4481-a3f6-a05db15019b8",
+      "properties": {
+        "name": "ШБ, экспресс-бар",
+        "subcategory": "Бары, Разливное пиво, Снеки",
+        "rating": "3.2",
+        "site": "http://taplink.cc/shoni_bachi_uu",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593065,
+          51.839618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a75dcdb2-a3f3-40e8-85f3-bab13a96ff29",
+      "properties": {
+        "name": "ШБ, экспресс-бар",
+        "subcategory": "Бары, Разливное пиво, Снеки",
+        "rating": "3.4",
+        "site": "http://taplink.cc/shoni_bachi_uu",
+        "hours": "Ежедневно с 10:00 до 22:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.742192,
+          51.864941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35871716-f930-4f38-bfa5-4976b2ce5133",
+      "properties": {
+        "name": "Region 03, шашлычная",
+        "subcategory": "Бары, Доставка еды, Кафе",
+        "rating": "4.4",
+        "site": "http://xn--03-6kc4be0fbz.xn--p1ai",
+        "hours": "Пн: с 12:00 до 05:00, Вт: с 12:00 до 05:00, Ср: с 12:00 до 05:00, Чт: с 12:00 до 05:00, Пт: с 12:00 до 07:00, Сб: с 12:00 до 07:00, Вс: с 12:00 до 05:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.503455,
+          51.849922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "94c39f9d-9987-467d-9e8a-10b3e2e2eda0",
+      "properties": {
+        "name": "Бар",
+        "subcategory": "Бары",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.611532,
+          51.813058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "47289eaf-7952-45e2-a0e7-90ed00c7590c",
+      "properties": {
+        "name": "Neon, бар",
+        "subcategory": "Бары",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 16:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.586851,
+          51.824907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f03e3e17-8578-479a-a148-59f898608cdf",
+      "properties": {
+        "name": "Каэр Морхен, бар",
+        "subcategory": "Алкогольные напитки, Бары, Разливное пиво",
+        "rating": "4.9",
+        "site": "http://info2gis.tilda.ws/proxy18",
+        "hours": "Ежедневно с 14:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.637663,
+          51.822145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "755dcda1-b482-4a90-94ac-6494fd1a3f40",
+      "properties": {
+        "name": "Destin, караоке-бар",
+        "subcategory": "Бары",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Пн: с 18:00 до 03:00, Вт: с 18:00 до 03:00, Ср: с 18:00 до 03:00, Чт: с 18:00 до 03:00, Пт: с 18:00 до 05:00, Сб: с 18:00 до 05:00, Вс: с 18:00 до 03:00 (караоке: пн-вс 18:00-23:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.576856,
+          51.839254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a3fbca3d-c65c-45af-a78f-bf73200d0454",
+      "properties": {
+        "name": "41, бар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.5",
+        "site": "http://744281.restoplace.ws/, http://t.me/+JnoaA6iHmcQzYmEy",
+        "hours": "Пн: с 18:00 до 02:00, Вт: с 18:00 до 02:00, Ср: с 18:00 до 02:00, Чт: с 18:00 до 02:00, Пт: с 18:00 до 04:00, Сб: с 18:00 до 04:00, Вс: с 18:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.591322,
+          51.823215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "426d808b-4bff-4ad0-a2d0-fe24444186ac",
+      "properties": {
+        "name": "ШБ, экспресс-бар",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "3.5",
+        "site": "http://taplink.cc/shoni_bachi_uu",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.684434,
+          51.847176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1e8ea58f-5ffa-4dfd-8525-c865adaf2340",
+      "properties": {
+        "name": "Верхнеудинское пиво, спортбар",
+        "subcategory": "Бары",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.630783,
+          51.818926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0581cffd-f919-4c75-ad39-db06da4d6d82",
+      "properties": {
+        "name": "ШБ, экспресс-бар",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "4.5",
+        "site": "http://taplink.cc/shoni_bachi_uu",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.677552,
+          51.823246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ae46999c-9842-433e-a744-60870efcf2fd",
+      "properties": {
+        "name": "Дублин, бар-магазин",
+        "subcategory": "Бары, Снеки",
+        "rating": "4.8",
+        "site": "http://t.me/dublinpivo",
+        "hours": "Ежедневно с 15:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.577179,
+          51.836616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b09d8c12-7399-4f65-b429-e7200b3389dd",
+      "properties": {
+        "name": "Judy, рестобар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.7",
+        "site": "http://t.me/judylounge",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: с 18:00 до 04:00, Сб: с 18:00 до 04:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.621326,
+          51.8095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7b2e64ab-13c4-454c-bf97-3552f92b90b7",
+      "properties": {
+        "name": "Лето, караоке-бар",
+        "subcategory": "Банкетные залы, Бары, Караоке-залы, Кафе, Рестораны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 17:00 до 02:00, Вт: с 17:00 до 02:00, Ср: с 17:00 до 02:00, Чт: с 17:00 до 02:00, Пт: с 17:00 до 04:00, Сб: с 17:00 до 04:00, Вс: с 17:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.677732,
+          51.81492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "db569f68-30e1-4e80-9a54-f6d66570c0c5",
+      "properties": {
+        "name": "Пивной бар",
+        "subcategory": "Алкогольные напитки, Бары, Разливное пиво, Снеки",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Пн: с 13:00 до 01:00, Вт: с 13:00 до 01:00, Ср: с 13:00 до 01:00, Чт: с 13:00 до 01:00, Пт: с 13:00 до 03:00, Сб: с 13:00 до 03:00, Вс: с 13:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.640757,
+          51.807545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6a7916a4-67ee-4aba-9c57-5448e68108a8",
+      "properties": {
+        "name": "Massè, бар-бильярд",
+        "subcategory": "Бары, Бильярдные залы",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.581003,
+          51.838713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cabe51bf-9f46-4122-ab1e-cb0c343a702e",
+      "properties": {
+        "name": "Свежий розлив, торговая компания",
+        "subcategory": "Бары",
+        "rating": "2.9",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.660891,
+          51.8109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8e1b0408-51e6-4df1-a190-8ea8dec8a853",
+      "properties": {
+        "name": "TEMAKI, кафе",
+        "subcategory": "Бары, Кафе, Рестораны",
+        "rating": "4.6",
+        "site": "http://t.me/temaki03, http://temaki.ru",
+        "hours": "Пн: с 11:00 до 23:00, Вт: с 11:00 до 23:00, Ср: с 11:00 до 23:00, Чт: с 11:00 до 23:00, Пт: с 11:00 до 24:00, Сб: с 11:00 до 24:00, Вс: с 11:00 до 23:00 (служба доставки: пн-чт, вс 10:00-22:45; пт, сб 10:00-23:45)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.584568,
+          51.830368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "53c8da22-454f-4a58-8b08-d465bd271756",
+      "properties": {
+        "name": "Vibe, бар-караоке",
+        "subcategory": "Бары, Караоке-залы, Кафе, Рестораны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 19:00 до 03:00, Вт: с 19:00 до 03:00, Ср: с 19:00 до 03:00, Чт: с 19:00 до 03:00, Пт: с 19:00 до 04:00, Сб: с 19:00 до 04:00, Вс: с 19:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5871,
+          51.83222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cebd8a32-2c3c-4237-af27-ff8973fd47af",
+      "properties": {
+        "name": "Своя Пивоварня",
+        "subcategory": "Бары, Разливное пиво, Снеки",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 14:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.652945,
+          51.806264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "64176351-dceb-4faf-9297-a830515be0fb",
+      "properties": {
+        "name": "Гёдзе, ресторан-бар",
+        "subcategory": "Бары, Доставка еды, Караоке-залы, Кафе, Ночные клубы, Рестораны",
+        "rating": "4.8",
+        "site": "http://gedze.ru",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 05:00, Сб: с 12:00 до 05:00, Вс: с 12:00 до 24:00 (служба доставки: пн-вс 12:00-23:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.577378,
+          51.826141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "936b0dd7-b41e-4cea-825a-ff33b2286275",
+      "properties": {
+        "name": "The Lost, магазин разливного пива",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 17:00 до 24:00, Вт: с 17:00 до 24:00, Ср: с 17:00 до 24:00, Чт: с 17:00 до 24:00, Пт: с 17:00 до 24:00, Сб: с 12:00 до 24:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.594909,
+          51.785738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0d082ccf-9792-43b1-95ea-0e0c1c15766b",
+      "properties": {
+        "name": "Голос, караоке-бар",
+        "subcategory": "Бары, Караоке-залы",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "Ежедневно с 18:00 до 06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.641311,
+          51.816332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b4edcee6-6433-472b-a685-5aace5a2b7b7",
+      "properties": {
+        "name": "Лофт Сити, караоке-пространство",
+        "subcategory": "Банкетные залы, Бары, Караоке-залы, Кафе, Ночные клубы",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 16:00 до 03:00, Вт: с 16:00 до 03:00, Ср: с 16:00 до 03:00, Чт: с 16:00 до 03:00, Пт: с 16:00 до 04:00, Сб: с 16:00 до 04:00, Вс: с 16:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58618,
+          51.826214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "64b9756c-3318-43b0-9cef-7b10b4959dce",
+      "properties": {
+        "name": "Пивнушка, магазин разливного пива",
+        "subcategory": "Бары, Разливное пиво, Снеки, Табачные изделия / Товары для курения",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.268229,
+          51.833963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5efb1b30-cc5d-4f76-9df7-5e6a264ac113",
+      "properties": {
+        "name": "Hookah Place, бар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.9",
+        "site": "http://info2gis.tilda.ws/proxy18",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 02:00, Сб: с 14:00 до 02:00, Вс: с 14:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.595705,
+          51.810445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8afc6e15-2691-4371-85c9-8e98dc9e0c5a",
+      "properties": {
+        "name": "Свежак, бар-магазин",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "Ежедневно с 14:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.522005,
+          51.810195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3cf1ab76-49ed-4e5f-8ee2-9d009aec194b",
+      "properties": {
+        "name": "Astra bar Disco",
+        "subcategory": "Бары, Ночные клубы",
+        "rating": "4.8",
+        "site": "http://t.me/astrabaruu03",
+        "hours": "Ежедневно с 21:00 до 06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.595581,
+          51.836494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7c2aad72-02f3-4653-b6f9-530eb7143485",
+      "properties": {
+        "name": "Loft bar",
+        "subcategory": "Бары",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Пн: с 14:00 до 01:00, Вт: с 14:00 до 01:00, Ср: с 14:00 до 01:00, Чт: с 14:00 до 01:00, Пт: с 14:00 до 03:00, Сб: с 14:00 до 03:00, Вс: с 14:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5877,
+          51.842856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "219d0282-dbf7-41e6-9921-294c3498354d",
+      "properties": {
+        "name": "Атмосфера, центр",
+        "subcategory": "Бары, Боулинг, Караоке-залы, Кафе",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Пн: с 16:00 до 02:00, Вт: с 16:00 до 02:00, Ср: с 16:00 до 02:00, Чт: с 16:00 до 02:00, Пт: с 16:00 до 04:00, Сб: с 12:00 до 04:00, Вс: с 12:00 до 02:00 (караоке: вс-чт 19:00-2:00; пт-сб 19:00-4:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.638843,
+          51.801438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b63fe844-6a32-4a94-b526-29acb690781c",
+      "properties": {
+        "name": "Густоф, вечерний ресторан",
+        "subcategory": "Банкетные залы, Бары, Караоке-залы, Кафе, Рестораны",
+        "rating": "4.7",
+        "site": "http://t.me/gustof_03",
+        "hours": "Пн: с 17:00 до 03:00, Вт: с 17:00 до 03:00, Ср: с 17:00 до 03:00, Чт: с 17:00 до 03:00, Пт: с 17:00 до 03:00, Сб: с 17:00 до 05:00, Вс: с 17:00 до 03:00 (самовывоз: пн-вс 17:00-2:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.595244,
+          51.815721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9df5f243-e95b-466e-8912-36ef9b3fa2f0",
+      "properties": {
+        "name": "Сон, рестобар",
+        "subcategory": "Банкетные залы, Бары, Караоке-залы, Рестораны, Фотостудии",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.682016,
+          51.818709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0784e8c3-2603-47e3-9210-6efb60916dcf",
+      "properties": {
+        "name": "Esco, рестобар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.8",
+        "site": "http://t.me/esco_uu",
+        "hours": "Ежедневно с 18:00 до 06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.583829,
+          51.826458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6ebce792-49d1-4746-ba9b-4ccaf3e3d792",
+      "properties": {
+        "name": "Белка, бар-рюмочная",
+        "subcategory": "Бары, Рюмочные",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Пн: с 18:00 до 02:00, Вт: с 18:00 до 02:00, Ср: с 18:00 до 02:00, Чт: с 18:00 до 02:00, Пт: с 18:00 до 04:00, Сб: с 18:00 до 04:00, Вс: с 18:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.586992,
+          51.825899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "95ae01b9-304a-4712-9f7c-d1a6a9da3d6c",
+      "properties": {
+        "name": "Эврика, бар",
+        "subcategory": "Бары",
+        "rating": "1.4",
+        "site": "nan",
+        "hours": "Ежедневно с 21:00 до 09:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5478,
+          51.74959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "88b5ffe0-0504-4a45-b90a-6afe2b9afc79",
+      "properties": {
+        "name": "Угли, шашлык-бар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.7",
+        "site": "http://t.me/uglibar, http://xn--80abfuo7ap.xn--p1ai",
+        "hours": "Пн: с 10:00 до 23:00, Вт: с 10:00 до 23:00, Ср: с 10:00 до 23:00, Чт: с 10:00 до 23:00, Пт: с 10:00 до 01:00, Сб: с 10:00 до 01:00, Вс: с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.583141,
+          51.830699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d0661556-565a-403f-ad25-2f86bb51a4b7",
+      "properties": {
+        "name": "Chester, пивной бар",
+        "subcategory": "Бары",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 15:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.629887,
+          51.806177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f734e7fa-4d5b-451b-89ea-e8a210159342",
+      "properties": {
+        "name": "ШБ, экспресс-бар",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "2.8",
+        "site": "http://taplink.cc/shoni_bachi_uu",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.602997,
+          51.784018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b03e7d86-e499-4a41-be8e-d7f4ef955e3b",
+      "properties": {
+        "name": "Сибиряк, бар",
+        "subcategory": "Алкогольные напитки, Бары, Разливное пиво",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Пн: с 11:00 до 01:00, Вт: с 11:00 до 01:00, Ср: с 11:00 до 01:00, Чт: с 11:00 до 01:00, Пт: с 11:00 до 02:00, Сб: с 11:00 до 02:00, Вс: с 11:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.535696,
+          51.842721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ddb970ef-bbdd-49e3-b8e6-07da5c265403",
+      "properties": {
+        "name": "Egoist, бар-караоке",
+        "subcategory": "Бары, Караоке-залы",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.72125,
+          51.865053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8bb45ae6-e989-48a9-bde4-57946790574c",
+      "properties": {
+        "name": "Barcelona, кафе-бар",
+        "subcategory": "Бары",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 19:00 до 04:00, Вт: с 19:00 до 04:00, Ср: с 19:00 до 04:00, Чт: с 19:00 до 04:00, Пт: с 19:00 до 06:00, Сб: с 19:00 до 06:00, Вс: с 19:00 до 06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.879619,
+          52.008778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "30070a56-81ff-48f4-b64e-8ed311b0a934",
+      "properties": {
+        "name": "Сахар, ресторан-бар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.4",
+        "site": "http://saxar-rest.ru/, http://t.me/saxar_restaurant",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 24:00 (пункт самовывоза: пн-вс 12:00-23:30)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.582243,
+          51.835786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e1a42ecf-c297-43bb-a394-7a9470dccbea",
+      "properties": {
+        "name": "Хмельной, экспресс-бар",
+        "subcategory": "Алкогольные напитки, Бары, Разливное пиво, Снеки",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 17:00 до 06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.591078,
+          51.842138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "479f373e-6c45-4b47-8558-9f5de44f5566",
+      "properties": {
+        "name": "Тема, бар",
+        "subcategory": "Бары, Снеки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: с 20:00 до 02:00, Сб: с 20:00 до 02:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.549867,
+          51.721285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0a4eb183-f149-4131-a4d2-47d80e933b6f",
+      "properties": {
+        "name": "Braun bar",
+        "subcategory": "Бары",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.633808,
+          53.612625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "95dd0a60-0fda-4612-b3b0-8b9ca57d2d28",
+      "properties": {
+        "name": "Империя Пива",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.859618,
+          51.861043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fec50141-f8bb-420d-b515-8b8ffa2ac77c",
+      "properties": {
+        "name": "Lumo, бар-ресторан",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.4",
+        "site": "http://lumorestobar.ru, http://t.me/lumo_bar",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: с 17:00 до 04:00, Сб: с 17:00 до 04:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.582283,
+          51.829758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "79c313b2-6b8f-4cfc-b02e-5332da57a101",
+      "properties": {
+        "name": "Вкусс, маркет-бар",
+        "subcategory": "Алкогольные напитки, Бары, Доставка еды, Разливное пиво",
+        "rating": "4.7",
+        "site": "http://t.me/visokiygradus03",
+        "hours": "Пн: с 17:00 до 05:00, Вт: с 17:00 до 05:00, Ср: с 17:00 до 05:00, Чт: с 17:00 до 05:00, Пт: с 11:00 до 08:00, Сб: с 11:00 до 08:00, Вс: с 17:00 до 05:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.659329,
+          51.804193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "584bd52d-daec-4970-8d36-1f4fbd6b666b",
+      "properties": {
+        "name": "808, бар",
+        "subcategory": "Бары, Усадьбы",
+        "rating": "4.1",
+        "site": "http://t.me/bar808uu",
+        "hours": "Ежедневно с 00:00 до 06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.590462,
+          51.823289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d22c63e6-fa4b-416f-96b5-02ea7c9cd309",
+      "properties": {
+        "name": "Мутный глаз, пивной бар",
+        "subcategory": "Бары, Безалкогольные напитки, Разливное пиво",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 13:00 до 01:00, Вт: с 13:00 до 01:00, Ср: с 13:00 до 01:00, Чт: с 13:00 до 01:00, Пт: с 13:00 до 02:00, Сб: с 13:00 до 02:00, Вс: с 13:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.543741,
+          51.842314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "71c425e9-00e1-40f9-9c67-3ca678a17f1e",
+      "properties": {
+        "name": "Пивной бар",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.616519,
+          51.771135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "28aad05f-1817-452b-99f4-b4d08856b949",
+      "properties": {
+        "name": "План Б",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Пн: с 16:00 до 02:00, Вт: с 16:00 до 02:00, Ср: с 16:00 до 02:00, Чт: с 16:00 до 02:00, Пт: с 16:00 до 03:00, Сб: с 16:00 до 03:00, Вс: с 16:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.583417,
+          51.835839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a4ae6a76-fc1d-4b72-a8aa-e161cb7f1e89",
+      "properties": {
+        "name": "Лес, банкетный зал",
+        "subcategory": "Банкетные залы, Бары, Рестораны",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: с 12:00 до 02:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.678281,
+          51.904566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1585291b-5051-4151-b793-b087eb4f91ea",
+      "properties": {
+        "name": "Платформа 40, гастробар",
+        "subcategory": "Бары, Ночные клубы",
+        "rating": "4.7",
+        "site": "http://t.me/platforma40",
+        "hours": "Пн: с 18:00 до 03:00, Вт: с 18:00 до 03:00, Ср: с 18:00 до 03:00, Чт: с 18:00 до 03:00, Пт: с 18:00 до 06:00, Сб: с 18:00 до 06:00, Вс: с 18:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.65797,
+          51.814604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1ff412bc-c35a-4aac-87b9-63019797a2cd",
+      "properties": {
+        "name": "Sibeeria, бар",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.592344,
+          51.840174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5f86e26b-b259-4533-9ead-5513fd5f2732",
+      "properties": {
+        "name": "Sky, лаундж-бар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.8",
+        "site": "http://sky-loungebar03.orgs.biz",
+        "hours": "Ежедневно с 13:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.586824,
+          51.830191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "741b7163-9b69-4f7a-969e-94217f0286f4",
+      "properties": {
+        "name": "Кенигсберг, гастропаб",
+        "subcategory": "Бары, Доставка еды, Кафе",
+        "rating": "4.7",
+        "site": "http://kenigsberg03.ru/",
+        "hours": "Пн: с 11:30 до 24:00, Вт: с 11:30 до 24:00, Ср: с 11:30 до 24:00, Чт: с 11:30 до 24:00, Пт: с 11:30 до 01:30, Сб: с 11:30 до 01:30, Вс: с 11:30 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.650341,
+          51.821521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "148e8b05-e483-4f3f-866e-12050f9a14e8",
+      "properties": {
+        "name": "Paradise, караоке-бар",
+        "subcategory": "Бары, Ночные клубы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: с 23:00 до 04:00, Чт: с 23:00 до 04:00, Пт: с 23:00 до 06:00, Сб: с 23:00 до 06:00, Вс: с 23:00 до 04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.867347,
+          52.012007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "434951f1-62bc-4602-b000-36051abc42f8",
+      "properties": {
+        "name": "ШБ, экспресс-бар",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "3.4",
+        "site": "http://taplink.cc/shoni_bachi_uu",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.667575,
+          51.802587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1a1d6eab-90d3-45ae-bd0d-15f7acc9acc2",
+      "properties": {
+        "name": "Луна, лаундж-бар",
+        "subcategory": "Бары, Центры паровых коктейлей",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Пн: с 12:00 до 02:00, Вт: с 12:00 до 02:00, Ср: с 12:00 до 02:00, Чт: с 12:00 до 02:00, Пт: с 12:00 до 03:00, Сб: с 18:00 до 03:00, Вс: с 18:00 до 02:00 (график работы кухни: вс-чт 18:00-2:00; пт-сб 18:00-3:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593669,
+          51.833236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "60973245-db71-4975-8e3c-59443d7f20b7",
+      "properties": {
+        "name": "Beerмания",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 17:30 до 01:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.598203,
+          51.824683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5167f7f3-c0cf-4864-864d-35fd6f71bfe3",
+      "properties": {
+        "name": "Космос, рестобар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Пн: с 11:00 до 24:00, Вт: с 11:00 до 24:00, Ср: с 11:00 до 24:00, Чт: с 11:00 до 24:00, Пт: с 11:00 до 02:00, Сб: с 11:00 до 02:00, Вс: с 11:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593373,
+          51.788548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5e7c3c2b-6f8c-4493-9e90-2f32289a4fd4",
+      "properties": {
+        "name": "Руки вверх!, бар",
+        "subcategory": "Бары, Караоке-залы, Ночные клубы",
+        "rating": "4.8",
+        "site": "http://t.me/rvbar_ulanude, http://ulanude.rvbar.ru",
+        "hours": "Пн: с 18:00 до 03:00, Вт: с 18:00 до 03:00, Ср: с 18:00 до 03:00, Чт: с 18:00 до 03:00, Пт: с 18:00 до 05:00, Сб: с 18:00 до 05:00, Вс: с 18:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.584818,
+          51.832998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a692dc0c-6ee6-43b3-8f5b-0885c586cc75",
+      "properties": {
+        "name": "Рюмочная №1",
+        "subcategory": "Бары, Разливное пиво, Рюмочные",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 18:00 до 02:00, Вт: с 18:00 до 02:00, Ср: с 18:00 до 02:00, Чт: с 18:00 до 02:00, Пт: с 18:00 до 04:00, Сб: с 18:00 до 04:00, Вс: с 18:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.586824,
+          51.830191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac0189d-ea5b-4f05-b3e9-e5fa113a30e2",
+      "properties": {
+        "name": "Liberty, бар",
+        "subcategory": "Аренда площадок для культурно-массовых мероприятий, Бары, Ночные клубы",
+        "rating": "4.4",
+        "site": "http://t.me/liberty_ulan",
+        "hours": "Ежедневно с 22:00 до 06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.576871,
+          51.830933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9ad0d0af-f37c-4efb-8615-9c9afbc312a6",
+      "properties": {
+        "name": "Под крышей, банкетный зал",
+        "subcategory": "Банкетные залы, Бары",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: с 16:00 до 22:00, Ср: с 16:00 до 22:00, Чт: с 16:00 до 22:00, Пт: с 16:00 до 05:00, Сб: с 16:00 до 05:00, Вс: с 16:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59258,
+          51.823666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "711e2196-48e8-4b23-9a62-a0304f6bdd9d",
+      "properties": {
+        "name": "Вальхалла, пивной бар",
+        "subcategory": "Бары",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 18:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.591892,
+          51.815658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "46763cac-c08d-4dc4-be6b-170e1fb37683",
+      "properties": {
+        "name": "Какаду, кафе-бар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59541,
+          51.836871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "db98a320-cbff-41ea-b015-fab2a2f0e230",
+      "properties": {
+        "name": "Кот-Бегемот, бар",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.627008,
+          51.848333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "78d241c4-f480-4a6d-83ba-77adfa9ddce5",
+      "properties": {
+        "name": "Синий кит, бар",
+        "subcategory": "Бары",
+        "rating": "2.8",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.659749,
+          51.816276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9b3e1ac0-ebe6-45e6-b35b-cbb22510c664",
+      "properties": {
+        "name": "Добрый, бар",
+        "subcategory": "Бары, Разливное вино, Снеки",
+        "rating": "3.1",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.576766,
+          51.840034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "60b2c084-d9ad-4064-9bf5-7a27e60d46ca",
+      "properties": {
+        "name": "ZV, бар",
+        "subcategory": "Бары",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Пн: с 20:00 до 02:00, Вт: с 20:00 до 02:00, Ср: с 20:00 до 02:00, Чт: с 20:00 до 02:00, Пт: с 20:00 до 06:00, Сб: с 20:00 до 06:00, Вс: с 20:00 до 06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.578139,
+          51.853253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fd340db3-79f0-466d-9a1a-4cf747b26d57",
+      "properties": {
+        "name": "Nn Club, ночной бар-клуб",
+        "subcategory": "Бары, Доставка еды, Ночные клубы",
+        "rating": "4.2",
+        "site": "http://t.me/nn_club_uu",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: с 22:00 до 08:00, Сб: с 22:00 до 08:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.623739,
+          51.819035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "158859a5-9ccc-4822-b8ad-69a06c243019",
+      "properties": {
+        "name": "Пивной погребок, магазин-бар",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Пн: с 14:00 до 02:00, Вт: с 14:00 до 02:00, Ср: с 14:00 до 02:00, Чт: с 14:00 до 02:00, Пт: с 14:00 до 03:00, Сб: с 14:00 до 03:00, Вс: с 14:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.632971,
+          51.820845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0437aea2-6fef-4bf5-a7c6-ecb76bff224c",
+      "properties": {
+        "name": "Magic, бар караоке и разливного пива",
+        "subcategory": "Бары, Караоке-залы",
+        "rating": "4.3",
+        "site": "http://t.me/night_18bar",
+        "hours": "Пн: с 20:00 до 05:00, Вт: с 20:00 до 05:00, Ср: с 20:00 до 05:00, Чт: с 20:00 до 05:00, Пт: с 20:00 до 07:00, Сб: с 20:00 до 07:00, Вс: с 20:00 до 05:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.675547,
+          51.81424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a506a8e1-bda8-4170-b7c0-f947387812f6",
+      "properties": {
+        "name": "Боро-Боро, гриль-бар",
+        "subcategory": "Банкетные залы, Бары, Ночные клубы",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "Ежедневно с 17:00 до 05:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.613651,
+          51.842215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3c04a791-41f2-44ac-93d6-9160a122d52a",
+      "properties": {
+        "name": "Просто, бар",
+        "subcategory": "Алкогольные напитки, Бары, Безалкогольные напитки, Разливное пиво",
+        "rating": "4.6",
+        "site": "http://t.me/prostobar_arshan",
+        "hours": "Ежедневно с 15:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.42843,
+          51.914453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0f0a2fcb-754d-4d95-98c9-cde2fc78038a",
+      "properties": {
+        "name": "Черно-белое, бар",
+        "subcategory": "Алкогольные напитки, Бары, Разливное пиво, Снеки",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.724688,
+          51.865419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "911d1df2-cccb-42bf-8473-749d51756973",
+      "properties": {
+        "name": "Фреш, бар",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.580139,
+          51.771674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "98722e17-546b-44d7-9bdd-a746d99b4eb8",
+      "properties": {
+        "name": "У Ирмы",
+        "subcategory": "Бары",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.575816,
+          51.848542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5bc29cf7-ecff-4344-ac17-7f3e7715eefc",
+      "properties": {
+        "name": "Гараж, караоке-бар",
+        "subcategory": "Бары, Караоке-залы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: с 21:00 до 02:00, Пт: с 21:00 до 05:00, Сб: с 21:00 до 05:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.647474,
+          52.202652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4b45e6cb-bc37-4b54-96be-21d96373f508",
+      "properties": {
+        "name": "Добряк, бар",
+        "subcategory": "Бары",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.596818,
+          51.83765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "75f5c4e6-3270-4915-a203-ecb2badbda80",
+      "properties": {
+        "name": "Sfera, бар",
+        "subcategory": "Бары",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 20:00 до 04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.624252,
+          51.808415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "51ef689b-268e-49f6-82e7-6205cfe9873f",
+      "properties": {
+        "name": "То место, бар",
+        "subcategory": "Бары, Снеки",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.725359,
+          51.866099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f0c9ce5d-c239-4098-aa75-f4edcad76c13",
+      "properties": {
+        "name": "Кружка, пивной бар",
+        "subcategory": "Бары, Разливное пиво, Снеки",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.586874,
+          51.986184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3ccdf2c3-68a7-4c8e-b195-17edb811bc22",
+      "properties": {
+        "name": "Синий кит, бар",
+        "subcategory": "Бары, Разливное пиво, Снеки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.641825,
+          51.809395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e416ed23-d433-470e-b58d-f110a5edc498",
+      "properties": {
+        "name": "Янтарный, бар",
+        "subcategory": "Алкогольные напитки, Бары, Разливное пиво, Снеки",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.639,
+          51.805962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8bc297e9-1fe5-4a68-9580-ed008d1fd357",
+      "properties": {
+        "name": "Олзон",
+        "subcategory": "Бары",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.863087,
+          52.004815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b438b6ee-9e08-446a-a52f-e6097be7f1f4",
+      "properties": {
+        "name": "Бункер, бар",
+        "subcategory": "Бары, Разливное пиво",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 18:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.659261,
+          51.80491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1e420089-771e-453f-8599-9664ee5e9643",
+      "properties": {
+        "name": "Лобби-Бар",
+        "subcategory": "Бары, Точки безалкогольных напитков",
+        "rating": "2.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.125695,
+          52.551985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4fa3b183-01d6-48db-9bec-5b41c8394882",
+      "properties": {
+        "name": "Терасса, кафе",
+        "subcategory": "Бары",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 22:00 (рабочие месяцы: июнь-август)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.962502,
+          52.796829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3544ecaf-e184-45a1-a993-004e3c1baeee",
+      "properties": {
+        "name": "Happy, караоке-бар",
+        "subcategory": "Бары, Караоке-залы, Ночные клубы",
+        "rating": "4.2",
+        "site": "http://t.me/happy_bar03",
+        "hours": "Пн: с 18:00 до 04:00, Вт: с 18:00 до 04:00, Ср: с 18:00 до 04:00, Чт: с 18:00 до 04:00, Пт: с 18:00 до 05:00, Сб: с 18:00 до 05:00, Вс: с 18:00 до 04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.622187,
+          51.809443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "762b88c2-bcd4-4b70-a444-cda6c925a267",
+      "properties": {
+        "name": "По рёбрам, бар",
+        "subcategory": "Бары, Кафе",
+        "rating": "4.7",
+        "site": "http://t.me/po_ryobram",
+        "hours": "Ежедневно с 18:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.624045,
+          51.818736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "60b94662-1aa0-4954-825e-20291613ab7e",
+      "properties": {
+        "name": "Бар",
+        "subcategory": "Бары",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.698696,
+          51.793226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0fea3ecb-d0b3-4e6a-b3c2-6c62f895f75f",
+      "properties": {
+        "name": "Бар-Заправка",
+        "subcategory": "Бары",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.633124,
+          51.834824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0a4a0a9f-a032-431c-b8aa-27d5cecfb709",
+      "properties": {
+        "name": "Дача, бар",
+        "subcategory": "Бары, Рюмочные",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Пн: с 18:00 до 02:00, Вт: с 18:00 до 02:00, Ср: с 18:00 до 02:00, Чт: с 18:00 до 02:00, Пт: с 18:00 до 04:00, Сб: с 18:00 до 04:00, Вс: с 18:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.586974,
+          51.826136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2412a3ac-459b-45a3-a0eb-4b3ed101fea0",
+      "properties": {
+        "name": "Бар на Бульваре",
+        "subcategory": "Бары",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607295,
+          51.803133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fc7c0cea-f235-4a55-b745-4c484c04dc7e",
+      "properties": {
+        "name": "Rox, бар",
+        "subcategory": "Бары",
+        "rating": "4.7",
+        "site": "http://t.me/rox_bar",
+        "hours": "Ежедневно с 22:00 до 06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5871,
+          51.83222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "74d0fbc8-ca1e-4e86-ad15-766fe8dbe12d",
+      "properties": {
+        "name": "Бар’е, бар",
+        "subcategory": "Бары, Клубы видеоигр, Центры паровых коктейлей",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 15:00 до 23:00, Вт: с 15:00 до 23:00, Ср: с 15:00 до 23:00, Чт: с 15:00 до 23:00, Пт: с 14:00 до 02:00, Сб: с 14:00 до 02:00, Вс: с 14:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.577469,
+          51.835896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "80a6a018-ee2d-47d0-bd04-1fa9293149fc",
+      "properties": {
+        "name": "От заката до рассвета, кафе-бар",
+        "subcategory": "Бары, Кафе",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "Пн: с 14:00 до 02:00, Вт: с 14:00 до 02:00, Ср: с 14:00 до 02:00, Чт: с 14:00 до 02:00, Пт: с 14:00 до 04:00, Сб: с 14:00 до 04:00, Вс: с 14:00 до 04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.587631,
+          51.824749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a9c012e1-f018-40de-8fda-0f85a6fb13d1",
+      "properties": {
+        "name": "Моя сладкая N, музыкальный бар",
+        "subcategory": "Бары",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 18:00 до 05:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.65797,
+          51.814604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "47c756be-c01a-4ddc-9c62-dcde4a932daa",
+      "properties": {
+        "name": "Вкусс, маркет-бар",
+        "subcategory": "Алкогольные напитки, Бары",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 17:00 до 05:00, Вт: с 17:00 до 05:00, Ср: с 17:00 до 05:00, Чт: с 17:00 до 05:00, Пт: с 11:00 до 08:00, Сб: с 11:00 до 08:00, Вс: с 17:00 до 05:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6703,
+          51.814315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "806a4a02-1744-4b79-bb5f-fb583f88c0fb",
+      "properties": {
+        "name": "808, бар",
+        "subcategory": "Бары, Усадьбы",
+        "rating": "4.1",
+        "site": "http://t.me/bar808uu",
+        "hours": "Ежедневно с 00:00 до 06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.590462,
+          51.823289
+        ]
+      }
+    }
+  ]
+}

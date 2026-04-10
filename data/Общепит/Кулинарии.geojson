@@ -1,0 +1,1180 @@
+{
+  "type": "FeatureCollection",
+  "name": "Кулинарии",
+  "style": {
+    "color": "blue",
+    "radius": 6
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "fbc66353-2839-410f-8516-d11b55573649",
+      "properties": {
+        "name": "Смак, магазины кондитерских изделий",
+        "subcategory": "Безалкогольные напитки, Кондитерские изделия, Кулинарии, Хлебобулочные изделия",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Пн: с 08:30 до 19:00, Вт: с 08:30 до 19:00, Ср: с 08:30 до 19:00, Чт: с 08:30 до 19:00, Пт: с 08:30 до 19:00, Сб: с 09:00 до 17:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288798,
+          52.287877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ce6704bd-a0b3-4a3b-bb07-63cabb94c14e",
+      "properties": {
+        "name": "Багульник, магазин продажи выпечки и продуктов",
+        "subcategory": "Безалкогольные напитки, Кулинарии, Продажа кофе, Продажа чая",
+        "rating": "1.8",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.093968,
+          52.208878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16dc95db-6635-4943-8600-5aa609d424a1",
+      "properties": {
+        "name": "Пастушок, харчевня",
+        "subcategory": "Быстрое питание, Кулинарии",
+        "rating": "3.3",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.092657,
+          52.20855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "66d1cda2-235c-479b-8b0c-17cd4b24a573",
+      "properties": {
+        "name": "Магазин-кулинария",
+        "subcategory": "Кулинарии",
+        "rating": "3.0",
+        "site": "nan",
+        "hours": "Пн: с 06:30 до 17:30, Вт: с 06:30 до 17:30, Ср: с 06:30 до 17:30, Чт: с 06:30 до 17:30, Пт: с 06:30 до 17:30, Сб: с 06:30 до 14:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.210255,
+          52.354638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d6a2dd05-69fc-4fbc-a387-c60649a154a2",
+      "properties": {
+        "name": "Плюшка, пекарня",
+        "subcategory": "Кулинарии, Пекарни",
+        "rating": "2.6",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.187766,
+          52.260348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "565570fe-5645-4648-89f0-4308c359e250",
+      "properties": {
+        "name": "Черемушка, магазин-кафетерий",
+        "subcategory": "Безалкогольные напитки, Быстрое питание, Кондитерские изделия, Кулинарии",
+        "rating": "3.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.20144,
+          52.334478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "67ca79a2-ff3f-4d05-8dfd-63c53614c4a1",
+      "properties": {
+        "name": "Вкусно по-домашнему, магазин кулинарии",
+        "subcategory": "Кулинарии, Столовые",
+        "rating": "2.8",
+        "site": "nan",
+        "hours": "Пн: с 07:30 до 19:00, Вт: с 07:30 до 19:00, Ср: с 07:30 до 19:00, Чт: с 07:30 до 19:00, Пт: с 07:30 до 19:00, Сб: с 08:00 до 18:00, Вс: с 08:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.313229,
+          52.263444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "654f0e6d-0d87-489d-8e68-5f233baf0948",
+      "properties": {
+        "name": "Триумф, магазин продовольственных товаров",
+        "subcategory": "Безалкогольные напитки, Кулинарии, Продажа кофе, Табачные изделия / Товары для курения, Электронные сигареты",
+        "rating": "3.0",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 19:00, Вт: с 09:00 до 19:00, Ср: с 09:00 до 19:00, Чт: с 09:00 до 19:00, Пт: с 09:00 до 19:00, Сб: с 09:00 до 14:00, Вс: с 09:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.293395,
+          52.294255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4bc34f4c-1bb2-4712-a301-69a7d230afd6",
+      "properties": {
+        "name": "Буфет, пекарня",
+        "subcategory": "Кондитерские изделия, Кулинарии, Молочные продукты, Пекарни",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.332177,
+          52.273275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6649deb6-833a-4b78-8621-55310ba950b0",
+      "properties": {
+        "name": "Апельсин, кафе-кулинария",
+        "subcategory": "Кулинарии",
+        "rating": "2.4",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288748,
+          52.286658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4c3cc4fe-d06d-4a71-9c07-dc820205a458",
+      "properties": {
+        "name": "Плюшка, пекарня",
+        "subcategory": "Доставка еды, Кондитерские изделия, Кулинарии, Пекарни",
+        "rating": "2.7",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3161,
+          52.267646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "07bf0f3f-6ce7-44e7-8bb9-5883cb0119fe",
+      "properties": {
+        "name": "Korean_salad38, магазин салатов",
+        "subcategory": "Кулинарии",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.061547,
+          52.208311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2d341966-3031-414f-bf4e-73eab72150b6",
+      "properties": {
+        "name": "Буфет, пекарня",
+        "subcategory": "Кондитерские изделия, Кулинарии, Пекарни",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.248921,
+          52.253861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c168e597-9b59-4941-a108-9113a09551b2",
+      "properties": {
+        "name": "Буфет, пекарня",
+        "subcategory": "Кондитерские изделия, Кулинарии, Пекарни",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.353115,
+          52.258642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8f02bde7-7179-4152-b783-6e01da2a217d",
+      "properties": {
+        "name": "Korean_salad38, магазин салатов",
+        "subcategory": "Кулинарии",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.082254,
+          52.205121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4df9d635-f804-466b-93fa-f6ac5f4ca82d",
+      "properties": {
+        "name": "Рыбка моя, магазин морепродуктов и морских деликатесов",
+        "subcategory": "Доставка еды, Кулинарии, Рыба / Морепродукты, Специи",
+        "rating": "4.3",
+        "site": "http://rybka-moya.ru",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.24894,
+          52.253966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d6343e40-97f8-4cd3-b190-e189b2ee4a20",
+      "properties": {
+        "name": "Сластена, магазин",
+        "subcategory": "Кондитерские изделия, Кулинарии, Продажа кофе, Продажа чая, Хлебобулочные изделия",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.372842,
+          52.463353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "052f43e1-fc8f-4c85-ab4e-24b8f09503ed",
+      "properties": {
+        "name": "Магазин корейских салатов",
+        "subcategory": "Кулинарии",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.356574,
+          52.290631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e326e597-220b-4d27-998b-a7a9e383f05c",
+      "properties": {
+        "name": "Магазин корейских салатов",
+        "subcategory": "Кулинарии",
+        "rating": "3.1",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.201188,
+          52.334277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2e81cc1d-f076-4fd7-b64a-ae330ab874ca",
+      "properties": {
+        "name": "Мясной магазин",
+        "subcategory": "Колбасные изделия, Кулинарии, Мясо / Полуфабрикаты, Специи",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.155981,
+          52.355891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "07eee7e1-884f-4ed8-a92d-0f244084bc0e",
+      "properties": {
+        "name": "Магазин корейских салатов",
+        "subcategory": "Кулинарии",
+        "rating": "3.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.306695,
+          52.274935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1482a8b5-fc17-4ec6-8223-e12971906487",
+      "properties": {
+        "name": "Магазин корейских салатов",
+        "subcategory": "Кулинарии",
+        "rating": "1.2",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.341379,
+          52.291906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "893fdb90-e387-4cee-b4c5-571cf4311417",
+      "properties": {
+        "name": "Магазин корейских салатов",
+        "subcategory": "Кулинарии",
+        "rating": "2.3",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.225956,
+          52.345074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "562d7b9a-2e0a-4113-bdd0-c8f0a923887c",
+      "properties": {
+        "name": "Магазин по продаже корейских салатов",
+        "subcategory": "Кулинарии",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.364907,
+          52.252123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12a3dac5-83da-4b0a-8ea6-58ff7536cb01",
+      "properties": {
+        "name": "Буфет, пекарня",
+        "subcategory": "Кондитерские изделия, Кулинарии, Пекарни, Точки кофе",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.325591,
+          52.267069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dbcd77cc-bdee-46b9-a209-dab9800c1cd7",
+      "properties": {
+        "name": "Буфет, пекарня",
+        "subcategory": "Кондитерские изделия, Кулинарии, Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.317465,
+          52.278651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "621d448d-d133-44fd-9b23-2c080a3b7cf1",
+      "properties": {
+        "name": "Магазин корейских салатов",
+        "subcategory": "Кулинарии",
+        "rating": "3.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.284221,
+          52.208157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "41c536a8-7cec-4e0f-a871-92568c11cc6b",
+      "properties": {
+        "name": "Шпинат, автомат по продаже напитков и готовой еды",
+        "subcategory": "Безалкогольные напитки, Кулинарии, Снеки",
+        "rating": "2.0",
+        "site": "nan",
+        "hours": "Пн: с 08:30 до 17:30, Вт: с 08:30 до 17:30, Ср: с 08:30 до 17:30, Чт: с 08:30 до 17:30, Пт: с 08:30 до 17:30, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.301256,
+          52.291947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "41796de2-fcb6-4445-ab16-0fc37e84e1c1",
+      "properties": {
+        "name": "Магазин корейских салатов",
+        "subcategory": "Кулинарии",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.372842,
+          52.463353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "701362c9-98db-43a7-8cea-5e2d47e4dec7",
+      "properties": {
+        "name": "Pan Chan, магазин корейских салатов",
+        "subcategory": "Кулинарии",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.336249,
+          52.254362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "45e07093-6024-40ce-b6d8-f0191f214a91",
+      "properties": {
+        "name": "Киоск по продаже выпечки и мороженого",
+        "subcategory": "Безалкогольные напитки, Кулинарии, Мороженое",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.273512,
+          52.281139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0102fc01-ec30-4adc-a0d2-e3a12af5d991",
+      "properties": {
+        "name": "Roccu-Мегет",
+        "subcategory": "Колбасные изделия, Кулинарии, Мясо / Полуфабрикаты, Мясо птицы / Полуфабрикаты",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 17:00, Вт: с 08:00 до 17:00, Ср: с 08:00 до 17:00, Чт: с 08:00 до 17:00, Пт: с 08:00 до 17:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.045409,
+          52.42646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "427d1678-9f7b-4a60-97ab-c9899dd8c8be",
+      "properties": {
+        "name": "Павильон быстрого питания",
+        "subcategory": "Быстрое питание, Кондитерские изделия, Кулинарии",
+        "rating": "1.8",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.061547,
+          52.208311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31d541a8-1b8b-478f-9d94-c5595588dd66",
+      "properties": {
+        "name": "Павильон корейских салатов, Лавка специй",
+        "subcategory": "Кулинарии",
+        "rating": "1.7",
+        "site": "http://irkcr.ru",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.295996,
+          52.28308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34712303-4480-4153-b74e-bba7f1883295",
+      "properties": {
+        "name": "Pan Chan, магазин корейских салатов",
+        "subcategory": "Кулинарии",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.304409,
+          52.227253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a0b222e3-daf4-49ed-b590-94cb8d416b9a",
+      "properties": {
+        "name": "Pan Chan, магазин корейских салатов",
+        "subcategory": "Кулинарии",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.317465,
+          52.278651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dcad0fa8-3246-47c4-87ea-af8f727c6ba8",
+      "properties": {
+        "name": "АлкоМир, магазин-бар",
+        "subcategory": "Алкогольные напитки, Безалкогольные напитки, Кулинарии, Разливное пиво",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.304267,
+          52.28927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9d7aa61f-f290-496d-ba22-09706243e5d9",
+      "properties": {
+        "name": "Магазин корейских салатов",
+        "subcategory": "Кулинарии",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.318719,
+          52.2761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "47f6ecac-0085-4183-bba7-ba7b6022804b",
+      "properties": {
+        "name": "Pan Chan, магазин корейских салатов",
+        "subcategory": "Кулинарии",
+        "rating": "3.1",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.294005,
+          52.29292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cb1390f4-8185-4843-824d-63f09dc096c3",
+      "properties": {
+        "name": "Магазин корейских салатов",
+        "subcategory": "Кулинарии",
+        "rating": "1.0",
+        "site": "nan",
+        "hours": "Пн: с 10:00 до 20:00, Вт: с 10:00 до 20:00, Ср: с 10:00 до 20:00, Чт: с 10:00 до 20:00, Пт: с 10:00 до 20:00, Сб: с 10:00 до 20:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.380572,
+          52.275793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2074e38a-da0e-4e3c-be8d-fcaf4ceb5498",
+      "properties": {
+        "name": "Pan Chan, магазин корейских салатов",
+        "subcategory": "Кулинарии",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.431706,
+          52.246469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "816d7c54-1789-4899-aba6-ee3c888e38ea",
+      "properties": {
+        "name": "Буфет, пекарня",
+        "subcategory": "Кондитерские изделия, Кулинарии, Пекарни",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.241169,
+          52.261356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f7486fa3-7bb8-4f3f-8662-252da74156b8",
+      "properties": {
+        "name": "Магазин корейских салатов и кондитерских изделий",
+        "subcategory": "Кондитерские изделия, Кулинарии",
+        "rating": "1.2",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.218472,
+          52.347598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "966e64c2-7567-4ba0-becb-fa2559c6cd33",
+      "properties": {
+        "name": "Магазин корейских салатов",
+        "subcategory": "Кулинарии",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.241744,
+          52.261822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f47f3492-ae22-4fdf-9be1-40f21be4f704",
+      "properties": {
+        "name": "Магазин по продаже корейских салатов",
+        "subcategory": "Кулинарии",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.247988,
+          52.254682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "41aaa856-042d-4101-9221-0ae45f03ad79",
+      "properties": {
+        "name": "Магазин по продаже корейских салатов",
+        "subcategory": "Быстрое питание, Кулинарии",
+        "rating": "3.5",
+        "site": "http://t.me/koreansalads38",
+        "hours": "Ежедневно с 09:00 до 19:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.361159,
+          52.464321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cf23e1d4-d1c6-4ed1-b520-85e15d97d1e3",
+      "properties": {
+        "name": "Магазин по продаже корейских салатов",
+        "subcategory": "Кулинарии",
+        "rating": "2.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.30347,
+          52.233953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3b1fa5a8-0581-4c38-ab70-b2e8d97f774d",
+      "properties": {
+        "name": "Магазин корейских салатов",
+        "subcategory": "Кулинарии",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.238289,
+          52.310519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b0fc99d1-f34e-48b3-9bdb-61e420f2e68d",
+      "properties": {
+        "name": "Точка по продаже корейских салатов",
+        "subcategory": "Кулинарии",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.133529,
+          52.354561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7391ebe9-dd11-47a6-bcac-e7f1599df674",
+      "properties": {
+        "name": "Буфет, пекарня",
+        "subcategory": "Кондитерские изделия, Кофейни, Кулинарии, Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.27222,
+          52.284969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e63157f0-fea0-4438-b1b9-a7fa63ee09bc",
+      "properties": {
+        "name": "Planta K Café, кофейный дом",
+        "subcategory": "Кондитерские изделия, Кофейни, Кулинарии, Продажа кофе, Продажа чая",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 07:30 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.260295,
+          52.25275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1ef27498-8853-441f-b153-adb5bb38a340",
+      "properties": {
+        "name": "Korean_salad38, магазин салатов",
+        "subcategory": "Кулинарии",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.207663,
+          52.264661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "013e8102-35c6-4aeb-bb8e-f2cd338f75d3",
+      "properties": {
+        "name": "Динамо, буфет",
+        "subcategory": "Доставка еды, Кулинарии",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.320737,
+          52.290344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "abfa016c-f280-4697-8261-41c4243f17c4",
+      "properties": {
+        "name": "Титан-Парк, сеть удобных магазинов",
+        "subcategory": "Кулинарии, Супермаркеты",
+        "rating": "3.2",
+        "site": "http://megatitan.ru/catalog",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663821,
+          51.812153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c7c40bfc-b870-481e-b393-c2f1fcd79f75",
+      "properties": {
+        "name": "Цех по производству корейских и европейских салатов",
+        "subcategory": "Кулинарии",
+        "rating": "3.0",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 13:00, Вт: с 08:00 до 13:00, Ср: с 08:00 до 13:00, Чт: с 08:00 до 13:00, Пт: с 08:00 до 13:00, Сб: с 08:00 до 13:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.517389,
+          51.846444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ed533283-963f-468f-97f9-8158eedf34b3",
+      "properties": {
+        "name": "Шарлотта, пекарня",
+        "subcategory": "Кондитерские изделия, Кулинарии, Мясо / Полуфабрикаты, Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.032591,
+          53.41234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f53728e6-c876-4d0a-b0ee-6efc7cf73e0b",
+      "properties": {
+        "name": "Шарлотта, пекарня",
+        "subcategory": "Кондитерские изделия, Кулинарии, Мясо / Полуфабрикаты, Пекарни",
+        "rating": "3.1",
+        "site": "http://t.me/sharlotta_bargtrad",
+        "hours": "Пн: с 09:00 до 20:00, Вт: с 09:00 до 20:00, Ср: с 09:00 до 20:00, Чт: с 09:00 до 20:00, Пт: с 09:00 до 20:00, Сб: с 10:00 до 20:00, Вс: с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.591494,
+          51.841569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f588f9f9-f583-4802-97bf-ff14a02cf563",
+      "properties": {
+        "name": "Титан Мёд, сеть удобных магазинов",
+        "subcategory": "Доставка еды, Кулинарии, Супермаркеты",
+        "rating": "3.9",
+        "site": "http://megatitan.ru/catalog",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.577112,
+          51.7778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9af4e91f-1325-4912-a65d-2401a341c969",
+      "properties": {
+        "name": "Вкусно как дома 03, компания по производству замороженных полуфабрикатов",
+        "subcategory": "Доставка продуктов, Кулинарии, Мясо / Полуфабрикаты, Мясо птицы / Полуфабрикаты, Продукты быстрого приготовления",
+        "rating": "4.4",
+        "site": "http://vkusnokakdoma03.ru",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.594625,
+          51.813354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ea2d77c9-44f3-40b9-98cf-82077451e80a",
+      "properties": {
+        "name": "МегаТитан, сеть удобных магазинов",
+        "subcategory": "Доставка продуктов, Кулинарии, Супермаркеты",
+        "rating": "4.5",
+        "site": "http://megatitan.ru/catalog",
+        "hours": "Ежедневно с 08:00 до 23:00 (служба доставки: пн-вс 9:00-19:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.634458,
+          51.842493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1f0ed270-b8c0-40dd-a171-bb79c08d383f",
+      "properties": {
+        "name": "Магазин по продаже салатов и солений",
+        "subcategory": "Консервы, Кулинарии, Орехи / Семечки / Сухофрукты, Продукты быстрого приготовления",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.652871,
+          51.811937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "97dd7d83-b31a-433c-a657-9483d81c0f3c",
+      "properties": {
+        "name": "Вкусно как дома 03, компания по производству замороженных полуфабрикатов",
+        "subcategory": "Доставка продуктов, Кулинарии, Мясо / Полуфабрикаты, Мясо птицы / Полуфабрикаты, Продукты быстрого приготовления",
+        "rating": "4.6",
+        "site": "http://vkusnokakdoma03.ru",
+        "hours": "Пн: с 09:00 до 20:00, Вт: с 09:00 до 20:00, Ср: с 09:00 до 20:00, Чт: с 09:00 до 20:00, Пт: с 09:00 до 20:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.577494,
+          51.839212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "59ed10ec-3744-4c04-a13b-fd3bea1d98ef",
+      "properties": {
+        "name": "Лучеда, пекарня",
+        "subcategory": "Кулинарии, Мясо / Полуфабрикаты, Пекарни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 19:00, Вт: с 08:00 до 19:00, Ср: с 08:00 до 19:00, Чт: с 08:00 до 19:00, Пт: с 08:00 до 19:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.584551,
+          51.823712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "97af1105-5c50-4596-bcc0-aaa751382d5a",
+      "properties": {
+        "name": "Острота вкуса, компания по продаже кимчи, корейских салатов и острых закусок",
+        "subcategory": "Доставка продуктов, Кулинарии",
+        "rating": "5.0",
+        "site": "http://t.me/ostrotavkusa",
+        "hours": "Пн: с 09:00 до 20:00, Вт: с 09:00 до 20:00, Ср: с 09:00 до 20:00, Чт: с 09:00 до 20:00, Пт: с 09:00 до 20:00, Сб: выходной, Вс: выходной (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.600995,
+          51.785828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "187ecfd0-da19-4f3e-9831-ad948e505c37",
+      "properties": {
+        "name": "Вкусно как дома 03, компания по производству замороженных полуфабрикатов",
+        "subcategory": "Доставка продуктов, Кулинарии, Мясо / Полуфабрикаты, Мясо птицы / Полуфабрикаты, Продукты быстрого приготовления",
+        "rating": "5.0",
+        "site": "http://vkusnokakdoma03.ru",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.586275,
+          51.846248
+        ]
+      }
+    }
+  ]
+}

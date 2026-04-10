@@ -1,0 +1,1648 @@
+{
+  "type": "FeatureCollection",
+  "name": "Хостелы",
+  "style": {
+    "color": "blue",
+    "radius": 6
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "f3e27bed-7910-49d8-ac12-05f243fc416a",
+      "properties": {
+        "name": "Узоры, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.307841,
+          52.28877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d2d8d0d6-3242-4b48-8154-32e0f1a9f00d",
+      "properties": {
+        "name": "Иркутскэнерго, общежитие гостиничного типа",
+        "subcategory": "Хостелы",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.311812,
+          52.233676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "be789851-a4e5-4dd0-88cf-70561c9a2568",
+      "properties": {
+        "name": "Бриз, хостел",
+        "subcategory": "Хостелы",
+        "rating": "3.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.315978,
+          52.256011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e1ba057b-b862-42fd-b85a-dc2e031c6353",
+      "properties": {
+        "name": "Иркутск, хостел",
+        "subcategory": "Хостелы",
+        "rating": "3.9",
+        "site": "http://irkutskhostel38.ru/zhelyabova",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289514,
+          52.290268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "411f58c6-62b1-431c-9d49-81b173d8ef49",
+      "properties": {
+        "name": "Иркутск, хостел",
+        "subcategory": "Хостелы",
+        "rating": "2.2",
+        "site": "http://irkutskhostel38.ru/baikalskaya",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.353422,
+          52.255261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a960bed3-5785-48ee-b002-486092bcb0c1",
+      "properties": {
+        "name": "Магас, гостиница",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.258291,
+          52.281391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "30d1c4de-5a77-4d0b-b7c0-bed5f506254e",
+      "properties": {
+        "name": "Браво, хостел",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.7",
+        "site": "http://hostelbravo.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.353612,
+          52.274182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "877607bc-80f1-4bd8-acac-d00da62ec907",
+      "properties": {
+        "name": "Три Матрешки, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.8",
+        "site": "http://3matreshki.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.254577,
+          52.279381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cebfda16-fdc1-4a46-b1ff-f7471deeb455",
+      "properties": {
+        "name": "Брусника, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.9",
+        "site": "http://hostelbrusnika.ru",
+        "hours": "Ежедневно с 12:00 до 22:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.257812,
+          52.272584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8afa2c32-e59f-4c4b-ad50-bd305882f99c",
+      "properties": {
+        "name": "Rolling Stones, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.7",
+        "site": "http://irk3d.ru/vt/2019-rolling-stones/rolling-stones-hostel.html, http://rs-hostel.ru/ru/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.286067,
+          52.283651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "383d00a7-34ee-4ec7-a386-4c3d067ade64",
+      "properties": {
+        "name": "Хостелы рус, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.3",
+        "site": "http://hostelrus38.bookonline24.ru/",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.284713,
+          52.278573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "711ba601-fb09-4907-869a-f062a4ccb806",
+      "properties": {
+        "name": "Кедр, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.2",
+        "site": "http://hostel-kedr.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.300868,
+          52.270841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b052c81f-a0f6-47b9-877e-bcd0a0ebc8ba",
+      "properties": {
+        "name": "Шикша, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.278122,
+          52.281065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "19f6d0fe-4e36-4a09-bc8c-9ff79d438e14",
+      "properties": {
+        "name": "Хостел3952 на Марата",
+        "subcategory": "Хостелы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.280976,
+          52.280823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3f524344-64e6-4223-b09b-a32b5ab45935",
+      "properties": {
+        "name": "Решетников SibHome, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 07:30 до 23:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288425,
+          52.277205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1aa6a003-050d-4c0f-b983-86ade530afdc",
+      "properties": {
+        "name": "Rukavichka, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289061,
+          52.284782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a6aa7705-5121-48bf-aa3c-c3797207ab02",
+      "properties": {
+        "name": "Z Hostel",
+        "subcategory": "Хостелы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.285903,
+          52.28192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e681cd7e-7190-4b23-96f0-5619bdcf67a8",
+      "properties": {
+        "name": "ЦСКА, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.329944,
+          52.274751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "beeb6afa-d5b8-40b7-928a-3cf522126b17",
+      "properties": {
+        "name": "Арт-Хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.270906,
+          52.288264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bac3a8da-4895-4815-a27e-faca897adfc3",
+      "properties": {
+        "name": "BaikalSki, хостел",
+        "subcategory": "Бани / Сауны, Хостелы",
+        "rating": "4.7",
+        "site": "http://baikalski.net",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.150539,
+          51.522362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1e0721c9-bbc3-44e4-984c-a0b5036e45b8",
+      "properties": {
+        "name": "Viva SibHome, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 07:30 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.283018,
+          52.284967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "800296be-e21b-427d-9711-0db138dd87c6",
+      "properties": {
+        "name": "Montana, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.6",
+        "site": "http://montanahostel38.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.293549,
+          52.28776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6e0a637b-2510-4eca-82e1-88d191b62d15",
+      "properties": {
+        "name": "Central, хостел",
+        "subcategory": "Хостелы",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.291082,
+          52.283798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3856f367-b860-4891-8ae6-30082872285e",
+      "properties": {
+        "name": "ИВИ, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.6",
+        "site": "http://ivi38.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.24416,
+          52.338024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4851ab7f-82b9-43dc-95b6-0e4c8a119a8a",
+      "properties": {
+        "name": "Cheap sleep, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.8",
+        "site": "http://sleep-hostel.ru/",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.330749,
+          52.273271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7e75e6a6-66bd-4596-b82e-011ea81e8417",
+      "properties": {
+        "name": "Усадьба 50, гостиница",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.8",
+        "site": "http://bookonline24.ru/usadba-50, http://t.me/+PqJueRvyuVMxNjNi",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.29858,
+          52.286432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "92abc02e-1ef6-444c-b6ef-34a4e71c71f1",
+      "properties": {
+        "name": "Hi loft, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.5",
+        "site": "http://hostel38.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.299887,
+          52.279534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "47bdf9c5-922e-4e83-80fb-f1e5a03a3ba6",
+      "properties": {
+        "name": "Chersky, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.33724,
+          52.272248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d5939bab-411c-4a6b-90b1-faee5278d360",
+      "properties": {
+        "name": "Ice Baikalsk, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.13597,
+          51.520052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7ffa5086-d94b-4030-a18f-83c26855005d",
+      "properties": {
+        "name": "Город, хостел",
+        "subcategory": "Хостелы",
+        "rating": "3.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.304382,
+          52.290091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8a4a2000-0e9b-47f7-999f-e20331970258",
+      "properties": {
+        "name": "Хостел на Трилиссера",
+        "subcategory": "Хостелы",
+        "rating": "4.9",
+        "site": "http://t.me/hostel_trilissera117",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.332579,
+          52.276491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "68650e94-424e-4b40-9b76-ff0d5e782ec4",
+      "properties": {
+        "name": "Бригантина, хостел",
+        "subcategory": "Хостелы",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.295894,
+          52.28013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4c3a2e34-ce48-478d-a091-b7ef7ece1f87",
+      "properties": {
+        "name": "Хоромы, хостел",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.9",
+        "site": "http://miniotel-khoromy.hotel2you.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.257687,
+          52.280472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bdedd825-0b46-47ee-9f46-34448b3a308a",
+      "properties": {
+        "name": "Siberia, хостел",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.2",
+        "site": "http://siberia-hostel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.293512,
+          52.283952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8c6047a1-6cbf-4526-91b5-0c0c05b57b53",
+      "properties": {
+        "name": "Долина, хостел",
+        "subcategory": "Хостелы",
+        "rating": "2.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.287568,
+          52.317622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "082da48d-0159-4e0e-9955-04f02ea7d6e4",
+      "properties": {
+        "name": "Гостишка, хостел",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.7",
+        "site": "http://gostishka38.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.281317,
+          52.280506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a185b140-6cac-4da4-8113-892cdecb33f6",
+      "properties": {
+        "name": "Изюминка, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.257951,
+          52.326259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cef4105f-c61d-4186-9f2a-42145033a9bd",
+      "properties": {
+        "name": "Baikal Capsule",
+        "subcategory": "Хостелы",
+        "rating": "3.0",
+        "site": "http://baikalcapsule.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.333832,
+          52.276195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b8cec673-d930-4a9e-8f13-2598c43ae1ab",
+      "properties": {
+        "name": "Мир, гостиница",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.327369,
+          52.294377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "88223106-6649-45b1-bddf-b5b40080b540",
+      "properties": {
+        "name": "Мир, гостиница",
+        "subcategory": "Хостелы",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.297441,
+          52.301019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "47cf0b18-4ce3-4ed0-bb4d-d9945e2ab9ba",
+      "properties": {
+        "name": "Точка Байкала, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.8",
+        "site": "http://tochka-baikala.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.284712,
+          52.278101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5f68b411-c074-4e62-a9f2-b733ad8cd902",
+      "properties": {
+        "name": "Иркутский кедр, гостевой дом",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.9",
+        "site": "http://www.irkutskiykedr.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.276531,
+          52.285533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9003a956-23a3-4c19-8710-82204d715d3d",
+      "properties": {
+        "name": "Проспект, гостиница",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.9",
+        "site": "http://reservationsteps.ru/rooms/index/2194a3ec-ed2d-4955-858c-0a9ecaec8460",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.354152,
+          52.250565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4dfcb91b-d261-4742-85f8-06d782d7b61f",
+      "properties": {
+        "name": "Автовокзалъ, ​гостевой дом",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.3",
+        "site": "http://oldcity-irk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.303562,
+          52.289323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5b6b50b6-1103-4dbd-a82c-b9c42d142c2b",
+      "properties": {
+        "name": "Hostel Inn",
+        "subcategory": "Хостелы",
+        "rating": "3.9",
+        "site": "http://innhostel.ru/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.329097,
+          52.269042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2c6329c9-388b-416b-b40e-ed8fcdc98df2",
+      "properties": {
+        "name": "Подушка, хостел",
+        "subcategory": "Хостелы",
+        "rating": "5.0",
+        "site": "http://host-podushka.ru/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.086723,
+          52.216986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a6004202-4f26-4afc-b9aa-3e102df1c060",
+      "properties": {
+        "name": "У Рояля, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.2",
+        "site": "http://hostel.istok38.ru/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.29733,
+          52.289295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "edcb8b91-d70b-43bf-9d84-b34d2c7aba4d",
+      "properties": {
+        "name": "Тандэм, хостел",
+        "subcategory": "Хостелы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 18:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.404854,
+          52.796836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "93421667-cb15-467e-9530-27b12d6f9ff2",
+      "properties": {
+        "name": "Катрин, гостевой дом",
+        "subcategory": "Хостелы",
+        "rating": "4.9",
+        "site": "http://katrin-89.2gis.biz",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.298972,
+          52.269489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10780e0c-f162-422d-a519-c4758a45462a",
+      "properties": {
+        "name": "Дивизия",
+        "subcategory": "Хостелы",
+        "rating": "3.5",
+        "site": "http://rangelrf.com/habitation-irkutsk",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.333387,
+          52.266534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12bd945b-8f5a-48f1-a500-c8f81278901a",
+      "properties": {
+        "name": "Super, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.6",
+        "site": "http://super-hostel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.291613,
+          52.287721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e4828f5d-ad80-4c68-90db-a0a9644bfd54",
+      "properties": {
+        "name": "Rm, хостел",
+        "subcategory": "Хостелы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.339747,
+          52.459922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35f120b1-31d2-47b7-b7e7-9df9af4e406a",
+      "properties": {
+        "name": "Хостел на Фурье",
+        "subcategory": "Хостелы",
+        "rating": "5.0",
+        "site": "http://hostelfurje.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.291956,
+          52.284973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "49e61170-6632-44f7-8671-242f6366e9ff",
+      "properties": {
+        "name": "Точка Байкала, хостел",
+        "subcategory": "Хостелы",
+        "rating": "5.0",
+        "site": "http://tochka-baikala.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290537,
+          52.27942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7f6734cb-5b34-4020-b600-b23dd3425167",
+      "properties": {
+        "name": "Сибирский Гостевой Дом, хостел",
+        "subcategory": "Хостелы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.332937,
+          52.28343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7fcb1f26-84f0-44fe-9a46-f2d2d7a30610",
+      "properties": {
+        "name": "Ретро, хостел",
+        "subcategory": "Хостелы",
+        "rating": "3.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.292976,
+          52.290803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a546e0c9-6ce2-4b69-b188-e19e95e1e16c",
+      "properties": {
+        "name": "ИВИ, хостел",
+        "subcategory": "Хостелы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.246249,
+          52.338578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0d0512f1-a356-43df-8f17-3637dbda8b97",
+      "properties": {
+        "name": "На Толевой, хостел",
+        "subcategory": "Хостелы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.241122,
+          52.338029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8e980010-1a52-4948-847d-d81cd3d14fbb",
+      "properties": {
+        "name": "Like, хостел",
+        "subcategory": "Хостелы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.295645,
+          52.279966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "34aca302-1b29-49ce-8067-beaf352d1284",
+      "properties": {
+        "name": "Современник, гостиница",
+        "subcategory": "Хостелы",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.726676,
+          51.861594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ec11a008-58ce-405c-a601-0ce7d0a71f63",
+      "properties": {
+        "name": "Юниор, хостел",
+        "subcategory": "Хостелы",
+        "rating": "3.3",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 12:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.605062,
+          51.847054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "94a0ad24-4749-4008-b021-4d0308f949d8",
+      "properties": {
+        "name": "Вершины, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.6",
+        "site": "http://vertices-hostel.rhotel.site",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.589293,
+          51.841019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "19968617-ab1a-485b-84f5-fa794a01e29a",
+      "properties": {
+        "name": "Victoria, отель",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.7",
+        "site": "http://myhotelvictoria.ru/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58835,
+          51.83948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "03d9156b-5d00-4441-8383-6e2890ea5e1a",
+      "properties": {
+        "name": "Абрамович, гостиница",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.595524,
+          51.836456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5a711913-4f31-40c3-9209-02852ee8cdb3",
+      "properties": {
+        "name": "Дальневосточный, хостел",
+        "subcategory": "Хостелы",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.64737,
+          51.80086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "52debfd1-8678-48aa-a10b-a2dfb6bbba85",
+      "properties": {
+        "name": "U-city, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.4",
+        "site": "http://www.hosteluu.ru",
+        "hours": "Ежедневно с 08:00 до 23:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593014,
+          51.841129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f60715c0-28ac-4ce6-90e7-3709313a65ab",
+      "properties": {
+        "name": "Clean Hostel, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.8",
+        "site": "http://cleanhostel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.578703,
+          51.840824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "88eeb95b-fa26-435f-8ec3-332e3f511964",
+      "properties": {
+        "name": "Абрамович, гостиница",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.636593,
+          51.820983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b3c92c76-9d90-4db1-a514-a9051c651c45",
+      "properties": {
+        "name": "Абрамович, гостиница",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.721309,
+          51.865209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b76f2b6c-a171-4c4b-a9c4-9ddb789b050e",
+      "properties": {
+        "name": "Дружба Найрамдал, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.579189,
+          51.840524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16590c8f-2710-4394-a15b-7a6bcae74dfb",
+      "properties": {
+        "name": "Абрамович, гостиница",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.643777,
+          51.808083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5075bfdd-4647-4c9e-83e0-9873be24240b",
+      "properties": {
+        "name": "Абрамович, гостиница",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.639988,
+          51.82208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b7589843-9b41-4dc0-ba57-5763b47e1704",
+      "properties": {
+        "name": "Квартал, хостел",
+        "subcategory": "Хостелы",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.634488,
+          52.20281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f27529de-7365-443b-b119-0b2a28486fbf",
+      "properties": {
+        "name": "Wellhome, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.8",
+        "site": "http://wellhome-hostel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.580129,
+          51.839998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c9db2a40-4947-4d5f-9f1d-f687001c771a",
+      "properties": {
+        "name": "Sweet home, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.592981,
+          51.839684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f0e14471-97f7-463c-9f87-95dbef24537c",
+      "properties": {
+        "name": "Чайный путь, гостевой дом",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.9",
+        "site": "http://reservationsteps.ru/rooms/index/1a215b2a-bd70-4a67-b43b-eca6d5963896",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.587591,
+          51.824016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2e788aa2-7172-41dc-ad94-6dd4b442802d",
+      "properties": {
+        "name": "Абрамович, гостиница",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5926,
+          51.840669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f486104a-715e-4c33-9103-4918adb9ba3d",
+      "properties": {
+        "name": "Вояж, хостел",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.537557,
+          51.289228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c24be3ef-25ff-4738-99f6-8bb53637e389",
+      "properties": {
+        "name": "IceМетр, хостел для спортсменов",
+        "subcategory": "Хостелы",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Круглосуточно (администрация: пн-вс 8:00-20:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.653398,
+          51.819711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b396fc05-711d-4367-99da-60afb467cdce",
+      "properties": {
+        "name": "Юниор, хостел",
+        "subcategory": "Хостелы",
+        "rating": "1.7",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.596317,
+          51.783769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eb4eb554-cc2c-44fe-8813-caf76a8d4669",
+      "properties": {
+        "name": "Лайт, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.577475,
+          51.839447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "de6b6b90-02c7-4852-a2a4-99d1f08cec92",
+      "properties": {
+        "name": "Звезда, хостел",
+        "subcategory": "Хостелы",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.580049,
+          51.828341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1cb63e45-ae8c-409a-b842-1d1626330f2c",
+      "properties": {
+        "name": "Clean Hostel, отель",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.584677,
+          51.840082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "352cce71-8c7d-4a9d-8e8b-e3963810b6af",
+      "properties": {
+        "name": "Амар, отель",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "5.0",
+        "site": "http://amarhostel.ru",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.583245,
+          51.826049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8614b10c-e7f3-43e0-93eb-4c922091c27d",
+      "properties": {
+        "name": "Рубин, гостиница",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.581263,
+          51.831671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f3eadfcc-4beb-4aad-b22f-553afabdd367",
+      "properties": {
+        "name": "Urban Nest",
+        "subcategory": "Хостелы",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.576922,
+          51.838689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8a7117a7-ad8a-44f6-902c-71d5ec6fcfbb",
+      "properties": {
+        "name": "Хостел, г. Улан-Удэ",
+        "subcategory": "Хостелы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.579056,
+          51.840531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a82f1862-6025-420f-aba4-2cb9cc913765",
+      "properties": {
+        "name": "Хостел",
+        "subcategory": "Хостелы",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.644614,
+          51.838817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "feada23f-2eb4-4b1d-82df-737478ee9b3b",
+      "properties": {
+        "name": "Булагат, хостел",
+        "subcategory": "Хостелы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.536978,
+          51.860808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2273f8cb-08ed-4441-970e-97d8cbedb204",
+      "properties": {
+        "name": "Хостел",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.594125,
+          51.984186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3c30b999-1067-4dde-b848-2687a1762fb2",
+      "properties": {
+        "name": "Clean Hostel",
+        "subcategory": "Гостиницы, Хостелы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58165,
+          51.834016
+        ]
+      }
+    }
+  ]
+}

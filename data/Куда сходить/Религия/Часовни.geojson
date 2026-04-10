@@ -1,0 +1,281 @@
+{
+  "type": "FeatureCollection",
+  "name": "Часовни",
+  "style": {
+    "color": "#0a9c07",
+    "radius": 11,
+    "icon": "church-svgrepo-com.svg"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "9aca392e-46b6-4bc6-af0c-c51aca07dfee",
+      "properties": {
+        "name": "Часовня-памятник на месте разрушенного кафедрального собора во имя Казанской иконы Божией Матери",
+        "subcategory": "Часовни",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.281186,
+          52.289711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e422963d-72dd-4f32-9d7f-8eafa42f2f9d",
+      "properties": {
+        "name": "Часовня иконы Божией Матери",
+        "subcategory": "Религиозные товары, Часовни",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.353835,
+          52.27297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10b4a7c4-8598-4fcb-9481-5799f42d6ce6",
+      "properties": {
+        "name": "Часовня Иконы Пресвятой Богородицы",
+        "subcategory": "Часовни",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 11:00 до 15:00, Вт: с 11:00 до 15:00, Ср: с 11:00 до 15:00, Чт: с 11:00 до 15:00, Пт: с 11:00 до 15:00, Сб: с 11:00 до 15:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.408451,
+          52.446754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "df9999d3-7f79-47ff-a713-ac35a1b10de5",
+      "properties": {
+        "name": "Свято-Никольская часовня",
+        "subcategory": "Часовни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.757763,
+          51.644502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9cb3e205-4c01-49a7-930f-049420b66f3b",
+      "properties": {
+        "name": "Православная часовня Святого пророка царя Соломона",
+        "subcategory": "Часовни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.643782,
+          51.393529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "942173eb-39a9-4177-913d-056a589999c6",
+      "properties": {
+        "name": "Часовня Святителя Николая Чудотворца",
+        "subcategory": "Часовни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.43339,
+          52.03594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2e36498a-b577-49d6-8be8-cd9c0329e1d4",
+      "properties": {
+        "name": "Часовня",
+        "subcategory": "Часовни",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.947459,
+          52.208105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0b0fbfd5-057d-4e69-a916-4c5c01de8f61",
+      "properties": {
+        "name": "Часовня",
+        "subcategory": "Часовни",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 11:00 до 17:00, Вт: с 11:00 до 17:00, Ср: с 11:00 до 17:00, Чт: с 11:00 до 17:00, Пт: с 11:00 до 17:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.285127,
+          52.271976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "32ddd3cc-c3d6-4cbd-8a90-76c6bee92cf8",
+      "properties": {
+        "name": "Часовня-памятник на месте разрушенного кафедрального собора во имя Казанской иконы Божией Матери",
+        "subcategory": "Часовни",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.281186,
+          52.289711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9e9057d3-c3af-4109-8242-b0038509abdf",
+      "properties": {
+        "name": "Часовня Николая Чудотворца",
+        "subcategory": "Часовни",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.830285,
+          51.731743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1b35c89e-7d4a-471b-b185-3d429a7daaf5",
+      "properties": {
+        "name": "Часовня им. Николая Японского",
+        "subcategory": "Часовни",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.86025,
+          51.859101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "244c02f1-aa25-4a98-a342-93798dd2700a",
+      "properties": {
+        "name": "Храм-часовня Страстотерпца царя Николая II",
+        "subcategory": "Часовни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 12:00 (расписание служб: сб 9:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.585193,
+          51.825948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4a9057f7-d893-4708-ab6e-5042b0c16007",
+      "properties": {
+        "name": "Храм-часовня Страстотерпца царя Николая II",
+        "subcategory": "Часовни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 12:00 (расписание служб: сб 9:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.585193,
+          51.825948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "af00b792-d199-48f9-9706-e9adb86c8a29",
+      "properties": {
+        "name": "Часовня на месте убиения Царских послов",
+        "subcategory": "Часовни",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.177407,
+          52.017538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31a70268-80ca-4b55-af60-b816973e8f91",
+      "properties": {
+        "name": "Часовня Серафима Саровского",
+        "subcategory": "Часовни",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.487156,
+          52.062135
+        ]
+      }
+    }
+  ]
+}

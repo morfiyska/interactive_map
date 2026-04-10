@@ -1,0 +1,1630 @@
+{
+  "type": "FeatureCollection",
+  "name": "Аренда беседок",
+  "style": {
+    "color": "blue",
+    "radius": 6
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "cbbb0ee3-77c6-4864-b1bc-812179838863",
+      "properties": {
+        "name": "Байкальские сезоны, парк-отель",
+        "subcategory": "Аренда беседок, Бани / Сауны, Банкетные залы, Гостиницы",
+        "rating": "4.6",
+        "site": "http://t.me/baikalseasons_best, http://www.baikal-seasons.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.805118,
+          51.907147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "88fa19c5-a877-4bda-b4ff-b0347216f2bf",
+      "properties": {
+        "name": "Байкал-Арена, спортивная база отдыха",
+        "subcategory": "Аренда беседок, Аренда спортивных площадок, Базы отдыха, Бани / Сауны",
+        "rating": "4.0",
+        "site": "http://camp.baikal-arena.com/",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.463348,
+          52.236669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6aee3dd2-fee1-4dc2-a969-2aa63830962d",
+      "properties": {
+        "name": "Прибайкальская в Листвянке, гостиница",
+        "subcategory": "Аренда беседок, Банкетные залы, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.3",
+        "site": "http://www.pribaikalskaja.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.819051,
+          51.904109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c7888a30-1cf2-4d94-b47f-e810448e690d",
+      "properties": {
+        "name": "Лукоморье, база отдыха",
+        "subcategory": "Аренда беседок, Базы отдыха, Бани / Сауны",
+        "rating": "4.4",
+        "site": "http://lukomorie-rest.ru",
+        "hours": "Ежедневно с 12:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.002795,
+          52.230416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "638ecee3-61d7-44e5-9dac-7390519f8181",
+      "properties": {
+        "name": "Pilot, развлекательный центр",
+        "subcategory": "Авиатакси, Аренда беседок, Аренда коттеджей / гостевых домов, Базы отдыха, Бани / Сауны, Банкетные залы, Бассейны, Гостиницы, Детские игровые залы",
+        "rating": "4.8",
+        "site": "http://pilots7.com, http://www.helicopter38.ru",
+        "hours": "Пн: с 12:00 до 18:00, Вт: с 12:00 до 18:00, Ср: с 12:00 до 18:00, Чт: с 12:00 до 18:00, Пт: с 10:00 до 21:00, Сб: с 10:00 до 21:00, Вс: с 10:00 до 21:00 (по предварительной записи: пн-ср)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.127801,
+          52.256497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "40564063-4f7e-4028-b253-0d2b84a7166e",
+      "properties": {
+        "name": "Байкальский ветер, база отдыха",
+        "subcategory": "Аренда беседок, Базы отдыха, Водные прогулки, Кемпинги, Конференц-залы / Переговорные комнаты",
+        "rating": "4.3",
+        "site": "http://www.baikalw.ru",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.793352,
+          53.066134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e18f202e-f505-4a9e-bdaf-e5b7f1a6199e",
+      "properties": {
+        "name": "Байкал 21, центр отдыха",
+        "subcategory": "Аренда беседок, Бани / Сауны, Гостиницы",
+        "rating": "4.2",
+        "site": "http://baikal21.com",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.508484,
+          52.186177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "08fe26bc-68ad-4294-9a1b-a82c78267d57",
+      "properties": {
+        "name": "Флагман-Листвянка, гостиничный комплекс",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "4.6",
+        "site": "http://app.samosale.ru/flagman-hotel",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.829387,
+          51.896378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f3ff5e26-f01f-451c-81db-2cd62d50b5cb",
+      "properties": {
+        "name": "Серебряный ключ, представительство в городе",
+        "subcategory": "Аренда беседок",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 18:00, Вт: с 09:00 до 18:00, Ср: с 09:00 до 18:00, Чт: с 09:00 до 18:00, Пт: с 09:00 до 18:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.366827,
+          52.261612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "401e1571-df5f-4961-805d-78d9f5e43d66",
+      "properties": {
+        "name": "Лагуна, центр отдыха",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Бани / Сауны, Прокат водно-спортивной техники",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Пн: с 12:00 до 22:00, Вт: с 12:00 до 22:00, Ср: с 12:00 до 22:00, Чт: с 12:00 до 22:00, Пт: с 12:00 до 22:00, Сб: с 12:00 до 23:00, Вс: с 12:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.122969,
+          52.247927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e904e5a5-40b2-4240-bea3-e47ce48446b9",
+      "properties": {
+        "name": "Бурдугуз, парк-отель",
+        "subcategory": "Аренда беседок, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.6",
+        "site": "http://burduguz.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.602241,
+          52.057101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "11560082-ca16-4f28-8b8f-e1819c8aae04",
+      "properties": {
+        "name": "Paintkiller, пейнтбольный клуб",
+        "subcategory": "Аренда беседок, Квесты, Организация праздников, Спортивно-развлекательное оборудование, Спортивно-тактические клубы, Тимбилдинг",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.282409,
+          52.249912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "03eba8f9-b860-4867-ab99-c3abab58f17f",
+      "properties": {
+        "name": "Иркутская форель, форелевая ферма",
+        "subcategory": "Аренда беседок, Рыболовные центры",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: с 13:00 до 18:00, Вс: с 13:00 до 18:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.307264,
+          52.249238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "63d119d4-e596-4ece-920c-922405dfe4ab",
+      "properties": {
+        "name": "Поляна, парк",
+        "subcategory": "Аренда беседок, Верёвочные парки, Организация праздников, Парки культуры и отдыха",
+        "rating": "4.5",
+        "site": "http://park-irk.ru",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.279086,
+          52.250519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b06f68a7-a51b-4ab1-b293-0a2e0f020053",
+      "properties": {
+        "name": "Голубые Ели, парк-отель",
+        "subcategory": "Аренда беседок, Базы отдыха, Банкетные залы, Детские лагеря",
+        "rating": "4.3",
+        "site": "http://gedol.ru, http://www.golubayael.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.073352,
+          52.138533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "43d806f9-fe2f-4627-b915-ae3ddc1e2be1",
+      "properties": {
+        "name": "Байкальский рай, гостиница",
+        "subcategory": "Аренда беседок, Бани / Сауны, Гостиницы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.726362,
+          51.732356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7e39b7b7-eb28-4362-81b4-4807727fcfe0",
+      "properties": {
+        "name": "Елочка, база отдыха",
+        "subcategory": "Аренда беседок, Базы отдыха, Бани / Сауны, Банкетные залы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.2",
+        "site": "http://elochka-otel.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.491679,
+          52.17736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "500454a9-32e7-449b-8ebd-03abe84e89d9",
+      "properties": {
+        "name": "Мечта Байкала, гостиница",
+        "subcategory": "Аренда беседок, Гостиницы",
+        "rating": "4.2",
+        "site": "http://mechta-baikala.hotel2you.ru/, http://xn--80aaaacw5aikc1ezc.xn--p1ai/our-rooms/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.876539,
+          51.845192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d13005fb-c971-42dc-9263-7bf01c20ed57",
+      "properties": {
+        "name": "Болотное царство, парк отдыха",
+        "subcategory": "Аренда беседок, Спортивно-тактические клубы, Тимбилдинг",
+        "rating": "4.8",
+        "site": "http://bolotopark.ru",
+        "hours": "Ежедневно с 10:00 до 02:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.078476,
+          52.244567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c02b4efe-96da-40eb-9dde-6fc284186258",
+      "properties": {
+        "name": "Paintkiller, пейнтбольный клуб",
+        "subcategory": "Аренда беседок, Спортивно-развлекательное оборудование, Спортивно-тактические клубы, Тимбилдинг",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.399159,
+          52.235945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16cf28e1-0ded-460d-85de-1960897b9d15",
+      "properties": {
+        "name": "Green bar, кафе-бильярдная",
+        "subcategory": "Аренда беседок, Бильярдные залы, Доставка еды, Кафе",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.374419,
+          52.336116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5fb88570-e846-4daa-9f83-5730ea588a8f",
+      "properties": {
+        "name": "Якоби, пикник-парк",
+        "subcategory": "Аренда беседок, Аренда площадок для культурно-массовых мероприятий",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.31835,
+          52.226644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "44101d26-4acf-4bdd-80ab-f4479212a748",
+      "properties": {
+        "name": "Курма, центр",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Бани / Сауны, Конференц-залы / Переговорные комнаты",
+        "rating": "4.8",
+        "site": "http://kurmacentr.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.437476,
+          52.062946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "97850a31-b20a-4c2c-819c-cd7e83ea2aeb",
+      "properties": {
+        "name": "Гриль-домики",
+        "subcategory": "Аренда беседок",
+        "rating": "4.6",
+        "site": "http://park-irk.ru/activities/gril-domiki",
+        "hours": "Ежедневно с 10:00 до 22:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28116,
+          52.251364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0a40eeca-599b-41e8-9ac3-19e45a67fec8",
+      "properties": {
+        "name": "Гриль-парк",
+        "subcategory": "Аренда беседок, Бани / Сауны",
+        "rating": "4.9",
+        "site": "http://grillpark.xn--80aatfgkndeix6k.xn--p1ai/",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.229766,
+          52.285552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3fe5688d-ca66-4068-a751-16c63d9aaa6c",
+      "properties": {
+        "name": "Топкинский Вираж, семейная зона отдыха",
+        "subcategory": "Аренда беседок, Аттракционы, Тюбинговые трассы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.315096,
+          52.325871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a14741ac-db01-4529-b420-56205181dba7",
+      "properties": {
+        "name": "Саргон, тактический клуб",
+        "subcategory": "Аренда беседок, Спортивные секции, Стрелковые клубы, Тимбилдинг",
+        "rating": "4.9",
+        "site": "http://sargon24.ru/, http://t.me/otdyh_irkutsk",
+        "hours": "Ежедневно с 11:00 до 13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.13365,
+          52.216086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "be2533e9-b484-4564-8b95-b7fc17b2b083",
+      "properties": {
+        "name": "Политехник, база отдыха",
+        "subcategory": "Аренда беседок, Аренда спортивных площадок, Базы отдыха, Гостиницы, Конференц-залы / Переговорные комнаты",
+        "rating": "4.7",
+        "site": "http://sites.google.com/view/politehnik17-irk/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0",
+        "hours": "Ежедневно с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.460623,
+          52.186168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7d6ac4d2-1884-467d-8673-7f695344baa4",
+      "properties": {
+        "name": "Александровский двор, гостевой дом",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "4.8",
+        "site": "http://bookonline24.ru/aleksandrovskij-dvor",
+        "hours": "Ежедневно с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.193078,
+          52.402639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e8b0707e-0cf6-429f-ae06-54df2c4f3cad",
+      "properties": {
+        "name": "Купидон Листвянка, бани с купелями",
+        "subcategory": "Аренда беседок, Бани / Сауны, Банкетные залы, Караоке-залы",
+        "rating": "4.9",
+        "site": "http://bani-kupidon.tilda.ws/",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.818529,
+          51.905019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c11fa58e-cfcd-4cf5-b093-d542ea98f39b",
+      "properties": {
+        "name": "Бастион, клуб пейнтбола, гидробола и лазертага",
+        "subcategory": "Аренда беседок, Квесты, Организация праздников, Спортивно-развлекательное оборудование, Спортивно-тактические клубы",
+        "rating": "5.0",
+        "site": "http://bastion38.ru",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.137409,
+          52.248037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b7a01fa1-9278-4cb8-b9bc-de0bc8d01df6",
+      "properties": {
+        "name": "Викинг-парк",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Базы отдыха, Бани / Сауны",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.126366,
+          52.228149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "790ad80a-70da-4897-b853-fc8bf969df7c",
+      "properties": {
+        "name": "Ольхон, база отдыха",
+        "subcategory": "Аренда беседок, Базы отдыха",
+        "rating": "4.5",
+        "site": "http://xn----itbsbkbdb4a9a3ed.xn--p1ai",
+        "hours": "Ежедневно с 08:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.354152,
+          53.193538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c51f04c0-5624-473d-a892-f0d6cd88ca49",
+      "properties": {
+        "name": "Pesok 38",
+        "subcategory": "Аренда беседок, Парки культуры и отдыха, Пляжи / Зоны пляжного отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.231426,
+          52.290334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fd9ef74d-d143-4a51-b3d8-14ae66f1efee",
+      "properties": {
+        "name": "Побег из квартиры, гостевой дом",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Базы отдыха, Бани / Сауны",
+        "rating": "4.8",
+        "site": "http://pobeg38.ru",
+        "hours": "Ежедневно с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.185177,
+          52.269074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "207145c2-a651-4342-a5f8-b0ab1568ed60",
+      "properties": {
+        "name": "Солнечный, грин-парк",
+        "subcategory": "Аренда беседок",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.343325,
+          52.252204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6f39139e-b509-45a9-9932-5ea6d2ae7725",
+      "properties": {
+        "name": "Золотая юрта, глэмпинг",
+        "subcategory": "Аренда беседок, Базы отдыха, Бани / Сауны, Тимбилдинг",
+        "rating": "4.5",
+        "site": "http://jivo.chat/hbFSXSH60Z, http://xn----7sbbzurbspd4kk.xn--p1ai",
+        "hours": "Круглосуточно (администрация: пн-вс 9:00-21:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.502172,
+          52.199136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e95252e1-cf81-46f2-bea7-30ae699ba3db",
+      "properties": {
+        "name": "Party land",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Аренда спортивных площадок, Бани / Сауны, Банкетные залы",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.194349,
+          52.402392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d33d680e-5353-4ef0-8cec-d2a7ee8d62c2",
+      "properties": {
+        "name": "Бастион, клуб пейнтбола, гидробола и лазертага",
+        "subcategory": "Аренда беседок, Организация праздников, Спортивно-развлекательное оборудование, Спортивно-тактические клубы",
+        "rating": "5.0",
+        "site": "http://bastion38.ru, http://t.me/bastion38",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.33082,
+          52.342774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c35e96b1-946a-40e7-bff5-c0b815a1b934",
+      "properties": {
+        "name": "Пирсона",
+        "subcategory": "Аренда беседок",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: с 11:00 до 23:00, Ср: с 11:00 до 23:00, Чт: с 11:00 до 23:00, Пт: с 11:00 до 23:00, Сб: с 11:00 до 23:00, Вс: с 11:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.347733,
+          52.252131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "50008af6-6d35-4bb4-8030-e5027ca17d9f",
+      "properties": {
+        "name": "Серебряный ключ, пикниковая площадка",
+        "subcategory": "Аренда беседок",
+        "rating": "3.0",
+        "site": "http://imperial-road.ru/works/serebryanyj-klyuch",
+        "hours": "Пн: с 08:00 до 12:00, Вт: с 08:00 до 12:00, Ср: с 08:00 до 12:00, Чт: с 08:00 до 12:00, Пт: с 08:00 до 12:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.7169,
+          51.856908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c77f5dd6-1579-4277-9650-eaf1bff8c1d7",
+      "properties": {
+        "name": "Чистый пруд, база отдыха",
+        "subcategory": "Аренда беседок, Бани / Сауны, Прокат спортивного инвентаря / техники",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.237078,
+          52.43702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b4faa88c-cbb1-4bbf-a734-7e0fbeeebaf8",
+      "properties": {
+        "name": "ZaSteklom",
+        "subcategory": "Аренда беседок, Бани / Сауны",
+        "rating": "4.9",
+        "site": "http://t.me/zasteklom38",
+        "hours": "Ежедневно с 07:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.942765,
+          52.183032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bd85a6d3-1c6d-4665-ac2b-19f8bad93046",
+      "properties": {
+        "name": "Lovilove, компания по организации свиданий на крыше",
+        "subcategory": "Аренда беседок, Банкетные залы, Организация праздников",
+        "rating": "4.9",
+        "site": "http://clck.ru/3DSU9k, http://lovilove38.ru",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.269681,
+          52.287985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ea92d5ff-fc31-4cfb-85ee-b3caac7e1a74",
+      "properties": {
+        "name": "Грин-парк, теплые гриль-домики и бани с купелью",
+        "subcategory": "Аренда беседок, Бани / Сауны",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.294198,
+          52.260533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f5beb4fe-66b1-422f-983f-40e64bf2aed3",
+      "properties": {
+        "name": "Усадьба Благодатная, экопарк с банным комплексом",
+        "subcategory": "Аренда беседок, Базы отдыха, Бани / Сауны, Кемпинги",
+        "rating": "4.8",
+        "site": "http://usadbablago38.2gis.biz",
+        "hours": "Ежедневно с 13:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.092522,
+          52.355421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26f50593-711a-4fe0-a162-bd52ccc68463",
+      "properties": {
+        "name": "Каравелла",
+        "subcategory": "Аренда беседок, Бани / Сауны",
+        "rating": "4.6",
+        "site": "http://karavella38.ru",
+        "hours": "Ежедневно с 11:00 до 22:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.365272,
+          52.295916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "53ce20db-df8f-457a-9537-38d37604fe4b",
+      "properties": {
+        "name": "Состояние, экопарк",
+        "subcategory": "Аренда беседок, Базы отдыха, Бани / Сауны, Конные клубы, Организация активных туров",
+        "rating": "4.7",
+        "site": "http://t.me/ecoparksostoyaniye",
+        "hours": "Ежедневно с 11:00 до 20:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.187068,
+          52.60552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "947a102f-7b15-4415-b553-004e50b44d9f",
+      "properties": {
+        "name": "Less, гостевые дома",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "4.8",
+        "site": "http://less.hotel2you.ru/, http://www.less-irk.ru",
+        "hours": "Ежедневно с 10:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.866849,
+          51.864896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2b37de04-3220-4342-afce-1ff8559702f9",
+      "properties": {
+        "name": "Семья сквозь века, усадьба",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://t.me/+jvy54x3_LRwzMTM6",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.831817,
+          52.066462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "047d0e66-1f45-498d-b6c1-b3e7e4cad7f9",
+      "properties": {
+        "name": "Rakuшka, гриль-домик",
+        "subcategory": "Аренда беседок, Банкетные залы",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.36426,
+          52.246589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "870daada-6886-40f9-9032-5046b467a58a",
+      "properties": {
+        "name": "Печефка, баня",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Бани / Сауны",
+        "rating": "5.0",
+        "site": "http://t.me/pechefka, http://xn--80ajauw6at.xn--p1ai/zakaz",
+        "hours": "Ежедневно с 10:00 до 22:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.471921,
+          52.189497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a2de4e91-ee75-4b89-971c-81718a31c375",
+      "properties": {
+        "name": "Русский, пляж",
+        "subcategory": "Аренда беседок, Пляжи / Зоны пляжного отдыха, Рыболовные центры",
+        "rating": "4.5",
+        "site": "http://t.me/ruspirs",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.257468,
+          52.438798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3439db4e-94a6-42c4-8017-153862e7d5e3",
+      "properties": {
+        "name": "Сердце, место силы",
+        "subcategory": "Аренда беседок, Аренда помещений",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.853177,
+          51.860755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "336defc1-e766-4cf4-a5fb-52e52a505ec7",
+      "properties": {
+        "name": "Отражение, глэмпинг",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Бани / Сауны, Бассейны",
+        "rating": "4.9",
+        "site": "http://georgievskiy-irk.ru/",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.218951,
+          52.380805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "df901aec-5d70-41a6-b6a8-05cc21e69e89",
+      "properties": {
+        "name": "Кулькисон, шашлычная зона",
+        "subcategory": "Аренда беседок, Банкетные залы",
+        "rating": "4.6",
+        "site": "http://t.me/kulkison_uu",
+        "hours": "Ежедневно с 12:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.67741,
+          51.901665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0083ea1a-deb6-45ee-b751-d182c1951b71",
+      "properties": {
+        "name": "Лидер, база активного отдыха",
+        "subcategory": "Аренда беседок, Организация спортивных мероприятий, Прокат спортивного инвентаря / техники, Спортивно-тактические клубы, Спортивные секции",
+        "rating": "4.7",
+        "site": "http://stpk-lider.ru",
+        "hours": "Ежедневно с 10:00 до 23:00 (прием заявок: пн-вс 10:00-21:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.554233,
+          51.829807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "21c7b1fc-1e3c-4988-9960-2911fa805286",
+      "properties": {
+        "name": "Поляна, мангальный комплекс",
+        "subcategory": "Аренда беседок",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.658521,
+          51.877282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "af2aba46-ca5a-4947-ac4a-0db79772e114",
+      "properties": {
+        "name": "Оранж хаус, центр отдыха",
+        "subcategory": "Аренда беседок, Аренда спортивных площадок, Спортивно-тактические клубы",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.664358,
+          51.886324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "775a79d8-037d-4399-9e07-7df79a766075",
+      "properties": {
+        "name": "Гранд Юрта, банкетный зал",
+        "subcategory": "Аренда беседок, Аренда площадок для культурно-массовых мероприятий, Банкетные залы",
+        "rating": "4.2",
+        "site": "http://orangehouse03.ru",
+        "hours": "Ежедневно с 10:00 до 01:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.665351,
+          51.885225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d4f706ca-ec75-473f-8b69-3b3459339237",
+      "properties": {
+        "name": "Визит Плюс, отель",
+        "subcategory": "Аренда беседок, Гостиницы",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.624827,
+          51.817167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ba5b767f-559d-460d-9bf5-d95f3b26d44c",
+      "properties": {
+        "name": "Veranda 03, мангальная зона",
+        "subcategory": "Аренда беседок",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.706021,
+          51.785773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a0dd97f1-892e-46c4-84ce-5387cdfb69d3",
+      "properties": {
+        "name": "Picnic, компания по аренде беседок и мангала",
+        "subcategory": "Аренда беседок",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.67707,
+          51.787867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "75447a71-c38b-4c3e-98ff-f4f129d16e8e",
+      "properties": {
+        "name": "Берёзки, пикник-парк",
+        "subcategory": "Аренда беседок, Аренда шатров / сценических конструкций, Организация спортивных мероприятий, Тимбилдинг",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.658477,
+          51.876733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a5da918e-2a80-4c1c-82e4-3761a4429bd3",
+      "properties": {
+        "name": "Байкал park, отель",
+        "subcategory": "Аренда беседок, Базы отдыха, Бани / Сауны",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.72554,
+          53.258927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "666db37e-d679-499a-b75e-ef2bfcfbe6db",
+      "properties": {
+        "name": "Лесной дворик, гостевой дом",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Прокат спортивного инвентаря / техники",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.091619,
+          51.762942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7202f356-483f-4c5f-b164-03a148e7deb1",
+      "properties": {
+        "name": "Экодомик03",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.472077,
+          51.918739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8ed26c87-71a6-4873-aa74-656cda18ba7e",
+      "properties": {
+        "name": "#ИГРА #BAIKALGAMES, креативное агентство",
+        "subcategory": "Аренда беседок, Квесты, Квизы, Организация праздников, Тимбилдинг",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 22:00 (по предварительной записи: пн-вс)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.662845,
+          51.895212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "adf5fdf5-1de0-4b4a-b40d-71bb89efaddd",
+      "properties": {
+        "name": "Парк Байкал",
+        "subcategory": "Аренда беседок, Караоке-залы",
+        "rating": "4.6",
+        "site": "http://parkbaikal.ru, http://t.me/parkbaikal03",
+        "hours": "Пн: выходной, Вт: с 12:00 до 23:00, Ср: с 12:00 до 23:00, Чт: с 12:00 до 23:00, Пт: с 12:00 до 01:00, Сб: с 12:00 до 01:00, Вс: с 12:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.600673,
+          51.819313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0b3b1f2e-85e0-47a1-a57c-8ec3aa564c7c",
+      "properties": {
+        "name": "Амара, компания по аренде шатров",
+        "subcategory": "Аренда беседок, Аренда шатров / сценических конструкций, Прокат водно-спортивной техники, Прокат спортивного инвентаря / техники",
+        "rating": "4.3",
+        "site": "http://taplink.cc/ozero",
+        "hours": "Ежедневно с 10:00 до 20:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.539294,
+          51.406817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "180cb8ad-6f79-4823-b166-698f7483fd78",
+      "properties": {
+        "name": "Море Гусиное, база отдыха",
+        "subcategory": "Аренда беседок, Базы отдыха",
+        "rating": "4.7",
+        "site": "http://reservationsteps.ru/rooms/index/7df0f404-12c8-4525-b231-32a5f4d48320",
+        "hours": "Ежедневно с 09:00 до 20:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.497399,
+          51.26054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37a0baa9-05fb-4a86-9bf6-4f1202f7ce1e",
+      "properties": {
+        "name": "Grill Домики, мангальная зона",
+        "subcategory": "Аренда беседок",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00 (администратор: пн-вс 12:00-20:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.731262,
+          51.870086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2fe528ef-6ce8-48ef-8897-f3fa1b6575e9",
+      "properties": {
+        "name": "Гостиничный комплекс",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Базы отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.426691,
+          51.71233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "059699fd-9532-4cc7-a4d9-a235f7f8aefb",
+      "properties": {
+        "name": "Дом на Березовке",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.650092,
+          51.889773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b981685b-150b-4caa-a1cd-c8d99220cd8a",
+      "properties": {
+        "name": "Охотникъ, спортивно-охотничий клуб стендовой стрельбы",
+        "subcategory": "Аренда беседок, Бани / Сауны, Прокат спортивного инвентаря / техники, Стрелковые клубы",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.711493,
+          52.214174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fefee533-9a69-4b53-a550-15a18fd9d5c3",
+      "properties": {
+        "name": "Номадик, экоотель",
+        "subcategory": "Аренда беседок, Базы отдыха, Бани / Сауны",
+        "rating": "4.7",
+        "site": "http://nomadichotel.ru",
+        "hours": "Ежедневно с 08:00 до 24:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.666533,
+          51.888411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1054301b-7b3e-4735-846e-eeefaab67923",
+      "properties": {
+        "name": "Гостиничный комплекс",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Базы отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.430849,
+          51.713626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "33bbb346-1fd4-429e-a255-6ffd38a5d9bf",
+      "properties": {
+        "name": "Union парк, центр активного отдыха",
+        "subcategory": "Аренда беседок, Верёвочные парки, Детские игровые залы, Организация праздников, Организация спортивных мероприятий, Спортивно-тактические клубы",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.70629,
+          51.788953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f3b2249c-904e-407e-98dd-95d8fe7147b6",
+      "properties": {
+        "name": "Тракт, мангальная зона",
+        "subcategory": "Аренда беседок",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.715276,
+          51.813825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3bf2c66d-e287-4cd1-aac0-7221eecdbb55",
+      "properties": {
+        "name": "Беседки на Лесной",
+        "subcategory": "Аренда беседок",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 14:00 до 22:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.695019,
+          51.779096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "40db76aa-0ed1-4503-95f1-9928c75f663f",
+      "properties": {
+        "name": "Шатры на озере Щучье, компания по аренде шатров",
+        "subcategory": "Аренда беседок, Аренда шатров / сценических конструкций, Пляжи / Зоны пляжного отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.534625,
+          51.406866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0cac8617-e062-417d-83c9-c3dcb0887b4b",
+      "properties": {
+        "name": "В гостях у Митяя",
+        "subcategory": "Аренда беседок",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.798545,
+          51.713564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ebff7922-f5d3-4b3b-b8c9-548389c81bc0",
+      "properties": {
+        "name": "Точка отрыва, центр активного отдыха",
+        "subcategory": "Аренда беседок, Квесты, Спортивно-тактические клубы, Тимбилдинг",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.611408,
+          51.859694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bebcdf67-4d0d-4ca9-b9b6-b53cf648a086",
+      "properties": {
+        "name": "Ёлки, компания по аренде беседок для отдыха",
+        "subcategory": "Аренда беседок",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.664646,
+          51.889591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "44ba02f8-2e6b-43c2-a27f-cf25b346dff8",
+      "properties": {
+        "name": "Поляна Саянтуй, загородный комплекс",
+        "subcategory": "Аренда беседок, Аренда коттеджей / гостевых домов, Аренда спортивных площадок, Базы отдыха, Бассейны, Клубы настольного тенниса",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Круглосуточно (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.536445,
+          51.658748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6a40973f-84f3-4fe9-969c-0df6b5d5eeec",
+      "properties": {
+        "name": "Лесной Квартал",
+        "subcategory": "Аренда беседок",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.438351,
+          51.885588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a78cc9f6-00b1-4e59-8734-e85216c8bc7e",
+      "properties": {
+        "name": "SV-беседки",
+        "subcategory": "Аренда беседок",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.672312,
+          51.900755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a50f6819-c1b9-466a-9522-582a5b396088",
+      "properties": {
+        "name": "Пристань",
+        "subcategory": "Аренда беседок, Бани / Сауны, Банкетные залы, Бассейны",
+        "rating": "4.3",
+        "site": "http://n11836.bookfast.ru/, http://vk.link/pristan_03",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.600036,
+          51.816351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f3b70b88-c840-4f35-b9b8-a9075b31f315",
+      "properties": {
+        "name": "В Селе 21, компания по аренде беседок",
+        "subcategory": "Аренда беседок",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 23:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.797404,
+          51.717249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3a510b65-2fa4-400b-a853-875f81584438",
+      "properties": {
+        "name": "Лес, загородный комплекс",
+        "subcategory": "Аренда беседок, Детские / подростковые клубы, Организация активных туров, Организация праздников",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 22:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.439668,
+          51.883245
+        ]
+      }
+    }
+  ]
+}

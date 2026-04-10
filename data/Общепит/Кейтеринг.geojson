@@ -1,0 +1,1307 @@
+{
+  "type": "FeatureCollection",
+  "name": "Кейтеринг",
+  "style": {
+    "color": "#0000ff",
+    "radius": 2,
+    "icon": null
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "1e29789f-ead2-4020-9691-b5e64cd216f5",
+      "properties": {
+        "name": "Авантаж, ресторан",
+        "subcategory": "Банкетные залы, Кейтеринг, Рестораны",
+        "rating": "4.9",
+        "site": "http://bbc.ru",
+        "hours": "Ежедневно с 07:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.353406,
+          52.257654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a71b742f-d95d-4556-aab0-a93b4d795953",
+      "properties": {
+        "name": "Эстрада, банкетный зал",
+        "subcategory": "Аренда площадок для культурно-массовых мероприятий, Банкетные залы, Кейтеринг, Организация праздников",
+        "rating": "4.6",
+        "site": "http://clubestrada.ru",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 24:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.282631,
+          52.277929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ea6a8c45-6b99-48f7-8c8a-8218543b288c",
+      "properties": {
+        "name": "Альянс ресторанс, управляющая компания",
+        "subcategory": "Кейтеринг",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 12:00, Вт: с 09:00 до 12:00, Ср: с 09:00 до 12:00, Чт: с 09:00 до 12:00, Пт: с 09:00 до 12:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.285109,
+          52.238311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d6270f14-7f7a-49a1-b90b-0064a19cba5e",
+      "properties": {
+        "name": "Маэстро Кейтеринг, ресторан выездного обслуживания",
+        "subcategory": "Аренда мебели / посуды для мероприятий, Доставка еды, Кейтеринг, Текстиль для ресторанов / гостиниц",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.325482,
+          52.279582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e866648d-1c89-4017-b1db-ef23ee4eb6c1",
+      "properties": {
+        "name": "Иркутск, ресторан",
+        "subcategory": "Банкетные залы, Кейтеринг, Рестораны",
+        "rating": "4.7",
+        "site": "http://banket138.ru",
+        "hours": "Ежедневно с 07:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.273271,
+          52.282214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3f15a8a6-8fe4-42b5-9d2a-16999b10e9a1",
+      "properties": {
+        "name": "Сударь, гостиный двор",
+        "subcategory": "Банкетные залы, Кейтеринг",
+        "rating": "4.5",
+        "site": "http://taplink.cc/sudar_irkutsk",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.257748,
+          52.380613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10e8c55f-a852-4bfb-a546-9f848753ab13",
+      "properties": {
+        "name": "Таверна, банкет-холл",
+        "subcategory": "Банкетные залы, Кейтеринг",
+        "rating": "4.7",
+        "site": "http://xn--38-6kcdv3au6b.xn--p1ai",
+        "hours": "Ежедневно с 12:00 до 24:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.303207,
+          52.262159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "24e40452-a360-4d03-9c04-3ae4e4d60448",
+      "properties": {
+        "name": "Ривьера, ресторан",
+        "subcategory": "Банкетные залы, Доставка еды, Кейтеринг, Рестораны",
+        "rating": "4.9",
+        "site": "http://rest-riviera.ru",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.319541,
+          52.268095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3ef61d82-3184-4012-813b-3ca1cc68e36f",
+      "properties": {
+        "name": "Джо-Джо, компания",
+        "subcategory": "Доставка еды, Кейтеринг",
+        "rating": "4.4",
+        "site": "http://djodjo.ru",
+        "hours": "Пн: с 09:30 до 20:00, Вт: с 09:30 до 20:00, Ср: с 09:30 до 20:00, Чт: с 09:30 до 20:00, Пт: с 09:30 до 21:30, Сб: с 09:30 до 21:30, Вс: с 09:30 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.333749,
+          52.276195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dee0000b-8ec2-4dfb-8a82-76c8de91943d",
+      "properties": {
+        "name": "Дом творчества Байкал, гостиничный комплекс",
+        "subcategory": "Гостиницы, Кейтеринг, Конференц-залы / Переговорные комнаты",
+        "rating": "4.6",
+        "site": "http://dtbaikal.ru",
+        "hours": "Ежедневно с 09:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.832071,
+          51.888204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1aac1b59-588b-4ca5-8f3b-692ed632026b",
+      "properties": {
+        "name": "Мамини, ресторан семейных ценностей",
+        "subcategory": "Банкетные залы, Доставка еды, Кейтеринг, Рестораны",
+        "rating": "4.7",
+        "site": "http://mamini-dostavka.ru, http://mamini.arm-irk.ru, http://t.me/mamini_rest",
+        "hours": "Пн: с 09:00 до 24:00, Вт: с 09:00 до 24:00, Ср: с 09:00 до 24:00, Чт: с 09:00 до 24:00, Пт: с 09:00 до 02:00, Сб: с 09:00 до 02:00, Вс: с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.311423,
+          52.25579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6fde08f9-ff7e-487c-b742-eb7cd30e5c67",
+      "properties": {
+        "name": "Аврора кейтеринг, служба доставки",
+        "subcategory": "Кейтеринг",
+        "rating": "4.8",
+        "site": "http://avroracatering.ru, http://xn----etbfapccgha2a8afpfjq.xn--p1ai",
+        "hours": "Пн: с 09:00 до 18:00, Вт: с 09:00 до 18:00, Ср: с 09:00 до 18:00, Чт: с 09:00 до 18:00, Пт: с 09:00 до 18:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.30963,
+          52.287244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0e2a87e0-b599-455b-be29-ef0b21c3e726",
+      "properties": {
+        "name": "Джайхун, ресторан",
+        "subcategory": "Банкетные залы, Доставка еды, Кейтеринг, Рестораны",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 02:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.399376,
+          52.4651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "56a16cb9-dccb-49ee-8bb5-177ee591bbc8",
+      "properties": {
+        "name": "Ganga, кафе индийской кухни",
+        "subcategory": "Доставка еды, Кафе, Кейтеринг",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: с 11:00 до 22:00, Ср: с 11:00 до 22:00, Чт: с 11:00 до 22:00, Пт: с 11:00 до 22:00, Сб: с 11:00 до 22:00, Вс: с 11:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.300963,
+          52.285959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1e360912-2c92-4b93-9961-31c891fa07f1",
+      "properties": {
+        "name": "Мираж, ресторанный комплекс",
+        "subcategory": "Банкетные залы, Доставка еды, Кейтеринг, Рестораны",
+        "rating": "4.6",
+        "site": "http://arm-irk.ru/catering, http://mirage-dostavka.ru, http://mirage.arm-irk.ru",
+        "hours": "Пн: с 09:00 до 02:00, Вт: с 09:00 до 02:00, Ср: с 09:00 до 02:00, Чт: с 09:00 до 02:00, Пт: с 09:00 до 03:00, Сб: с 09:00 до 03:00, Вс: с 09:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.314784,
+          52.230858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22a5da57-533c-4aab-a6bd-52fa6e85b7d6",
+      "properties": {
+        "name": "Краски Вкуса, семейная кулинарная студия",
+        "subcategory": "Кейтеринг, Кулинарные курсы, Организация праздников, Тимбилдинг, Фотостудии",
+        "rating": "4.8",
+        "site": "http://kraski-vkusa.ru, http://t.me/kraskivkusa",
+        "hours": "Ежедневно с 11:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.360506,
+          52.24749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6042a6d9-f143-4b94-8e4d-c7f7fd2e8ebb",
+      "properties": {
+        "name": "Старый город, кафе",
+        "subcategory": "Кафе, Кейтеринг",
+        "rating": "4.4",
+        "site": "http://nautilus-irk.ru",
+        "hours": "Пн: с 09:00 до 18:00, Вт: с 09:00 до 18:00, Ср: с 09:00 до 18:00, Чт: с 09:00 до 18:00, Пт: с 09:00 до 18:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.281937,
+          52.284478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c95aafc8-ec43-4141-a4d6-f7d4c7a87484",
+      "properties": {
+        "name": "Больше чем еда, служба доставки правильного питания",
+        "subcategory": "Диетические / соевые продукты, Доставка еды, Кейтеринг",
+        "rating": "4.4",
+        "site": "http://bolshe-chem-eda38.ru, http://t.me/bolshechemeda38",
+        "hours": "Пн: с 07:00 до 18:00, Вт: с 07:00 до 18:00, Ср: с 07:00 до 18:00, Чт: с 07:00 до 18:00, Пт: с 07:00 до 18:00, Сб: с 08:00 до 17:00, Вс: с 08:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.339251,
+          52.266818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1e91885b-bac1-4550-8bd5-ca3464a8015d",
+      "properties": {
+        "name": "Банкетный зал",
+        "subcategory": "Банкетные залы, Кейтеринг, Кондитерские изделия",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.265437,
+          52.260208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "88ce94f3-adf9-46f7-a819-4f4ae51f7fcb",
+      "properties": {
+        "name": "Порция, столовая",
+        "subcategory": "Доставка еды, Кейтеринг, Столовые",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 17:00, Вт: с 08:00 до 17:00, Ср: с 08:00 до 17:00, Чт: с 08:00 до 17:00, Пт: с 08:00 до 17:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.310338,
+          52.282669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2baccc68-2e6c-4551-afbb-e15b7b0da1e3",
+      "properties": {
+        "name": "Kiss, рестобар",
+        "subcategory": "Банкетные залы, Бары, Доставка еды, Кейтеринг, Ночные клубы, Рестораны",
+        "rating": "4.5",
+        "site": "http://kiss-dostavka.ru, http://kiss.arm-irk.ru, http://t.me/restobar_kiss",
+        "hours": "Ежедневно с 12:00 до 06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.311316,
+          52.255638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17d91382-7af0-4f07-853c-f09db3cdd72a",
+      "properties": {
+        "name": "Порция, столовая",
+        "subcategory": "Банкетные залы, Доставка еды, Кейтеринг, Столовые",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Пн: с 07:30 до 17:00, Вт: с 07:30 до 17:00, Ср: с 07:30 до 17:00, Чт: с 07:30 до 17:00, Пт: с 07:30 до 17:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.337881,
+          52.263546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "56630444-7610-44f2-9c3e-c7f78b6cddf0",
+      "properties": {
+        "name": "Canape 38, кейтеринговая компания",
+        "subcategory": "Банкетные залы, Кейтеринг",
+        "rating": "4.7",
+        "site": "http://taplink.cc/canape38",
+        "hours": "Ежедневно с 06:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.25774,
+          52.380659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "494c1cd8-412f-478d-992c-1c381f044f22",
+      "properties": {
+        "name": "Традиция, банкетный зал",
+        "subcategory": "Банкетные залы, Кейтеринг",
+        "rating": "3.1",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 19:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.313535,
+          52.273794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ae13c0ee-8c02-4b1d-a2c4-58cabd4782ef",
+      "properties": {
+        "name": "Юность, банкет-холл",
+        "subcategory": "Банкетные залы, Доставка еды, Кейтеринг, Конференц-залы / Переговорные комнаты",
+        "rating": "4.8",
+        "site": "http://banket-holl38.ru",
+        "hours": "Ежедневно с 08:00 до 24:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.283518,
+          52.273059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "288d34e7-1d0b-4107-856d-56952483af73",
+      "properties": {
+        "name": "Ладога, культурно-развлекательный комплекс",
+        "subcategory": "Банкетные залы, Кейтеринг",
+        "rating": "4.8",
+        "site": "http://ladoga-irkutsk.ru",
+        "hours": "Ежедневно с 10:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3404,
+          52.280252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b23ef4b8-244e-4972-8516-927ab3d7bb67",
+      "properties": {
+        "name": "Candy cotton, компания выездных мероприятий",
+        "subcategory": "Кейтеринг",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.228106,
+          52.252837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "35bd993d-aeb3-495a-8c0f-c1f16c59b112",
+      "properties": {
+        "name": "Традиция, кейтеринговая компания",
+        "subcategory": "Кейтеринг",
+        "rating": "4.8",
+        "site": "http://xn--38-glchasfg5a2au.xn--p1ai",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.380966,
+          52.235373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "63e7431a-210f-4ba7-b523-181ff74b35ab",
+      "properties": {
+        "name": "Праздник про Сибирь",
+        "subcategory": "Кейтеринг, Организация праздников",
+        "rating": "5.0",
+        "site": "http://prazdnikpro-siberia.ru",
+        "hours": "Пн: с 09:00 до 18:00, Вт: с 09:00 до 18:00, Ср: с 09:00 до 18:00, Чт: с 09:00 до 18:00, Пт: с 09:00 до 18:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.316456,
+          52.283892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6eee028d-3d36-412a-91af-25bc872ea2b0",
+      "properties": {
+        "name": "Шашлык Иркутск, кафе быстрого питания",
+        "subcategory": "Быстрое питание, Доставка еды, Кафе, Кейтеринг",
+        "rating": "4.9",
+        "site": "http://shashlyk-irkutsk.ru, http://t.me/shashlyk_irkutsk",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.252807,
+          52.227144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b3a85729-dacd-40ae-a2fb-3361f3c21259",
+      "properties": {
+        "name": "Шеф кейтеринг",
+        "subcategory": "Аренда мебели / посуды для мероприятий, Кейтеринг",
+        "rating": "5.0",
+        "site": "http://cateringchef.ru/",
+        "hours": "Ежедневно с 09:00 до 21:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.250985,
+          52.289651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2dac1245-91b8-46b0-86af-a3b22e7c8663",
+      "properties": {
+        "name": "Столовая на типографии",
+        "subcategory": "Банкетные залы, Доставка еды, Кейтеринг, Столовые",
+        "rating": "4.5",
+        "site": "http://stolovaya-ladoga.ru",
+        "hours": "Пн: с 09:00 до 17:00, Вт: с 09:00 до 17:00, Ср: с 09:00 до 17:00, Чт: с 09:00 до 17:00, Пт: с 09:00 до 17:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3404,
+          52.280252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9828a3a6-353e-41f4-af53-9dbe0b2e7a94",
+      "properties": {
+        "name": "Baikal View, ресторан",
+        "subcategory": "Кейтеринг, Рестораны",
+        "rating": "4.4",
+        "site": "http://baikalview.com",
+        "hours": "Ежедневно с 13:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.306857,
+          53.178084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aafeb3d7-4179-48e4-834d-9abc40dcd24a",
+      "properties": {
+        "name": "Уюга, кафе",
+        "subcategory": "Доставка еды, Кафе, Кейтеринг",
+        "rating": "2.5",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.949245,
+          53.167832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1a9b99f5-6cf6-4417-89cf-9b414742cf76",
+      "properties": {
+        "name": "Сatering by History",
+        "subcategory": "Доставка еды, Кейтеринг",
+        "rating": "nan",
+        "site": "http://history38.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290997,
+          52.271348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6270f6b4-d369-41b9-a112-62f2949f003e",
+      "properties": {
+        "name": "Матрешка, ресторан",
+        "subcategory": "Банкетные залы, Доставка еды, Кейтеринг, Рестораны",
+        "rating": "4.8",
+        "site": "http://ladoga-irkutsk.ru",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3404,
+          52.280252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "33d2fc1a-c1c7-4bcb-92e9-d5bbf0ef3921",
+      "properties": {
+        "name": "Grillbro Academy, ресторан банкетного и выездного обслуживания",
+        "subcategory": "Банкетные залы, Кейтеринг, Кулинарные курсы, Организация праздников, Тимбилдинг",
+        "rating": "5.0",
+        "site": "http://academy.grillbro.ru/",
+        "hours": "Ежедневно с 10:00 до 21:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.424442,
+          52.247958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "80a8a146-c43c-4548-9df9-e68f290b7bda",
+      "properties": {
+        "name": "Time catering, ресторан выездного обслуживания",
+        "subcategory": "Аренда мебели / посуды для мероприятий, Доставка еды, Кейтеринг",
+        "rating": "5.0",
+        "site": "http://timecatering.ru",
+        "hours": "Ежедневно с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290938,
+          52.287153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dd2f27d1-fa52-4261-8df0-11fd59f863c7",
+      "properties": {
+        "name": "Bon master, банкетно-кейтеринговая служба",
+        "subcategory": "Аренда мебели / посуды для мероприятий, Доставка еды, Кейтеринг",
+        "rating": "5.0",
+        "site": "http://bonjur38.ru, http://bonmaster-catering.ru",
+        "hours": "Ежедневно с 08:00 до 20:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.312678,
+          52.267874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7cc5aef2-830d-4782-afc5-e22f4f060a35",
+      "properties": {
+        "name": "Мираж event, компания по организации мероприятий",
+        "subcategory": "Кейтеринг, Организация бизнес-мероприятий, Организация праздников, Организация театральных / концертных мероприятий, Тимбилдинг",
+        "rating": "5.0",
+        "site": "http://arm-irk.ru/catering, http://event.arm-irk.ru",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.314784,
+          52.230858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5044a3e3-943a-445d-be7d-9edcca05a996",
+      "properties": {
+        "name": "Байкал 21, ресторан",
+        "subcategory": "Банкетные залы, Кейтеринг, Рестораны",
+        "rating": "4.3",
+        "site": "http://baikal21.com, http://t.me/baikal_21km",
+        "hours": "Ежедневно с 11:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.508317,
+          52.186481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c088816f-2483-45f7-902a-8d06aa3a91b9",
+      "properties": {
+        "name": "Розмарин",
+        "subcategory": "Кейтеринг",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 22:00, Вт: с 09:00 до 22:00, Ср: с 09:00 до 22:00, Чт: с 09:00 до 22:00, Пт: с 09:00 до 22:00, Сб: с 09:00 до 22:00, Вс: выходной (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.121807,
+          52.23119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "395e6291-48b4-4ad1-b60b-9e3c3b456de4",
+      "properties": {
+        "name": "Апекс-А, компания по организации питания и клининга в вахтовых поселках",
+        "subcategory": "Кейтеринг, Клининг",
+        "rating": "nan",
+        "site": "http://www.apex-a.ru",
+        "hours": "Пн: с 09:00 до 12:00, Вт: с 09:00 до 12:00, Ср: с 09:00 до 12:00, Чт: с 09:00 до 12:00, Пт: с 09:00 до 12:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.286061,
+          52.281766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3e5b30ce-5fde-4d07-ba41-a830bf22d14f",
+      "properties": {
+        "name": "Доренберг, ресторан доставки для друзей",
+        "subcategory": "Аренда мебели / посуды для мероприятий, Доставка еды, Кейтеринг",
+        "rating": "5.0",
+        "site": "http://banket.dorenberg.ru",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.306337,
+          52.296365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7a20a611-08b2-4036-8272-d9c6010358de",
+      "properties": {
+        "name": "Komorebi, безалкогольный ресторан авторской сибирской кухни",
+        "subcategory": "Кейтеринг, Рестораны",
+        "rating": "4.8",
+        "site": "http://nuurhotel.com",
+        "hours": "Ежедневно с 07:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.306712,
+          52.281614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fed65f54-c328-4c49-bbf5-3664e7d6cf91",
+      "properties": {
+        "name": "Baikal Events Company, компания по организации путешествий и мероприятий на Байкале",
+        "subcategory": "Кейтеринг, Круизы / Морские, речные прогулки, Организация активных туров, Прокат водно-спортивной техники",
+        "rating": "nan",
+        "site": "http://baikal-events-company.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.272599,
+          52.287935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8ae3a839-aec7-46f4-99d0-2aec90bbf8b0",
+      "properties": {
+        "name": "Cafetera group",
+        "subcategory": "Кейтеринг",
+        "rating": "nan",
+        "site": "http://cafetera-group.ru",
+        "hours": "Пн: с 09:00 до 13:00, Вт: с 09:00 до 13:00, Ср: с 09:00 до 13:00, Чт: с 09:00 до 13:00, Пт: с 09:00 до 13:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.300978,
+          52.280818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "92c0fd52-4f1b-4908-833a-a71d59f3b8ef",
+      "properties": {
+        "name": "Традиция, кейтеринговая компания",
+        "subcategory": "Кейтеринг",
+        "rating": "nan",
+        "site": "http://xn--38-glchasfg5a2au.xn--p1ai",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.320966,
+          52.252819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5c2a7c21-92be-4efb-b9c1-04a8ff2e0449",
+      "properties": {
+        "name": "Мой Папа Шеф",
+        "subcategory": "Кейтеринг",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.250985,
+          52.289651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ab13c194-ecbb-4f8d-9944-cfdff4d17870",
+      "properties": {
+        "name": "Сэсэг, банкетный зал",
+        "subcategory": "Банкетные залы, Кейтеринг",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 10:00 до 23:00, Вт: с 10:00 до 23:00, Ср: с 10:00 до 23:00, Чт: с 10:00 до 23:00, Пт: с 09:00 до 23:00, Сб: с 09:00 до 23:00, Вс: с 09:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.599651,
+          51.791702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "45100690-9f33-42d0-83e9-969daeb0897b",
+      "properties": {
+        "name": "Черчилль, бар",
+        "subcategory": "Бары, Доставка еды, Кафе, Кейтеринг",
+        "rating": "4.6",
+        "site": "http://churchilluu.ru",
+        "hours": "Ежедневно с 12:00 до 02:00 (служба доставки: пн-пт 12:00-00:00; сб-вс 12:00-00:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58362,
+          51.83466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3486858a-1dfc-45f5-857e-ffab3c27a963",
+      "properties": {
+        "name": "Мэргэн, ресторан",
+        "subcategory": "Кейтеринг, Рестораны",
+        "rating": "4.0",
+        "site": "http://ulanude.cosmosgroup.ru/ru/restaurant/restoran-mergen",
+        "hours": "Пн: с 07:00 до 10:00, Вт: с 07:00 до 10:00, Ср: с 07:00 до 10:00, Чт: с 07:00 до 10:00, Пт: с 07:00 до 10:00, Сб: с 07:00 до 11:00, Вс: с 07:00 до 11:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.581663,
+          51.838889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4e194e87-c735-4f0f-8e93-aa03f2e2a8a7",
+      "properties": {
+        "name": "Орда, этноресторан",
+        "subcategory": "Банкетные залы, Доставка еды, Караоке-залы, Кейтеринг, Рестораны",
+        "rating": "4.3",
+        "site": "http://421999.restoplace.ws, http://orda03.ru, http://orda03.ru/karaoke",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 24:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 02:00 (караоке-бар: пн-вс 15:00-3:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.597227,
+          51.839342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ce15a863-b1cf-46ea-bd76-21da8599d814",
+      "properties": {
+        "name": "Gusto, студия кулинарных мастер-классов для детей и взрослых",
+        "subcategory": "Кейтеринг, Кулинарные курсы, Организация праздников",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 13:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.591245,
+          51.822441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b0066b66-788d-4eb4-86fb-09e21f36cc5b",
+      "properties": {
+        "name": "Michelle catering, кейтеринговая компания",
+        "subcategory": "Аренда мебели / посуды для мероприятий, Кейтеринг",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 08:30 до 20:30, Вт: с 08:30 до 20:30, Ср: с 08:30 до 20:30, Чт: с 08:30 до 20:30, Пт: с 08:30 до 20:30, Сб: с 08:30 до 20:30, Вс: выходной (по предварительной записи: пн-сб)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.605715,
+          51.810559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d7544563-02c9-4e63-9c7f-2c4c2abdc1e0",
+      "properties": {
+        "name": "Улыбка, кейтеринговая компания",
+        "subcategory": "Кейтеринг",
+        "rating": "4.9",
+        "site": "http://ulybka-catering03.ru",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.587248,
+          51.826932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "783c201d-95ed-48f4-b453-57a9dcaf37cf",
+      "properties": {
+        "name": "Академия",
+        "subcategory": "Банкетные залы, Кейтеринг, Столовые",
+        "rating": "4.8",
+        "site": "http://t.me/akademia9a",
+        "hours": "Пн: с 09:00 до 16:00, Вт: с 09:00 до 16:00, Ср: с 09:00 до 16:00, Чт: с 09:00 до 16:00, Пт: с 09:00 до 16:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593237,
+          51.845028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d04d354d-c2c4-4e40-af7e-eec15d1b0209",
+      "properties": {
+        "name": "Баран на Корове, народное кафе-ресторан",
+        "subcategory": "Доставка еды, Кафе, Кейтеринг",
+        "rating": "4.3",
+        "site": "http://bnk03.ru",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 24:00 (служба доставки: вс-чт 12:00-23:00; пт-сб 12:00-00:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.595212,
+          51.817852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "77059bd9-44a9-4f20-94a3-57938e1e2562",
+      "properties": {
+        "name": "Делорус, ресторан выездного обслуживания",
+        "subcategory": "Кейтеринг",
+        "rating": "5.0",
+        "site": "http://delorus.pro/ulanude",
+        "hours": "Пн: с 08:00 до 18:00, Вт: с 08:00 до 18:00, Ср: с 08:00 до 18:00, Чт: с 08:00 до 18:00, Пт: с 08:00 до 18:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607587,
+          51.806425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7dd829a7-99b8-4a4b-8372-efdf10680507",
+      "properties": {
+        "name": "Эмпатио Эфир, кафе",
+        "subcategory": "Бары, Доставка еды, Караоке-залы, Кафе, Кейтеринг",
+        "rating": "4.6",
+        "site": "http://empatio-efir.restoplace.ws, http://empatio-efir.ru/",
+        "hours": "Ежедневно с 11:00 до 24:00 (караоке: ср-чт 16:00-00:00; пт-сб 16:00-2:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.634462,
+          51.816694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6b54e8e9-d9f0-419d-a24f-02e30ad0b507",
+      "properties": {
+        "name": "Садаа, кафе",
+        "subcategory": "Доставка еды, Кафе, Кейтеринг",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.253943,
+          51.995637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8a2f0a74-dd59-402b-974d-677e1993133f",
+      "properties": {
+        "name": "BullDog, американский паб",
+        "subcategory": "Бары, Доставка еды, Кафе, Кейтеринг",
+        "rating": "4.5",
+        "site": "http://bulldog03.ru",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 01:00, Сб: с 12:00 до 01:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.576898,
+          51.838895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f5699c30-aa21-4bcd-8927-9f7f496f3ddf",
+      "properties": {
+        "name": "Конь-Yak & Be happy, банкетный зал с игровой комнатой",
+        "subcategory": "Банкетные залы, Кейтеринг",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.658017,
+          51.814936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eccc004b-485f-4a70-9706-664c42876673",
+      "properties": {
+        "name": "Нютаг, кафе",
+        "subcategory": "Банкетные залы, Доставка еды, Кафе, Кейтеринг, Мясо / Полуфабрикаты",
+        "rating": "4.5",
+        "site": "http://nutag.dlvry.ru",
+        "hours": "Пн: с 10:00 до 21:00, Вт: с 10:00 до 23:00, Ср: с 10:00 до 23:00, Чт: с 10:00 до 23:00, Пт: с 10:00 до 23:00, Сб: с 10:00 до 23:00, Вс: с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.652731,
+          51.883297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6b02b5ee-2d1e-4724-a39b-9347971f0e3c",
+      "properties": {
+        "name": "Парус, банкетный зал с игровой комнатой",
+        "subcategory": "Банкетные залы, Кейтеринг",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.525328,
+          51.81003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b45593ec-5226-4c70-b4eb-5704b7773c6e",
+      "properties": {
+        "name": "Феникс, банкетный зал",
+        "subcategory": "Банкетные залы, Кейтеринг",
+        "rating": "5.0",
+        "site": "http://phoenix-new-year.tilda.ws/",
+        "hours": "Ежедневно с 08:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.603256,
+          51.807604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "baef6d00-264f-42e1-ac06-09eee59d9b24",
+      "properties": {
+        "name": "Тамир",
+        "subcategory": "Кейтеринг",
+        "rating": "5.0",
+        "site": "http://t.me/tamirhouse03",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.384768,
+          51.671766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7207fe7c-5053-4222-a5ca-810b3930efe2",
+      "properties": {
+        "name": "Капитан Кук, кафе",
+        "subcategory": "Банкетные залы, Доставка еды, Кейтеринг",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Пн: с 12:00 до 23:00, Вт: с 12:00 до 23:00, Ср: с 12:00 до 23:00, Чт: с 12:00 до 23:00, Пт: с 12:00 до 01:00, Сб: с 12:00 до 01:00, Вс: с 12:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.582413,
+          51.835795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "63c05631-2b00-4db8-b09d-90e5766ff796",
+      "properties": {
+        "name": "Grenka, гастромастерская",
+        "subcategory": "Доставка еды, Кейтеринг",
+        "rating": "5.0",
+        "site": "http://taplink.cc/grenka_furshet_03",
+        "hours": "Ежедневно с 09:00 до 22:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.624316,
+          51.813121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "89942d79-de7a-4790-86de-328c641fa137",
+      "properties": {
+        "name": "Праздник, компания по оказанию услуг кейтеринга",
+        "subcategory": "Кейтеринг",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 23:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.603256,
+          51.807604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f734ae1e-9d2a-4be7-976c-b9a012c439df",
+      "properties": {
+        "name": "Традиции, кафе",
+        "subcategory": "Быстрое питание, Доставка еды, Кафе, Кейтеринг",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 20:00, Вт: с 09:00 до 20:00, Ср: с 09:00 до 20:00, Чт: с 09:00 до 20:00, Пт: с 09:00 до 19:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.622075,
+          51.812986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "93677c15-e2b6-4568-98cc-c4a89e0b1280",
+      "properties": {
+        "name": "Сладкая вата, компания по оказанию услуг кейтеринга",
+        "subcategory": "Кейтеринг",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 18:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.580752,
+          51.84723
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2116 @@
+{
+  "type": "FeatureCollection",
+  "name": "Кафе-кондитерские",
+  "style": {
+    "color": "blue",
+    "radius": 6
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "c46eae3f-5539-4ff1-a7ad-79e84c22338d",
+      "properties": {
+        "name": "Вентус, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе, Кафе-кондитерские, Кондитерские изделия",
+        "rating": "2.7",
+        "site": "http://ventus38.ru",
+        "hours": "Ежедневно с 09:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.292204,
+          52.281838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cb3d076c-7d31-448e-82b2-2d863de2f007",
+      "properties": {
+        "name": "Мария, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.4",
+        "site": "http://www.maria-irk.ru/",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.340372,
+          52.293074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9acf0ab1-11f4-4e68-afc8-4e484dd36141",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "4.8",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.081488,
+          52.205562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "651a5db8-2c5c-4d72-ba85-c2341d816075",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "4.8",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.065955,
+          52.210489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bcb340a2-9234-42e8-953c-52689ca6c200",
+      "properties": {
+        "name": "Первый Гастроном, кондитерский цех",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.4",
+        "site": "http://www.gastronom-1.com",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 10:00 до 20:00, Вс: с 10:00 до 20:00 (зимний период: пн-пт 8:00-19:00; сб-вс 10:00-19:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.286876,
+          52.283795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0a4982c4-5ec1-40bb-9fec-3071d3d98b3c",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "4.8",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.224068,
+          52.344912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8473bcd9-d3ce-495a-8685-b4af41984ee5",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "4.8",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.211901,
+          52.355148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "acb7cfe5-4122-412e-aff6-d68f91b82063",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "4.8",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.210207,
+          52.263642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "91d1af07-44f4-47b7-a8a6-2be63ef7be21",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "4.9",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.24211,
+          52.261072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4593b66d-b542-4c57-9fc1-2a5182c843d8",
+      "properties": {
+        "name": "Блисс, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.8",
+        "site": "http://bliss-irk.ru",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.312224,
+          52.282573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "db39dedd-fab7-4a17-a37b-92863d04598c",
+      "properties": {
+        "name": "Мария, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кофейни",
+        "rating": "4.4",
+        "site": "http://www.maria-irk.ru/",
+        "hours": "Ежедневно с 07:30 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.311439,
+          52.282695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a6d4c157-afff-4939-994a-70af6f85d21f",
+      "properties": {
+        "name": "Блисс, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.8",
+        "site": "http://bliss-irk.ru",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.284583,
+          52.278045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "817141bb-3d94-48ce-a03c-9b4e723cb557",
+      "properties": {
+        "name": "Cake Home, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.277972,
+          52.284752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5fdad27e-bdf7-4328-a07f-19699b0d7a0b",
+      "properties": {
+        "name": "Popcafe, кафе-кондитерская",
+        "subcategory": "Кафе, Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00 (до последнего гостя)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.283295,
+          52.279453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e98ad04a-35a6-4a12-9e5e-fb58fb861571",
+      "properties": {
+        "name": "Cake Home, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.284424,
+          52.289337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15dd5c16-c28a-4f87-8048-54d713c0a457",
+      "properties": {
+        "name": "Cake Home, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.431618,
+          52.246069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "18db8bbe-39eb-479e-bf91-726489fe2ffc",
+      "properties": {
+        "name": "Cinnabon, кафе-пекарня",
+        "subcategory": "Кафе-кондитерские",
+        "rating": "4.3",
+        "site": "http://cinnabonrussia.com",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.291105,
+          52.27303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d573f67d-1438-491f-a77c-534a32b9638f",
+      "properties": {
+        "name": "Блисс, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.6",
+        "site": "http://bliss-irk.ru",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.251482,
+          52.255781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8da175ef-346b-485f-89e2-5d2529fc5c62",
+      "properties": {
+        "name": "Buonovita, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе, Кафе-кондитерские, Кофейни",
+        "rating": "4.8",
+        "site": "http://buonovita.ru",
+        "hours": "Пн: с 08:00 до 21:00, Вт: с 08:00 до 21:00, Ср: с 08:00 до 21:00, Чт: с 08:00 до 21:00, Пт: с 08:00 до 21:00, Сб: с 10:00 до 21:00, Вс: с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288594,
+          52.282505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "657d0738-c72e-44ef-8001-bee35220790f",
+      "properties": {
+        "name": "Cake Home, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.309413,
+          52.256873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "350157c4-d57b-4a8b-9c7f-3237b01ac351",
+      "properties": {
+        "name": "Яхонт, кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.5",
+        "site": "http://xn----8sbleokdscgd2anfg2bzmqa.xn--p1ai",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.30676,
+          52.222368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6af88579-0b60-44a4-8b42-462af1636e94",
+      "properties": {
+        "name": "smart day, кофейня",
+        "subcategory": "Кафе-кондитерские, Кофейни, Продажа кофе",
+        "rating": "4.7",
+        "site": "http://jivo.chat/EWAGxpZqgo, http://smartday.cafe",
+        "hours": "Ежедневно с 09:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288985,
+          52.285945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "61e8a1bb-6789-4e1f-a57e-0bce12952edd",
+      "properties": {
+        "name": "Cake Home, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.287974,
+          52.27461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4026415a-2061-4a21-9b4a-752aa3c3da51",
+      "properties": {
+        "name": "Кондитерская на Захарова",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.307403,
+          52.227347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a3b3f58d-82ca-4ce2-92c2-19b8e63eb84c",
+      "properties": {
+        "name": "Новозеландские пироги, пекарня",
+        "subcategory": "Кафе-кондитерские, Пекарни",
+        "rating": "4.8",
+        "site": "http://nzpies.ru",
+        "hours": "Ежедневно с 08:30 до 20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.36402,
+          52.251874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "628796e8-bcb2-4dd3-9b06-b4f088afbc7b",
+      "properties": {
+        "name": "Блисс, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.7",
+        "site": "http://bliss-irk.ru",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28211,
+          52.288114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fafa316c-433b-4d3e-9baa-629c5a20bfaf",
+      "properties": {
+        "name": "Cake Home, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе-кондитерские",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290674,
+          52.286144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "99ede745-9df7-45bb-9785-60f6fe1de8d5",
+      "properties": {
+        "name": "Cinnabon, кафе-пекарня",
+        "subcategory": "Кафе-кондитерские",
+        "rating": "4.4",
+        "site": "http://cinnabonrussia.com",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.225685,
+          52.265747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "018282d8-5d88-465d-a87a-d894320e6f8e",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "4.8",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.147063,
+          52.352158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ff4eaecb-1444-442c-a9be-639c72723eb8",
+      "properties": {
+        "name": "Cake Home, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.424368,
+          52.23855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f52ff658-f4d4-49a4-8e66-aa16dc0e0f09",
+      "properties": {
+        "name": "Cake Home, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.6",
+        "site": "http://mycakehome.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.322782,
+          52.279517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1aefc3d2-77cd-453f-a2a6-eb58e42e3ca7",
+      "properties": {
+        "name": "Cake Home, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.314778,
+          52.231826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a9ced403-28d5-4ce0-9e1f-13b89dff683f",
+      "properties": {
+        "name": "Cake Home, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.250837,
+          52.255261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ef487266-a851-435c-8d3e-a0bbd4d6e288",
+      "properties": {
+        "name": "Мария, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.3",
+        "site": "http://www.maria-irk.ru/",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.335283,
+          52.273593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "78561f34-40d1-486f-969f-8510d9176725",
+      "properties": {
+        "name": "Комильфо",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.311064,
+          52.267291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3006cfe0-d4ee-429e-a7c2-e4c6014d9642",
+      "properties": {
+        "name": "Cake Home, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кондитерские изделия",
+        "rating": "3.8",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.293638,
+          52.234453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cb9dc8eb-ee40-4d8c-9eb1-f544fd4cd2bf",
+      "properties": {
+        "name": "Блисс, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.8",
+        "site": "http://bliss-irk.ru",
+        "hours": "Пн: с 07:45 до 20:00, Вт: с 07:45 до 20:00, Ср: с 07:45 до 20:00, Чт: с 07:45 до 20:00, Пт: с 07:45 до 20:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.31379,
+          52.263918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8d48ab92-aa47-409a-8200-89e4a1bf67f3",
+      "properties": {
+        "name": "Etika, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.6",
+        "site": "http://www.etikacakes.ru",
+        "hours": "Ежедневно с 08:00 до 22:00 (кухня: пн-вс 8:00-20:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.363902,
+          52.251866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "416644f2-51be-4900-b0d9-21be63633f85",
+      "properties": {
+        "name": "Блисс, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.6",
+        "site": "http://bliss-irk.ru",
+        "hours": "Пн: с 08:00 до 19:30, Вт: с 08:00 до 19:30, Ср: с 08:00 до 19:30, Чт: с 08:00 до 19:30, Пт: с 08:00 до 19:30, Сб: с 09:00 до 19:00, Вс: с 09:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288478,
+          52.286147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6054fab6-13a9-447a-a64c-b88def0d3366",
+      "properties": {
+        "name": "Buono Market, кафе",
+        "subcategory": "Быстрое питание, Кафе, Кафе-кондитерские",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 21:00, Вт: с 09:00 до 21:00, Ср: с 09:00 до 21:00, Чт: с 09:00 до 21:00, Пт: с 09:00 до 22:00, Сб: с 10:00 до 22:00, Вс: с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.335158,
+          52.254853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "69c87c85-6f20-40df-a8fd-0c1b56d9725d",
+      "properties": {
+        "name": "Toti, ателье тортов и кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.5",
+        "site": "http://taplink.cc/toti",
+        "hours": "Пн: с 09:00 до 21:00, Вт: с 09:00 до 21:00, Ср: с 09:00 до 21:00, Чт: с 09:00 до 21:00, Пт: с 09:00 до 21:00, Сб: с 10:00 до 21:00, Вс: с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.300542,
+          52.262354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8bbda84b-995a-49f8-b9a5-8eea882cace3",
+      "properties": {
+        "name": "Cake Home, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.311098,
+          52.284746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d13e6e44-7f90-4dc3-8f58-0257972f6596",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "4.8",
+        "site": "http://stefanycake.ru, http://t.me/stefanycakes",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.319301,
+          52.278587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "840d2c0d-8578-4dfd-8007-49a250896527",
+      "properties": {
+        "name": "Семейные традиции",
+        "subcategory": "Кафе-кондитерские, Пекарни, Продукты быстрого приготовления",
+        "rating": "3.9",
+        "site": "http://pekarnya38.ru",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.331225,
+          52.264504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0c83638f-2744-4221-a349-ef2eecdcadac",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "4.8",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.154693,
+          52.350094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a7eadba0-4a2f-4d65-b9d8-a9091c4cec1e",
+      "properties": {
+        "name": "Cake Home, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.3",
+        "site": "http://t.me/mycakehome",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.094732,
+          52.211661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fc4cd5c5-2488-4926-8d44-3bc654468da1",
+      "properties": {
+        "name": "Пудра, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.303015,
+          52.269705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "64242844-5728-4ae7-b07b-d065413a18f9",
+      "properties": {
+        "name": "Кондитерский Дом Славы, кафе",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.8",
+        "site": "http://t.me/dom_slavi_irk, http://xn----8sboklgd7ae0k.xn--p1ai",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.324418,
+          52.281747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "308df3fd-c9a5-4a3a-8713-652c58344f9b",
+      "properties": {
+        "name": "Etika, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.7",
+        "site": "http://www.etikacakes.ru",
+        "hours": "Ежедневно с 08:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.323285,
+          52.281698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f571135a-2671-4ca8-87d8-cfd433757e56",
+      "properties": {
+        "name": "Блисс, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.8",
+        "site": "http://bliss-irk.ru",
+        "hours": "Пн: с 07:45 до 20:00, Вт: с 07:45 до 20:00, Ср: с 07:45 до 20:00, Чт: с 07:45 до 20:00, Пт: с 07:45 до 20:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.326476,
+          52.266888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "726ee871-3eed-4daf-8be7-d71597965a69",
+      "properties": {
+        "name": "smart day, кафе",
+        "subcategory": "Доставка еды, Кафе, Кафе-кондитерские, Кофейни, Продажа кофе",
+        "rating": "4.7",
+        "site": "http://jivo.chat/EWAGxpZqgo, http://smartday.cafe",
+        "hours": "Пн: с 08:00 до 19:00, Вт: с 08:00 до 19:00, Ср: с 08:00 до 19:00, Чт: с 08:00 до 19:00, Пт: с 08:00 до 19:00, Сб: с 09:00 до 19:00, Вс: с 09:00 до 19:00 (кухня: пн-пт 8:00-17:00; сб-вс 9:00-17:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.285851,
+          52.283265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fe520dcb-1bf5-4d2d-b9ab-b3a787e9cd31",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "4.8",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.278015,
+          52.232906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4a906f82-3f4d-4f86-9fef-23420272772c",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "4.8",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28728,
+          52.235404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6156473a-e558-4079-9858-8efddec1087e",
+      "properties": {
+        "name": "Каде, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кондитерские изделия, Кофейни, Пекарни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.286206,
+          52.282634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c1310b3b-0ec2-4cb8-8019-2dc85b25e241",
+      "properties": {
+        "name": "Фамилия, кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.308556,
+          52.229483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d4aa867e-c79c-4712-8216-8f505196e8c1",
+      "properties": {
+        "name": "Каде, кафе-кондитерская",
+        "subcategory": "Кафе, Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 08:30 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.278658,
+          52.290349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6a3d515a-0581-4dcd-a456-6e5c29c2315e",
+      "properties": {
+        "name": "Блисс, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.8",
+        "site": "http://bliss-irk.ru",
+        "hours": "Пн: с 07:45 до 20:00, Вт: с 07:45 до 20:00, Ср: с 07:45 до 20:00, Чт: с 07:45 до 20:00, Пт: с 07:45 до 20:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.34088,
+          52.279546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "394a5772-c956-4ce6-946a-6b57ade12ee0",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "4.8",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.260042,
+          52.252829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fbbdfcd8-7144-4644-b897-17930a3b3d57",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "4.8",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.204064,
+          52.333365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15463852-2dd8-4afa-ad54-293636f7f34b",
+      "properties": {
+        "name": "smart day, кофейня",
+        "subcategory": "Доставка еды, Кафе, Кафе-кондитерские, Кофейни, Продажа кофе",
+        "rating": "4.8",
+        "site": "http://jivo.chat/EWAGxpZqgo, http://smartday.cafe",
+        "hours": "Пн: с 07:30 до 20:00, Вт: с 07:30 до 20:00, Ср: с 07:30 до 20:00, Чт: с 07:30 до 20:00, Пт: с 07:30 до 20:00, Сб: с 08:00 до 20:00, Вс: с 08:00 до 20:00 (кухня: пн-пт 7:30-19:00; сб-вс 8:00-19:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.326355,
+          52.267662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ca36126e-8576-4aef-9766-1a4f56c20e7b",
+      "properties": {
+        "name": "smart day, кофейня",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кофейни, Продажа кофе",
+        "rating": "4.8",
+        "site": "http://jivo.chat/EWAGxpZqgo, http://smartday.cafe",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.320958,
+          52.252951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0a4d6ce1-f57c-4b6c-86cd-a13f926d584f",
+      "properties": {
+        "name": "Cinnabon, кафе-пекарня",
+        "subcategory": "Кафе-кондитерские",
+        "rating": "4.6",
+        "site": "http://cinnabonrussia.com",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289557,
+          52.267472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4e4ae9c9-4ed0-4fe9-b030-915323f64a27",
+      "properties": {
+        "name": "Cake Home, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.253709,
+          52.284238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f6108d38-d744-4aaf-9601-165388130802",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "4.7",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.292478,
+          52.207549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "330dc9fa-907d-459e-aaa3-d69dec8af977",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "4.9",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.225656,
+          52.251762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c5cebac0-3666-443f-a8ed-6dfa0fe4e269",
+      "properties": {
+        "name": "Мария, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.5",
+        "site": "http://www.maria-irk.ru/",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.324846,
+          52.268127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "622abbd4-28f9-4662-b91e-7ab5e64a34db",
+      "properties": {
+        "name": "Etika, гастро-пекарня, кафе",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Пекарни",
+        "rating": "4.7",
+        "site": "http://www.etikacakes.ru",
+        "hours": "Ежедневно с 08:00 до 22:00 (летняя веранда: пн-вс 11:00-00:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.292466,
+          52.288505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "812643fa-5ef7-4a1d-8e6a-2cf7a44922fb",
+      "properties": {
+        "name": "Toti, ателье тортов и кафе-кондитерская",
+        "subcategory": "Кафе, Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.6",
+        "site": "http://taplink.cc/toti",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.281464,
+          52.278926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fc05325c-74ab-47e8-a027-74e3ee0e6b3d",
+      "properties": {
+        "name": "Etika, кафе-бистро",
+        "subcategory": "Кафе, Кафе-кондитерские, Кофейни",
+        "rating": "4.5",
+        "site": "http://www.etikacakes.ru",
+        "hours": "Ежедневно с 08:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.270992,
+          52.283387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7211edb6-7ef8-4220-80bb-440f91a9b8a9",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "4.8",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.322948,
+          52.255781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cd7d169b-05e2-48a3-8475-f33e5850c91a",
+      "properties": {
+        "name": "Каде, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кондитерские изделия, Кофейни, Пекарни",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.297039,
+          52.272308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eae63b60-7bb1-488f-92b8-5b4333ec0128",
+      "properties": {
+        "name": "Мария, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кофейни",
+        "rating": "4.7",
+        "site": "http://www.maria-irk.ru/",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.330868,
+          52.250953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a1ca8962-06d1-4445-b1c2-e3bd7fc5074a",
+      "properties": {
+        "name": "Medovik, кондитерская",
+        "subcategory": "Кафе-кондитерские",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 12:00 до 21:00, Вт: с 12:00 до 21:00, Ср: с 12:00 до 21:00, Чт: с 12:00 до 21:00, Пт: с 12:00 до 21:00, Сб: с 13:00 до 21:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.30899,
+          52.277966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e6ddbb66-e5ef-4ffe-9698-2e77457557cb",
+      "properties": {
+        "name": "smart day, кофейня",
+        "subcategory": "Кафе, Кафе-кондитерские, Кофейни",
+        "rating": "4.7",
+        "site": "http://jivo.chat/EWAGxpZqgo, http://smartday.cafe, http://t.me/smartcafeirk",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 10:00 до 20:00, Вс: с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.275743,
+          52.279232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2f5b9a13-6694-41b3-b4aa-cf39070b3955",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе, Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "4.8",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.091493,
+          52.208967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d2c74381-690e-4d8e-9eb3-2b43385370b7",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "4.8",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.364059,
+          52.258301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4e45671b-747a-4bd9-9142-5d8494e0503d",
+      "properties": {
+        "name": "Блисс, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.9",
+        "site": "http://bliss-irk.ru",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.318863,
+          52.278265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0ad619e3-40d9-42a2-8ddd-1b3eef4c144c",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "4.8",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.242154,
+          52.219705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96682efd-32b2-4830-b7b9-0a0c03578e6d",
+      "properties": {
+        "name": "Cake Home Express, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.365608,
+          52.251917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "717cc022-cba4-458b-aabe-6b5ea67d477f",
+      "properties": {
+        "name": "Cake Home, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.150528,
+          52.351433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9e95c551-acfb-41b8-b79f-a199775d2b35",
+      "properties": {
+        "name": "smart day, кофейня",
+        "subcategory": "Кафе-кондитерские, Кофейни, Продажа кофе",
+        "rating": "4.7",
+        "site": "http://jivo.chat/EWAGxpZqgo, http://smartday.cafe",
+        "hours": "Пн: с 07:30 до 19:00, Вт: с 07:30 до 19:00, Ср: с 07:30 до 19:00, Чт: с 07:30 до 19:00, Пт: с 07:30 до 19:00, Сб: с 08:00 до 19:00, Вс: с 08:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.32521,
+          52.256616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c1094a63-d44f-441c-a928-a9d81c1e2ec8",
+      "properties": {
+        "name": "Cake Home, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.250131,
+          52.279259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0de0f8c9-b9af-4068-aa02-f09c6caa2378",
+      "properties": {
+        "name": "Cake Home, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.364782,
+          52.465306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7102f0d2-384c-402e-bed9-da1c1b4192a6",
+      "properties": {
+        "name": "Cake Home, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.226911,
+          52.265778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3b5b61bd-629b-48eb-8d0c-99a660898c9c",
+      "properties": {
+        "name": "Cake Home, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288982,
+          52.268448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "149c4047-b8ce-48ea-b0ac-905f9b67d1b0",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "4.9",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.277863,
+          52.219769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1664033a-d94e-4d86-a2ab-9b11cb261515",
+      "properties": {
+        "name": "Каде, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.363692,
+          52.2523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8d4f8f52-49c8-47ea-bc4a-50f6c56f72ab",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Хлебобулочные изделия",
+        "rating": "4.9",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.353262,
+          52.289859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "597cef3b-3866-45f4-ae77-14712fedad87",
+      "properties": {
+        "name": "Мария, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.7",
+        "site": "http://www.maria-irk.ru/",
+        "hours": "Ежедневно с 08:00 до 21:00 (кухня: пн-вс 8:00-20:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.256897,
+          52.251848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ad3d37d7-e0a7-4f5f-9ef1-c2e45d44a1f6",
+      "properties": {
+        "name": "Etika, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "5.0",
+        "site": "http://www.etikacakes.ru",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.22688,
+          52.266044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a126afad-0bba-4342-a531-6a9fd091b890",
+      "properties": {
+        "name": "Etika, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.8",
+        "site": "http://www.etikacakes.ru",
+        "hours": "Ежедневно с 08:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.307708,
+          52.280709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6a03875c-cc1c-4d45-a35a-1939581b9df2",
+      "properties": {
+        "name": "Etika, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.9",
+        "site": "http://www.etikacakes.ru",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.294069,
+          52.292885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d6667698-ff5c-470a-8042-dd60a41bcabf",
+      "properties": {
+        "name": "Вернисаж, сеть кондитерских",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.6",
+        "site": "http://vernisag-irk.2gis.biz",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.280944,
+          52.276606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a26f37e7-d3e3-4e04-8ce3-0ad2d2a96645",
+      "properties": {
+        "name": "Вернисаж, сеть кондитерских",
+        "subcategory": "Кафе-кондитерские",
+        "rating": "2.7",
+        "site": "http://vernisag-irk.2gis.biz",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.274903,
+          52.24813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "73a5037c-6ba4-4b34-a3f4-9db81da5fd97",
+      "properties": {
+        "name": "Вернисаж, сеть кондитерских",
+        "subcategory": "Кафе-кондитерские",
+        "rating": "3.9",
+        "site": "http://vernisag-irk.2gis.biz",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.253835,
+          52.275301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1802c5da-c79f-4252-8961-be2ddb71fb45",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "4.8",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.308912,
+          52.277022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fed000d9-4dd5-4805-b2b8-6e894031a534",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "4.8",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.335724,
+          52.462554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6b82fc20-7341-4ae4-9860-afaa918db941",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "4.9",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.258682,
+          52.263418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4280258c-d510-48df-8f24-776bd6fcc6a4",
+      "properties": {
+        "name": "Miym, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.285829,
+          52.235571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1c74d669-4c21-48c6-9170-9d7f4ad8e9c9",
+      "properties": {
+        "name": "Каде, кафе-кондитерская",
+        "subcategory": "Кафе, Кафе-кондитерские, Кондитерские изделия, Конференц-залы / Переговорные комнаты, Кофейни",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.253835,
+          52.275301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6f80762c-dd67-4b07-a599-b663939e52f2",
+      "properties": {
+        "name": "Мария, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские",
+        "rating": "5.0",
+        "site": "http://www.maria-irk.ru/",
+        "hours": "Пн: с 08:00 до 18:00, Вт: с 08:00 до 18:00, Ср: с 08:00 до 18:00, Чт: с 08:00 до 18:00, Пт: с 08:00 до 18:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.358708,
+          52.257172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "844ec91e-151d-4ed3-93f4-ca094f14f92e",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.9",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.301765,
+          52.262588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6a7d3a41-9b07-45ba-8710-d73abb670867",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "5.0",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.140466,
+          52.352309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "974c4e7d-3ea9-4bab-8c91-3df1d23d24b8",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "nan",
+        "site": "http://stefanycake.ru",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.063315,
+          52.208382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e380c767-5171-4d39-a0a2-d49178922e20",
+      "properties": {
+        "name": "Моя Мишель, кофейня",
+        "subcategory": "Кафе-кондитерские, Кофейни",
+        "rating": "5.0",
+        "site": "http://t.me/mymichelle_38",
+        "hours": "Ежедневно с 09:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.361927,
+          52.24779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2343687c-a4ae-416d-9005-c41734e87334",
+      "properties": {
+        "name": "Вкус №1, кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.423811,
+          52.238362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e4d2c2f1-4c06-4f69-8173-320b47148ae8",
+      "properties": {
+        "name": "Стефания, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия, Кофейни, Хлебобулочные изделия",
+        "rating": "5.0",
+        "site": "http://stefanycake.ru",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.297382,
+          52.222094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4295ae64-fdaf-41e2-9a54-6c958a2d253b",
+      "properties": {
+        "name": "Marco Polo, кофейня",
+        "subcategory": "Кафе-кондитерские, Кофейни",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.587541,
+          51.832989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6d287fdc-7c28-4f9f-af7e-c18d613403de",
+      "properties": {
+        "name": "Клубничка, блинная-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.8",
+        "site": "http://tortklubnichka.ru/",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.583559,
+          51.82838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0ea30d6a-31c9-4669-8058-ac923f2c7500",
+      "properties": {
+        "name": "Rittel, кафе",
+        "subcategory": "Кафе, Кафе-кондитерские",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.617697,
+          51.811655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a3fe33f2-5c75-4b2a-91b0-7a2c0d68b23a",
+      "properties": {
+        "name": "My Pie, кафе-кондитерская",
+        "subcategory": "Доставка еды, Кафе-кондитерские, Кофейни",
+        "rating": "4.6",
+        "site": "http://manka-cafe.ru",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.653427,
+          51.805939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5995dc0c-18c7-42a7-abcf-f09daccd3548",
+      "properties": {
+        "name": "Posto, кофейня",
+        "subcategory": "Кафе-кондитерские, Кофейни",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 10:00 до 20:00, Вс: с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.577226,
+          51.83646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fb7a1407-118e-49be-b465-7015a287c6ad",
+      "properties": {
+        "name": "Manka, кафе",
+        "subcategory": "Доставка еды, Кафе, Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593377,
+          51.828104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9248dddf-82a1-4a35-a1c7-756707000891",
+      "properties": {
+        "name": "Сладкоежка, кофейня",
+        "subcategory": "Кафе-кондитерские, Кофейни",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.577547,
+          51.835776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a9315caa-ce4e-4911-9e7e-b0bcddafde9e",
+      "properties": {
+        "name": "Карамелька, кафе-кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Пн: с 10:00 до 19:00, Вт: с 10:00 до 19:00, Ср: с 10:00 до 19:00, Чт: с 10:00 до 19:00, Пт: с 10:00 до 19:00, Сб: с 10:00 до 19:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.602031,
+          51.840116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "86d69f9a-a176-4677-9b86-4e35bdb4bbac",
+      "properties": {
+        "name": "Sort &, кафе",
+        "subcategory": "Доставка еды, Кафе, Кафе-кондитерские, Кондитерские изделия, Кофейни",
+        "rating": "4.5",
+        "site": "http://menu.sort-cafe.ru",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.587458,
+          51.833177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ff16bf0f-6fce-48dc-84d8-4b19a02006cb",
+      "properties": {
+        "name": "My Pie, кондитерская",
+        "subcategory": "Кафе-кондитерские, Кондитерские изделия",
+        "rating": "4.4",
+        "site": "http://manka-cafe.ru",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.670757,
+          51.813261
+        ]
+      }
+    }
+  ]
+}

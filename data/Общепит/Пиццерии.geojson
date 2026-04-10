@@ -1,0 +1,1882 @@
+{
+  "type": "FeatureCollection",
+  "name": "Пиццерии",
+  "style": {
+    "color": "blue",
+    "radius": 6
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "6ccdd8c0-97fe-4957-8207-34e2c33a6104",
+      "properties": {
+        "name": "Пицца Домино, пиццерия",
+        "subcategory": "Быстрое питание, Пиццерии",
+        "rating": "3.1",
+        "site": "nan",
+        "hours": "Пн: с 08:30 до 18:00, Вт: с 08:30 до 18:00, Ср: с 08:30 до 18:00, Чт: с 08:30 до 18:00, Пт: с 08:30 до 18:00, Сб: с 10:00 до 19:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.314546,
+          52.231528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8beb7752-23f6-421f-a52d-d29fe36f3310",
+      "properties": {
+        "name": "Вечерняя, пиццерия",
+        "subcategory": "Кафе, Пиццерии",
+        "rating": "3.4",
+        "site": "nan",
+        "hours": "Пн: с 10:00 до 03:00, Вт: с 10:00 до 03:00, Ср: с 10:00 до 03:00, Чт: с 10:00 до 03:00, Пт: с 10:00 до 04:00, Сб: с 10:00 до 04:00, Вс: с 10:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.208947,
+          52.329629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2d25d446-4aa5-4f32-997a-795b526dad2f",
+      "properties": {
+        "name": "Макфудс, ресторан быстрого питания",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.1",
+        "site": "http://macfuds.ru, http://macfuds38.ru",
+        "hours": "Пн: с 10:00 до 21:00, Вт: с 10:00 до 21:00, Ср: с 10:00 до 21:00, Чт: с 10:00 до 21:00, Пт: с 10:00 до 22:00, Сб: с 10:00 до 22:00, Вс: с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.064078,
+          52.207923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17a278c3-9a7b-4ed8-8e39-4a12cdb0f36d",
+      "properties": {
+        "name": "Папа Джонс, пиццерия",
+        "subcategory": "Быстрое питание, Пиццерии",
+        "rating": "4.5",
+        "site": "http://papajohns.ru/irkutsk",
+        "hours": "Ежедневно с 10:00 до 23:00 (служба доставки: пн-вс круглосуточно)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.279355,
+          52.282305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7f87d0ee-49df-40fa-955c-72b6d23c7016",
+      "properties": {
+        "name": "Папа Джонс, пиццерия",
+        "subcategory": "Быстрое питание, Пиццерии",
+        "rating": "4.7",
+        "site": "http://papajohns.ru/irkutsk",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.259743,
+          52.265156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "da904f31-7cb6-4293-89f0-ef51c1769af2",
+      "properties": {
+        "name": "Cheese Pizza, пиццерия",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии, Сыры",
+        "rating": "4.6",
+        "site": "http://www.cheese-pizza.ru",
+        "hours": "Ежедневно с 10:00 до 22:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.354089,
+          52.250403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27dfcca5-e356-488a-a451-662d4f52bfa0",
+      "properties": {
+        "name": "Ла Витто, кафе итальянской кухни",
+        "subcategory": "Доставка еды, Кафе, Пиццерии",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.311245,
+          52.266663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "809e649d-b470-49b7-b210-08469aab3080",
+      "properties": {
+        "name": "Папа Джонс, пиццерия",
+        "subcategory": "Быстрое питание, Пиццерии",
+        "rating": "4.5",
+        "site": "http://papajohns.ru/irkutsk",
+        "hours": "Ежедневно с 10:00 до 23:00 (служба доставки: пн-вс круглосуточно)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.322091,
+          52.27948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b44872a5-b595-4524-8ed0-ca54dbc66752",
+      "properties": {
+        "name": "Фокс Pizza, ресторан доставки",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "3.9",
+        "site": "http://fox-pizza.ru/, http://t.me/foxpizzairk",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.304014,
+          52.263595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15f1395f-9eaf-4e37-ad7c-21bbea6f13fb",
+      "properties": {
+        "name": "Фокс Pizza, ресторан доставки",
+        "subcategory": "Быстрое питание, Доставка еды, Кафе, Пиццерии",
+        "rating": "4.5",
+        "site": "http://fox-pizza.ru/, http://t.me/foxpizzairk",
+        "hours": "Ежедневно с 10:00 до 23:00 (служба доставки: пн-вс круглосуточно)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.315436,
+          52.232416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c2e1d506-9a34-4760-8ad9-3302688cc597",
+      "properties": {
+        "name": "Рокфор, пиццерия",
+        "subcategory": "Быстрое питание, Пиццерии",
+        "rating": "3.7",
+        "site": "http://rok-for.ru",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.283577,
+          52.280348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f8d2df9c-c54e-403b-8566-522bd612b1ce",
+      "properties": {
+        "name": "Папа Джонс, пиццерия",
+        "subcategory": "Быстрое питание, Пиццерии",
+        "rating": "4.5",
+        "site": "http://papajohns.ru/irkutsk",
+        "hours": "Ежедневно с 10:00 до 23:00 (служба доставки: пн-вс круглосуточно)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.308704,
+          52.229375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0cead514-2ee6-4ee8-85d8-dfaaffa841b3",
+      "properties": {
+        "name": "Папа Джонс, пиццерия",
+        "subcategory": "Быстрое питание, Пиццерии",
+        "rating": "4.6",
+        "site": "http://papajohns.ru/irkutsk",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.226297,
+          52.265032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ae589b13-97dc-435c-84ed-b15270b424fd",
+      "properties": {
+        "name": "Rokket Pizza, пиццерия",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "2.5",
+        "site": "http://rokket.ru",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.302385,
+          52.317307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "340ef5ad-d2b7-444b-8cc0-c66fa09473f8",
+      "properties": {
+        "name": "Пицца hot, сеть пиццерий",
+        "subcategory": "Быстрое питание, Пиццерии",
+        "rating": "4.6",
+        "site": "http://pizzahot.me",
+        "hours": "Ежедневно с 09:20 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.431581,
+          52.246456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "202ec6ed-3f1a-4828-89f3-abc79953cfa5",
+      "properties": {
+        "name": "Фокс Pizza, ресторан доставки",
+        "subcategory": "Быстрое питание, Доставка еды, Кафе, Пиццерии",
+        "rating": "4.7",
+        "site": "http://fox-pizza.ru/, http://t.me/foxpizzairk",
+        "hours": "Ежедневно с 10:00 до 23:00 (служба доставки: пн-вс круглосуточно)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.25941,
+          52.251706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0ba0e880-047b-4ffd-9406-3973d4f166ca",
+      "properties": {
+        "name": "Папа Джонс, пиццерия",
+        "subcategory": "Быстрое питание, Пиццерии",
+        "rating": "4.6",
+        "site": "http://papajohns.ru/irkutsk",
+        "hours": "Ежедневно с 10:00 до 23:00 (служба доставки: пн-вс круглосуточно)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.198311,
+          52.337385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ed615022-701a-4033-af15-1d541c4bf4aa",
+      "properties": {
+        "name": "Пицца hot, сеть пиццерий",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.6",
+        "site": "http://pizzahot.me",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.364915,
+          52.253147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f806402a-51f4-478c-b747-6c3de96d94e8",
+      "properties": {
+        "name": "Фокс Pizza, ресторан доставки",
+        "subcategory": "Быстрое питание, Доставка еды, Кафе, Пиццерии",
+        "rating": "4.6",
+        "site": "http://fox-pizza.ru/, http://t.me/foxpizzairk",
+        "hours": "Ежедневно с 10:00 до 23:00 (служба доставки: пн-вс круглосуточно)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.154865,
+          52.353488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6635109f-2026-4bca-b79c-8316ef96adfa",
+      "properties": {
+        "name": "Pizza Sun, пиццерия",
+        "subcategory": "Доставка еды, Кафе, Пиццерии",
+        "rating": "4.7",
+        "site": "http://pizzasun38.ru",
+        "hours": "Пн: с 10:00 до 21:30, Вт: с 10:00 до 21:30, Ср: с 10:00 до 21:30, Чт: с 10:00 до 21:30, Пт: с 10:00 до 21:30, Сб: с 10:00 до 22:00, Вс: с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.347288,
+          52.250706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9aa7fe36-2c7a-4d44-9a94-c8504f0f235e",
+      "properties": {
+        "name": "Cheese Pizza, пиццерия",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.3",
+        "site": "http://www.cheese-pizza.ru",
+        "hours": "Ежедневно с 10:00 до 22:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.316976,
+          52.259809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8ddc87ce-4c55-40ff-9e60-d049b2450e90",
+      "properties": {
+        "name": "Фокс Pizza, ресторан доставки",
+        "subcategory": "Быстрое питание, Доставка еды, Кафе, Пиццерии",
+        "rating": "4.7",
+        "site": "http://fox-pizza.ru/, http://t.me/foxpizzairk",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.258653,
+          52.264498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "951be296-9405-4c00-a2fd-e7d9804a3c70",
+      "properties": {
+        "name": "Пицца hot, сеть пиццерий",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.8",
+        "site": "http://pizzahot.me",
+        "hours": "Пн: с 10:00 до 22:00, Вт: с 10:00 до 22:00, Ср: с 10:00 до 22:00, Чт: с 10:00 до 22:00, Пт: с 10:00 до 23:00, Сб: с 10:00 до 23:00, Вс: с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.313549,
+          52.255446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d9e03060-7975-402e-914b-6f84d989a48e",
+      "properties": {
+        "name": "Додо Пицца, сеть пиццерий",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.6",
+        "site": "http://app.dodopizza.ru/YlkM/2GIS",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3298,
+          52.264508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9475df72-dc65-4167-83ec-40b76a36a893",
+      "properties": {
+        "name": "Фокс Pizza, ресторан доставки",
+        "subcategory": "Быстрое питание, Доставка еды, Кафе, Пиццерии",
+        "rating": "4.5",
+        "site": "http://fox-pizza.ru/, http://t.me/foxpizzairk",
+        "hours": "Ежедневно с 10:00 до 23:00 (служба доставки: пн-вс круглосуточно)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.332256,
+          52.27925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4e0050dc-01a7-4c68-8429-6ee136ac59e6",
+      "properties": {
+        "name": "Фокс Pizza, ресторан доставки",
+        "subcategory": "Быстрое питание, Доставка еды, Кафе, Пиццерии",
+        "rating": "4.1",
+        "site": "http://fox-pizza.ru/, http://t.me/foxpizzairk",
+        "hours": "Ежедневно с 10:00 до 20:00 (служба доставки: пн-вс 10:00-21:20)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.307366,
+          52.288061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "af9147ba-0058-4336-845c-28c2434e6248",
+      "properties": {
+        "name": "Фокс Pizza, ресторан доставки",
+        "subcategory": "Быстрое питание, Доставка еды, Кафе, Пиццерии",
+        "rating": "4.5",
+        "site": "http://fox-pizza.ru/, http://t.me/foxpizzairk",
+        "hours": "Ежедневно с 10:00 до 23:00 (служба доставки: пн-вс круглосуточно)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.213125,
+          52.259186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f3199887-7d3b-4240-b046-7bdaa866b5ce",
+      "properties": {
+        "name": "Фокс Pizza, ресторан доставки",
+        "subcategory": "Быстрое питание, Доставка еды, Кафе, Пиццерии",
+        "rating": "4.4",
+        "site": "http://fox-pizza.ru/, http://t.me/foxpizzairk",
+        "hours": "Ежедневно с 10:00 до 20:00 (служба доставки: пн-вс 10:00-23:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.177731,
+          52.349466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7080bd4b-22c0-4ebe-9323-94406fb4def5",
+      "properties": {
+        "name": "Papito, пиццерия",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.8",
+        "site": "http://papito-irk.ru, http://taplink.cc/papito",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.303145,
+          52.262193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "85020f10-78bd-4144-8964-6fe03173bf11",
+      "properties": {
+        "name": "Фокс Pizza, ресторан доставки",
+        "subcategory": "Быстрое питание, Доставка еды, Кафе, Пиццерии",
+        "rating": "4.6",
+        "site": "http://fox-pizza.ru/, http://t.me/foxpizzairk",
+        "hours": "Ежедневно с 10:00 до 23:00 (служба доставки: пн-вс круглосуточно)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.219312,
+          52.354934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "82b4650b-ebcf-4eee-af33-dccff7f5fc25",
+      "properties": {
+        "name": "Pizza Pitano, ресторан итальянской кухни",
+        "subcategory": "Пиццерии, Рестораны",
+        "rating": "4.6",
+        "site": "http://pitano.ru",
+        "hours": "Ежедневно с 09:30 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.22651,
+          52.265366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dc0dc673-5f5c-4330-9c06-508baa84d023",
+      "properties": {
+        "name": "Фокс Pizza, ресторан доставки",
+        "subcategory": "Быстрое питание, Доставка еды, Кафе, Пиццерии",
+        "rating": "4.5",
+        "site": "http://fox-pizza.ru/, http://t.me/foxpizzairk",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.281558,
+          52.282284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7f9c6db2-be7b-4dfa-9d86-2332fc80c27b",
+      "properties": {
+        "name": "Додо Пицца, сеть пиццерий",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.7",
+        "site": "http://app.dodopizza.ru/YlkM/2GIS",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.248904,
+          52.255343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ded49ef5-281e-49c6-90d9-1a9044692ee2",
+      "properties": {
+        "name": "Додо Пицца, сеть пиццерий",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.8",
+        "site": "http://app.dodopizza.ru/YlkM/2GIS",
+        "hours": "Пн: с 08:00 до 23:00, Вт: с 08:00 до 23:00, Ср: с 08:00 до 23:00, Чт: с 08:00 до 23:00, Пт: с 08:00 до 23:00, Сб: с 10:00 до 23:00, Вс: с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28943,
+          52.285874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b4671964-07af-45f9-b10d-09ceea9a42e1",
+      "properties": {
+        "name": "Кенга пицца",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.6",
+        "site": "http://kengapizza.ru",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.226738,
+          52.26509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ae44a888-c64e-43af-aee7-d2d4581d4812",
+      "properties": {
+        "name": "Пицца hot, сеть пиццерий",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.6",
+        "site": "http://pizzahot.me",
+        "hours": "Пн: с 10:00 до 22:00, Вт: с 10:00 до 22:00, Ср: с 10:00 до 22:00, Чт: с 10:00 до 22:00, Пт: с 10:00 до 23:00, Сб: с 10:00 до 23:00, Вс: с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.260225,
+          52.252276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2d3f938e-eceb-42d0-bb3f-c1e11d3ed036",
+      "properties": {
+        "name": "Пицца hot, сеть пиццерий",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.7",
+        "site": "http://pizzahot.me",
+        "hours": "Пн: с 10:00 до 22:00, Вт: с 10:00 до 22:00, Ср: с 10:00 до 22:00, Чт: с 10:00 до 22:00, Пт: с 10:00 до 23:00, Сб: с 10:00 до 23:00, Вс: с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.153619,
+          52.351984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c8dafbd1-87cb-40bb-aed7-724693b07380",
+      "properties": {
+        "name": "Pizza shop, пиццерия",
+        "subcategory": "Доставка еды, Кафе, Пиццерии",
+        "rating": "4.5",
+        "site": "http://pizzashop.2gis.biz/",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.226587,
+          52.252916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ef29455b-0e54-4365-8f7d-07f3d3e1b890",
+      "properties": {
+        "name": "Да! Ёж! Пицца!, пиццерия",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.3",
+        "site": "http://ej-pizza.ru",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.144639,
+          52.351513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fc40bdd3-f186-43f6-8de9-577c029de18d",
+      "properties": {
+        "name": "Кудесница, кафе авторской кухни",
+        "subcategory": "Кафе, Пиццерии",
+        "rating": "4.6",
+        "site": "http://cafekudesnitsa.ru",
+        "hours": "Пн: с 14:00 до 22:00, Вт: выходной, Ср: с 14:00 до 22:00, Чт: с 14:00 до 22:00, Пт: с 14:00 до 22:00, Сб: с 14:00 до 22:00, Вс: с 14:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.348808,
+          53.192548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e009b309-8ec6-4e90-8f26-3970e94e388e",
+      "properties": {
+        "name": "Rikko pizza, пиццерия",
+        "subcategory": "Быстрое питание, Доставка еды, Кафе, Пиццерии",
+        "rating": "4.0",
+        "site": "http://rikkopizza.ru, http://t.me/rikkopizza_homutovo",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.344052,
+          52.463798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cfb914f5-0787-4c2b-b7e1-404455be92b1",
+      "properties": {
+        "name": "Cheddar Pizza, служба доставки пиццы",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.6",
+        "site": "http://cheddarpizza.ru",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.328388,
+          52.267583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5f5fdec3-00e6-4421-89a6-058d18ecd7b0",
+      "properties": {
+        "name": "Papa Pizza&Wok, пиццерия",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.304272,
+          52.227471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "693a2e21-3a9f-428e-8fe9-6ba477a748f6",
+      "properties": {
+        "name": "Додо Пицца, сеть пиццерий",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.8",
+        "site": "http://app.dodopizza.ru/YlkM/2GIS",
+        "hours": "Пн: с 10:00 до 22:00, Вт: с 10:00 до 22:00, Ср: с 10:00 до 22:00, Чт: с 10:00 до 22:00, Пт: с 10:00 до 23:00, Сб: с 10:00 до 23:00, Вс: с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.150122,
+          52.350933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7f97e57d-65d9-4774-84df-92a9b489d21f",
+      "properties": {
+        "name": "Мистер Мясо&Пицца",
+        "subcategory": "Доставка еды, Кафе, Пиццерии",
+        "rating": "4.8",
+        "site": "http://mistermyaso.ru",
+        "hours": "Пн: с 10:00 до 23:00, Вт: с 10:00 до 23:00, Ср: с 10:00 до 23:00, Чт: с 10:00 до 23:00, Пт: с 10:00 до 23:00, Сб: с 10:00 до 23:00, Вс: с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.30884,
+          52.278192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d6f93f23-0760-4689-9b78-07e70eec5002",
+      "properties": {
+        "name": "Пицца hot, сеть пиццерий",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.5",
+        "site": "http://pizzahot.me",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.293661,
+          52.234318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0c3798a8-5b22-49c6-b31b-75f219c444d5",
+      "properties": {
+        "name": "La pizza bomba",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.9",
+        "site": "http://lapizzabomba.ru",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.15002,
+          51.523494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ab68ce7a-e9b3-4e11-b43a-1a69bfe0c0b9",
+      "properties": {
+        "name": "Пицца hot, сеть пиццерий",
+        "subcategory": "Быстрое питание, Пиццерии",
+        "rating": "4.6",
+        "site": "http://pizzahot.me",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.326816,
+          52.26658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96708f25-5121-493f-8bf2-98fa26a5faed",
+      "properties": {
+        "name": "Фокс Pizza, ресторан доставки",
+        "subcategory": "Быстрое питание, Доставка еды, Кафе, Пиццерии",
+        "rating": "4.4",
+        "site": "http://fox-pizza.ru/, http://t.me/foxpizzairk",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.094305,
+          52.210922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6db41e13-e645-4983-9f24-58afa225c516",
+      "properties": {
+        "name": "Смайл пицца, пиццерия",
+        "subcategory": "Быстрое питание, Пиццерии",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.052847,
+          52.220634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96fd7bdc-7814-401d-90c2-f1838917a87c",
+      "properties": {
+        "name": "ТУТ, бистро",
+        "subcategory": "Доставка еды, Кафе, Пиццерии",
+        "rating": "4.8",
+        "site": "http://tut-bistro.ru",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.298466,
+          52.271926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "75980711-a837-4b6e-b013-55d2bc7a5380",
+      "properties": {
+        "name": "Пицца hot, сеть пиццерий",
+        "subcategory": "Быстрое питание, Пиццерии",
+        "rating": "4.7",
+        "site": "http://pizzahot.me",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.294131,
+          52.292851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ed9b6a1b-fd1c-4dda-8b67-5b7f1ffa2185",
+      "properties": {
+        "name": "Фокс Pizza, ресторан доставки",
+        "subcategory": "Быстрое питание, Доставка еды, Кафе, Пиццерии",
+        "rating": "4.7",
+        "site": "http://fox-pizza.ru/, http://t.me/foxpizzairk",
+        "hours": "Ежедневно с 10:00 до 23:00 (служба доставки: пн-вс круглосуточно)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.233441,
+          52.253747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2172c4af-029a-47cb-9bc1-936d6f5ff548",
+      "properties": {
+        "name": "Сибиряк, пиццерия",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.7",
+        "site": "http://sibiryak-eda.ru",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.152525,
+          52.297335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d4152a3f-d904-4148-a785-10db351b619e",
+      "properties": {
+        "name": "Pizza Pitano, ресторан итальянской кухни",
+        "subcategory": "Доставка еды, Пиццерии, Рестораны",
+        "rating": "4.6",
+        "site": "http://pitano.ru",
+        "hours": "Ежедневно с 09:30 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289281,
+          52.267385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b46dfff7-1e91-488b-834d-d9a3ab3a98ce",
+      "properties": {
+        "name": "Take Pizza, коно-пиццерия",
+        "subcategory": "Быстрое питание, Пиццерии",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:30 до 21:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.304267,
+          52.28927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9236c4c5-8627-4b9d-a200-00eddd9c05a4",
+      "properties": {
+        "name": "La pizza bomba",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "5.0",
+        "site": "http://lapizzabomba.ru",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.121534,
+          51.509269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9e16ee8b-f2dc-494e-8aec-4873821599ca",
+      "properties": {
+        "name": "Додо Пицца, сеть пиццерий",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.8",
+        "site": "http://app.dodopizza.ru/YlkM/2GIS, http://dodopizza.ru/Irkutsk",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.285925,
+          52.27589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "92b9e792-6e2d-4185-a37d-d0db5dceb94a",
+      "properties": {
+        "name": "Топка, пиццерия",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.326329,
+          52.258793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fd5e0635-1515-40da-a1c3-0622180430d4",
+      "properties": {
+        "name": "Rikko pizza, пиццерия",
+        "subcategory": "Быстрое питание, Доставка еды, Кафе, Пиццерии",
+        "rating": "4.7",
+        "site": "http://rikkopizza.ru",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.253022,
+          52.285587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2ea8bf6b-d5c6-4cb0-b97a-95059a937978",
+      "properties": {
+        "name": "Ай да пицца, кафе",
+        "subcategory": "Кафе, Пиццерии",
+        "rating": "4.8",
+        "site": "http://t.me/i_da_pizza, http://t.me/ozera_club",
+        "hours": "Пн: с 10:00 до 22:00, Вт: с 10:00 до 22:00, Ср: с 10:00 до 22:00, Чт: с 10:00 до 22:00, Пт: с 10:00 до 23:00, Сб: с 10:00 до 23:00, Вс: с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.647217,
+          51.395828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7978ad42-db29-40a7-95ef-64ce1576d73e",
+      "properties": {
+        "name": "Мясная лавка",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.310645,
+          52.266902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3cdf0ffe-f699-44b7-a1c5-b370eb7e6d07",
+      "properties": {
+        "name": "Pizzeria, кафе",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.8",
+        "site": "http://pizzeria-irk.ru",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.29212,
+          52.207906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c1511bef-63b4-4b3f-8145-e6d5a668ba31",
+      "properties": {
+        "name": "Фокс Pizza, ресторан доставки",
+        "subcategory": "Быстрое питание, Доставка еды, Кафе, Пиццерии",
+        "rating": "4.6",
+        "site": "http://fox-pizza.ru/, http://t.me/foxpizzairk",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.329952,
+          52.266962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b9d0870b-76f0-442b-8fc6-cbcf6808671a",
+      "properties": {
+        "name": "Пицца hot, сеть пиццерий",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.7",
+        "site": "http://pizzahot.me",
+        "hours": "Пн: с 10:00 до 22:00, Вт: с 10:00 до 22:00, Ср: с 10:00 до 22:00, Чт: с 10:00 до 22:00, Пт: с 10:00 до 23:00, Сб: с 10:00 до 23:00, Вс: с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.250146,
+          52.279232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1b19ce8c-7e4e-45c2-bcfc-522fadf57558",
+      "properties": {
+        "name": "Pizzeria, кафе",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "5.0",
+        "site": "http://pizzeria-irk.ru",
+        "hours": "Ежедневно с 11:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.237434,
+          52.284828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "164620bd-e1ab-4913-a128-2961054864d8",
+      "properties": {
+        "name": "Топка, пиццерия",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.327692,
+          52.251629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12cce4d3-5b0b-4236-9cc9-47b54f220471",
+      "properties": {
+        "name": "Rikko pizza, пиццерия",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.8",
+        "site": "http://rikkopizza.ru",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.330039,
+          52.266928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "562297fd-ccc6-40c8-8c91-14a0e9175b52",
+      "properties": {
+        "name": "Садко Пицца",
+        "subcategory": "Доставка еды, Кафе, Пиццерии",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.406044,
+          52.471199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "94d6de3d-17e0-4745-a475-c2aff2425568",
+      "properties": {
+        "name": "La pizza bomba",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.9",
+        "site": "http://lapizzabomba.ru",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.305093,
+          52.276159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "709fb242-dc81-4163-b2fd-277d0fa48d7d",
+      "properties": {
+        "name": "Сибиряк, пиццерия",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.6",
+        "site": "http://sibiryak-eda.ru",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.151775,
+          52.349867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "52cb04c7-82b1-4ac8-aaf5-ba493f1176d2",
+      "properties": {
+        "name": "Dark KitcheN 38, ресторан доставки еды",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "3.6",
+        "site": "http://darkkitchen38.ru",
+        "hours": "Ежедневно с 09:30 до 06:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288841,
+          52.274036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2d35c9c2-1f58-496f-b1bf-363114a3f5bd",
+      "properties": {
+        "name": "Топка, пиццерия",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.24092,
+          52.261192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "17b2aaa9-f857-417c-81c1-3f604e09606e",
+      "properties": {
+        "name": "Макшнакнекс",
+        "subcategory": "Быстрое питание, Пиццерии",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.310645,
+          52.266902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4e38071e-d8f8-4beb-bb08-8409579d0838",
+      "properties": {
+        "name": "O`MaiPizza",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.6",
+        "site": "http://omaipizza.ru",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.393506,
+          52.252872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2274d264-d109-4e4f-a253-44d1a048a360",
+      "properties": {
+        "name": "Пиццеполис",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.7",
+        "site": "http://t.me/picepolis, http://xn--e1afblodct3ba.xn--p1ai",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.219171,
+          52.458802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3282c5b9-9fd2-4f15-9e4a-65ee25de2465",
+      "properties": {
+        "name": "Додо Пицца, сеть пиццерий",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "nan",
+        "site": "http://app.dodopizza.ru/YlkM/2GIS",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.312037,
+          52.228897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ea093cdd-6ba6-444d-babc-d09ccd09c632",
+      "properties": {
+        "name": "Перцы, пиццерия",
+        "subcategory": "Кафе, Пиццерии",
+        "rating": "3.8",
+        "site": "http://peoplespizza.ru/",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 01:00, Сб: с 10:00 до 01:00, Вс: с 10:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.663959,
+          51.81231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5f1d198e-1101-4964-babc-14b977104708",
+      "properties": {
+        "name": "Додо Пицца, сеть пиццерий",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.6",
+        "site": "http://app.dodopizza.ru/YlkM/2GIS",
+        "hours": "Ежедневно с 09:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.584459,
+          51.833309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9bd7a263-c533-428f-b6c0-f5c38050e2a4",
+      "properties": {
+        "name": "TEMAKI, кафе",
+        "subcategory": "Доставка еды, Кафе, Пиццерии, Суши-бары",
+        "rating": "4.4",
+        "site": "http://t.me/temaki03, http://temaki.ru",
+        "hours": "Пн: с 11:00 до 23:00, Вт: с 11:00 до 23:00, Ср: с 11:00 до 23:00, Чт: с 11:00 до 23:00, Пт: с 11:00 до 24:00, Сб: с 11:00 до 24:00, Вс: с 11:00 до 23:00 (служба доставки: пн-чт, вс 10:00-22:30; пт-сб 10:00-23:30)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.632971,
+          51.820845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "56d1b5d9-cc52-48c5-8495-69dc32845b46",
+      "properties": {
+        "name": "ЯРоллов, фьюжн-ресторан",
+        "subcategory": "Доставка еды, Кафе, Пиццерии, Рестораны, Суши-бары",
+        "rating": "4.3",
+        "site": "http://yarollov.ru",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.590118,
+          51.82396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4d944393-12da-4926-af45-ed84f445bb57",
+      "properties": {
+        "name": "ЯРоллов, фьюжн-ресторан",
+        "subcategory": "Доставка еды, Кафе, Пиццерии, Рестораны, Суши-бары",
+        "rating": "4.0",
+        "site": "http://yarollov.ru",
+        "hours": "Ежедневно с 11:00 до 23:00 (служба доставки: пн-вс 10:00-00:30)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.67068,
+          51.813358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "375b0af9-d838-428e-b3bf-35835017f715",
+      "properties": {
+        "name": "Россия, пиццерия",
+        "subcategory": "Быстрое питание, Доставка еды, Караоке-залы, Кафе, Пиццерии",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.520872,
+          51.288833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5cb28535-d1f4-417b-b3f5-b32845d85b9e",
+      "properties": {
+        "name": "ЯРоллов, фьюжн-ресторан",
+        "subcategory": "Доставка еды, Кафе, Пиццерии, Рестораны, Суши-бары",
+        "rating": "4.2",
+        "site": "http://t.me/yarollov, http://yarollov.ru",
+        "hours": "Ежедневно с 11:00 до 23:00 (служба доставки: пн-вс 10:00-00:30)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.591073,
+          51.825369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4782aed6-959f-48eb-a05c-d01a1c9eba7a",
+      "properties": {
+        "name": "Вилби, кафе",
+        "subcategory": "Быстрое питание, Доставка еды, Кафе, Пиццерии",
+        "rating": "4.6",
+        "site": "http://vilbi.ru",
+        "hours": "Ежедневно с 10:00 до 22:00 (служба доставки: пн-вс 9:00-23:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.585771,
+          51.824875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ed8eac76-c8b8-43b2-bd1b-1d0a3528597b",
+      "properties": {
+        "name": "Вилби, кафе",
+        "subcategory": "Быстрое питание, Доставка еды, Кафе, Пиццерии",
+        "rating": "4.3",
+        "site": "http://vilbi.ru",
+        "hours": "Ежедневно с 09:30 до 22:00 (служба доставки: пн-вс 9:00-23:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.662336,
+          51.81096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f94367da-4cb4-45e5-8d47-14f67293685f",
+      "properties": {
+        "name": "Вилби, кафе",
+        "subcategory": "Кафе, Пиццерии",
+        "rating": "4.1",
+        "site": "http://vilbi.ru",
+        "hours": "Ежедневно с 10:00 до 21:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.57288,
+          51.834778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "32adaa9b-2b9b-4749-9395-a1076fb64142",
+      "properties": {
+        "name": "Дзен пицца, пиццерия",
+        "subcategory": "Доставка еды, Кафе, Пиццерии",
+        "rating": "4.6",
+        "site": "http://dzenpizza.ru",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.578759,
+          51.835331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5e71fe04-70e0-4161-8097-bec88bd8ff93",
+      "properties": {
+        "name": "Вилби, кафе",
+        "subcategory": "Быстрое питание, Доставка еды, Кафе, Пиццерии",
+        "rating": "4.6",
+        "site": "http://vilbi.ru",
+        "hours": "Ежедневно с 09:00 до 23:00 (служба доставки: пн-вс 9:00-23:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.596016,
+          51.838081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f6444411-8a4d-4076-9801-fa4539252ad8",
+      "properties": {
+        "name": "ЯРоллов, фьюжн-ресторан",
+        "subcategory": "Доставка еды, Кафе, Пиццерии, Рестораны, Суши-бары",
+        "rating": "4.0",
+        "site": "http://yarollov.ru",
+        "hours": "Ежедневно с 11:00 до 23:00 (служба доставки: пн-вс 10:00-00:30)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59755,
+          51.838768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6a43bb75-ff60-48a2-8623-80fb28baabcd",
+      "properties": {
+        "name": "TEMAKI, кафе",
+        "subcategory": "Доставка еды, Кафе, Пиццерии, Суши-бары",
+        "rating": "4.3",
+        "site": "http://temaki.ru",
+        "hours": "Ежедневно с 11:00 до 23:00 (служба доставки: пн-чт, вс 10:00-22:30; пт-сб 10:00-23:30)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59044,
+          51.841237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "49781cd7-80ed-401f-ab90-ce9db162e392",
+      "properties": {
+        "name": "Венеция, пиццерия",
+        "subcategory": "Кафе, Пиццерии",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.584606,
+          51.829361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dbbc22f5-2d21-496f-b2cc-4fb142e980ba",
+      "properties": {
+        "name": "Рыба И Мясо, гриль-бар",
+        "subcategory": "Доставка еды, Кафе, Пиццерии",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Пн: с 11:00 до 23:00, Вт: с 11:00 до 23:00, Ср: с 11:00 до 23:00, Чт: с 11:00 до 23:00, Пт: с 11:00 до 24:00, Сб: с 11:00 до 24:00, Вс: с 11:00 до 23:00 (служба доставки: вс-чт 10:00-23:00; пт-сб 10:00-00:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.614558,
+          51.812846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6034bd0b-2bc5-4d52-aedb-2d7040e854e2",
+      "properties": {
+        "name": "TEMAKI, кафе",
+        "subcategory": "Доставка еды, Кафе, Пиццерии, Суши-бары",
+        "rating": "4.5",
+        "site": "http://temaki.ru",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607848,
+          51.808395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ebbc3143-5fa5-41d3-bf50-59f731b1cbdc",
+      "properties": {
+        "name": "Дзен пицца, пиццерия",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.7",
+        "site": "http://dzenpizza.ru",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.65993,
+          51.806716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4d342206-ed13-4ded-ba99-8414729e83e5",
+      "properties": {
+        "name": "Додо Пицца, сеть пиццерий",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.6",
+        "site": "http://app.dodopizza.ru/YlkM/2GIS",
+        "hours": "Ежедневно с 09:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.633544,
+          51.821083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "25896b82-687e-4e6b-b5fd-5d1f9002f564",
+      "properties": {
+        "name": "Бон Пицца, пиццерия",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.3",
+        "site": "http://sabyget.ru/shop/bonpizza",
+        "hours": "Ежедневно с 11:00 до 22:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.53665,
+          51.291292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "24bb22e3-6343-4ed4-958f-23751a40e4c5",
+      "properties": {
+        "name": "Сытая Черепаха, семейное кафе",
+        "subcategory": "Доставка еды, Кафе, Пиццерии, Суши-бары",
+        "rating": "4.2",
+        "site": "http://sch03.ru",
+        "hours": "Ежедневно с 11:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.653214,
+          51.805947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d1af9b9b-7230-4568-8e1d-3fca9971a292",
+      "properties": {
+        "name": "Додо Пицца, сеть пиццерий",
+        "subcategory": "Быстрое питание, Доставка еды, Пиццерии",
+        "rating": "4.6",
+        "site": "http://app.dodopizza.ru/YlkM/2GIS",
+        "hours": "Ежедневно с 09:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.605075,
+          51.841685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fd009cdb-fa92-44e1-b16d-305941cd1195",
+      "properties": {
+        "name": "Пицца от Бариса",
+        "subcategory": "Быстрое питание, Пиццерии",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.650784,
+          51.855255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b7764d71-ef1f-4d4b-86d6-c1fc06fb324b",
+      "properties": {
+        "name": "Пицца от Бариса",
+        "subcategory": "Быстрое питание, Пиццерии",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.618371,
+          51.842125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "265a9e53-0df8-4f83-911c-e3d219c9bdf2",
+      "properties": {
+        "name": "Romano, пиццерия",
+        "subcategory": "Быстрое питание, Пиццерии",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.653807,
+          52.053401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7dab6dbe-7747-473b-b8c2-7d6f926241cb",
+      "properties": {
+        "name": "Пицца от Бариса",
+        "subcategory": "Быстрое питание, Пиццерии",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.452342,
+          51.801241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "59d98d01-687a-4013-a23d-792c88903bee",
+      "properties": {
+        "name": "Shine Pizza",
+        "subcategory": "Пиццерии",
+        "rating": "4.1",
+        "site": "http://t.me/shinepizza",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.535127,
+          51.282054
+        ]
+      }
+    }
+  ]
+}

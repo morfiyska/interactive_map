@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "name": "Заповедники",
+  "style": {
+    "color": "#43ae0a",
+    "radius": 20,
+    "icon": "tree-branch-3-svgrepo-com.svg"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "0cca4da3-3961-48fc-b088-980138dcfc6b",
+      "properties": {
+        "name": "Джергинский, государственный природный заповедник",
+        "subcategory": "Заповедники",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 08:30 до 17:00, Вт: с 08:30 до 17:00, Ср: с 08:30 до 17:00, Чт: с 08:30 до 17:00, Пт: с 08:30 до 17:00, Сб: выходной, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.312301,
+          54.33236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c9775049-2f85-4d9e-bbe3-bddd0cc5d460",
+      "properties": {
+        "name": "Нерпа, центр",
+        "subcategory": "Заповедники",
+        "rating": "4.0",
+        "site": "http://zapovednoe-podlemorye.ru/save/park/",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.713902,
+          53.857281
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,4636 @@
+{
+  "type": "FeatureCollection",
+  "name": "Рестораны",
+  "style": {
+    "color": "blue",
+    "radius": 6
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "21630afd-c524-4099-917f-723d3e5e01e9",
+      "properties": {
+        "name": "Вечернее, ресторан",
+        "subcategory": "Кафе, Рестораны",
+        "rating": "2.4",
+        "site": "nan",
+        "hours": "Пн: с 10:00 до 03:00, Вт: с 10:00 до 03:00, Ср: с 10:00 до 03:00, Чт: с 10:00 до 03:00, Пт: с 10:00 до 05:00, Сб: с 10:00 до 05:00, Вс: с 10:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.209184,
+          52.329127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3b8ae6a3-aed7-447a-bba7-fb3adf3ef766",
+      "properties": {
+        "name": "Фианит, развлекательный комплекс",
+        "subcategory": "Банкетные залы, Доставка еды, Рестораны",
+        "rating": "4.6",
+        "site": "http://fianitrest.ru",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.346805,
+          52.255986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b31771ec-b7ec-4ebc-b393-dd6bbd76fc26",
+      "properties": {
+        "name": "Бирхауз, пивной ресторан",
+        "subcategory": "Бары, Доставка еды, Рестораны",
+        "rating": "4.6",
+        "site": "http://www.bier-haus.ru",
+        "hours": "Пн: с 12:00 до 02:00, Вт: с 12:00 до 02:00, Ср: с 12:00 до 02:00, Чт: с 12:00 до 02:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.285139,
+          52.281937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d113519b-bedb-4390-bc66-e1412d4ae66f",
+      "properties": {
+        "name": "Авантаж, ресторан",
+        "subcategory": "Банкетные залы, Кейтеринг, Рестораны",
+        "rating": "4.9",
+        "site": "http://bbc.ru",
+        "hours": "Ежедневно с 07:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.353406,
+          52.257654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e0778f10-fe94-4e53-aa4f-067dc44b9bf3",
+      "properties": {
+        "name": "Киото, ресторан",
+        "subcategory": "Доставка еды, Рестораны, Суши-бары",
+        "rating": "4.5",
+        "site": "http://kyoto-irk.ru",
+        "hours": "Пн: с 10:00 до 02:00, Вт: с 10:00 до 02:00, Ср: с 10:00 до 02:00, Чт: с 10:00 до 02:00, Пт: с 10:00 до 02:00, Сб: с 10:00 до 02:00, Вс: с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.283665,
+          52.282203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ce36f16d-4dfa-4e00-95f2-fe464ccf2b9e",
+      "properties": {
+        "name": "Орион, ресторан китайской кухни",
+        "subcategory": "Банкетные залы, Доставка еды, Рестораны",
+        "rating": "4.1",
+        "site": "http://OrionIrk.ru",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.286366,
+          52.285981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d16cb03a-3c32-409a-8d05-b595c50f9db8",
+      "properties": {
+        "name": "Фламинго, ресторан",
+        "subcategory": "Бары, Рестораны",
+        "rating": "3.3",
+        "site": "http://angarahotel.ru",
+        "hours": "Ежедневно с 03:00 до 11:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.282041,
+          52.287501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cae42d03-8fb9-48c6-a8ec-a3da8f6dc139",
+      "properties": {
+        "name": "Кочевник, ресторан монгольской кухни",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "4.6",
+        "site": "http://www.kochevnik-irk.com",
+        "hours": "Пн: с 11:30 до 24:00, Вт: с 11:30 до 24:00, Ср: с 11:30 до 24:00, Чт: с 11:30 до 24:00, Пт: с 11:30 до 24:00, Сб: с 11:30 до 24:00, Вс: с 13:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.283624,
+          52.283761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3300a24b-1c90-480e-9c26-c8d33f03201a",
+      "properties": {
+        "name": "Хуторок, ресторан",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "4.2",
+        "site": "http://hutorok138.ru",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.280795,
+          52.245961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d3cca130-ac67-44d3-9021-272b3b8d81c6",
+      "properties": {
+        "name": "The London pub, бар-ресторан",
+        "subcategory": "Банкетные залы, Бары, Конференц-залы / Переговорные комнаты, Рестораны",
+        "rating": "4.4",
+        "site": "http://thelondon.pub",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.282348,
+          52.287177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eaa8ac50-9bd8-41f8-9bd0-bd43667c3789",
+      "properties": {
+        "name": "Winkel, клуб-ресторан",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.1",
+        "site": "http://winkel-irk.ru",
+        "hours": "Пн: с 12:00 до 01:00, Вт: с 12:00 до 01:00, Ср: с 12:00 до 01:00, Чт: с 12:00 до 01:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.356876,
+          52.275381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "06ee61dd-14f7-4a00-8a00-2e584f9f259c",
+      "properties": {
+        "name": "Охотников, ресторан настоящей сибирской кухни",
+        "subcategory": "Банкетные залы, Доставка еды, Рестораны",
+        "rating": "4.7",
+        "site": "http://www.restoranohotnikov.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.336445,
+          52.277839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "597811d3-fba1-428a-a44d-29b7d819c776",
+      "properties": {
+        "name": "Кристалл, ресто-клуб",
+        "subcategory": "Доставка еды, Ночные клубы, Рестораны",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.25151,
+          52.250813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "599d77ac-8ecb-4a6d-829f-ebaadaeda285",
+      "properties": {
+        "name": "Rio-Grande, ресторан",
+        "subcategory": "Бары, Доставка еды, Рестораны",
+        "rating": "4.8",
+        "site": "http://www.rio-grandeirk.ru",
+        "hours": "Пн: с 10:00 до 24:00, Вт: с 10:00 до 24:00, Ср: с 10:00 до 24:00, Чт: с 10:00 до 24:00, Пт: с 10:00 до 01:00, Сб: с 12:00 до 01:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.276506,
+          52.286561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9a20541f-cc31-480b-a5e9-79f72ecce68f",
+      "properties": {
+        "name": "Мельник, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 24:00 (кухня: пн-вс 12:00-23:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.412914,
+          52.250063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "df1f9eb1-d96a-46f7-8b1a-f9b150054755",
+      "properties": {
+        "name": "Чerdak, ночной клуб",
+        "subcategory": "Аренда площадок для культурно-массовых мероприятий, Банкетные залы, Бары, Ночные клубы, Рестораны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: с 22:00 до 08:00, Чт: с 22:00 до 08:00, Пт: с 22:00 до 08:00, Сб: с 22:00 до 08:00, Вс: с 22:00 до 08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.308734,
+          52.229284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a5a3298e-6d36-467e-b693-8ccb88cad08e",
+      "properties": {
+        "name": "Иркутск, ресторан",
+        "subcategory": "Банкетные залы, Кейтеринг, Рестораны",
+        "rating": "4.7",
+        "site": "http://banket138.ru",
+        "hours": "Ежедневно с 07:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.273271,
+          52.282214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "daf69947-dc44-4d35-9c6a-6ff2f37fd1b4",
+      "properties": {
+        "name": "Стрижи, панорамный ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.7",
+        "site": "http://strizhi.net/",
+        "hours": "Ежедневно с 07:00 до 24:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.283925,
+          52.28209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cc6bf668-ac7f-44ba-9962-d4fc5ad4a7c7",
+      "properties": {
+        "name": "Broadway, бар-ресторан",
+        "subcategory": "Бары, Доставка еды, Рестораны",
+        "rating": "4.8",
+        "site": "http://t.me/broadway_rafinad, http://www.broadway.irk.ru",
+        "hours": "Пн: с 09:00 до 24:00, Вт: с 09:00 до 24:00, Ср: с 09:00 до 24:00, Чт: с 09:00 до 24:00, Пт: с 09:00 до 01:00, Сб: с 09:00 до 01:00, Вс: с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290964,
+          52.274392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ca1f01fc-ca78-4bfd-b000-a3c43a8fb591",
+      "properties": {
+        "name": "Radian hall, ресторан",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "4.0",
+        "site": "http://radian-hall.ru",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 02:00, Сб: с 15:00 до 02:00, Вс: с 15:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.160269,
+          52.346714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "344cb966-3f33-4871-b62d-272b32980c97",
+      "properties": {
+        "name": "Winkel, клуб-ресторан",
+        "subcategory": "Бары, Ночные клубы, Рестораны",
+        "rating": "4.0",
+        "site": "http://winkel-irk.ru",
+        "hours": "Пн: с 12:00 до 01:00, Вт: с 12:00 до 01:00, Ср: с 12:00 до 01:00, Чт: с 12:00 до 02:00, Пт: с 12:00 до 06:00, Сб: с 12:00 до 06:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.265695,
+          52.250607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "57f24f11-41d8-4739-ba56-1a03ae04a2fc",
+      "properties": {
+        "name": "Prego, ресторан итальянской кухни",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.6",
+        "site": "http://pregorest.ru/",
+        "hours": "Пн: с 10:00 до 24:00, Вт: с 10:00 до 24:00, Ср: с 10:00 до 24:00, Чт: с 10:00 до 24:00, Пт: с 10:00 до 24:00, Сб: с 12:00 до 24:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.284886,
+          52.282576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "05a4a37a-97a9-4b51-a636-8269126f537d",
+      "properties": {
+        "name": "Солнце, ресторан",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "4.6",
+        "site": "http://www.sunhotel-irkutsk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.358214,
+          52.257246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b94c0c96-c54a-45d0-8ccf-23d4d38779e3",
+      "properties": {
+        "name": "Академия Караоке, ресторан",
+        "subcategory": "Банкетные залы, Бары, Караоке-залы, Рестораны",
+        "rating": "4.3",
+        "site": "http://t.me/akademiyakaraoke",
+        "hours": "Пн: с 20:00 до 04:00, Вт: с 20:00 до 04:00, Ср: с 20:00 до 04:00, Чт: с 20:00 до 04:00, Пт: с 20:00 до 06:00, Сб: с 20:00 до 06:00, Вс: с 20:00 до 04:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.340262,
+          52.265303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8bce2c77-a5b7-4439-9769-1250ce77cc5b",
+      "properties": {
+        "name": "Суши Студио, ресторан японской кухни",
+        "subcategory": "Доставка еды, Рестораны, Суши-бары",
+        "rating": "4.8",
+        "site": "http://irkutsk.sushi-studio.ru",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.281414,
+          52.278883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c90fee7c-057c-4ea4-85f6-4326de4f48f2",
+      "properties": {
+        "name": "Китайский Иероглиф, ресторан китайской и азиатской кухни",
+        "subcategory": "Банкетные залы, Доставка еды, Рестораны",
+        "rating": "4.6",
+        "site": "http://restoranieroglif.ru",
+        "hours": "Пн: с 07:00 до 23:00, Вт: с 07:00 до 23:00, Ср: с 07:00 до 23:00, Чт: с 07:00 до 23:00, Пт: с 07:00 до 24:00, Сб: с 08:00 до 24:00, Вс: с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.336402,
+          52.278017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "962837ef-5bdc-4e4f-9a01-02b43732440d",
+      "properties": {
+        "name": "Асадор, стейк-хаус",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.7",
+        "site": "http://asador.qr-cafe.ru/",
+        "hours": "Ежедневно с 08:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28192,
+          52.280584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7f99e448-0705-42f1-a90b-fba99b73cb3a",
+      "properties": {
+        "name": "Mesto vstrechi, ресторан сибирской кухни",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "4.4",
+        "site": "http://mv-rest.ru",
+        "hours": "Пн: с 06:30 до 23:00, Вт: с 06:30 до 23:00, Ср: с 06:30 до 23:00, Чт: с 06:30 до 23:00, Пт: с 06:30 до 23:00, Сб: с 07:00 до 23:00, Вс: с 07:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.273308,
+          52.288117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0fabd36c-7750-4b4a-9fc1-25efbd6f0ba2",
+      "properties": {
+        "name": "Red grot, бар-ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 24:00, Сб: с 14:00 до 24:00, Вс: с 14:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.360626,
+          52.247449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d680ab97-6e57-4e08-a88e-d6f4f6a0fc38",
+      "properties": {
+        "name": "Капри, ресторан",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "4.6",
+        "site": "http://kapri-rest38.ru",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 24:00, Сб: с 13:00 до 24:00, Вс: выходной (кафе: пн-сб 12:00-20:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.30899,
+          52.277966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e9281d17-acd3-4a44-b1b3-1d25481d0d3f",
+      "properties": {
+        "name": "Подворье",
+        "subcategory": "Бары, Доставка еды, Рестораны",
+        "rating": "4.7",
+        "site": "http://t.me/hmelnoe_podvorye",
+        "hours": "Пн: с 10:00 до 24:00, Вт: с 10:00 до 24:00, Ср: с 10:00 до 24:00, Чт: с 10:00 до 24:00, Пт: с 10:00 до 02:00, Сб: с 10:00 до 02:00, Вс: с 10:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28788,
+          52.275076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f2b4ddc8-7a94-42d6-b748-e9d870f1ce56",
+      "properties": {
+        "name": "Chento, ресторан",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 24:00, Вт: с 08:00 до 24:00, Ср: с 08:00 до 24:00, Чт: с 08:00 до 24:00, Пт: с 08:00 до 24:00, Сб: с 12:00 до 24:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.286661,
+          52.275637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "199dd315-8130-462a-ab0f-7648f530da07",
+      "properties": {
+        "name": "Суши Студио, ресторан японской кухни",
+        "subcategory": "Доставка еды, Рестораны, Суши-бары",
+        "rating": "4.8",
+        "site": "http://irkutsk.sushi-studio.ru",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.300674,
+          52.27953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4101ab54-6b51-49bc-9381-81f072423059",
+      "properties": {
+        "name": "Ривьера, ресторан",
+        "subcategory": "Банкетные залы, Доставка еды, Кейтеринг, Рестораны",
+        "rating": "4.9",
+        "site": "http://rest-riviera.ru",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.319541,
+          52.268095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3eb9f2fc-7e05-4c2e-b9d1-ed26a213f046",
+      "properties": {
+        "name": "Дом рыбака, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.304088,
+          52.279399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f5349efd-c4af-499c-9173-8d7c23b1bc3f",
+      "properties": {
+        "name": "Grot Первомайский, бар-ресторан",
+        "subcategory": "Бары, Доставка еды, Рестораны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 02:00, Сб: с 14:00 до 02:00, Вс: с 14:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.241469,
+          52.260765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "865ebc97-44e9-4337-915d-d899b67fbb64",
+      "properties": {
+        "name": "Арлекино, семейный ресторан",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "4.5",
+        "site": "http://arlekinorest.ru",
+        "hours": "Пн: с 12:00 до 22:00, Вт: с 12:00 до 22:00, Ср: с 12:00 до 22:00, Чт: с 12:00 до 22:00, Пт: с 12:00 до 22:00, Сб: с 11:00 до 23:00, Вс: с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.277316,
+          52.238783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20275c93-7034-444d-a079-6910ff8b456d",
+      "properties": {
+        "name": "Fuller`s, ресторан",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.5",
+        "site": "http://fullers-irk.ru",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.275717,
+          52.279662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "beaeee5d-977c-4e6f-a7b4-c5ca7dfd01ec",
+      "properties": {
+        "name": "Прошлый век, кафе",
+        "subcategory": "Рестораны",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.852461,
+          51.861467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "574cfe69-c0f2-43a3-86fa-74245955b1e1",
+      "properties": {
+        "name": "Wedka seafood&bar",
+        "subcategory": "Банкетные залы, Бары, Доставка еды, Рестораны",
+        "rating": "4.6",
+        "site": "http://wedka.ru",
+        "hours": "Пн: с 10:00 до 23:00, Вт: с 10:00 до 23:00, Ср: с 10:00 до 23:00, Чт: с 10:00 до 23:00, Пт: с 10:00 до 01:00, Сб: с 10:00 до 01:00, Вс: с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28876,
+          52.274645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0ff8f534-e95a-445b-b400-9319c5e414cc",
+      "properties": {
+        "name": "Бабушка, семейный ресторан",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.7",
+        "site": "http://cafebabushka.ru",
+        "hours": "Ежедневно с 12:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.335081,
+          52.267551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "77d00011-f7c1-450a-bb20-0d26565e386d",
+      "properties": {
+        "name": "Рестобар",
+        "subcategory": "Банкетные залы, Бары, Доставка еды, Ночные клубы, Рестораны",
+        "rating": "4.5",
+        "site": "http://amstel-dostavka.ru, http://amstel.arm-irk.ru",
+        "hours": "Пн: с 09:00 до 06:00, Вт: с 09:00 до 06:00, Ср: с 09:00 до 06:00, Чт: с 09:00 до 06:00, Пт: с 09:00 до 07:00, Сб: с 09:00 до 07:00, Вс: с 09:00 до 06:00 (служба доставки: пн-вс 10:00-4:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.250576,
+          52.278519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cb4005ea-fada-4cfc-881e-549d98c6a192",
+      "properties": {
+        "name": "Суши Студио, ресторан японской кухни",
+        "subcategory": "Доставка еды, Рестораны, Суши-бары",
+        "rating": "4.7",
+        "site": "http://irkutsk.sushi-studio.ru",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.335027,
+          52.279707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e60445c6-53a7-4310-bc88-612dddeff503",
+      "properties": {
+        "name": "Пекинская Утка, ресторан китайской кухни",
+        "subcategory": "Банкетные залы, Доставка еды, Рестораны",
+        "rating": "4.6",
+        "site": "http://pekin-utka.ru",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.282041,
+          52.287501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8a92b29b-fa96-4f3e-afe8-d0bb7ce34158",
+      "properties": {
+        "name": "Мамини, ресторан семейных ценностей",
+        "subcategory": "Банкетные залы, Доставка еды, Кейтеринг, Рестораны",
+        "rating": "4.7",
+        "site": "http://mamini-dostavka.ru, http://mamini.arm-irk.ru, http://t.me/mamini_rest",
+        "hours": "Пн: с 09:00 до 24:00, Вт: с 09:00 до 24:00, Ср: с 09:00 до 24:00, Чт: с 09:00 до 24:00, Пт: с 09:00 до 02:00, Сб: с 09:00 до 02:00, Вс: с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.311423,
+          52.25579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "be1e6292-7850-4c13-86fe-04d5b02ac13d",
+      "properties": {
+        "name": "Sky Lounge Irkutsk",
+        "subcategory": "Бары, Караоке-залы, Рестораны",
+        "rating": "4.4",
+        "site": "http://t.me/sky_irk",
+        "hours": "Круглосуточно (караоке-зал: пн-вс 20:00-6:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.353432,
+          52.273574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "76103a0c-819f-403f-b462-c070da1ce4e1",
+      "properties": {
+        "name": "Listvyanka Club Grill, ресторан",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.861854,
+          51.855014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1dd53e4e-ee27-46bb-880e-6d7b54e18e72",
+      "properties": {
+        "name": "Суши Студио, ресторан японской кухни",
+        "subcategory": "Доставка еды, Рестораны, Суши-бары",
+        "rating": "4.8",
+        "site": "http://irkutsk.sushi-studio.ru",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.30401,
+          52.22733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "038a14a4-27f7-4170-8261-f6736077005f",
+      "properties": {
+        "name": "Мангал, гриль-ресторан",
+        "subcategory": "Банкетные залы, Доставка еды, Рестораны",
+        "rating": "4.5",
+        "site": "http://mangalirk.ru",
+        "hours": "Пн: с 12:00 до 01:00, Вт: с 12:00 до 01:00, Ср: с 12:00 до 01:00, Чт: с 12:00 до 01:00, Пт: с 12:00 до 03:00, Сб: с 12:00 до 03:00, Вс: с 12:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.315598,
+          52.231523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4b0ccbc4-dcad-4f13-a337-2b135fa5c451",
+      "properties": {
+        "name": "BarDo, ресторан-энотека",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.302445,
+          52.290189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eda5dde1-bbb3-4d3d-8ac0-4a1daa7b77d9",
+      "properties": {
+        "name": "Бабао, ресторан китайской кухни",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "3.2",
+        "site": "nan",
+        "hours": "Пн: с 11:00 до 24:00, Вт: с 11:00 до 24:00, Ср: с 11:00 до 24:00, Чт: с 11:00 до 24:00, Пт: с 11:00 до 02:00, Сб: с 11:00 до 02:00, Вс: с 11:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.069739,
+          52.200104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1a01612d-5c42-4c86-8e6d-2e2c569025aa",
+      "properties": {
+        "name": "Джайхун, ресторан",
+        "subcategory": "Банкетные залы, Доставка еды, Кейтеринг, Рестораны",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 02:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.399376,
+          52.4651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f8edf909-074b-4375-93ad-2c70b855ee75",
+      "properties": {
+        "name": "Тормашка, ресторанный комплекс",
+        "subcategory": "Банкетные залы, Бары, Доставка еды, Рестораны",
+        "rating": "4.6",
+        "site": "http://tormashka.ru",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.253821,
+          52.224576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b53f30a8-91b0-4370-a35d-6cf9244d4a78",
+      "properties": {
+        "name": "Жадина говядина, гастропаб",
+        "subcategory": "Бары, Рестораны",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.309733,
+          52.256787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d56b20b8-e337-46c9-92b5-a3a6f94daa77",
+      "properties": {
+        "name": "Мираж, ресторанный комплекс",
+        "subcategory": "Банкетные залы, Доставка еды, Кейтеринг, Рестораны",
+        "rating": "4.6",
+        "site": "http://arm-irk.ru/catering, http://mirage-dostavka.ru, http://mirage.arm-irk.ru",
+        "hours": "Пн: с 09:00 до 02:00, Вт: с 09:00 до 02:00, Ср: с 09:00 до 02:00, Чт: с 09:00 до 02:00, Пт: с 09:00 до 03:00, Сб: с 09:00 до 03:00, Вс: с 09:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.314784,
+          52.230858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1e6357b0-1327-431b-b90f-1e87f1433012",
+      "properties": {
+        "name": "Академия Караоке, ресторан",
+        "subcategory": "Банкетные залы, Бары, Караоке-залы, Рестораны",
+        "rating": "3.9",
+        "site": "http://t.me/akademiyakaraoke",
+        "hours": "Пн: с 20:00 до 04:00, Вт: с 20:00 до 04:00, Ср: с 20:00 до 04:00, Чт: с 20:00 до 04:00, Пт: с 20:00 до 06:00, Сб: с 20:00 до 06:00, Вс: с 20:00 до 04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290857,
+          52.27206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c01b47a8-adfc-4ebd-80cf-0b795d32a360",
+      "properties": {
+        "name": "Маршал, ресторан",
+        "subcategory": "Кафе, Рестораны",
+        "rating": "3.9",
+        "site": "http://www.marshalrest.ru",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 01:00, Сб: с 12:00 до 01:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.346995,
+          52.250896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5af126a3-dad4-4677-b693-5ec298beacd2",
+      "properties": {
+        "name": "Перчини Grill&Wine, ресторан итальянской кухни",
+        "subcategory": "Доставка еды, Кафе, Рестораны",
+        "rating": "4.6",
+        "site": "http://perchini.ru",
+        "hours": "Пн: с 10:00 до 22:00, Вт: с 10:00 до 22:00, Ср: с 10:00 до 22:00, Чт: с 10:00 до 23:00, Пт: с 10:00 до 23:00, Сб: с 10:00 до 23:00, Вс: с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289767,
+          52.267151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "07a7c257-82a4-49bb-a9c0-3da0332cae0b",
+      "properties": {
+        "name": "Собрание Спешилова, ресторан-галерея",
+        "subcategory": "Банкетные залы, Бары, Бильярдные залы, Рестораны",
+        "rating": "4.7",
+        "site": "http://sobraniespeshilov.com",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.292352,
+          52.273136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ea4360e9-80ab-4ecf-b0be-55dc72922592",
+      "properties": {
+        "name": "У озера, ресторан",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Пн: с 12:00 до 22:00, Вт: с 12:00 до 22:00, Ср: с 12:00 до 22:00, Чт: с 12:00 до 22:00, Пт: с 12:00 до 24:00, Сб: с 14:00 до 24:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.149925,
+          51.522378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3ad773cd-1adb-4c74-a846-4d240e68e2b6",
+      "properties": {
+        "name": "ВайнЯрд, гастробар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.7",
+        "site": "http://t.me/vineyard_irk",
+        "hours": "Пн: с 13:00 до 24:00, Вт: с 13:00 до 24:00, Ср: с 13:00 до 24:00, Чт: с 13:00 до 24:00, Пт: с 13:00 до 02:00, Сб: с 13:00 до 02:00, Вс: с 13:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290099,
+          52.274277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "98bde822-2330-40c1-99da-d7dd62d2a8b6",
+      "properties": {
+        "name": "Славянка, ресторан",
+        "subcategory": "Банкетные залы, Доставка еды, Кафе, Рестораны",
+        "rating": "4.7",
+        "site": "http://pirog38.ru",
+        "hours": "Пн: с 07:00 до 21:00, Вт: с 07:00 до 21:00, Ср: с 07:00 до 21:00, Чт: с 07:00 до 21:00, Пт: с 07:00 до 21:00, Сб: с 08:00 до 21:00, Вс: с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.279382,
+          52.284288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "872beb5e-93e0-4e50-80fd-9a8c59aaa239",
+      "properties": {
+        "name": "Pho Me, ресторан азиатской кухни",
+        "subcategory": "Кафе, Рестораны",
+        "rating": "4.9",
+        "site": "http://pho-me.ru",
+        "hours": "Пн: с 12:00 до 22:00, Вт: с 12:00 до 22:00, Ср: с 12:00 до 22:00, Чт: с 12:00 до 22:00, Пт: с 12:00 до 23:00, Сб: с 12:00 до 23:00, Вс: с 12:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290419,
+          52.273248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7d592bab-433a-4120-86b7-e56188eb6a47",
+      "properties": {
+        "name": "Гиви ту ю, ресторан кавказской кухни",
+        "subcategory": "Доставка еды, Кафе, Рестораны",
+        "rating": "4.8",
+        "site": "http://taplink.cc/givitoyou",
+        "hours": "Ежедневно с 10:00 до 23:00 (последнее вс месяца: 12:00-23:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288576,
+          52.267095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "58dc31ec-717b-4820-a0cf-afc7525d7431",
+      "properties": {
+        "name": "Kiss, рестобар",
+        "subcategory": "Банкетные залы, Бары, Доставка еды, Кейтеринг, Ночные клубы, Рестораны",
+        "rating": "4.5",
+        "site": "http://kiss-dostavka.ru, http://kiss.arm-irk.ru, http://t.me/restobar_kiss",
+        "hours": "Ежедневно с 12:00 до 06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.311316,
+          52.255638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f5845536-04fc-4dcd-9789-f57106247f23",
+      "properties": {
+        "name": "Wang Ji, ресторан китайской кухни",
+        "subcategory": "Рестораны",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:30 до 22:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.298973,
+          52.279879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "109d6074-562d-4829-ab8c-c21cb6bedb05",
+      "properties": {
+        "name": "Суши Студио, ресторан японской кухни",
+        "subcategory": "Доставка еды, Рестораны, Суши-бары",
+        "rating": "4.7",
+        "site": "http://irkutsk.sushi-studio.ru",
+        "hours": "Ежедневно с 11:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289087,
+          52.27451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "36a002e7-1e64-4efa-8c61-b9d75180b984",
+      "properties": {
+        "name": "Перчини Grill&Wine, ресторан итальянской кухни",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.8",
+        "site": "http://perchini.ru",
+        "hours": "Пн: с 10:00 до 22:00, Вт: с 10:00 до 22:00, Ср: с 10:00 до 22:00, Чт: с 10:00 до 23:00, Пт: с 10:00 до 23:00, Сб: с 10:00 до 23:00, Вс: с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.305384,
+          52.275737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f80a77f2-c531-4068-bf24-5a131e7fd24c",
+      "properties": {
+        "name": "Два Барашка, чайхана",
+        "subcategory": "Рестораны",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.225606,
+          52.265044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6213ea43-515b-47f7-9f6f-e27dc7dae198",
+      "properties": {
+        "name": "Европа, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.7",
+        "site": "http://www.europehotel.ru",
+        "hours": "Ежедневно с 07:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.30487,
+          52.274755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3308a3c5-1f92-4163-b87d-5a5eb5a5d899",
+      "properties": {
+        "name": "Pizza Pitano, ресторан итальянской кухни",
+        "subcategory": "Пиццерии, Рестораны",
+        "rating": "4.6",
+        "site": "http://pitano.ru",
+        "hours": "Ежедневно с 09:30 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.22651,
+          52.265366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4b254da8-14d8-4e72-9d8c-4fb279cbd79d",
+      "properties": {
+        "name": "Miss Wang, китайский ресторан",
+        "subcategory": "Банкетные залы, Доставка еды, Караоке-залы, Конференц-залы / Переговорные комнаты, Рестораны",
+        "rating": "4.6",
+        "site": "http://misswang.ru",
+        "hours": "Пн: с 12:00 до 23:00, Вт: с 12:00 до 23:00, Ср: с 12:00 до 23:00, Чт: с 12:00 до 23:00, Пт: с 12:00 до 01:00, Сб: с 12:00 до 01:00, Вс: с 12:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.27109,
+          52.285748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "244671cc-e32b-4924-9b41-7556e0c0c2f5",
+      "properties": {
+        "name": "Ресторация им. купца 1 гильдии Я.А. Немчинова",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.8",
+        "site": "http://nemchinovrest.ru/, http://t.me/nemchinovrest",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.285705,
+          52.286903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "421c0027-13ab-4dc7-a0ce-14b809ea57f7",
+      "properties": {
+        "name": "Chino, ресторан китайской кухни",
+        "subcategory": "Доставка еды, Караоке-залы, Рестораны",
+        "rating": "4.8",
+        "site": "http://chinorest.ru",
+        "hours": "Пн: с 12:00 до 23:00, Вт: с 12:00 до 23:00, Ср: с 12:00 до 23:00, Чт: с 12:00 до 23:00, Пт: с 12:00 до 24:00, Сб: с 12:00 до 24:00, Вс: с 12:00 до 23:00 (караоке-зал: вс-чт 12:00-23:00; пт-сб 12:00-2:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.328523,
+          52.257262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e5d39676-205a-4dfd-b5a7-c1e704421a8b",
+      "properties": {
+        "name": "Лелея Фрэ, семейный ресторан",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.6",
+        "site": "http://leleya-frais.ru/",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.305056,
+          52.276237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fb159615-97a7-445b-a7aa-52f93c22974f",
+      "properties": {
+        "name": "Тайга, кафе сибирской кухни",
+        "subcategory": "Кафе, Рестораны",
+        "rating": "4.7",
+        "site": "http://taiga-wild.ru",
+        "hours": "Пн: с 08:00 до 23:00, Вт: с 08:00 до 23:00, Ср: с 08:00 до 23:00, Чт: с 08:00 до 23:00, Пт: с 08:00 до 23:00, Сб: с 10:00 до 23:00, Вс: с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.287023,
+          52.276698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "64589bbb-ab51-4125-b2c7-212e64675a57",
+      "properties": {
+        "name": "Andreano, ресторан",
+        "subcategory": "Кафе, Рестораны",
+        "rating": "4.8",
+        "site": "http://specialoofers.tilda.ws/andreano",
+        "hours": "Пн: с 11:00 до 22:00, Вт: с 11:00 до 22:00, Ср: с 11:00 до 22:00, Чт: с 11:00 до 22:00, Пт: с 11:00 до 23:00, Сб: с 11:00 до 23:00, Вс: с 11:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289285,
+          52.267478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0ce7a5ad-1d40-4933-9b91-2c1bfbe67301",
+      "properties": {
+        "name": "Пельмения, ресторан моно-кухни",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.6",
+        "site": "http://pelmenya-irk.ru",
+        "hours": "Пн: с 11:00 до 22:00, Вт: с 11:00 до 22:00, Ср: с 11:00 до 22:00, Чт: с 11:00 до 22:00, Пт: с 11:00 до 23:00, Сб: с 11:00 до 23:00, Вс: с 11:00 до 22:00 (служба приема заказов: пн-вс 11:00-21:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.282628,
+          52.289393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9dec0ffe-46ec-45cd-8a8c-a71b9b2496c2",
+      "properties": {
+        "name": "Хочу Пури, ресторан",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.7",
+        "site": "http://hochupuri.com",
+        "hours": "Пн: с 10:00 до 22:00, Вт: с 10:00 до 22:00, Ср: с 10:00 до 22:00, Чт: с 10:00 до 23:00, Пт: с 10:00 до 23:00, Сб: с 10:00 до 23:00, Вс: с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.304761,
+          52.275648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8149758a-dcd0-44ae-939f-63f5bdca772b",
+      "properties": {
+        "name": "Алаверды, ресторан грузинской кухни",
+        "subcategory": "Банкетные залы, Доставка еды, Рестораны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 01:00, Сб: с 12:00 до 01:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28167,
+          52.272791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "532f449e-ddda-447c-8d97-b72f11b5baf3",
+      "properties": {
+        "name": "Клюква, ресторан",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.119417,
+          51.51092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "49e53680-e3b3-44fd-b8bc-d8f6aaddb973",
+      "properties": {
+        "name": "Бугель Вугель, бар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "3.7",
+        "site": "http://baikalski.net/restaurants/bugel-vugel",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.120422,
+          51.509249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fa237e5a-ed1c-4220-bda1-af26ec044655",
+      "properties": {
+        "name": "Вьюга, ресторан",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "4.7",
+        "site": "http://mayakhotel.ru/restaurant/vyuga/",
+        "hours": "Пн: с 08:00 до 24:00, Вт: с 08:00 до 24:00, Ср: с 08:00 до 24:00, Чт: с 08:00 до 24:00, Пт: с 08:00 до 02:00, Сб: с 08:00 до 02:00, Вс: с 08:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.872908,
+          51.84735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6ee9e304-f447-4a42-937f-5261a7797c6c",
+      "properties": {
+        "name": "Русский, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.5",
+        "site": "http://russkiy.redrock.family/",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.300536,
+          52.279628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b36a1f07-77a5-4579-9c24-3f3d853a3def",
+      "properties": {
+        "name": "Suffra, чайхана",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.7",
+        "site": "http://suffra-restaurant.ru",
+        "hours": "Пн: с 10:00 до 24:00, Вт: с 10:00 до 24:00, Ср: с 10:00 до 24:00, Чт: с 10:00 до 24:00, Пт: с 10:00 до 01:00, Сб: с 10:00 до 01:00, Вс: с 10:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.326849,
+          52.266567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0a5a76e9-62cc-4c58-b1db-2edd2aa2f600",
+      "properties": {
+        "name": "Грузина Мама, ресторан",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.4",
+        "site": "http://irkutsk.gruzinamama.ru, http://t.me/gruzinamamairkutsk",
+        "hours": "Ежедневно с 11:30 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.340256,
+          52.265702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "986a7b45-e050-4caf-b59f-3057454e8925",
+      "properties": {
+        "name": "Соболинка, семейный ресторан",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "3.8",
+        "site": "http://baikalski.net/restaurants/bajkalskij-briz",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.121768,
+          51.513987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c62a9a86-b8c7-4242-a50d-d35331998634",
+      "properties": {
+        "name": "Рок Бар, ресторан",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.6",
+        "site": "http://rockbar38.ru",
+        "hours": "Пн: выходной, Вт: с 17:00 до 01:00, Ср: с 17:00 до 01:00, Чт: с 17:00 до 01:00, Пт: с 17:00 до 03:00, Сб: с 17:00 до 03:00, Вс: с 17:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.34081,
+          52.279546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1e6d4f0f-5873-46cd-8d8d-de6ff4e69778",
+      "properties": {
+        "name": "La premiere cafe",
+        "subcategory": "Рестораны",
+        "rating": "4.5",
+        "site": "http://lapremiere-cafe.ru",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.27873,
+          52.27922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ed60c956-1a1b-4ba3-8a88-eac25793660c",
+      "properties": {
+        "name": "Свалъ, ресторан",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.862424,
+          51.854854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bf71e736-06ce-4f01-a0a4-dc41973fefe5",
+      "properties": {
+        "name": "Le Chef",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.6",
+        "site": "http://history38.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290997,
+          52.271348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "52d59cd2-2122-4a23-af55-3558771c8c45",
+      "properties": {
+        "name": "Территория тайги, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.4",
+        "site": "http://taigahotel.ru",
+        "hours": "Ежедневно с 07:30 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.269681,
+          52.287985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fb566139-bdff-46d9-9e1d-61918158df09",
+      "properties": {
+        "name": "Ботаник, ресторан китайской кухни",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.4",
+        "site": "http://botanika.rest",
+        "hours": "Ежедневно с 12:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.336067,
+          52.279007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8917d186-b04e-4c62-be2e-c8616692c49d",
+      "properties": {
+        "name": "Гонконг, ресторан китайской кухни",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.4",
+        "site": "http://www.hongkong38.ru",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.233317,
+          52.337511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7a6fe93e-c638-4c57-83dd-3bf760d2698f",
+      "properties": {
+        "name": "Solo, караоке-клуб",
+        "subcategory": "Банкетные залы, Караоке-залы, Ночные клубы, Рестораны",
+        "rating": "4.7",
+        "site": "http://karaoke-solo.ru",
+        "hours": "Пн: с 20:00 до 05:00, Вт: выходной, Ср: выходной, Чт: с 20:00 до 03:00, Пт: с 19:00 до 05:00, Сб: с 20:00 до 05:00, Вс: с 20:00 до 03:00 (банкетный зал: по предварительной записи пн-вс 9:00-22:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.306547,
+          52.296236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3ce2d6f9-77ec-4f48-a040-6d11888a9bc7",
+      "properties": {
+        "name": "Гиви ту ю, ресторан кавказской кухни",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.8",
+        "site": "http://givitoyou.ru, http://t.me/givitoyou, http://taplink.cc/givitoyou",
+        "hours": "Пн: с 12:00 до 23:00, Вт: с 12:00 до 23:00, Ср: с 12:00 до 23:00, Чт: с 12:00 до 23:00, Пт: с 12:00 до 24:00, Сб: с 12:00 до 24:00, Вс: с 12:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.29032,
+          52.273748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f4ec5fd6-88d5-45ac-ae50-3a4eac7c5e97",
+      "properties": {
+        "name": "Кедровый, бар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "3.8",
+        "site": "http://mv-rest.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.273308,
+          52.288117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c1165d19-86cd-4122-ac04-b09734330b82",
+      "properties": {
+        "name": "Байкальский рай, ресторан",
+        "subcategory": "Кафе, Рестораны",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.725873,
+          51.732327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b3951063-a833-49b6-b05e-361fad5c5068",
+      "properties": {
+        "name": "Сарай, бар-ресторан",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 17:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.360842,
+          53.194265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ecbd2e2e-53e4-4389-a959-127eba15fb3b",
+      "properties": {
+        "name": "Сибирский лофт, гастробар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "Пн: с 11:00 до 02:00, Вт: с 11:00 до 02:00, Ср: с 11:00 до 02:00, Чт: с 11:00 до 02:00, Пт: с 11:00 до 02:00, Сб: с 14:00 до 02:00, Вс: с 14:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.276243,
+          52.282791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8693ce4d-f1d4-4bb0-b99d-9e625ea800b5",
+      "properties": {
+        "name": "Show must go on bar, караоке-бар",
+        "subcategory": "Бары, Караоке-залы, Ночные клубы, Рестораны",
+        "rating": "4.7",
+        "site": "http://showbar-irk.ru, http://t.me/showbar_irkutsk",
+        "hours": "Пн: выходной, Вт: выходной, Ср: с 20:00 до 03:00, Чт: с 20:00 до 03:00, Пт: с 20:00 до 05:00, Сб: с 20:00 до 05:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.294019,
+          52.289358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f9067130-4bb0-4685-b8bf-85117efbcf0a",
+      "properties": {
+        "name": "Villa Malina, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.0",
+        "site": "http://villamalina.ru",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.350636,
+          53.201131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3cea885d-a56d-4068-b401-4b7a409e9301",
+      "properties": {
+        "name": "Баатар, ресторан",
+        "subcategory": "Бары, Рестораны",
+        "rating": "3.6",
+        "site": "http://www.naratey-baikal.ru",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.847656,
+          53.025628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "974e890a-56a9-4c27-b365-09462351846d",
+      "properties": {
+        "name": "Orange, рестобар",
+        "subcategory": "Банкетные залы, Бары, Караоке-залы, Рестораны",
+        "rating": "4.2",
+        "site": "http://hotelzvezdakochevnika.com",
+        "hours": "Ежедневно с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.359415,
+          53.198146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c0e17e43-d9d9-45b9-acc2-f6c0b0e7689e",
+      "properties": {
+        "name": "Франческо остался в России, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.8",
+        "site": "http://francescorimasto.ru",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.314491,
+          52.25466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cbe585a9-2347-4fd5-9eff-08f5c35818cb",
+      "properties": {
+        "name": "Курица или рыба, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.7",
+        "site": "http://chickorfish.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.354053,
+          52.274997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "81337e4d-d571-44af-8d26-8ed447d61a2d",
+      "properties": {
+        "name": "Партизан, ресторан сибирской кухни",
+        "subcategory": "Аренда площадок для культурно-массовых мероприятий, Банкетные залы, Рестораны",
+        "rating": "4.8",
+        "site": "http://partizan.rest/restaurant, http://t.me/partizan_rest",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288167,
+          52.275279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7676fb9c-2d52-49eb-803f-ccf0c81fac59",
+      "properties": {
+        "name": "Ботаник, ресторан китайской кухни",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.6",
+        "site": "http://botanika.rest",
+        "hours": "Пн: с 12:00 до 23:00, Вт: с 12:00 до 23:00, Ср: с 12:00 до 23:00, Чт: с 12:00 до 23:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.297435,
+          52.27974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "89c8309b-a622-44d4-a3d3-75fe23e0e7a0",
+      "properties": {
+        "name": "Idillia, ресторан",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "4.6",
+        "site": "http://idillia-rest.ru",
+        "hours": "Пн: с 12:00 до 23:00, Вт: с 12:00 до 23:00, Ср: с 12:00 до 23:00, Чт: с 12:00 до 23:00, Пт: с 12:00 до 01:00, Сб: с 12:00 до 01:00, Вс: с 12:00 до 23:00 (по предварительному звонку)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.083953,
+          52.367499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fa98439e-889d-46f0-a4c0-eb0e2797f4a5",
+      "properties": {
+        "name": "Крестовая падь, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.8",
+        "site": "http://krestovayapad.ru",
+        "hours": "Ежедневно с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.860516,
+          51.857837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "823e6f6f-0bc9-4b27-8667-2da16f580dc3",
+      "properties": {
+        "name": "Сахар, бар-ресторан",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.5",
+        "site": "http://saxar.life, http://t.me/saxarbar",
+        "hours": "Пн: с 19:00 до 06:00, Вт: выходной, Ср: выходной, Чт: выходной, Пт: с 19:00 до 06:00, Сб: с 19:00 до 06:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.29248,
+          52.281452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6e115aa1-27ea-4600-8a62-cf881647869f",
+      "properties": {
+        "name": "Никола, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.2",
+        "site": "http://nicolahotel.ru",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.824993,
+          51.892196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9c6326cb-7e8b-42a0-9b32-5a5ed2984c9d",
+      "properties": {
+        "name": "Ochagof, ресторан",
+        "subcategory": "Бары, Рестораны",
+        "rating": "nan",
+        "site": "http://ochagofhotel.ru",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.297745,
+          52.262773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8f5f1445-e648-4bfe-82cc-37d97340d5a1",
+      "properties": {
+        "name": "Фрегат, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.9",
+        "site": "http://fregat-hotel.com, http://t.me/fregat_irkutsk",
+        "hours": "Ежедневно с 08:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.32743,
+          52.253356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7362c14a-02a2-450d-878f-89140474fc9e",
+      "properties": {
+        "name": "Undine, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.7",
+        "site": "http://undine24.ru",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.86037,
+          51.856639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1b8cde15-0e8f-4248-bad6-c2ef227d2688",
+      "properties": {
+        "name": "Анастасия, ресторан",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "3.5",
+        "site": "http://www.baikalhotel.ru",
+        "hours": "Ежедневно с 08:00 до 11:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.825135,
+          51.89174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bb0f710c-c152-4529-9cfd-c2977401cea4",
+      "properties": {
+        "name": "Л: е: с, ресторан европейской и сибирской кухни",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "4.5",
+        "site": "http://bookonline24.ru/flagman1",
+        "hours": "Ежедневно с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.82924,
+          51.896302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2999efe1-7b6d-40e8-ba7e-7ddf8b6754c8",
+      "properties": {
+        "name": "Порт Ольхон, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.2",
+        "site": "http://portolkhon.com",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.33277,
+          53.193803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "50239617-4d0c-47f9-901b-fbe1904da97d",
+      "properties": {
+        "name": "Байкал-Северное море, ресторанный комплекс",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "4.7",
+        "site": "http://northseahotel.com",
+        "hours": "Ежедневно с 08:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.320833,
+          52.252016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3ef1bf36-9093-46a1-893e-fecaa927009f",
+      "properties": {
+        "name": "Pilot, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.5",
+        "site": "http://pilots7.com",
+        "hours": "Пн: с 10:00 до 01:00, Вт: с 10:00 до 01:00, Ср: с 10:00 до 01:00, Чт: с 10:00 до 01:00, Пт: с 10:00 до 03:00, Сб: с 10:00 до 03:00, Вс: с 10:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.127801,
+          52.256497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4cca5831-454a-439c-8b77-3fc57fd11b91",
+      "properties": {
+        "name": "Бурдугуз, ресторан",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "nan",
+        "site": "http://www.burduguz.ru",
+        "hours": "Пн: с 08:00 до 23:00, Вт: с 08:00 до 23:00, Ср: с 08:00 до 23:00, Чт: с 08:00 до 23:00, Пт: с 08:00 до 23:00, Сб: с 09:00 до 23:00, Вс: с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.601936,
+          52.057286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cbe4b8b6-a3cf-486a-8cb3-d447da00e69f",
+      "properties": {
+        "name": "Pizza Pitano, ресторан итальянской кухни",
+        "subcategory": "Доставка еды, Пиццерии, Рестораны",
+        "rating": "4.6",
+        "site": "http://pitano.ru",
+        "hours": "Ежедневно с 09:30 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289281,
+          52.267385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bf6a2e21-0b32-4660-b888-e792328a230b",
+      "properties": {
+        "name": "У Истока, ресторан",
+        "subcategory": "Банкетные залы, Доставка еды, Рестораны",
+        "rating": "4.8",
+        "site": "http://t.me/istok38, http://u.istok38.ru/banket, http://u.istok38.ru/restaurants",
+        "hours": "Пн: выходной, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 24:00, Сб: с 12:00 до 24:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.363051,
+          52.253114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a55f8017-51f1-4b2b-9afe-875db225ca46",
+      "properties": {
+        "name": "Baikal View, ресторан",
+        "subcategory": "Кейтеринг, Рестораны",
+        "rating": "4.4",
+        "site": "http://baikalview.com",
+        "hours": "Ежедневно с 13:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.306857,
+          53.178084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4c728b1c-834f-4626-9a86-fc05e77c9992",
+      "properties": {
+        "name": "Гиви ту ю, ресторан кавказской кухни",
+        "subcategory": "Рестораны",
+        "rating": "4.9",
+        "site": "http://taplink.cc/givitoyou",
+        "hours": "Пн: с 09:00 до 23:00, Вт: с 09:00 до 23:00, Ср: с 09:00 до 23:00, Чт: с 09:00 до 23:00, Пт: с 09:00 до 24:00, Сб: с 09:00 до 24:00, Вс: с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.309774,
+          52.267029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b5f01d99-64d3-4f34-a22a-0c77abab732f",
+      "properties": {
+        "name": "Байкал 7 колодец, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.3",
+        "site": "http://baikal-uliger.ru",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: с 14:00 до 23:00, Сб: с 09:00 до 23:00, Вс: с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.364601,
+          52.012026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "517f5ec1-1796-41b4-93cf-5a7f5365f868",
+      "properties": {
+        "name": "Butin, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.6",
+        "site": "http://butinirk.ru",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.282631,
+          52.277929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e99c32ed-3111-42ca-90ce-d74ef9cf466a",
+      "properties": {
+        "name": "Звезда, ресторан",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "nan",
+        "site": "http://sibzaimka38.ru",
+        "hours": "Ежедневно с 10:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.612996,
+          52.049455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "def97a25-771e-4ec4-afa4-ea57f6e4c0c4",
+      "properties": {
+        "name": "Лукоморье, ресторан",
+        "subcategory": "Банкетные залы, Конференц-залы / Переговорные комнаты, Рестораны",
+        "rating": "3.1",
+        "site": "http://www.lukomorie-rest.ru",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: с 12:00 до 24:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.002688,
+          52.23018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3d4bd7a7-4e86-4bb6-8381-2eb330b42a29",
+      "properties": {
+        "name": "Лазурный берег, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "3.6",
+        "site": "http://lbirk.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.337549,
+          52.253454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "67372206-a800-4aba-b551-91fe82984faa",
+      "properties": {
+        "name": "Kultura bar, рестобар",
+        "subcategory": "Бары, Ночные клубы, Рестораны",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Пн: с 23:00 до 08:00, Вт: с 23:00 до 08:00, Ср: с 23:00 до 08:00, Чт: с 22:00 до 07:00, Пт: с 22:00 до 08:00, Сб: с 22:00 до 08:00, Вс: с 23:00 до 08:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.301059,
+          52.287396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c1a375a6-1b45-422f-81ee-cbeead344f45",
+      "properties": {
+        "name": "Ibis Kitchen, ресторан-бар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.3",
+        "site": "http://accor.ru/irkutsk/ibis-irkutsk-center/",
+        "hours": "Круглосуточно (ресторан: пн-вс 4:00-22:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.270352,
+          52.287369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9f7d491e-96b9-46b6-b0d4-d9e7a7447f37",
+      "properties": {
+        "name": "Реберня, гриль-бар",
+        "subcategory": "Бары, Кафе, Рестораны",
+        "rating": "4.9",
+        "site": "http://svetlyi-hotel.ru/gril-bar, http://t.me/grillbarrebernya",
+        "hours": "Ежедневно с 12:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.361741,
+          52.260825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cf0d12d7-75c0-489c-88a3-ac40dae74f71",
+      "properties": {
+        "name": "Очень винные дела, винотека",
+        "subcategory": "Алкогольные напитки, Кафе, Рестораны",
+        "rating": "5.0",
+        "site": "http://t.me/ochen_vinnye",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.300349,
+          52.273401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "32969367-60bf-4490-9b00-cce17bab3c2b",
+      "properties": {
+        "name": "Гонконг, ресторан китайской кухни",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.4",
+        "site": "http://www.hongkong38.ru",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.252843,
+          52.22575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "840ad0df-abca-4b6d-a2a6-32f4d4114695",
+      "properties": {
+        "name": "Moon China Food, ресторан китайской кухни",
+        "subcategory": "Рестораны",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288242,
+          52.274432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ba50eab1-faad-4ec1-8bbf-1e6c7a9b35e4",
+      "properties": {
+        "name": "Реберная №1",
+        "subcategory": "Бары, Кафе, Рестораны",
+        "rating": "4.5",
+        "site": "http://rebernaya-1.ru",
+        "hours": "Пн: с 12:00 до 23:00, Вт: с 12:00 до 23:00, Ср: с 12:00 до 23:00, Чт: с 12:00 до 23:00, Пт: с 12:00 до 24:00, Сб: с 12:00 до 24:00, Вс: с 12:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.321298,
+          52.272578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "127a3f0c-d81f-4498-a85f-74027f694815",
+      "properties": {
+        "name": "Остров, ресторан",
+        "subcategory": "Банкетные залы, Кафе, Рестораны",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.276252,
+          52.27208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "79668f73-9d12-445a-886d-a3d5234993a1",
+      "properties": {
+        "name": "Mir, ресторан",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "4.5",
+        "site": "http://eastland-baikal.ru/ru",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.837146,
+          51.867766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "da921448-5a11-421c-9505-aae17d8b44ed",
+      "properties": {
+        "name": "Khan Olkhon, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.7",
+        "site": "http://baikal-khan.com",
+        "hours": "Ежедневно с 09:00 до 23:00 (зимний период: пн-вс 08:00-23:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.351223,
+          53.199109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27c15a51-60cc-423d-a88d-9090e9818066",
+      "properties": {
+        "name": "Don Otello, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.8",
+        "site": "http://donotello.ru",
+        "hours": "Ежедневно с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.285116,
+          52.281905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a096aed3-cd39-4d0e-9aad-72b69cc4ff99",
+      "properties": {
+        "name": "Суши Студио, ресторан японской кухни",
+        "subcategory": "Доставка еды, Рестораны, Суши-бары",
+        "rating": "4.8",
+        "site": "http://irkutsk.sushi-studio.ru",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.225957,
+          52.265302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e019f2f8-d226-46f7-beac-e75add492348",
+      "properties": {
+        "name": "Ресторан сибирской кухни",
+        "subcategory": "Рестораны",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 08:30 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.361418,
+          53.194063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "19616612-630f-4241-bfcf-7a3c3e138e0f",
+      "properties": {
+        "name": "Сагаан-Морин, ресторан-бар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "3.6",
+        "site": "http://da-shi.ru/",
+        "hours": "Ежедневно с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.805761,
+          53.079782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3e885684-5334-456d-bb67-2e980fb5f189",
+      "properties": {
+        "name": "Премьера, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.8",
+        "site": "http://premiera-restaurant.ru, http://t.me/premiera_restaurant",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.293355,
+          52.272626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1b7a6477-3da7-4af6-b04c-7eb7bf1690f0",
+      "properties": {
+        "name": "Torro Grill, ресторан",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.8",
+        "site": "http://torrogrill.ru/rs/irkutsk",
+        "hours": "Пн: с 12:00 до 22:00, Вт: с 12:00 до 22:00, Ср: с 12:00 до 22:00, Чт: с 12:00 до 22:00, Пт: с 12:00 до 24:00, Сб: с 12:00 до 24:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.29072,
+          52.273131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "799b624c-aaa7-497c-8a92-e81a99153535",
+      "properties": {
+        "name": "Гонконг, ресторан китайской кухни",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.6",
+        "site": "http://www.hongkong38.ru",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.091474,
+          52.214183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "065279f2-7fa0-419c-8af2-f9c6f40c25ae",
+      "properties": {
+        "name": "Baikal Forest Restaurant, ресторанный комплекс",
+        "subcategory": "Банкетные залы, Бары, Конференц-залы / Переговорные комнаты, Рестораны",
+        "rating": "4.7",
+        "site": "http://baikal-forest.tilda.ws, http://t.me/baikalforestrest",
+        "hours": "Ежедневно с 07:00 до 24:00 (бар: пн-вс круглосуточно)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.30523,
+          52.275221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "66f4a01f-1939-40ea-8cdf-0ddfba4e72d2",
+      "properties": {
+        "name": "Хурал, ресторан",
+        "subcategory": "Банкетные залы, Бары, Доставка еды, Кафе, Рестораны",
+        "rating": "4.5",
+        "site": "http://taplink.cc/hural_kafe",
+        "hours": "Пн: с 10:00 до 24:00, Вт: с 10:00 до 24:00, Ср: с 10:00 до 24:00, Чт: с 10:00 до 24:00, Пт: с 10:00 до 02:00, Сб: с 10:00 до 02:00, Вс: с 10:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.06986,
+          52.201213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c08422ec-ddd1-47a8-a797-1adda1c8c164",
+      "properties": {
+        "name": "Пекин, ресторан китайской кухни",
+        "subcategory": "Рестораны",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.409136,
+          52.250655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1b21105f-a5a2-48cf-9806-99295d9ad064",
+      "properties": {
+        "name": "Hiro izakaya, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.6",
+        "site": "http://hiro.redrock.family/",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.300536,
+          52.279628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "880f1fcd-7a9f-49ea-8a50-1f261ab55ac3",
+      "properties": {
+        "name": "Зазеркалье, ресторан",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "4.6",
+        "site": "http://baikalpark.com",
+        "hours": "Ежедневно с 11:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.692165,
+          51.984126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bfdf739c-ce9e-4636-9447-3648e8d78590",
+      "properties": {
+        "name": "Катюша, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.319427,
+          52.265644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "22eb1d05-b2df-4499-9501-01eeb0fed93b",
+      "properties": {
+        "name": "Волна, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.6",
+        "site": "http://cafe-volna.ru",
+        "hours": "Пн: с 08:00 до 22:00, Вт: с 08:00 до 22:00, Ср: с 08:00 до 22:00, Чт: с 08:00 до 22:00, Пт: с 08:00 до 24:00, Сб: с 08:00 до 24:00, Вс: с 08:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.351783,
+          52.245182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0cdfe47a-2a6e-4fc4-b796-a7ba97a59a6a",
+      "properties": {
+        "name": "Kurbatov, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.8",
+        "site": "http://rodinagrandhotel.ru/restaurant/",
+        "hours": "Ежедневно с 07:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.269128,
+          52.289858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8c0ba954-642a-4d56-b166-3e3c3ad02a33",
+      "properties": {
+        "name": "Эндемик, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "5.0",
+        "site": "http://endemic.vip",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.826021,
+          53.038401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b107eaa8-090e-4a1a-a7e2-4f82e80ae295",
+      "properties": {
+        "name": "Гиви ту ю, ресторан кавказской кухни",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.9",
+        "site": "http://givitoyou.ru, http://taplink.cc/givitoyou",
+        "hours": "Пн: с 12:00 до 23:00, Вт: с 12:00 до 23:00, Ср: с 12:00 до 23:00, Чт: с 12:00 до 23:00, Пт: с 12:00 до 24:00, Сб: с 12:00 до 24:00, Вс: с 12:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.284631,
+          52.281566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9093467f-9f86-4fa5-b85d-d45d668c0dfe",
+      "properties": {
+        "name": "Винотека на Литвинова",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.7",
+        "site": "http://t.me/vinotekalitvona2",
+        "hours": "Пн: выходной, Вт: с 12:00 до 23:00, Ср: с 12:00 до 23:00, Чт: с 12:00 до 23:00, Пт: с 12:00 до 01:00, Сб: с 12:00 до 01:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288343,
+          52.284182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "883e3360-457a-4d14-9c1a-062478b7cd6d",
+      "properties": {
+        "name": "Коробок, гастробар",
+        "subcategory": "Доставка еды, Кафе, Рестораны",
+        "rating": "4.7",
+        "site": "http://gastrobarkorobok38.ru, http://gastrobarkorobok38.ru/reserve",
+        "hours": "Пн: с 11:00 до 24:00, Вт: с 11:00 до 24:00, Ср: с 11:00 до 24:00, Чт: с 11:00 до 24:00, Пт: с 11:00 до 01:00, Сб: с 11:00 до 01:00, Вс: с 11:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.292734,
+          52.288737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9f50a551-b9ad-4f45-a434-50cc8afb6de1",
+      "properties": {
+        "name": "Матрешка, ресторан",
+        "subcategory": "Банкетные залы, Доставка еды, Кейтеринг, Рестораны",
+        "rating": "4.8",
+        "site": "http://ladoga-irkutsk.ru",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3404,
+          52.280252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f034d09b-7498-400a-adb2-1b901136c7d4",
+      "properties": {
+        "name": "Едальня, ресторан",
+        "subcategory": "Кафе, Рестораны",
+        "rating": "4.9",
+        "site": "http://edalnya.pro",
+        "hours": "Пн: с 08:00 до 22:00, Вт: с 08:00 до 22:00, Ср: с 08:00 до 22:00, Чт: с 08:00 до 22:00, Пт: с 08:00 до 23:00, Сб: с 09:00 до 23:00, Вс: с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.308462,
+          52.278783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fb6d3bcb-bbf5-4a38-a754-5adadf51a639",
+      "properties": {
+        "name": "Байкальские сезоны, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.80519,
+          51.907172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6df1e908-1ce7-4e7a-8c4a-634cb7efdb07",
+      "properties": {
+        "name": "Мидийное место, ресторан",
+        "subcategory": "Кафе, Рестораны",
+        "rating": "4.7",
+        "site": "http://midiynoe-mesto.ru",
+        "hours": "Пн: с 11:00 до 22:00, Вт: с 11:00 до 22:00, Ср: с 11:00 до 22:00, Чт: с 11:00 до 22:00, Пт: с 11:00 до 23:00, Сб: с 11:00 до 23:00, Вс: с 11:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.297575,
+          52.285684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8ac00ddf-5070-4ddc-b1c7-cb91988553d2",
+      "properties": {
+        "name": "Красная стена, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "3.5",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.300625,
+          52.31312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "63712909-6f11-486c-a8bf-2f36951692d1",
+      "properties": {
+        "name": "Yummy, ресторан",
+        "subcategory": "Бары, Кафе, Рестораны",
+        "rating": "4.6",
+        "site": "http://ozera.club/restaurants",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.646349,
+          51.395117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fba807a0-5563-4cc1-8a30-d6d5926d82ee",
+      "properties": {
+        "name": "Озаримо",
+        "subcategory": "Рестораны",
+        "rating": "4.5",
+        "site": "http://ozarimo.ru",
+        "hours": "Пн: с 10:00 до 20:00, Вт: с 10:00 до 20:00, Ср: с 10:00 до 20:00, Чт: с 10:00 до 20:00, Пт: с 10:00 до 23:00, Сб: с 10:00 до 23:00, Вс: с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.598689,
+          52.051039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "61b710c4-447e-4078-a6fe-3de0a3047e51",
+      "properties": {
+        "name": "Рай Лао, ресторан азиатской кухни",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.152521,
+          52.352444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "df1c781d-fe91-4a67-9a2a-3e166e50bc0d",
+      "properties": {
+        "name": "Яблоко, ресторан",
+        "subcategory": "Бары, Ночные клубы, Рестораны",
+        "rating": "4.8",
+        "site": "http://yablokorestaurant.2gis.biz",
+        "hours": "Пн: с 12:00 до 02:00, Вт: с 12:00 до 02:00, Ср: с 12:00 до 02:00, Чт: с 12:00 до 02:00, Пт: с 12:00 до 05:00, Сб: с 12:00 до 05:00, Вс: с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.301109,
+          52.279673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "84995f16-379c-45d7-8cf6-a9e26e155e0d",
+      "properties": {
+        "name": "Паста Ля Баста",
+        "subcategory": "Рестораны",
+        "rating": "4.9",
+        "site": "http://pastalabastairk.tilda.ws",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.329227,
+          52.26722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0b13d29b-7cd5-41b0-8bb3-a7c0f5a0eae9",
+      "properties": {
+        "name": "Байкал 21, ресторан",
+        "subcategory": "Банкетные залы, Кейтеринг, Рестораны",
+        "rating": "4.3",
+        "site": "http://baikal21.com, http://t.me/baikal_21km",
+        "hours": "Ежедневно с 11:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.508317,
+          52.186481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0a4168dd-e6ba-4a6f-b426-d8c98d6449f0",
+      "properties": {
+        "name": "Грибоедов, ресторан",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.878289,
+          51.843458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "74ba3b14-5e77-47b0-b96c-87f29f2640ec",
+      "properties": {
+        "name": "Мидийная",
+        "subcategory": "Рестораны",
+        "rating": "4.8",
+        "site": "http://t.me/restorator_irina_zhuravleva",
+        "hours": "Ежедневно с 12:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.307056,
+          52.257225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "19f38ca1-7b84-433b-984d-b3e902faa424",
+      "properties": {
+        "name": "Лаваль, кафе",
+        "subcategory": "Кафе, Рестораны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.30806,
+          52.27022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e80b400b-c45f-4220-991e-d2185e0373ef",
+      "properties": {
+        "name": "Телец, ресторан китайской кухни",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00 (служба доставки: пн-вс 11:00-22:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.300102,
+          52.261731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "38d8d23e-2149-463c-b8be-c156e304b805",
+      "properties": {
+        "name": "Лотос, ресторан",
+        "subcategory": "Бары, Доставка еды, Кафе, Рестораны",
+        "rating": "4.3",
+        "site": "http://lianhuaw.ru",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.142691,
+          52.347463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3588375c-c74d-420f-9d81-2ee1850093d9",
+      "properties": {
+        "name": "Под Парусом, кафе-ресторан",
+        "subcategory": "Доставка еды, Кафе, Рестораны",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.875057,
+          51.846246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e68303c6-968c-4fae-9599-ee448be2ac7e",
+      "properties": {
+        "name": "Феличита, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 22:00, Вт: с 08:00 до 22:00, Ср: с 08:00 до 22:00, Чт: с 08:00 до 22:00, Пт: с 08:00 до 24:00, Сб: с 08:00 до 24:00, Вс: с 08:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.355116,
+          52.464592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "199b30b6-fee2-429b-82b5-e35815fae2f5",
+      "properties": {
+        "name": "Три кабана, ресторан",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.31177,
+          52.256991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d82f6e02-66db-426f-90e0-a2c2890dac39",
+      "properties": {
+        "name": "Bel viaggi, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.7",
+        "site": "http://belviaggi.ru/",
+        "hours": "Пн: с 08:00 до 22:00, Вт: с 08:00 до 22:00, Ср: с 08:00 до 22:00, Чт: с 08:00 до 22:00, Пт: с 08:00 до 23:00, Сб: с 08:00 до 23:00, Вс: с 08:00 до 22:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.274802,
+          52.288429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "005c9938-d751-4afd-b40f-d3e37f754ddb",
+      "properties": {
+        "name": "Станция Йети, купол-ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.9",
+        "site": "http://www.stationyeti.ru",
+        "hours": "Ежедневно с 12:00 до 20:00 (по предварительному бронированию; нерабочие месяцы: март-ноябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.845165,
+          53.030131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31d097d3-5942-42c8-ab46-45c014d00add",
+      "properties": {
+        "name": "Легенда Байкала, ресторан",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "4.6",
+        "site": "http://t.me/legend_of_baikal, http://www.legend-of-baikal.ru",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.828728,
+          51.873076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "968c75b1-cf6c-4b82-83a0-4f477c3c6a49",
+      "properties": {
+        "name": "Мидийное место, ресторан",
+        "subcategory": "Кафе, Рестораны",
+        "rating": "4.7",
+        "site": "http://midiynoe-mesto.ru",
+        "hours": "Пн: с 12:00 до 22:00, Вт: с 12:00 до 22:00, Ср: с 12:00 до 22:00, Чт: с 12:00 до 22:00, Пт: с 12:00 до 23:00, Сб: с 12:00 до 23:00, Вс: с 12:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.287699,
+          52.274923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ddfbd0c7-bd45-4090-9756-ef4eb6990b75",
+      "properties": {
+        "name": "Грузина Мама, ресторан",
+        "subcategory": "Доставка еды, Кафе, Рестораны",
+        "rating": "4.4",
+        "site": "http://nlo.gruzinamama.ru, http://t.me/gruzinamamairkutsk",
+        "hours": "Ежедневно с 12:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.146103,
+          52.351068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2599547c-a669-4323-91e2-5e763057c07b",
+      "properties": {
+        "name": "Komorebi, безалкогольный ресторан авторской сибирской кухни",
+        "subcategory": "Кейтеринг, Рестораны",
+        "rating": "4.8",
+        "site": "http://nuurhotel.com",
+        "hours": "Ежедневно с 07:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.306712,
+          52.281614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4b99b651-e785-44b7-b52d-7ca865070e99",
+      "properties": {
+        "name": "Нино, грузинское гранд-бистро",
+        "subcategory": "Рестораны",
+        "rating": "4.8",
+        "site": "http://menu.nino38.ru, http://nino38.ru/",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.306533,
+          52.257335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "25b42808-03c0-42ed-a030-44a8e6ed5c17",
+      "properties": {
+        "name": "Ешь или Пей, бар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Пн: с 12:00 до 02:00, Вт: с 12:00 до 02:00, Ср: с 12:00 до 02:00, Чт: с 12:00 до 02:00, Пт: с 12:00 до 04:00, Сб: с 12:00 до 04:00, Вс: с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.300984,
+          52.279726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "56b81afe-9633-4dde-ba3a-af2a591a84cf",
+      "properties": {
+        "name": "Тишь, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "5.0",
+        "site": "http://khan-glamping.ru",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.382306,
+          52.110772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ab34494c-7935-407c-9d0e-a220b89e9dc7",
+      "properties": {
+        "name": "Усадьба Егорова, ресторан",
+        "subcategory": "Доставка еды, Кафе, Рестораны",
+        "rating": "4.8",
+        "site": "http://usadba-egorova.ru/#cafe",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.285526,
+          52.281234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "005e235b-e128-4c6c-9f83-e9b9fbb27899",
+      "properties": {
+        "name": "Ламу, ресторан Байкальской кухни",
+        "subcategory": "Рестораны",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.304651,
+          52.273929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b50d36d8-2c5b-4bcc-8c20-5438082f2ef8",
+      "properties": {
+        "name": "Князь Гвидон, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.6",
+        "site": "http://www.gvidonirkutsk.ru",
+        "hours": "Пн: с 09:00 до 23:00, Вт: с 09:00 до 23:00, Ср: с 09:00 до 23:00, Чт: с 09:00 до 23:00, Пт: с 09:00 до 24:00, Сб: с 09:00 до 24:00, Вс: с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.285638,
+          52.28339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5fb54dcc-672c-482e-be92-ac9916db1649",
+      "properties": {
+        "name": "Телец, ресторан китайской кухни",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Пн: с 11:00 до 23:00, Вт: с 11:00 до 23:00, Ср: с 11:00 до 23:00, Чт: с 11:00 до 23:00, Пт: с 11:00 до 24:00, Сб: с 11:00 до 24:00, Вс: с 11:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.284517,
+          52.282652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14d35012-6315-44f9-a6ae-f2d7b26d246c",
+      "properties": {
+        "name": "Династия, ресторан китайской кухни",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.8",
+        "site": "http://dynasty-food.ru/",
+        "hours": "Пн: с 12:00 до 23:00, Вт: с 12:00 до 23:00, Ср: с 12:00 до 23:00, Чт: с 12:00 до 23:00, Пт: с 12:00 до 24:00, Сб: с 12:00 до 24:00, Вс: с 12:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.322646,
+          52.269056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "68390f00-68a8-41f4-ba0c-1aebcf5b6129",
+      "properties": {
+        "name": "Тесто-место, кафе русской кухни",
+        "subcategory": "Кафе, Рестораны",
+        "rating": "4.7",
+        "site": "http://t.me/testomestoirk",
+        "hours": "Ежедневно с 07:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.287493,
+          52.275582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a516a2ac-5150-42a3-a2bd-4d488fc19683",
+      "properties": {
+        "name": "Лед и ложка, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.7",
+        "site": "http://t.me/resto_led",
+        "hours": "Пн: с 08:30 до 23:00, Вт: с 08:30 до 23:00, Ср: с 08:30 до 23:00, Чт: с 08:30 до 23:00, Пт: с 08:30 до 24:00, Сб: с 10:00 до 24:00, Вс: с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.283614,
+          52.279109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "adb1c42e-9d8d-4e70-bd2c-35dcf9355fb2",
+      "properties": {
+        "name": "Авеню, ресторан",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.354095,
+          52.273652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "32ec9fed-6560-4254-95d3-6c67fd4cb9de",
+      "properties": {
+        "name": "Panorama, бар",
+        "subcategory": "Банкетные залы, Бары, Бильярдные залы, Караоке-залы, Рестораны",
+        "rating": "5.0",
+        "site": "http://pribaikalskaja.ru",
+        "hours": "Ежедневно с 09:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.818676,
+          51.904302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "71d42ab5-88e3-402c-92d8-a05c7012627b",
+      "properties": {
+        "name": "Pho Me, ресторан азиатской кухни",
+        "subcategory": "Кафе, Рестораны",
+        "rating": "4.9",
+        "site": "http://pho-me.ru",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289151,
+          52.267129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2ff34590-2d6b-40c9-80bf-2a107d118c36",
+      "properties": {
+        "name": "Азатай, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.469674,
+          52.061703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1b54144b-bba5-4b9a-a3f3-7f029cc0e203",
+      "properties": {
+        "name": "Арцибашев, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Пн: с 07:00 до 23:00, Вт: с 07:00 до 23:00, Ср: с 07:00 до 23:00, Чт: с 07:00 до 23:00, Пт: с 07:00 до 23:00, Сб: с 08:00 до 23:00, Вс: с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289304,
+          52.277161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aa4acc6f-2c41-4438-a1db-efc2e7a9d1cc",
+      "properties": {
+        "name": "Pitano Itameshi, ресторан итальянской и азиатской кухни",
+        "subcategory": "Рестораны",
+        "rating": "4.5",
+        "site": "http://pitano.ru",
+        "hours": "Пн: с 08:00 до 23:00, Вт: с 08:00 до 23:00, Ср: с 08:00 до 23:00, Чт: с 08:00 до 23:00, Пт: с 08:00 до 24:00, Сб: с 09:00 до 24:00, Вс: с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.278781,
+          52.246364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6800edc3-6ca8-4f90-80d7-8c8b00eab16d",
+      "properties": {
+        "name": "Turki",
+        "subcategory": "Рестораны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.338266,
+          52.285346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a59ef299-1c18-4065-a6d0-62b3a00d09d6",
+      "properties": {
+        "name": "Wind Lake, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.404739,
+          52.027805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16b54e5f-217a-4a93-b03c-ada2816bfc8a",
+      "properties": {
+        "name": "Чайна-таун, ресторан китайской кухни",
+        "subcategory": "Рестораны",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.340241,
+          52.463322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "66656b61-b4ab-4599-bbfe-986ed32b2745",
+      "properties": {
+        "name": "Гриль Хаус",
+        "subcategory": "Рестораны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: с 11:00 до 24:00, Вт: с 11:00 до 24:00, Ср: с 11:00 до 24:00, Чт: с 11:00 до 24:00, Пт: с 11:00 до 02:00, Сб: с 11:00 до 02:00, Вс: с 11:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290844,
+          52.283772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9d5e176f-97a6-449b-87e6-de5c586ae32b",
+      "properties": {
+        "name": "Бугель Вугель, бар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "3.7",
+        "site": "http://baikalski.net/restaurants/bugel-vugel",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.120422,
+          51.509249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "329529ef-b12a-4347-9fe8-2c8b2983c201",
+      "properties": {
+        "name": "Генацвале, ресторан грузинской кухни",
+        "subcategory": "Банкетные залы, Доставка еды, Кафе, Рестораны",
+        "rating": "4.7",
+        "site": "http://t.me/restaurant_genacvale",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 24:00 (служба доставки: пн-вс 12:00-22:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.63481,
+          51.8232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "71d0c22f-fb02-4549-8134-f8e14635a25c",
+      "properties": {
+        "name": "Lanchester, гриль-бар",
+        "subcategory": "Бары, Доставка еды, Рестораны",
+        "rating": "4.2",
+        "site": "http://lanchester03.ru",
+        "hours": "Ежедневно с 12:00 до 01:00 (служба доставки: пн-вс 12:00-22:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.598676,
+          51.80951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4f163cdd-16c6-4ffd-b2cd-d16ff2363752",
+      "properties": {
+        "name": "Бир Хаус, ресторан",
+        "subcategory": "Бары, Доставка еды, Рестораны",
+        "rating": "4.1",
+        "site": "http://socprofile.com/bier_haus_uu",
+        "hours": "Пн: с 17:00 до 02:00, Вт: с 17:00 до 02:00, Ср: с 17:00 до 02:00, Чт: с 17:00 до 02:00, Пт: с 18:00 до 04:00, Сб: с 18:00 до 04:00, Вс: с 17:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.678037,
+          51.82304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "45ed6789-2c08-4b71-8c4f-3088a3c98dc2",
+      "properties": {
+        "name": "Che Guevara, рестоклуб",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.1",
+        "site": "http://cheguevarauu.com, http://cheguevarauu.ru, http://t.me/cheguevara_uu",
+        "hours": "Пн: с 18:00 до 04:00, Вт: с 18:00 до 04:00, Ср: с 18:00 до 04:00, Чт: с 18:00 до 04:00, Пт: с 18:00 до 05:00, Сб: с 18:00 до 05:00, Вс: с 18:00 до 04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.598923,
+          51.843563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dc62a674-16fa-4052-8c6e-3c076a6d9708",
+      "properties": {
+        "name": "Карабас Барабас, ресторан-кабаре",
+        "subcategory": "Рестораны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 24:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.598652,
+          51.823845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "228a2eda-6d52-4474-a697-022a75ca8888",
+      "properties": {
+        "name": "Мэргэн, ресторан",
+        "subcategory": "Кейтеринг, Рестораны",
+        "rating": "4.0",
+        "site": "http://ulanude.cosmosgroup.ru/ru/restaurant/restoran-mergen",
+        "hours": "Пн: с 07:00 до 10:00, Вт: с 07:00 до 10:00, Ср: с 07:00 до 10:00, Чт: с 07:00 до 10:00, Пт: с 07:00 до 10:00, Сб: с 07:00 до 11:00, Вс: с 07:00 до 11:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.581663,
+          51.838889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "334e5c23-8131-4866-9a24-5329925b4326",
+      "properties": {
+        "name": "Старина Мюллер, кафе",
+        "subcategory": "Банкетные залы, Доставка еды, Кафе, Рестораны",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Пн: с 10:30 до 23:00, Вт: с 10:30 до 23:00, Ср: с 10:30 до 23:00, Чт: с 10:30 до 23:00, Пт: с 10:30 до 02:00, Сб: с 10:30 до 02:00, Вс: с 10:30 до 23:00 (служба доставки: пн-вс 11:00-22:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.632072,
+          51.843422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c2616ba8-d6fa-4f58-9b0e-c84e988dea7b",
+      "properties": {
+        "name": "Орда, этноресторан",
+        "subcategory": "Банкетные залы, Доставка еды, Караоке-залы, Кейтеринг, Рестораны",
+        "rating": "4.3",
+        "site": "http://421999.restoplace.ws, http://orda03.ru, http://orda03.ru/karaoke",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 24:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 02:00 (караоке-бар: пн-вс 15:00-3:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.597227,
+          51.839342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f08d2553-853f-4674-8bc7-45143070a240",
+      "properties": {
+        "name": "Тэмулэн, ресторан",
+        "subcategory": "Доставка еды, Кафе, Рестораны",
+        "rating": "4.2",
+        "site": "http://temulen.ru",
+        "hours": "Ежедневно с 06:20 до 02:00 (служба доставки: пн-сб 11:00-18:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.589737,
+          51.821525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d09e8448-ebfe-426a-8671-8f9c1bf4e8dd",
+      "properties": {
+        "name": "Чаплин, рестоклуб",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: с 16:00 до 04:00, Ср: с 16:00 до 04:00, Чт: с 16:00 до 04:00, Пт: с 16:00 до 06:00, Сб: с 16:00 до 06:00, Вс: с 16:00 до 04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59256,
+          51.823746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bf6e1a22-1fed-417e-8208-4a60bf1216d5",
+      "properties": {
+        "name": "Император, суши-бар",
+        "subcategory": "Доставка еды, Рестораны, Суши-бары",
+        "rating": "4.4",
+        "site": "http://imperator03.ru",
+        "hours": "Пн: с 11:00 до 23:00, Вт: с 11:00 до 23:00, Ср: с 11:00 до 23:00, Чт: с 11:00 до 23:00, Пт: с 11:00 до 01:00, Сб: с 11:00 до 01:00, Вс: с 11:00 до 23:00 (служба доставки: пн-чт 10:00-22:00; пт-сб 10:00-23:00; вс 10:00-22:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.577576,
+          51.838655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "07cb2249-9539-4296-a32f-fdf98e94f350",
+      "properties": {
+        "name": "Reston Сад, ресторан",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.7",
+        "site": "http://restonfood.ru, http://restonhotel.ru/restaurant, http://t.me/reston_hotel_spa",
+        "hours": "Ежедневно с 07:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59304,
+          51.81653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9daf0809-8ba1-478a-b1c6-203a42cec255",
+      "properties": {
+        "name": "Золотая медаль, кафе-ресторан",
+        "subcategory": "Доставка еды, Кафе, Рестораны",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 24:00 (служба доставки и самовывоза: пн-вс 11:00-21:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6364,
+          51.822417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c14643f5-ffa3-448a-b212-cd96a8d5f669",
+      "properties": {
+        "name": "Пельмень, кафе",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "4.6",
+        "site": "http://sagaan-morin.ru",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593822,
+          51.837953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0b1493d2-abbe-43da-8e92-05405a43103b",
+      "properties": {
+        "name": "Челентано, караоке rooms",
+        "subcategory": "Бары, Караоке-залы, Рестораны",
+        "rating": "4.4",
+        "site": "http://960366.restoplace.ws/, http://celentanouu.ru, http://t.me/celentano_karaoke_rooms",
+        "hours": "Пн: с 18:00 до 03:00, Вт: с 18:00 до 03:00, Ср: с 18:00 до 03:00, Чт: с 18:00 до 03:00, Пт: с 18:00 до 05:00, Сб: с 18:00 до 05:00, Вс: с 18:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.594239,
+          51.813869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7c537878-8fea-43b7-820f-157012f571c7",
+      "properties": {
+        "name": "Друзья, рестобар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "3.7",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 24:00 (по предварительной записи)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.598678,
+          51.823853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b770f535-f73b-4c57-b153-e6c73cf08e52",
+      "properties": {
+        "name": "ЯРоллов, фьюжн-ресторан",
+        "subcategory": "Доставка еды, Кафе, Пиццерии, Рестораны, Суши-бары",
+        "rating": "4.3",
+        "site": "http://yarollov.ru",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.590118,
+          51.82396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4221c6b0-beb7-4d78-9a43-437e5261a4da",
+      "properties": {
+        "name": "ЯРоллов, фьюжн-ресторан",
+        "subcategory": "Доставка еды, Кафе, Пиццерии, Рестораны, Суши-бары",
+        "rating": "4.0",
+        "site": "http://yarollov.ru",
+        "hours": "Ежедневно с 11:00 до 23:00 (служба доставки: пн-вс 10:00-00:30)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.67068,
+          51.813358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c4719ea6-d0bf-4e87-8fd8-9cf3470c4ba2",
+      "properties": {
+        "name": "Tom Yam, ресторан паназиатской кухни",
+        "subcategory": "Бары, Доставка еды, Кафе, Рестораны",
+        "rating": "4.5",
+        "site": "http://tomyamrest.ru/",
+        "hours": "Пн: с 11:30 до 22:00, Вт: с 11:30 до 22:00, Ср: с 11:30 до 22:00, Чт: с 11:30 до 22:00, Пт: с 11:30 до 01:00, Сб: с 11:30 до 01:00, Вс: с 11:30 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.598801,
+          51.823953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "69eb93a3-bf36-469b-afbb-820988d87a71",
+      "properties": {
+        "name": "Династия, ресторан",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.1",
+        "site": "http://t.me/dinastiarest, http://www.dinastia03.ru",
+        "hours": "Ежедневно с 11:00 до 24:00 (служба доставки: пн-вс 11:00-21:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.676308,
+          51.821382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d8a00f22-88fa-4ab2-8aec-4b95b46ad929",
+      "properties": {
+        "name": "Тэнгис, ресторан",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "4.7",
+        "site": "http://tengis.ru",
+        "hours": "Ежедневно с 11:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.586369,
+          51.833354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "39d24651-19af-44ce-9448-3b06073fbcc3",
+      "properties": {
+        "name": "Voyage, ресторан",
+        "subcategory": "Банкетные залы, Доставка еды, Караоке-залы, Рестораны",
+        "rating": "4.6",
+        "site": "http://voyagerestaurant.ru",
+        "hours": "Ежедневно с 12:00 до 24:00 (служба доставки: пн-вс 12:00-20:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.581599,
+          51.836808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "055d4998-6a90-4640-940d-fc2f1b3bfd12",
+      "properties": {
+        "name": "ЯРоллов, фьюжн-ресторан",
+        "subcategory": "Доставка еды, Кафе, Пиццерии, Рестораны, Суши-бары",
+        "rating": "4.2",
+        "site": "http://t.me/yarollov, http://yarollov.ru",
+        "hours": "Ежедневно с 11:00 до 23:00 (служба доставки: пн-вс 10:00-00:30)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.591073,
+          51.825369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "04307be6-544e-43e1-b472-95cd84ab5549",
+      "properties": {
+        "name": "Mojo, лаундж-бар",
+        "subcategory": "Банкетные залы, Бары, Караоке-залы, Рестораны",
+        "rating": "4.7",
+        "site": "http://t.me/tutmojovse",
+        "hours": "Пн: с 17:00 до 02:00, Вт: с 17:00 до 02:00, Ср: с 17:00 до 02:00, Чт: с 17:00 до 02:00, Пт: с 17:00 до 03:00, Сб: с 17:00 до 03:00, Вс: с 17:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.591073,
+          51.825369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b826ef7e-7029-4333-ba30-0742320915ff",
+      "properties": {
+        "name": "Грильяж, ресторанный комплекс",
+        "subcategory": "Бары, Доставка еды, Караоке-залы, Кафе, Рестораны",
+        "rating": "4.6",
+        "site": "http://grillage-uu.ru",
+        "hours": "Пн: с 12:00 до 01:00, Вт: с 12:00 до 01:00, Ср: с 12:00 до 01:00, Чт: с 12:00 до 01:00, Пт: с 12:00 до 03:00, Сб: с 12:00 до 03:00, Вс: с 12:00 до 01:00 (банкетный зал: пн-вс 10:00-23:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.589538,
+          51.821107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a5876d18-28ea-4af3-9b6f-655f1ded3e2f",
+      "properties": {
+        "name": "SHEFFIELD, ресторан",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "4.6",
+        "site": "http://t.me/sheffied_03",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.635123,
+          51.804927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8ba7e146-c95a-4134-8f27-78a3f95bd095",
+      "properties": {
+        "name": "Филин, паб домашнего производства",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: с 16:00 до 23:00, Ср: с 16:00 до 23:00, Чт: с 16:00 до 23:00, Пт: с 16:00 до 01:00, Сб: с 16:00 до 24:00, Вс: с 16:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.622092,
+          51.809623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e22faa85-3d31-4cbc-9043-ab63647537f5",
+      "properties": {
+        "name": "ЯРоллов, фьюжн-ресторан",
+        "subcategory": "Доставка еды, Кафе, Пиццерии, Рестораны, Суши-бары",
+        "rating": "4.0",
+        "site": "http://yarollov.ru",
+        "hours": "Ежедневно с 11:00 до 23:00 (служба доставки: пн-вс 10:00-00:30)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.59755,
+          51.838768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e9ec0cf9-9d40-400e-962a-2ebc4caea7be",
+      "properties": {
+        "name": "Сова, рестобар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: с 10:00 до 20:00, Ср: с 10:00 до 20:00, Чт: с 10:00 до 20:00, Пт: с 11:00 до 01:00, Сб: с 11:00 до 01:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.657929,
+          52.052773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5079e4cf-4e0c-4371-97c6-748f7fff94ee",
+      "properties": {
+        "name": "Hua Mulan, китайский ресторан",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.5",
+        "site": "http://huamulan.ru/, http://t.me/restoran_hua_mulan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.591245,
+          51.822487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37ac6b98-c563-40f5-b631-852ea7f07975",
+      "properties": {
+        "name": "Миша, ресторан сибирской и купеческой кухни",
+        "subcategory": "Банкетные залы, Рестораны",
+        "rating": "4.8",
+        "site": "http://www.baikalriviera.ru",
+        "hours": "Пн: с 08:00 до 22:00, Вт: с 08:00 до 22:00, Ср: с 08:00 до 22:00, Чт: с 08:00 до 22:00, Пт: с 08:00 до 23:00, Сб: с 08:00 до 23:00, Вс: с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.963427,
+          52.792817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "564d931b-0193-4296-a024-e6d5380d0514",
+      "properties": {
+        "name": "Judy, рестобар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.7",
+        "site": "http://t.me/judylounge",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: с 18:00 до 04:00, Сб: с 18:00 до 04:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.621326,
+          51.8095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6185b7f1-9355-43d8-904e-0ed738537d3f",
+      "properties": {
+        "name": "Лето, караоке-бар",
+        "subcategory": "Банкетные залы, Бары, Караоке-залы, Кафе, Рестораны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 17:00 до 02:00, Вт: с 17:00 до 02:00, Ср: с 17:00 до 02:00, Чт: с 17:00 до 02:00, Пт: с 17:00 до 04:00, Сб: с 17:00 до 04:00, Вс: с 17:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.677732,
+          51.81492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b078274d-02fa-48c1-bf8b-1137a9ec1cc1",
+      "properties": {
+        "name": "TEMAKI, кафе",
+        "subcategory": "Бары, Кафе, Рестораны",
+        "rating": "4.6",
+        "site": "http://t.me/temaki03, http://temaki.ru",
+        "hours": "Пн: с 11:00 до 23:00, Вт: с 11:00 до 23:00, Ср: с 11:00 до 23:00, Чт: с 11:00 до 23:00, Пт: с 11:00 до 24:00, Сб: с 11:00 до 24:00, Вс: с 11:00 до 23:00 (служба доставки: пн-чт, вс 10:00-22:45; пт, сб 10:00-23:45)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.584568,
+          51.830368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0a07c6b9-dcb1-4383-ac61-2d07446e7664",
+      "properties": {
+        "name": "Vibe, бар-караоке",
+        "subcategory": "Бары, Караоке-залы, Кафе, Рестораны",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 19:00 до 03:00, Вт: с 19:00 до 03:00, Ср: с 19:00 до 03:00, Чт: с 19:00 до 03:00, Пт: с 19:00 до 04:00, Сб: с 19:00 до 04:00, Вс: с 19:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.5871,
+          51.83222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1779a721-f69b-4ff6-8b4f-e644a5ec0c20",
+      "properties": {
+        "name": "Гёдзе, ресторан-бар",
+        "subcategory": "Бары, Доставка еды, Караоке-залы, Кафе, Ночные клубы, Рестораны",
+        "rating": "4.8",
+        "site": "http://gedze.ru",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 05:00, Сб: с 12:00 до 05:00, Вс: с 12:00 до 24:00 (служба доставки: пн-вс 12:00-23:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.577378,
+          51.826141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1c6eef68-b96d-4070-ad9e-022ccde61677",
+      "properties": {
+        "name": "Кайлас, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 07:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.614876,
+          51.842944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2e9148c9-7809-4b94-ba54-ddf07918580a",
+      "properties": {
+        "name": "Густоф, вечерний ресторан",
+        "subcategory": "Банкетные залы, Бары, Караоке-залы, Кафе, Рестораны",
+        "rating": "4.7",
+        "site": "http://t.me/gustof_03",
+        "hours": "Пн: с 17:00 до 03:00, Вт: с 17:00 до 03:00, Ср: с 17:00 до 03:00, Чт: с 17:00 до 03:00, Пт: с 17:00 до 03:00, Сб: с 17:00 до 05:00, Вс: с 17:00 до 03:00 (самовывоз: пн-вс 17:00-2:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.595244,
+          51.815721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e3c01fd0-6d80-4ee8-bf05-b6407dd1a95b",
+      "properties": {
+        "name": "Сон, рестобар",
+        "subcategory": "Банкетные залы, Бары, Караоке-залы, Рестораны, Фотостудии",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.682016,
+          51.818709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a7fd99ee-fd43-4f95-86b2-39faf66ef7a3",
+      "properties": {
+        "name": "Esco, рестобар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.8",
+        "site": "http://t.me/esco_uu",
+        "hours": "Ежедневно с 18:00 до 06:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.583829,
+          51.826458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ac432740-cf45-48fe-9f97-e0d0e6f91b38",
+      "properties": {
+        "name": "Marmaris, ресторан",
+        "subcategory": "Доставка еды, Кафе, Рестораны",
+        "rating": "4.7",
+        "site": "http://marmaris-dv.myresto.online/",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 01:00, Сб: с 12:00 до 01:00, Вс: с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.591715,
+          51.822865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "92c59abe-50a1-4578-a4ae-6b547e70580c",
+      "properties": {
+        "name": "Сахар, ресторан-бар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.4",
+        "site": "http://saxar-rest.ru/, http://t.me/saxar_restaurant",
+        "hours": "Пн: с 12:00 до 24:00, Вт: с 12:00 до 24:00, Ср: с 12:00 до 24:00, Чт: с 12:00 до 24:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 24:00 (пункт самовывоза: пн-вс 12:00-23:30)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.582243,
+          51.835786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "33a4046a-42ac-44c9-83fa-c576ee124094",
+      "properties": {
+        "name": "Тала, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.617493,
+          51.842201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bcf4ddea-6850-48d8-8416-8a206b7045eb",
+      "properties": {
+        "name": "Lumo, бар-ресторан",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.4",
+        "site": "http://lumorestobar.ru, http://t.me/lumo_bar",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: с 17:00 до 04:00, Сб: с 17:00 до 04:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.582283,
+          51.829758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e2c33792-961b-46d7-82ad-5be22569d3d1",
+      "properties": {
+        "name": "Лес, банкетный зал",
+        "subcategory": "Банкетные залы, Бары, Рестораны",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: с 12:00 до 02:00, Пт: с 12:00 до 02:00, Сб: с 12:00 до 02:00, Вс: с 12:00 до 02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.678281,
+          51.904566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "24b1d757-9916-4b43-b5dc-44737352b603",
+      "properties": {
+        "name": "Sky, лаундж-бар",
+        "subcategory": "Бары, Рестораны",
+        "rating": "4.8",
+        "site": "http://sky-loungebar03.orgs.biz",
+        "hours": "Ежедневно с 13:00 до 03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.586824,
+          51.830191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2573377b-f893-4b3d-8b51-9c7fe3314ca3",
+      "properties": {
+        "name": "Каракорум, этно-кафе",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Пн: с 12:00 до 23:00, Вт: с 12:00 до 23:00, Ср: с 12:00 до 23:00, Чт: с 12:00 до 23:00, Пт: с 12:00 до 23:00, Сб: с 15:00 до 24:00, Вс: с 15:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.57792,
+          51.83517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b9cd15a0-01ef-445b-bff9-6da4c2602ce4",
+      "properties": {
+        "name": "Ковчег, рестобар",
+        "subcategory": "Кафе, Рестораны",
+        "rating": "4.4",
+        "site": "http://t.me/restobarkovcheg",
+        "hours": "Пн: с 10:00 до 23:00, Вт: с 10:00 до 23:00, Ср: с 10:00 до 23:00, Чт: с 10:00 до 23:00, Пт: с 10:00 до 01:00, Сб: с 12:00 до 01:00, Вс: выходной"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.586159,
+          51.996046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a4aaeef1-d276-4eb4-a6d0-258ce20edb76",
+      "properties": {
+        "name": "Тамаз, ресторан кавказской кухни",
+        "subcategory": "Доставка еды, Рестораны",
+        "rating": "4.8",
+        "site": "http://access.clientomer.ru/feedback/666702-1/",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58673,
+          51.829786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1edf31e9-daaa-4828-a903-39beba20a441",
+      "properties": {
+        "name": "Амар",
+        "subcategory": "Кафе, Рестораны",
+        "rating": "4.8",
+        "site": "http://amar-park.ru",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.172655,
+          52.912384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dd72c728-c8db-411a-ae14-a4b6ba5338a1",
+      "properties": {
+        "name": "В гостях у Марико",
+        "subcategory": "Рестораны",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.644269,
+          51.822522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "55808b04-15a3-44d6-84a5-b22fab6c0da3",
+      "properties": {
+        "name": "Булгаковъ, ресторан",
+        "subcategory": "Рестораны",
+        "rating": "4.6",
+        "site": "http://t.me/bulgakov_restoran",
+        "hours": "Ежедневно с 12:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58526,
+          51.827086
+        ]
+      }
+    }
+  ]
+}

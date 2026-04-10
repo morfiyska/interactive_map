@@ -1,0 +1,3809 @@
+{
+  "type": "FeatureCollection",
+  "name": "Парки культуры и отдыха",
+  "style": {
+    "color": "#06cbb4",
+    "radius": 12,
+    "icon": "tree-branch-3-svgrepo-com.svg"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "93c49ea1-2ae5-4cda-9367-2fb17457b53e",
+      "properties": {
+        "name": "Иркутский зоосад",
+        "subcategory": "Зоопарк, Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "http://irkdetzoo.ru",
+        "hours": "Ежедневно с 11:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.246088,
+          52.263262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5f5e6240-47dc-4fbb-85a1-03998fa24cad",
+      "properties": {
+        "name": "Сквер им. Кирова",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.280679,
+          52.288408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "391929cd-fc7b-4e16-97dc-81cbf5d5018f",
+      "properties": {
+        "name": "Сквер им. Охлопкова",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.280308,
+          52.277141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "23bb20d3-b57d-4bb1-b8cf-7e02ba766974",
+      "properties": {
+        "name": "Парк им. Парижской коммуны",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "3.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.249289,
+          52.287564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "baae439c-7051-4661-bb58-ea194e61e4f0",
+      "properties": {
+        "name": "Верхняя Набережная",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.277456,
+          52.275047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2d885ad4-4c6b-4168-a787-625060b51d90",
+      "properties": {
+        "name": "Нижняя Набережная",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.279797,
+          52.292799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "29ec3847-941d-41f4-bad4-69d3b2c3ad0e",
+      "properties": {
+        "name": "Сквер Драматического театра",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "2.5",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.280995,
+          52.278534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c30b63ab-8866-41f1-909b-75beafbf5b4d",
+      "properties": {
+        "name": "Аллея Сибирских дивизий",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.353914,
+          52.24831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f332c892-08e1-4abd-9804-d1afb56465e5",
+      "properties": {
+        "name": "Сквер Волконских",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.306159,
+          52.288478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a1965b7c-1c9c-4229-ac49-832de6d98344",
+      "properties": {
+        "name": "Парк Комсомольский",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.219658,
+          52.353059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "67b49635-193b-43a1-9c65-23178a0a5937",
+      "properties": {
+        "name": "Дендропарк Байкальского музея",
+        "subcategory": "Ботанический сад / Дендрарий, Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.834604,
+          51.867771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "caf26a97-71dd-48e9-93f9-d9a936de800f",
+      "properties": {
+        "name": "остров Конный",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.284151,
+          52.264602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "be32b369-b720-4980-b052-3ce64d004e93",
+      "properties": {
+        "name": "Лисихинский парк",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.329747,
+          52.25844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5d318234-662f-4311-a8ea-86071c830581",
+      "properties": {
+        "name": "Сквер Иркутск-Сити",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.302732,
+          52.291645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c4f5405e-ff88-4ac5-ba50-07e735e15e7c",
+      "properties": {
+        "name": "Сад Томсона",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.203007,
+          52.328583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f785168b-8a89-46d2-8cea-b8707eea07d3",
+      "properties": {
+        "name": "Парк Берёзка",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.148723,
+          52.355251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0ba59497-0902-4c5c-b4f6-00479f64f67e",
+      "properties": {
+        "name": "Сквер им. Сигеки Мори",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28321,
+          52.282925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c9f807b4-64d0-4bb5-ab95-94e50a215691",
+      "properties": {
+        "name": "Сквер у Вечного Огня",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.280285,
+          52.291644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "38dd6a73-7e29-4f57-a531-c3a6b1853032",
+      "properties": {
+        "name": "Тихвинский сквер",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.281639,
+          52.28626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f186deea-07d4-4e55-a5e3-74f8481a53ef",
+      "properties": {
+        "name": "Поляна, парк",
+        "subcategory": "Аренда беседок, Верёвочные парки, Организация праздников, Парки культуры и отдыха",
+        "rating": "4.5",
+        "site": "http://park-irk.ru",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.279086,
+          52.250519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "433c2fb9-8b77-4615-a603-866852daa0dd",
+      "properties": {
+        "name": "Pesok 38",
+        "subcategory": "Аренда беседок, Парки культуры и отдыха, Пляжи / Зоны пляжного отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.231426,
+          52.290334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "904a089f-f2e5-4ddd-a580-0b3ce50275af",
+      "properties": {
+        "name": "Зазеркалье, парк семейного отдыха",
+        "subcategory": "Парки культуры и отдыха, Прокат водно-спортивной техники, Резиденции Деда Мороза, Тюбинговые трассы",
+        "rating": "4.7",
+        "site": "http://baikalpark.com",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.692577,
+          51.984358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "aa544f44-269c-4798-adeb-fe877a2c36c4",
+      "properties": {
+        "name": "Сквер им. Кирова",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.280679,
+          52.288408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "205b7c11-6331-49c6-8339-bc7eeec0f8b9",
+      "properties": {
+        "name": "Сквер у Вечного Огня",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.280285,
+          52.291644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9e12e49e-4cfc-4d2a-85bf-38e06e06f00f",
+      "properties": {
+        "name": "Нижняя Набережная",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.279797,
+          52.292799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "da01a8ad-03d8-42f5-aa36-b3426a6be2aa",
+      "properties": {
+        "name": "Верхняя Набережная",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.273603,
+          52.28075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e721ec06-ff05-4906-9fe2-86929b1abee0",
+      "properties": {
+        "name": "Сквер им. Петра Красильникова",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.098055,
+          52.208983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cc8b5b66-bd7d-4d65-bbba-16b7732670d0",
+      "properties": {
+        "name": "Шелехов Парк",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.078411,
+          52.211301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "24e676fa-e7e6-48c7-920a-789439daa2f4",
+      "properties": {
+        "name": "Парк Остров Малый Конный",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.278945,
+          52.268677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7b5d33c2-378b-4dd1-8201-10c21dc9d558",
+      "properties": {
+        "name": "Парк семейного отдыха",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.3492,
+          52.252078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9743e363-e0b9-43cf-a53b-14c9209ca287",
+      "properties": {
+        "name": "Парк Остров Юность",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.27567,
+          52.271837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8765cb59-bc31-4f86-a773-88c79d52fa9f",
+      "properties": {
+        "name": "Лисихинский парк",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.330031,
+          52.258316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "626a3d81-0359-49a4-b372-c8bf4b45880d",
+      "properties": {
+        "name": "Сквер Россия",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.161169,
+          52.35185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ba3f5b3f-9e76-4928-8b57-3fbd5ac99b02",
+      "properties": {
+        "name": "Парк Целлюлозников",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.147192,
+          51.520463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4808cae9-abd7-4df9-bd67-bdcfae4fd8bb",
+      "properties": {
+        "name": "Железнодорожник, парк",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.731665,
+          51.657961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cbe6afcd-f948-4b05-8e3e-223e71732c04",
+      "properties": {
+        "name": "Парк Искусств",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.153632,
+          51.520036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a44a1016-c220-432a-9737-4ebc9fcca629",
+      "properties": {
+        "name": "Перевал, парк",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.687973,
+          51.671077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "feb2493a-6928-41ee-ac62-a7f6ba3e88b3",
+      "properties": {
+        "name": "Дендропарк Байкальского музея",
+        "subcategory": "Ботанический сад / Дендрарий, Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.834604,
+          51.867771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4039c3ae-d872-47e0-82e7-43f01ee9761d",
+      "properties": {
+        "name": "Парк воинской славы",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.144718,
+          51.511535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "886816da-c8bd-46fc-9362-07fe9f7b69ab",
+      "properties": {
+        "name": "Парк им. Слюдянских Красногвардейцев",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.705624,
+          51.644798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c5a638f4-6015-4ac8-9080-ac1504b63047",
+      "properties": {
+        "name": "Парк Январского восстания",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.716635,
+          51.723937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "76806cc5-0896-4f0e-9fc0-155748283d28",
+      "properties": {
+        "name": "Аллея мужества, воинской и трудовой доблести",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.347658,
+          52.28028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "da6051ac-836b-4564-a905-62276faa5cae",
+      "properties": {
+        "name": "Сквер им. Хаим-Бер Ходос",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.280508,
+          52.283459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "67e57dfc-5594-4505-9b7e-fc86f65372ff",
+      "properties": {
+        "name": "Купеческий сквер",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.305033,
+          52.285723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14aeb970-73de-4ece-afc5-2087b932b937",
+      "properties": {
+        "name": "Сквер им. Александра Вампилова",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.238908,
+          52.258138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ac2e93de-8404-4539-830f-26c5992f0beb",
+      "properties": {
+        "name": "Сквер Забайкальцев",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.087955,
+          52.207185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "47f69ef5-5c9e-4161-8752-295983ca9b15",
+      "properties": {
+        "name": "Историко-мемориальный комплекс Иерусалимская гора",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.298942,
+          52.276015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9275ce42-7fc3-4d3f-950f-359e5754d2a7",
+      "properties": {
+        "name": "Молодёжная роща",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.207118,
+          52.336041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eb4bf340-35c0-4cd8-8fc8-275538263ddc",
+      "properties": {
+        "name": "Мини-парк символов городов-побратимов Иркутска",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.30395,
+          52.286407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16262128-1189-4aba-a94c-e8e22e46b6cc",
+      "properties": {
+        "name": "Парк Победы",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.215166,
+          52.344788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b41ef66b-a4eb-408a-ad82-a161351b63f9",
+      "properties": {
+        "name": "Сквер Южный",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.298571,
+          52.226281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "13abc850-8d2c-4aee-907d-bf059d1e214b",
+      "properties": {
+        "name": "Каштаковская роща",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.335397,
+          52.298958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5efd5b37-03ed-4c94-9096-5c087990cf43",
+      "properties": {
+        "name": "Сквер на пересечении Сурикова и Чудотворской",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.27317,
+          52.289664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "624c4729-f2de-4f7c-8205-ddfbc1332fa9",
+      "properties": {
+        "name": "Сквер влюблённых",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.276648,
+          52.290135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "08b9ac94-926a-4207-8a5e-6d3d305c638f",
+      "properties": {
+        "name": "Сквер перед библиотекой им. И.И. Молчанова-Сибирского",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.266815,
+          52.250783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d2c2956d-496f-4cba-92bd-6cd04db28723",
+      "properties": {
+        "name": "Цветочный бульвар",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.311868,
+          52.262005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1a2c2f02-a032-42c9-ae99-2bcbda9db56b",
+      "properties": {
+        "name": "Сквер перед научной библиотекой ИГУ им. В.Г. Распутина",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.261233,
+          52.251149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "032a6169-0b5e-4f5e-9143-c816bd76b48c",
+      "properties": {
+        "name": "Парк инициативной молодёжи",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.257004,
+          52.279209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "52e49085-872e-446d-830e-258e56f27bfe",
+      "properties": {
+        "name": "Сквер Россия",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.16084,
+          52.351971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7b737c63-59b3-4e9a-af49-f5574c22351c",
+      "properties": {
+        "name": "Парк Искусств",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.153632,
+          51.520036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "feb23eb5-47f7-4282-b055-a03f32c010a8",
+      "properties": {
+        "name": "Парк Остров Юность",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.276447,
+          52.27127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ac0bac90-940d-43c4-8cb4-3f9913ca4774",
+      "properties": {
+        "name": "Перевал, парк",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.687973,
+          51.671077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fd0a74db-e4df-4273-9409-a4aae977b717",
+      "properties": {
+        "name": "Парк им. Слюдянских Красногвардейцев",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.705624,
+          51.644798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "faac065a-6d53-4b41-a3e9-637b1ff19759",
+      "properties": {
+        "name": "Железнодорожник, парк",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.731665,
+          51.657961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f3b8844f-b80d-4b25-b731-a82ee73cd916",
+      "properties": {
+        "name": "Парк Январского восстания",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.716635,
+          51.723937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1dc82db8-9a82-480b-bac3-e036b8a1d10b",
+      "properties": {
+        "name": "Парк Академгородка",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.267093,
+          52.246624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8d8bde59-7933-4f3c-8ae7-f4bd224c2dcd",
+      "properties": {
+        "name": "Сквер Первостроителей",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.135503,
+          51.521425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e378054e-3829-45fa-969e-f3e40cdac5e6",
+      "properties": {
+        "name": "Сквер Неагари",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.09705,
+          52.208457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f3a846a0-4b74-4311-a921-b13242f3c370",
+      "properties": {
+        "name": "Аллея Дружбы МНТК",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.279031,
+          52.239242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "50b98f86-f231-4563-8f73-967a38732efa",
+      "properties": {
+        "name": "Сквер выпускников ИГМУ",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.282134,
+          52.273137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cd287c1b-f560-4508-8f0a-74e947bf1f41",
+      "properties": {
+        "name": "Сквер дружбы Иркутска и Пфорцхайма",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.27171,
+          52.286378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d65d6bf6-f256-44b9-9bd4-e25a7e0adc1f",
+      "properties": {
+        "name": "Курсантский парк",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.345932,
+          52.277136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c529bb7d-45c7-40bd-9d64-26896f54e80f",
+      "properties": {
+        "name": "Сквер Шайба",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.272232,
+          52.286847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e422a0bc-4784-4146-a639-835f19770177",
+      "properties": {
+        "name": "Сквер Святителя Иннокентия",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.2821,
+          52.291944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "015e82fe-92da-440d-b8d6-9535fb7c248a",
+      "properties": {
+        "name": "Студенческий сквер",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.263808,
+          52.260793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "03698e0c-c4a8-4e1a-8da5-0b3b1c97cbde",
+      "properties": {
+        "name": "Сиреневый, сквер",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.093981,
+          52.2143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "593d99ac-0143-45ce-b27e-d6963f0d49b8",
+      "properties": {
+        "name": "Сквер Космонавтов",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.267588,
+          52.287585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b9a64ae3-19b9-44e1-927b-5aae622a221c",
+      "properties": {
+        "name": "Парк семейного отдыха",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.349679,
+          52.252201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ea618d8d-02d3-42cf-84fb-c89914fedadb",
+      "properties": {
+        "name": "Сквер за домом",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.291907,
+          52.217313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d9b75223-66fa-4185-b07c-3ba4ced3d694",
+      "properties": {
+        "name": "Шелехов Парк",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.078411,
+          52.211301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c5fc870a-101a-4622-aedc-21dc9e6041e1",
+      "properties": {
+        "name": "Шелехов Парк",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.078411,
+          52.211301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6137b651-c290-4f5d-9aac-0aff5bccbb18",
+      "properties": {
+        "name": "Бульвар Постышева",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.311809,
+          52.25787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "72c64666-2dbc-49e0-9bfe-daf3294b1124",
+      "properties": {
+        "name": "Парк-набережная Солнечная дорога",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.34683,
+          52.250905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a721a6d0-8311-4ab5-8482-d23f39fbdf8e",
+      "properties": {
+        "name": "Сквер им. Ю.А. Ножикова",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28435,
+          52.284125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f5e3091e-d751-48ed-9c88-40dca2f303ba",
+      "properties": {
+        "name": "Парк Целлюлозников",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.147192,
+          51.520463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fe77593d-1ca0-4d76-a5e5-33d6792bc773",
+      "properties": {
+        "name": "Татьянин сквер",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.141474,
+          51.508819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "59c0ad4c-7c2f-466f-b801-83c1e6cff50d",
+      "properties": {
+        "name": "Пушкинский сквер",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.253245,
+          52.281171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5c3c256e-3687-44d6-b48e-b7dcd0017cfd",
+      "properties": {
+        "name": "Сквер у памятника маршалу Жукову",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.351852,
+          52.248909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "79867afe-d172-4257-be3c-0d2e2a745545",
+      "properties": {
+        "name": "Сквер у Стом Центра",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.281677,
+          52.280114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a059b0fa-8920-40e9-a7c5-e0928d45d75c",
+      "properties": {
+        "name": "Сквер Лебединского",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.295624,
+          52.290566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "71275387-e7aa-4fd7-b27b-37bed7a7312e",
+      "properties": {
+        "name": "Парк на Узловой",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.233114,
+          52.330119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b4785d22-2938-4fa7-b35b-310f880c3bf3",
+      "properties": {
+        "name": "Сквер Победы",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.309879,
+          52.282948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fa4a34e6-e357-401a-a8ea-819b2347f20d",
+      "properties": {
+        "name": "Сквер Памяти",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.329067,
+          52.291536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0e9a4653-63ec-4691-8f10-17c4503b8e3e",
+      "properties": {
+        "name": "Сквер Чеховский дворик",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.291977,
+          52.286219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fd796e9a-7e23-472d-92d4-a83aab748ce6",
+      "properties": {
+        "name": "Сквер Пограничников",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.270526,
+          52.28647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14be6288-c6e3-4664-8bc4-d7c1f2b587f3",
+      "properties": {
+        "name": "Аллея Гагарина",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.285904,
+          52.272379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0aaebd5b-e171-4ffd-aac9-0c987b55d608",
+      "properties": {
+        "name": "Аллея Славы",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.454127,
+          52.584419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "225aefc5-66aa-4738-b642-e0ad27d6646c",
+      "properties": {
+        "name": "Центральный сквер",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.454045,
+          52.584085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7b743356-a49d-458b-84d7-ac78192ce92a",
+      "properties": {
+        "name": "Парк Победы",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.459054,
+          52.580607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0fd85aa9-9cb5-4e3e-afac-23c6925c18d2",
+      "properties": {
+        "name": "Сквер гидростроителей",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.316911,
+          52.23274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "31a11a1b-09f3-47ad-9355-ebfc7bc456b7",
+      "properties": {
+        "name": "Площадь Декабристов",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.313221,
+          52.282362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6f379e7d-5932-417f-b365-37f402040e99",
+      "properties": {
+        "name": "Аллея Мира",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.275887,
+          52.278994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "25fb59ac-fb51-451d-ba8a-bb13a35a6abe",
+      "properties": {
+        "name": "сквер Героям-медикам",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.328774,
+          52.259687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4d5ca938-e0eb-4f29-a905-8dee1746c227",
+      "properties": {
+        "name": "Сквер Патриот",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.349026,
+          52.264152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1241d06d-ef1c-4666-8ae4-dab07288c5ef",
+      "properties": {
+        "name": "Парк Приморский",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.310324,
+          52.230153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0fa0c3f8-4ed5-45e6-9bbe-e02117ea30eb",
+      "properties": {
+        "name": "Парк Приморский",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.310324,
+          52.230153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "de795d12-8d44-4c76-af95-b767e58d48c5",
+      "properties": {
+        "name": "Курсантский парк",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.345932,
+          52.277136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4fe210b5-0bee-422b-a0e1-cf8e8c8f3b94",
+      "properties": {
+        "name": "Зазеркалье, парк семейного отдыха",
+        "subcategory": "Парки культуры и отдыха, Прокат водно-спортивной техники, Резиденции Деда Мороза, Тюбинговые трассы",
+        "rating": "4.7",
+        "site": "http://baikalpark.com",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.692577,
+          51.984358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "46edb5c9-5d7f-4795-bc23-e45f8d6a1731",
+      "properties": {
+        "name": "Сквер Молодёжный",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.405658,
+          52.246378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cb64a4fa-bcd3-452e-8cb8-b00ecdeea58b",
+      "properties": {
+        "name": "Сквер им. Бронштейна",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.266243,
+          52.332255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3d2a7188-68f3-438e-9f54-1a4b22e699f4",
+      "properties": {
+        "name": "Сквер им. Бронштейна",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.266243,
+          52.332255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ce812224-fb53-4fc6-bc63-005661e76708",
+      "properties": {
+        "name": "Парк 75-летия Победы",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.212246,
+          52.26175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "da413474-76b2-4747-9ef9-790fc4d5fcfa",
+      "properties": {
+        "name": "Сквер им. Петра Красильникова",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.098055,
+          52.208983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "79946770-5dfc-4c08-9fe8-8b775d73b731",
+      "properties": {
+        "name": "Парк воинской славы",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.144718,
+          51.511535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ff51e599-1963-4a44-8c6d-9fb318af7c87",
+      "properties": {
+        "name": "Сквер в честь 100 летия СЭС",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.279327,
+          52.27679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1dfbda1d-d942-486c-9e54-7b6d7b6ae151",
+      "properties": {
+        "name": "Парк Прибрежный",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.391467,
+          52.288636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96451782-bbab-427e-934e-27fa7a55c4cf",
+      "properties": {
+        "name": "Парк Прибрежный",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.391467,
+          52.288636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9804bb9b-1824-4050-baa8-0d2d67008c24",
+      "properties": {
+        "name": "Сквер Ирис",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.208983,
+          52.26597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4354f333-794d-4176-b5b6-bc14ef226f07",
+      "properties": {
+        "name": "Сквер Ирис",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.208983,
+          52.26597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a8a39c18-1252-4793-8777-34f2f3f1ab7b",
+      "properties": {
+        "name": "Сквер Бажова",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.236101,
+          52.260925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4c585f73-ae83-4e0a-b7df-1c4e1138bbf9",
+      "properties": {
+        "name": "Сквер Бажова",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.236101,
+          52.260925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27768a4b-5505-4b73-ba63-ae7a5b193e91",
+      "properties": {
+        "name": "Бульвар Солнечный",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "2.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.35512,
+          52.251852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e844fa77-f234-4ae6-abda-465de58234b5",
+      "properties": {
+        "name": "Бульвар Солнечный",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "2.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.35512,
+          52.251852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d189871d-3e4c-4bda-bf23-2bc6c1d81787",
+      "properties": {
+        "name": "Сквер им. Маины Степановны Архиповой",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.092842,
+          52.210095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ac5c2ef7-d901-4ebb-a8df-e293731cb9ed",
+      "properties": {
+        "name": "Парк им. С.Н.Орешкова",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.611318,
+          51.843956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "75bd5f37-96ae-489a-83a8-048d3b9f7242",
+      "properties": {
+        "name": "Детский сквер Радуга",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.618555,
+          51.846127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4d994df4-5c3e-4791-a285-5ab3047cf3ef",
+      "properties": {
+        "name": "Парк им. Д.Ж. Жанаева, администрация",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.728894,
+          51.869432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1aaca1f0-5430-48b1-afb2-a839509fa2c1",
+      "properties": {
+        "name": "Городской сад, администрация",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.597771,
+          51.826636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6fa98311-3fb5-49aa-8678-5d631de9b2d1",
+      "properties": {
+        "name": "Сквер Студенческий",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.641093,
+          51.821372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0e86ed04-125c-49ab-ad49-151a3bce43e9",
+      "properties": {
+        "name": "Сквер 60-летия Победы",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.744668,
+          51.863699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cdd708d6-0631-48a4-a5c3-f1aa50b38bf3",
+      "properties": {
+        "name": "Сиреневый сквер",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.622003,
+          51.845183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c64f188a-956c-4d9b-941c-1aed8994209c",
+      "properties": {
+        "name": "Парк Молодёжный, администрация",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.720006,
+          51.862725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fe1dc14d-64b4-4680-816c-a95b5619cbc9",
+      "properties": {
+        "name": "Сквер Семейного отдыха",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.648055,
+          51.810098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4f61ab5b-8f6e-44a4-8156-ab2ef0a978c0",
+      "properties": {
+        "name": "Сквер Наранай Туяа",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.675283,
+          51.813942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cfdbda11-dd1e-425c-a1cb-c9f41242cb56",
+      "properties": {
+        "name": "Парк Железнодорожников",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58419,
+          51.842863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0cf6a61d-925e-46b0-9b9c-1cd658563294",
+      "properties": {
+        "name": "Парк Мемориал Победы",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.590142,
+          51.828391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8725f64a-4a5c-4e4d-b0c7-7ff5261ba883",
+      "properties": {
+        "name": "Сквер им. Сенчихина",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.574585,
+          51.850658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "29a33aeb-5a53-4949-91f1-3e330f1894cc",
+      "properties": {
+        "name": "Парк Счастливых людей",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.598094,
+          51.786922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "96c3496c-0eca-4a97-a1af-83226db6bf31",
+      "properties": {
+        "name": "Сквер отдыха Квартал",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.657906,
+          51.814334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6b4dc6e6-e02a-47f5-9b31-852fae0e070d",
+      "properties": {
+        "name": "Сквер Космос",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "3.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.582559,
+          51.846145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "043734e9-fbef-4f2d-8575-cd3f06e90eff",
+      "properties": {
+        "name": "Александровский сад",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.585255,
+          51.825641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4cd6d43f-08f0-4bdf-804a-67c6d270a82f",
+      "properties": {
+        "name": "Шахматный сквер",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.587428,
+          51.825266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f061abbd-5309-4206-80a5-8223349ced5a",
+      "properties": {
+        "name": "Сквер Ровесникам, ушедшим в бой",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.600875,
+          51.808414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8f41a900-bce0-49a0-b4ed-bdd23a457e95",
+      "properties": {
+        "name": "Сквер Детство",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.605356,
+          51.80936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c55d1ff8-ad63-4798-a1c1-ba019bb23afc",
+      "properties": {
+        "name": "Аллея Славы ветеранов 18 квартала",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.630359,
+          51.819603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2a3fad1f-f42a-48b2-a95e-69287cea58d7",
+      "properties": {
+        "name": "Парк им. С.Н.Орешкова",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.611318,
+          51.843956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f37adba5-a81b-4ec9-87de-2b365d0d6c74",
+      "properties": {
+        "name": "Юбилейный, парк культуры и отдыха",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.6",
+        "site": "http://parki03.ru",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.661642,
+          51.81292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ac2978c6-54ea-4b92-8417-33e7e6433b75",
+      "properties": {
+        "name": "Парк им. Д.Ж. Жанаева, администрация",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.728894,
+          51.869432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "84f121d2-cc42-4af8-b8fe-03574897aa42",
+      "properties": {
+        "name": "Городской сад, администрация",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.597771,
+          51.826636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8c674876-b272-408a-a715-760e9331c231",
+      "properties": {
+        "name": "Парк Железнодорожников",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58419,
+          51.842863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5d43e113-0be0-4500-91d1-251495316ab8",
+      "properties": {
+        "name": "Парк Кристальный, администрация",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.544415,
+          51.863124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "62650d95-b7f9-455c-a411-ad9f0ad0515b",
+      "properties": {
+        "name": "Парк Молодёжный, администрация",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 06:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.720006,
+          51.862725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8503c7a4-ee25-46ab-97fb-e46591ae1700",
+      "properties": {
+        "name": "Центральный парк",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.653531,
+          52.228722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bf21d9c5-f4d2-49b1-b422-5f23c5894e19",
+      "properties": {
+        "name": "Парк Победы",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.640992,
+          51.461521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2a20a693-a4f0-4766-a606-fa9928c63a3a",
+      "properties": {
+        "name": "Парк культуры",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.732024,
+          52.117834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "93157713-4715-4aec-93b2-2e6d8f418c38",
+      "properties": {
+        "name": "Радуга, детский спортивный парк",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.019821,
+          53.417032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "05cd72e7-4fa2-4068-8f4d-64a31764b3a6",
+      "properties": {
+        "name": "Победа, культурно-спортивный парк",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.972775,
+          52.797934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "48607c5f-7c9b-4807-83a9-8cf48d5e32d6",
+      "properties": {
+        "name": "Парк Кристальный",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "2.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.544871,
+          51.862924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "927b4363-3548-4557-a91b-44303ca49efb",
+      "properties": {
+        "name": "Сквер 112-й квартал",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.588796,
+          51.771816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4d435a48-e606-4628-a006-7112105c248b",
+      "properties": {
+        "name": "Сквер Пограничников",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.628369,
+          51.843205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e3b4ed37-ebc4-4d32-b984-df4e71671697",
+      "properties": {
+        "name": "Сквер им. Пушкина",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.592029,
+          51.841507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b8c0a77a-7042-4229-8e05-f5f8319bb5dc",
+      "properties": {
+        "name": "Сквер Миру - Мир",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "1.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.705767,
+          51.802467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d0c70b47-61f8-4228-b604-50fa77c1d97e",
+      "properties": {
+        "name": "Сквер 40-летия Победы",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.269303,
+          51.742513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dc40a63e-4ee6-48f9-92cc-502989db472f",
+      "properties": {
+        "name": "Парк Берендеев лес",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "0.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.224437,
+          52.958045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ae8d56f9-e813-4f19-9526-c95c3c7194fb",
+      "properties": {
+        "name": "Победа, культурно-спортивный парк",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.972775,
+          52.797934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27b491b7-d616-4b74-893f-066ad7b9fbe4",
+      "properties": {
+        "name": "Радуга, детский спортивный парк",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.019821,
+          53.417032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4ec49e5f-4ae8-49ca-a171-c6c195cea551",
+      "properties": {
+        "name": "Аллея имени Эржены Будаевой",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.655322,
+          51.81073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "db04c62e-a46d-4576-9c73-a6b29c4b2637",
+      "properties": {
+        "name": "Сквер Воинской Славы и Трудовой Доблести",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.534813,
+          51.28464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f89e0163-80c2-4467-be7e-508c2ddad981",
+      "properties": {
+        "name": "Сквер им. Г-Д.С. Шарапова",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.531653,
+          51.28699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "abfabdf0-afef-4d6a-8e8c-d97a2821662f",
+      "properties": {
+        "name": "Аллея Ветеранов",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.532872,
+          51.284294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a5da53ec-1dc1-451a-bbe2-c5435ff6536b",
+      "properties": {
+        "name": "Парк культуры и отдыха",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.631573,
+          53.622762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6f6d1f81-6a95-4b5a-af9e-54820f2dff31",
+      "properties": {
+        "name": "Аллея Отцов",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.580805,
+          51.838098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6f715c5f-d257-4b3b-9d3c-8a4876002f41",
+      "properties": {
+        "name": "Сквер им. Модогоева",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.583852,
+          51.836105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3636ff3d-ac36-41d8-bf84-900a4592d6b5",
+      "properties": {
+        "name": "Сквер им. Ленина",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.724213,
+          51.864238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b7e01f7f-aeb0-4ab4-a67e-0ad204870a1c",
+      "properties": {
+        "name": "Парк Победы и воинов интернационалистов",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.367677,
+          51.479003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ca1d40e9-8e9d-4f29-87de-3862f25808d3",
+      "properties": {
+        "name": "Парк Победы",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.275732,
+          51.74639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "32663516-87ab-4364-bb19-615480949630",
+      "properties": {
+        "name": "Парк Аллея счастья",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.367725,
+          51.481456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d1f35381-57ff-493e-82a7-db7d06dc3098",
+      "properties": {
+        "name": "Сквер им. Б.С. Быстрых",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.862402,
+          51.715728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2be16129-e6e1-4bf9-b53c-9c70fa5f6c12",
+      "properties": {
+        "name": "Сквер Зодчий",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.6434,
+          51.805584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9191fd5b-64e2-40b1-ad38-1084eff6ce40",
+      "properties": {
+        "name": "Сквер на Ткацкой",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.619627,
+          51.808179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9ad42c0a-13e8-42b6-a847-3d8edbcf3d1a",
+      "properties": {
+        "name": "Сквер Победы",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.642866,
+          51.461908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e347d4eb-c287-4935-b573-72493e6babb2",
+      "properties": {
+        "name": "Парк Победы",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.640992,
+          51.461521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ded0afb7-be02-4a3e-b472-360bc4879cc3",
+      "properties": {
+        "name": "Сквер Строителям БАМа",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.698035,
+          51.792684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c5e2eebb-c157-4027-b8b6-0ef09b245270",
+      "properties": {
+        "name": "Сквер Школьный",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.612478,
+          51.847636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "27f166e1-dc43-453d-ad0d-1762624a969b",
+      "properties": {
+        "name": "Колхозный парк",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.756268,
+          51.531143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "51711222-c2e3-4f1d-b0d7-49a797107818",
+      "properties": {
+        "name": "Парк Лучик",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.041794,
+          51.537595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b52749cf-b5a6-4613-9b31-80519ea79a47",
+      "properties": {
+        "name": "Парк отдыха Центральный",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.704473,
+          51.685162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ce77109d-9efb-4d7b-b5b1-3e0632486a2f",
+      "properties": {
+        "name": "Сквер Серебряной воды им. Л.Д. Ткаченко",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.601929,
+          51.839484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f854b890-480a-4b15-b0ac-1f4737ad5925",
+      "properties": {
+        "name": "Парк культуры",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.732024,
+          52.117834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d3dba502-a2a9-4d29-9bd0-e486066af641",
+      "properties": {
+        "name": "Сквер Пионерский",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.526915,
+          51.283764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2e2e5569-4e76-4b59-9a8b-f1519acce8ba",
+      "properties": {
+        "name": "Аллея Семьи",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.609296,
+          51.843882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "77ea92fe-7c4c-4a76-8c6b-1786d471e6dc",
+      "properties": {
+        "name": "Центральный парк",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.535842,
+          51.282234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "48ab2f77-e9dc-486a-afc0-fcba0b2854f0",
+      "properties": {
+        "name": "Сквер Шахтёров",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.523682,
+          51.279769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3d852c47-16a2-4e7f-a949-25a4fae019c0",
+      "properties": {
+        "name": "Сквер Юность",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.536548,
+          51.286235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6b6db7ff-461a-4f51-b138-a5514328a615",
+      "properties": {
+        "name": "Парк Победы",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.163197,
+          54.154865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "cde54df9-2e9f-47ab-b504-513aae9fad59",
+      "properties": {
+        "name": "Сквер Яблоневый",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.454227,
+          51.800121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "332a7a47-2db4-4064-81eb-d247051cc13f",
+      "properties": {
+        "name": "Центральный парк",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.535842,
+          51.282234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "79cbf67d-1b67-4c59-821f-669d3540f266",
+      "properties": {
+        "name": "Сквер Юность",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.536548,
+          51.286235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d3cd40d3-46e0-4d16-9188-23d2a6051131",
+      "properties": {
+        "name": "Шишкинский парк",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.094318,
+          51.766455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7395b931-d29b-439f-9e00-91fb4cdfceed",
+      "properties": {
+        "name": "Шишкинский парк",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.094318,
+          51.766455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0d47fcba-25b2-4b7f-bd7b-5873d6a18d34",
+      "properties": {
+        "name": "Сквер Добра",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.536206,
+          51.293444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "79748e13-917e-49ed-9ada-61c54e19dd91",
+      "properties": {
+        "name": "Сквер Добра",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.536206,
+          51.293444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "df897f93-e21e-4c96-8b3c-8312878a8110",
+      "properties": {
+        "name": "Сквер Шахтёров",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.523682,
+          51.279769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "eaf93ab0-7fde-4e19-95bd-94efa22fe17a",
+      "properties": {
+        "name": "Сквер Яблоневый",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.454227,
+          51.800121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12bd20d8-2eb8-4533-972c-22a563bf0a5f",
+      "properties": {
+        "name": "Центральный парк",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.653531,
+          52.228722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "abf9c8d8-ec53-42a4-9f2d-4861ffffb78f",
+      "properties": {
+        "name": "Аллея Юность",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.53449,
+          51.286769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5e03b45f-30f2-4f17-a87f-d883fcbc3629",
+      "properties": {
+        "name": "Аллея Юность",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.53449,
+          51.286769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "418545f5-50f5-4da2-b260-4c20625d86fa",
+      "properties": {
+        "name": "Аллея по ул. Ленина",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.530482,
+          51.286472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "109fca8b-3086-4d44-bc63-88ce91b744a3",
+      "properties": {
+        "name": "Аллея по ул. Ленина",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.530482,
+          51.286472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a49cea0a-7666-49dd-accb-e7a265be1130",
+      "properties": {
+        "name": "Сквер Черничные ночи",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.869468,
+          51.715896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2cc4e952-d115-41f7-b415-c2f908e1103f",
+      "properties": {
+        "name": "Сквер Дружба",
+        "subcategory": "Парки культуры и отдыха",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.529561,
+          51.288665
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2224 @@
+{
+  "type": "FeatureCollection",
+  "name": "Точки безалкогольных напитков",
+  "style": {
+    "color": "blue",
+    "radius": 6
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": "cd49e3b5-389a-4230-b98c-156e1f910d66",
+      "properties": {
+        "name": "Кофемашина, автокафе",
+        "subcategory": "Быстрое питание, Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.3",
+        "site": "http://c-machine.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.346763,
+          52.265813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7ecf2156-beb1-4a8d-8150-bbe62f5554bc",
+      "properties": {
+        "name": "Bubble Mania, кафе",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.291691,
+          52.273068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0257638c-9f48-48c9-ac1a-5c984af8caea",
+      "properties": {
+        "name": "Кофемашина, автокафе",
+        "subcategory": "Быстрое питание, Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.5",
+        "site": "http://c-machine.ru, http://t.me/coffee_machine",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.262458,
+          52.253477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ca0e6de3-1dea-43b3-a4e1-2b10da0232e3",
+      "properties": {
+        "name": "The joice",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289537,
+          52.267664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "777a28ac-aff8-4f65-95c8-89803567e429",
+      "properties": {
+        "name": "Carte D`or, кафе-мороженое",
+        "subcategory": "Мороженое, Точки безалкогольных напитков",
+        "rating": "3.1",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.28953,
+          52.267731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6828c772-4d06-4625-94da-df9d591b8e52",
+      "properties": {
+        "name": "Павильон по продаже пышек и кофе",
+        "subcategory": "Кондитерские изделия, Точки безалкогольных напитков, Точки кофе",
+        "rating": "3.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.305806,
+          52.274909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6c0a497d-fa63-4370-8eb8-1a7e9a04586d",
+      "properties": {
+        "name": "Dalat, студия вьетнамского кофе",
+        "subcategory": "Продажа кофе, Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 19:00, Вт: с 08:00 до 19:00, Ср: с 08:00 до 19:00, Чт: с 08:00 до 19:00, Пт: с 08:00 до 19:00, Сб: с 10:00 до 18:00, Вс: с 10:00 до 17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.276942,
+          52.285942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bac20289-b263-4801-89c5-39edc351965d",
+      "properties": {
+        "name": "Кофемашина, автокафе",
+        "subcategory": "Быстрое питание, Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.5",
+        "site": "http://c-machine.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.293449,
+          52.296692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7be0bc28-48d3-4400-a97b-daac0b487275",
+      "properties": {
+        "name": "33 пингвина, кафе-мороженое",
+        "subcategory": "Мороженое, Точки безалкогольных напитков",
+        "rating": "3.7",
+        "site": "http://33pingvina.ru",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.302338,
+          52.279384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7fe65391-7e89-4b3d-a1a8-e6f6732514e1",
+      "properties": {
+        "name": "Кофемашина, автокафе",
+        "subcategory": "Быстрое питание, Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.6",
+        "site": "http://c-machine.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.287742,
+          52.320248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a1a73719-2a9d-4cec-992c-e18588697926",
+      "properties": {
+        "name": "Diego Coffee",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.223195,
+          52.267049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0a3aa22e-6589-47b3-a6ee-21112cfed904",
+      "properties": {
+        "name": "Wafbusters, вафельная",
+        "subcategory": "Быстрое питание, Точки безалкогольных напитков",
+        "rating": "3.9",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.304994,
+          52.275842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a3157f40-c6a2-4225-906b-13907e2a32e9",
+      "properties": {
+        "name": "The joice",
+        "subcategory": "Мороженое, Точки безалкогольных напитков",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.291065,
+          52.272961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d56d7d65-d8f8-41f7-9dc4-4cc9eb9c4373",
+      "properties": {
+        "name": "Way cup coffee, точка продажи кофе на вынос",
+        "subcategory": "Продажа кофе, Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 07:30 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.062551,
+          52.208703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "582782db-876a-4e4a-9af6-ebc94f6159ac",
+      "properties": {
+        "name": "Coffee like, кофейня",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.5",
+        "site": "http://coffee-like.com",
+        "hours": "Пн: с 07:30 до 24:00, Вт: с 07:30 до 24:00, Ср: с 07:30 до 24:00, Чт: с 07:30 до 24:00, Пт: с 07:30 до 24:00, Сб: с 07:30 до 24:00, Вс: с 09:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.346224,
+          52.250349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "93b0e3b6-ccc4-4c33-9e46-ea820933d647",
+      "properties": {
+        "name": "Автомат по продаже напитков",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.353452,
+          52.272831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c114a9b7-5b47-4234-9bc5-e14ca8aa542e",
+      "properties": {
+        "name": "Автомат по продаже газированной воды",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.221852,
+          52.266237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "38c8571a-00ab-4c21-95a3-8c26bfe35fbb",
+      "properties": {
+        "name": "Автомат по продаже газированной воды",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.222964,
+          52.266345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "edccc16a-0cd9-442e-a056-83c57336fc1d",
+      "properties": {
+        "name": "Автомат по продаже газированной воды",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.221917,
+          52.266904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ccc0b70d-ba32-4e5a-a58c-8007f744d982",
+      "properties": {
+        "name": "Icefix, точка кофе",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.222069,
+          52.265043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2b58f92c-6e29-4791-8c61-bde3c6fd7e5e",
+      "properties": {
+        "name": "Bubble Dream, киоск бабл-ти чая и мороженого",
+        "subcategory": "Мороженое, Точки безалкогольных напитков",
+        "rating": "2.7",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 19:00 (зимний период: сб, вс 11:00-19:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.873668,
+          51.846472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "82c668b9-fc10-4490-a058-1d4b9164676f",
+      "properties": {
+        "name": "Alcreme, бар мороженого",
+        "subcategory": "Мороженое, Точки безалкогольных напитков",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: с 12:00 до 20:00, Вс: с 12:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.290795,
+          52.272347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ac711ae7-ac42-448a-8a4d-e195c778a4db",
+      "properties": {
+        "name": "Coffee like, кофейня",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.5",
+        "site": "http://coffee-like.com",
+        "hours": "Пн: с 08:00 до 22:00, Вт: с 08:00 до 22:00, Ср: с 08:00 до 22:00, Чт: с 08:00 до 22:00, Пт: с 08:00 до 22:00, Сб: с 08:00 до 22:00, Вс: с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289705,
+          52.273449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "41e5e3ef-3645-4da5-a772-aceba0696221",
+      "properties": {
+        "name": "Сладкий островок",
+        "subcategory": "Мороженое, Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.221899,
+          52.26682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "350ba09e-388f-48bd-8cd4-cc27c0e88840",
+      "properties": {
+        "name": "СладкоЁжка, магазин-кафе",
+        "subcategory": "Кондитерские изделия, Точки безалкогольных напитков",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.144639,
+          52.351513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b2479e8f-b69d-477d-8a2a-27ab3286d2bb",
+      "properties": {
+        "name": "Автомат по продаже газированной воды",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.224318,
+          52.266469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0bcd7ad7-abc8-4998-904f-e55caa8d5c06",
+      "properties": {
+        "name": "Амкофе, сеть кофеен",
+        "subcategory": "Продажа кофе, Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.8",
+        "site": "http://www.amcofe.ru",
+        "hours": "Пн: с 10:00 до 22:00, Вт: с 10:00 до 22:00, Ср: с 10:00 до 22:00, Чт: с 10:00 до 22:00, Пт: с 10:00 до 22:00, Сб: с 10:00 до 20:00, Вс: с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.150031,
+          52.351288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "905babba-ef24-47b8-891c-7a534d5d877d",
+      "properties": {
+        "name": "Coffee like, кофейня",
+        "subcategory": "Продажа кофе, Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.8",
+        "site": "http://coffee-like.com",
+        "hours": "Пн: с 07:45 до 20:15, Вт: с 07:45 до 20:15, Ср: с 07:45 до 20:15, Чт: с 07:45 до 20:15, Пт: с 08:00 до 20:00, Сб: с 09:00 до 20:00, Вс: с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.314292,
+          52.264291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b97587dd-f60a-4f84-8256-84459f93702e",
+      "properties": {
+        "name": "Амкофе, сеть кофеен",
+        "subcategory": "Пекарни, Продажа кофе, Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.5",
+        "site": "http://www.amcofe.ru",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.316521,
+          52.270149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1dc4aacc-fa9c-4dd4-86e8-3db9692238ba",
+      "properties": {
+        "name": "Автомат по продаже газированной воды",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 20:00, Вт: с 09:00 до 20:00, Ср: с 09:00 до 20:00, Чт: с 09:00 до 20:00, Пт: с 09:00 до 20:00, Сб: выходной, Вс: выходной (нерабочие месяцы: июнь-август)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.227227,
+          52.351796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d056b906-dbb6-4ff1-8315-4a37001c6a4f",
+      "properties": {
+        "name": "Фудкорнер, автомат по продаже снеков",
+        "subcategory": "Снеки, Точки безалкогольных напитков",
+        "rating": "1.3",
+        "site": "http://irkcoffeecom.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.355867,
+          52.272909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4195626a-112a-48ab-aadc-584e59c6ab6c",
+      "properties": {
+        "name": "Mellman`s coffee",
+        "subcategory": "Продажа кофе, Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.206815,
+          52.264925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f088fa64-8d33-48de-be04-eca2c40ef478",
+      "properties": {
+        "name": "Автомат кислородных коктейлей",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "2.8",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.225569,
+          52.265437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0e5c0448-720b-4211-922a-a909bd6be198",
+      "properties": {
+        "name": "Павильон по продаже курицы гриль",
+        "subcategory": "Мясо птицы / Полуфабрикаты, Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.295573,
+          52.282975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "01d64d6c-c12e-4dbc-a90d-1a415794fc6b",
+      "properties": {
+        "name": "Брусника",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.873518,
+          51.846445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6abde177-6a4f-4387-8f36-8c0b08dd583d",
+      "properties": {
+        "name": "Трдельник, пекарня",
+        "subcategory": "Мороженое, Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.287979,
+          52.274901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ff4e165f-7222-4347-a69e-ae2036337060",
+      "properties": {
+        "name": "Met Teа, точка продажи чая",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "4.5",
+        "site": "http://met-tea.com",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288995,
+          52.268486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e1a8f5a9-dcaf-4ae9-a762-12276c84213f",
+      "properties": {
+        "name": "Bubble Point, точка кофе",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.226036,
+          52.265154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "608b3bff-0f41-4701-82bb-35ddcecbe5f4",
+      "properties": {
+        "name": "Bubble точка",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.226404,
+          52.265876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9cd7a43b-b6f2-4d40-8452-301fa5314e82",
+      "properties": {
+        "name": "Автомат по продаже газированной воды",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.295118,
+          52.281867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b732ae6b-9bef-49d2-b0d5-d37b1536ae0c",
+      "properties": {
+        "name": "Comfy, кофейня",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 08:00 до 20:00, Вс: с 10:00 до 20:00 (зимний период: пн-вс 8:00-21:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.285706,
+          52.277051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d61ee048-b7ba-474f-bb2d-f6ccbb2c21b5",
+      "properties": {
+        "name": "Bubble time",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.305178,
+          52.275641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "87d73b04-23ba-4179-b903-96c564c939fc",
+      "properties": {
+        "name": "Milkshake, аппарат по продаже молочных коктейлей",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "3.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.22321,
+          52.266928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "111a516d-ad60-4adb-88df-62fcd8f57e9c",
+      "properties": {
+        "name": "Кофемашина, автокафе",
+        "subcategory": "Быстрое питание, Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.4",
+        "site": "http://c-machine.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.302968,
+          52.280066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5a07c7b0-318c-462e-ad31-05aca8019e6b",
+      "properties": {
+        "name": "Cosmo bubble, павильон по продаже чая",
+        "subcategory": "Быстрое питание, Точки безалкогольных напитков",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.060728,
+          52.207252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "155bcb4e-8127-4d10-a53b-deb86b6ae61a",
+      "properties": {
+        "name": "Автомат по продаже газированной воды",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.29383,
+          52.234361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "07293354-ce41-423d-adfa-ea992da15044",
+      "properties": {
+        "name": "Bubble time",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.6",
+        "site": "http://t.me/bubble_time38",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.149686,
+          52.351146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0c9405e0-ca1e-4a85-ae8b-61922ec8f470",
+      "properties": {
+        "name": "Фудкорнер, автомат по продаже снеков",
+        "subcategory": "Снеки, Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "http://irkcoffeecom.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.355605,
+          52.273089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7a4fb0b9-a777-447a-b6a1-adb19e823277",
+      "properties": {
+        "name": "Double Bubble, кофейня",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.227098,
+          52.265382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "58d8fccd-3272-4353-9f44-5da6c63730ff",
+      "properties": {
+        "name": "Milkshake, аппарат по продаже молочных коктейлей",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.302002,
+          52.291319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37cae028-af3c-4be4-8729-1b045adef277",
+      "properties": {
+        "name": "Molly tea",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.150333,
+          52.351045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b70a8c8e-76d6-4c49-b8da-55ca33642385",
+      "properties": {
+        "name": "Pudding workshop, бар",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.341636,
+          52.265806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e0645e85-b44e-4af3-823e-fbf1e6bc817b",
+      "properties": {
+        "name": "Coffee like, кофейня",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.5",
+        "site": "http://coffee-like.com",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 10:00 до 20:00, Вс: с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.286349,
+          52.287676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7a2a256a-9b93-4156-a22b-c0cd72605926",
+      "properties": {
+        "name": "Bubble точка",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "4.9",
+        "site": "http://t.me/bubble_tochka_ang",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288249,
+          52.274681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2ec18b11-9289-43a2-ab72-9a657f810973",
+      "properties": {
+        "name": "Магазин мороженого",
+        "subcategory": "Мороженое, Точки безалкогольных напитков",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.287175,
+          52.275532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9228aa08-f2e0-458b-bb6f-95a1aa055db9",
+      "properties": {
+        "name": "Alcreme, бар мороженого",
+        "subcategory": "Мороженое, Точки безалкогольных напитков",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: с 12:00 до 20:00, Вс: с 12:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.279871,
+          52.250651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7f0a9184-d6d6-4f8d-a1fe-e1e9edb8f6da",
+      "properties": {
+        "name": "Easy Peasy",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "4.9",
+        "site": "http://t.me/epeasy_irk",
+        "hours": "Ежедневно с 10:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.346092,
+          52.250429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f697b6ed-84ee-4c29-82b2-ba30f8680a89",
+      "properties": {
+        "name": "Easy Peasy",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Пн: с 08:00 до 21:00, Вт: с 08:00 до 21:00, Ср: с 08:00 до 21:00, Чт: с 08:00 до 21:00, Пт: с 08:00 до 21:00, Сб: с 08:00 до 21:00, Вс: с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.260337,
+          52.262644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "603bc148-fde9-4e55-b79b-492f89c4699a",
+      "properties": {
+        "name": "Tottea",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "2.9",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.288171,
+          52.274936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fbd4ac49-0d36-4561-a82c-f5eaa561c9b0",
+      "properties": {
+        "name": "Booms",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.8",
+        "site": "http://t.me/boomstea",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.289437,
+          52.268525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "b540a2ca-3226-4499-ae8c-3a7259353725",
+      "properties": {
+        "name": "Booms",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.302356,
+          52.279451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9873e7fb-088c-4c50-8ce5-1574cc4cc84f",
+      "properties": {
+        "name": "Кофемашина, автокафе",
+        "subcategory": "Быстрое питание, Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.5",
+        "site": "http://c-machine.ru",
+        "hours": "Ежедневно с 08:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.362882,
+          52.464937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "2ead836e-1bc5-4f89-afc4-edab33f6d2c5",
+      "properties": {
+        "name": "Киоск по продаже мороженного",
+        "subcategory": "Мороженое, Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.317465,
+          52.278651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9785a83a-5a06-4f92-99ac-e4dfce79d418",
+      "properties": {
+        "name": "LatteLuxe, отдел китайских напитков",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "5.0",
+        "site": "http://t.me/latteluxe2025",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.304531,
+          52.275915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "4f434aef-3254-4897-a4fb-541c80385f2b",
+      "properties": {
+        "name": "Точка уличной еды",
+        "subcategory": "Быстрое питание, Мороженое, Точки безалкогольных напитков, Точки кофе",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.273429,
+          52.28174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20a2436c-8455-410c-b3c0-d00f47659526",
+      "properties": {
+        "name": "Lime, фудтрак",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 07:30 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.302385,
+          52.291658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3bf196b0-05f2-4dad-851e-a9dc05c9c5e9",
+      "properties": {
+        "name": "Оксибар, автомат кислородных коктейлей",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 20:00, Вт: с 09:00 до 20:00, Ср: с 09:00 до 20:00, Чт: с 09:00 до 20:00, Пт: с 09:00 до 20:00, Сб: с 10:00 до 19:00, Вс: с 10:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.117611,
+          52.27807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5196f931-6de6-44d3-952c-f2640fa8cb9b",
+      "properties": {
+        "name": "Booms",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:30 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.311776,
+          52.280496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0bd29b19-36e1-4ae4-9e3e-e1822fa6b94f",
+      "properties": {
+        "name": "Yogo Fresh, магазин мороженого",
+        "subcategory": "Мороженое, Точки безалкогольных напитков",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.659758,
+          51.834532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "52796a98-d005-4de6-8efd-ccaa9b6d1ce6",
+      "properties": {
+        "name": "BRandIce, магазин мороженого",
+        "subcategory": "Мороженое, Точки безалкогольных напитков",
+        "rating": "4.9",
+        "site": "http://brand-ice.ru",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.589062,
+          51.826417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dcbe1aa3-e7b6-42de-9790-d3fd117c9f89",
+      "properties": {
+        "name": "#Вточку03",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.573569,
+          51.832915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9bf8c787-e2f1-44d7-a5db-632a07d5bd42",
+      "properties": {
+        "name": "Bubble Fox",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.4",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.583714,
+          51.830759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8ee90d41-2a1d-454a-9889-e1325f4ac75f",
+      "properties": {
+        "name": "Fruit mix, фреш-бар",
+        "subcategory": "Безалкогольные напитки, Точки безалкогольных напитков",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.573039,
+          51.834852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ca86fb9f-4455-40e1-8e5a-78a77842640c",
+      "properties": {
+        "name": "#Bubble",
+        "subcategory": "Быстрое питание, Точки безалкогольных напитков",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.429377,
+          51.914726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "84c3d68f-5411-41a4-99d2-3c2feed48eff",
+      "properties": {
+        "name": "Кофе&Moloko",
+        "subcategory": "Быстрое питание, Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 21:00, Вт: с 09:00 до 21:00, Ср: с 09:00 до 21:00, Чт: с 09:00 до 21:00, Пт: с 09:00 до 21:00, Сб: с 10:00 до 21:00, Вс: с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.591364,
+          51.841649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "48edfd2f-d272-4364-96f0-492bf08ac023",
+      "properties": {
+        "name": "Devil Coffee",
+        "subcategory": "Быстрое питание, Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.577173,
+          51.778208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "261c688c-4632-46c7-a0b1-8452bad9f5a9",
+      "properties": {
+        "name": "#Вточку03",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.650617,
+          51.840166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0cfee221-4403-494f-ae4e-e3e4743a1e77",
+      "properties": {
+        "name": "Madam Marm, компания по продаже мармелада",
+        "subcategory": "Кондитерские изделия, Точки безалкогольных напитков",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.582703,
+          51.830749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bb64f347-9f7a-4980-af73-fe1b27940734",
+      "properties": {
+        "name": "Кофемашина, автокафе",
+        "subcategory": "Быстрое питание, Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.2",
+        "site": "http://c-machine.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.57421,
+          51.831924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "57cca369-d28f-4336-985a-de1617690c31",
+      "properties": {
+        "name": "#Вточку03",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.6",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 19:00, Вт: с 09:00 до 19:00, Ср: с 09:00 до 19:00, Чт: с 09:00 до 19:00, Пт: с 09:00 до 19:00, Сб: с 09:00 до 19:00, Вс: с 09:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.595711,
+          51.788853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "53d60016-055b-47c2-90a7-836af9e8235e",
+      "properties": {
+        "name": "Fruit mix, фреш-бар",
+        "subcategory": "Безалкогольные напитки, Точки безалкогольных напитков",
+        "rating": "4.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.58331,
+          51.830866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8bca69e5-cc40-4f07-acc0-2ff64582dd90",
+      "properties": {
+        "name": "Кофемашина, автокафе",
+        "subcategory": "Быстрое питание, Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.5",
+        "site": "http://c-machine.ru",
+        "hours": "Круглосуточно"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.655081,
+          51.821575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c42e9a34-b3b5-4f6a-8841-eaded0eedcbf",
+      "properties": {
+        "name": "Автомат по продаже газированной воды",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.574747,
+          51.826295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7783b512-9b49-4885-b3e4-96bb75a09c16",
+      "properties": {
+        "name": "BRandIce, магазин мороженого",
+        "subcategory": "Мороженое, Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "http://brand-ice.ru",
+        "hours": "Ежедневно с 09:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.650081,
+          51.839859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "347bec7c-025f-4fcc-a634-01a007e2302a",
+      "properties": {
+        "name": "Кофе&Moloko",
+        "subcategory": "Быстрое питание, Кондитерские изделия, Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.1",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.661316,
+          51.811457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c12ade86-0a1c-4073-8cc6-98c2d8e73ee9",
+      "properties": {
+        "name": "Fruit mix, фреш-бар",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.5",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.608239,
+          51.809278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f998f585-5b7e-4a30-a2d3-ebfef35a9086",
+      "properties": {
+        "name": "Джем, бар",
+        "subcategory": "Снеки, Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 24:00 (нерабочие месяцы: сентябрь-апрель)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.435725,
+          51.911865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3504db3a-2f42-44ca-960b-0d41e4701275",
+      "properties": {
+        "name": "Кофе&Moloko",
+        "subcategory": "Быстрое питание, Кондитерские изделия, Мороженое, Точки безалкогольных напитков, Точки кофе",
+        "rating": "3.5",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.538894,
+          51.406814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f11dde89-62fb-42dc-a34f-b717757f34b7",
+      "properties": {
+        "name": "Кофе&Moloko",
+        "subcategory": "Быстрое питание, Кондитерские изделия, Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.2",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 21:00, Вт: с 09:00 до 21:00, Ср: с 09:00 до 21:00, Чт: с 09:00 до 21:00, Пт: с 09:00 до 21:00, Сб: с 10:00 до 21:00, Вс: с 10:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.621639,
+          51.809209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e55119a0-1f51-4202-9254-9cb395c42c23",
+      "properties": {
+        "name": "Milk Shaker, автомат по продаже молочных коктейлей",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.596317,
+          51.783769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1dbecd86-f997-456e-a422-ea92d93b575a",
+      "properties": {
+        "name": "Bar to go",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "1.0",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.596317,
+          51.783769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f944f6f8-d9a3-40a9-b6dd-799763c9a599",
+      "properties": {
+        "name": "Hi Tea",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "4.8",
+        "site": "http://t.me/hitea03",
+        "hours": "Ежедневно с 11:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.586075,
+          51.826776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "56aa5662-4861-431a-b8eb-f29d21812458",
+      "properties": {
+        "name": "Киоск по продаже попкорна и сладкой ваты",
+        "subcategory": "Кондитерские изделия, Снеки, Точки безалкогольных напитков",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.584639,
+          51.827352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3837a03d-7853-4d37-aee6-19d3f7fe8239",
+      "properties": {
+        "name": "Coffee Park",
+        "subcategory": "Мороженое, Точки безалкогольных напитков, Точки кофе",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Пн: выходной, Вт: выходной, Ср: выходной, Чт: выходной, Пт: выходной, Сб: с 09:00 до 19:00, Вс: с 09:00 до 19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.428091,
+          51.914535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fbfd0960-120a-4b98-803f-5a396cb3a8d6",
+      "properties": {
+        "name": "Oriental Tea, чайная",
+        "subcategory": "Безалкогольные напитки, Кондитерские изделия, Продажа чая, Точки безалкогольных напитков",
+        "rating": "4.9",
+        "site": "http://t.me/orientalteauu",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.584417,
+          51.827064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c652a76b-a961-4ea7-adb0-dfec1d8a0ce7",
+      "properties": {
+        "name": "Bar to go",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 07:00 до 22:00, Вт: с 07:00 до 22:00, Ср: с 07:00 до 22:00, Чт: с 07:00 до 22:00, Пт: с 07:00 до 22:00, Сб: с 08:15 до 22:00, Вс: с 08:15 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.605083,
+          51.846394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "746cf6e9-730d-4a4d-a6e3-a91394b66382",
+      "properties": {
+        "name": "Bar to go",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "4.7",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.573436,
+          51.834803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e7815c9f-7a94-4a3b-ab56-a4f21cb703fe",
+      "properties": {
+        "name": "Mm tea",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.652485,
+          51.812034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "642b7f5b-e235-4760-9a59-f5f6a5eec00b",
+      "properties": {
+        "name": "Павильон по продаже мороженого и коктейлей",
+        "subcategory": "Мороженое, Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 18:00 (рабочие месяцы: июнь-август)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.427081,
+          51.920095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "9022ec90-6e82-4cfd-aa1f-ff6725ec1a4a",
+      "properties": {
+        "name": "Павильон по продаже мороженого и гонконгских вафлей",
+        "subcategory": "Мороженое, Точки безалкогольных напитков, Точки кофе",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 19:00 (рабочие месяцы: июнь-август)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.427602,
+          51.917997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "59dc8f8a-d968-44dc-a762-2a5ec34c5ad1",
+      "properties": {
+        "name": "Павильон мороженого",
+        "subcategory": "Мороженое, Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 18:00 (рабочие месяцы: июнь-август)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.427722,
+          51.917413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "43397459-ef08-47e3-b732-4d49c4ed2831",
+      "properties": {
+        "name": "Павильон мороженого",
+        "subcategory": "Мороженое, Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 18:00 (рабочие месяцы: июнь-август)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.428017,
+          51.914425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "16b221c2-939c-49fe-a734-17dea7766467",
+      "properties": {
+        "name": "Hi Tea",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.584281,
+          51.828473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "06af5db8-a0cf-495d-b981-341e77a65f54",
+      "properties": {
+        "name": "Milk Shaker, автомат по продаже молочных коктейлей",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 07:00 до 22:00, Вт: с 07:00 до 22:00, Ср: с 07:00 до 22:00, Чт: с 07:00 до 22:00, Пт: с 07:00 до 22:00, Сб: с 08:15 до 22:00, Вс: с 08:15 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.605083,
+          51.846394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "692b127e-8ca0-4657-9176-9a24f3e2cd76",
+      "properties": {
+        "name": "Киоск мороженого и коктейлей",
+        "subcategory": "Мороженое, Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 21:00 (рабочие месяцы: июнь-сентябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.426557,
+          51.715253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f1e20fcc-8f5f-44a5-b98b-b6ce8b7569a8",
+      "properties": {
+        "name": "Павильон гонконгских вафлей и мороженого",
+        "subcategory": "Мороженое, Точки безалкогольных напитков",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.426569,
+          51.715366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "26682d33-7155-4ad0-9fdb-3ec87720ca43",
+      "properties": {
+        "name": "#Вточку03",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.3",
+        "site": "nan",
+        "hours": "Пн: с 09:00 до 19:00, Вт: с 09:00 до 19:00, Ср: с 09:00 до 19:00, Чт: с 09:00 до 19:00, Пт: с 09:00 до 19:00, Сб: с 09:00 до 18:00, Вс: с 09:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.654397,
+          51.821982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6ad9eaf7-76ae-4b7b-9395-5c39e06dadf6",
+      "properties": {
+        "name": "Hi Tea",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "4.9",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.587086,
+          51.831936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "a2294ffe-b010-460e-b373-ba8a89c8a69e",
+      "properties": {
+        "name": "Дом Торговли, Кафетeрий",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Пн: с 10:00 до 19:00, Вт: с 10:00 до 19:00, Ср: с 10:00 до 19:00, Чт: с 10:00 до 19:00, Пт: с 10:00 до 19:00, Сб: с 10:00 до 19:00, Вс: с 11:00 до 18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.599718,
+          51.809471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ea4f4c6a-edea-40ea-9b31-638f5b039465",
+      "properties": {
+        "name": "C-tea",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "4.9",
+        "site": "http://t.me/c_tea03",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.583295,
+          51.835528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c7420271-1b6c-46f1-93e9-ba3630d58d1c",
+      "properties": {
+        "name": "Green Day, кафе",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "1.8",
+        "site": "nan",
+        "hours": "Ежедневно с 06:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.442073,
+          51.804387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5d383327-5a75-45ea-a442-02c8000a2b1b",
+      "properties": {
+        "name": "Chayi, чайная",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "4.8",
+        "site": "http://t.me/bubbleteachayi",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.589019,
+          51.826251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "49b6d94f-23d0-4128-9616-f3edad34ff25",
+      "properties": {
+        "name": "Bubble Fox",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "4.8",
+        "site": "http://t.me/+cETqicRSrAwyNzMy",
+        "hours": "Пн: с 08:00 до 20:00, Вт: с 08:00 до 20:00, Ср: с 08:00 до 20:00, Чт: с 08:00 до 20:00, Пт: с 08:00 до 20:00, Сб: с 10:00 до 20:00, Вс: с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.582634,
+          51.835444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c90a5d1f-4324-4095-a132-cb05a8c24e53",
+      "properties": {
+        "name": "Met Tea, чайная",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "4.9",
+        "site": "http://t.me/mettea03",
+        "hours": "Ежедневно с 10:30 до 20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.584304,
+          51.828591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f801e39e-ef1f-46a6-85b0-4d1a9568a167",
+      "properties": {
+        "name": "Chayi, чайная",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.589605,
+          51.826719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "42c8a3e8-d56d-4dd7-a331-a3d5838939e4",
+      "properties": {
+        "name": "Konfael",
+        "subcategory": "Кондитерские изделия, Точки безалкогольных напитков",
+        "rating": "4.5",
+        "site": "http://t.me/konfael03",
+        "hours": "Ежедневно с 12:00 до 21:00 (рабочие месяцы: май-сентябрь)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.607275,
+          51.843262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3011a8f2-1a0d-4f6f-8fa6-e23aa76cebf3",
+      "properties": {
+        "name": "Автомат по продаже молочных коктейлей",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.863905,
+          52.005774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "37b0b4c7-2b79-4f36-bbac-4c81fc1d94be",
+      "properties": {
+        "name": "Кристи Бабл ти",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "4.8",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 20:00 (летний период: пн-вс 11:00-21:00)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.593233,
+          51.837059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "983cde88-6025-44cc-b8ed-8a4f74b995a5",
+      "properties": {
+        "name": "Лобби-Бар",
+        "subcategory": "Бары, Точки безалкогольных напитков",
+        "rating": "2.0",
+        "site": "nan",
+        "hours": "Ежедневно с 11:00 до 24:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.125695,
+          52.551985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7a6e82cf-cb9e-4848-a93f-a0654555dff4",
+      "properties": {
+        "name": "Бабл бар",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.541828,
+          51.407275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "926ed782-b8e9-4fc5-8e0e-30ad40486477",
+      "properties": {
+        "name": "Fruit mix, фреш-бар",
+        "subcategory": "Точки безалкогольных напитков, Точки кофе",
+        "rating": "5.0",
+        "site": "nan",
+        "hours": "Ежедневно с 10:00 до 22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.661234,
+          51.811582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0fe25e94-a5b7-48da-aaa6-cdc3a2332124",
+      "properties": {
+        "name": "Milk Shaker",
+        "subcategory": "Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 08:00 до 23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.584237,
+          51.82948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "afab3831-72e1-4343-8252-82b73edd0a0d",
+      "properties": {
+        "name": "Russian Protein, автомат по продаже протеиновых напитков",
+        "subcategory": "Спортивное питание, Точки безалкогольных напитков",
+        "rating": "nan",
+        "site": "nan",
+        "hours": "Ежедневно с 09:00 до 21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.574747,
+          51.826295
+        ]
+      }
+    }
+  ]
+}
