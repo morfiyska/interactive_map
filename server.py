@@ -29,7 +29,7 @@ def build_tree(path):
 
     return tree
 
-
+#получения древа файлов
 @app.route('/tree')
 def get_tree():
     return jsonify(build_tree(DATA_FOLDER))
