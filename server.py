@@ -195,3 +195,4 @@ def add_point():
     return {"status": "ok"}
 if __name__ == '__main__':
     app.run(debug=True)
+#пайп работает, юху!
