@@ -2,8 +2,9 @@
   "type": "FeatureCollection",
   "name": "Кофейни",
   "style": {
-    "color": "blue",
-    "radius": 6
+    "color": "#703c00",
+    "radius": 6,
+    "icon": null
   },
   "features": [
     {

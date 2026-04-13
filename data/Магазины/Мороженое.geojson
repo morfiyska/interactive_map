@@ -2,8 +2,9 @@
   "type": "FeatureCollection",
   "name": "Мороженое",
   "style": {
-    "color": "blue",
-    "radius": 6
+    "color": "#47c2ff",
+    "radius": 11,
+    "icon": "ice-cream-svgrepo-com.svg"
   },
   "features": [
     {

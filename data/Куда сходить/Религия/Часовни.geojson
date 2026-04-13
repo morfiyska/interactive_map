@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "name": "Часовни",
   "style": {
-    "color": "#0a9c07",
+    "color": "#2a9bb2",
     "radius": 11,
     "icon": "church-svgrepo-com.svg"
   },

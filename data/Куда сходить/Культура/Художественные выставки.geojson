@@ -3,7 +3,7 @@
   "name": "Художественные выставки",
   "style": {
     "color": "#050585",
-    "radius": 11,
+    "radius": 14,
     "icon": "picture-svgrepo-com.svg"
   },
   "features": [

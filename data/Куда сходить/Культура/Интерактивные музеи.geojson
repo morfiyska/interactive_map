@@ -2,8 +2,8 @@
   "type": "FeatureCollection",
   "name": "Интерактивные музеи",
   "style": {
-    "color": "#fe5d85",
-    "radius": 15,
+    "color": "#ff4d79",
+    "radius": 14,
     "icon": "museum-svgrepo-com.svg"
   },
   "features": [

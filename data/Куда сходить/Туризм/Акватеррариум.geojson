@@ -2,9 +2,9 @@
   "type": "FeatureCollection",
   "name": "Акватеррариум",
   "style": {
-    "color": "#2cce47",
-    "radius": 20,
-    "icon": "seaweed-svgrepo-com.svg"
+    "color": "#43d9db",
+    "radius": 14,
+    "icon": "wakame-and-kelp-svgrepo-com.svg"
   },
   "features": [
     {

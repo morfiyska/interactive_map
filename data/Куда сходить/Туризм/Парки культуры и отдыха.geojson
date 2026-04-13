@@ -2,9 +2,9 @@
   "type": "FeatureCollection",
   "name": "Парки культуры и отдыха",
   "style": {
-    "color": "#06cbb4",
-    "radius": 12,
-    "icon": "tree-branch-3-svgrepo-com.svg"
+    "color": "#06b186",
+    "radius": 14,
+    "icon": "park-picnic-svgrepo-com.svg"
   },
   "features": [
     {

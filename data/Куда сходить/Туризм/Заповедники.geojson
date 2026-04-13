@@ -3,8 +3,8 @@
   "name": "Заповедники",
   "style": {
     "color": "#43ae0a",
-    "radius": 20,
-    "icon": "tree-branch-3-svgrepo-com.svg"
+    "radius": 14,
+    "icon": "forest-nature-woods-park-svgrepo-com.svg"
   },
   "features": [
     {

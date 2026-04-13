@@ -2,9 +2,9 @@
   "type": "FeatureCollection",
   "name": "Алкогольные напитки",
   "style": {
-    "color": "#0000ff",
-    "radius": 9,
-    "icon": null
+    "color": "#fe1667",
+    "radius": 11,
+    "icon": "beer-bottle-alcohol-svgrepo-com.svg"
   },
   "features": [
     {

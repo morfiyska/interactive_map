@@ -2,8 +2,8 @@
   "type": "FeatureCollection",
   "name": "Рыболовные центры",
   "style": {
-    "color": "#ff0033",
-    "radius": 12,
+    "color": "#0084ff",
+    "radius": 14,
     "icon": "fish-svgrepo-com.svg"
   },
   "features": [

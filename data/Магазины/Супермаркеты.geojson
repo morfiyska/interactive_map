@@ -2,8 +2,9 @@
   "type": "FeatureCollection",
   "name": "Супермаркеты",
   "style": {
-    "color": "blue",
-    "radius": 6
+    "color": "#6d66c7",
+    "radius": 14,
+    "icon": "shop-cart-svgrepo-com.svg"
   },
   "features": [
     {

@@ -2,8 +2,9 @@
   "type": "FeatureCollection",
   "name": "Аттракционы",
   "style": {
-    "color": "blue",
-    "radius": 6
+    "color": "#aa99f0",
+    "radius": 7,
+    "icon": null
   },
   "features": [
     {

@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "name": "Приходы",
   "style": {
-    "color": "#0a9c07",
+    "color": "#7ab979",
     "radius": 11,
     "icon": "church-svgrepo-com.svg"
   },

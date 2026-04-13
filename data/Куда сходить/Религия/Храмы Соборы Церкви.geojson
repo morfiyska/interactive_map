@@ -2,8 +2,8 @@
   "type": "FeatureCollection",
   "name": "Храмы Соборы Церкви",
   "style": {
-    "color": "#0a9c07",
-    "radius": 13,
+    "color": "#e4cb25",
+    "radius": 14,
     "icon": "church-svgrepo-com.svg"
   },
   "features": [

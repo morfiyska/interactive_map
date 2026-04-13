@@ -2,8 +2,8 @@
   "type": "FeatureCollection",
   "name": "Монастыри",
   "style": {
-    "color": "#0a9c07",
-    "radius": 10,
+    "color": "#5fb997",
+    "radius": 11,
     "icon": "church-svgrepo-com.svg"
   },
   "features": [

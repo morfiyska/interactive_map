@@ -3,7 +3,7 @@
   "name": "Мечети",
   "style": {
     "color": "#153737",
-    "radius": 13,
+    "radius": 12,
     "icon": "religion-islamic-svgrepo-com.svg"
   },
   "features": [

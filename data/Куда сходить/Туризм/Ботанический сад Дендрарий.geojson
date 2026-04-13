@@ -2,8 +2,9 @@
   "type": "FeatureCollection",
   "name": "Ботанический сад Дендрарий",
   "style": {
-    "color": "blue",
-    "radius": 6
+    "color": "#659358",
+    "radius": 14,
+    "icon": "tree-branch-4-svgrepo-com.svg"
   },
   "features": [
     {

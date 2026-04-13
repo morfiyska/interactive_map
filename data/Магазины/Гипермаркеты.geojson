@@ -2,8 +2,9 @@
   "type": "FeatureCollection",
   "name": "Гипермаркеты",
   "style": {
-    "color": "blue",
-    "radius": 6
+    "color": "#ca23cd",
+    "radius": 14,
+    "icon": "shop-cart-svgrepo-com.svg"
   },
   "features": [
     {

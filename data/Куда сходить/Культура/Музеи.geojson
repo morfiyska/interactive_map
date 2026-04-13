@@ -2,8 +2,8 @@
   "type": "FeatureCollection",
   "name": "Музеи",
   "style": {
-    "color": "#fe5d85",
-    "radius": 6,
+    "color": "#ca778c",
+    "radius": 9,
     "icon": "museum-svgrepo-com.svg"
   },
   "features": [
